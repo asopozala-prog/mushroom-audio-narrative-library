@@ -1,0 +1,86 @@
+[
+  {
+    "output_name": "track_01_sleepy_saturday",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_01_sleepy_saturday/a49b15e2-2278-2b3a-4e48-d737a2d14b8e.flac",
+      "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_01_sleepy_saturday/313f9902-dd2f-9721-3c96-61bd2bd45c73.flac",
+      "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_01_sleepy_saturday/65190407-30e9-8ab2-bc0b-f8e2136c22c3.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_02_unexpected_visitor",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_02_unexpected_visitor/d0cebe7d-ec2f-3932-82f8-8e3a34b183a6.flac",
+      "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_02_unexpected_visitor/315e9f45-9ee8-3ad9-88de-952b78d3cbaf.flac",
+      "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_02_unexpected_visitor/46186c7c-f132-1208-d162-5b704f41cd94.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_03_little_dog_big_excitement",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_03_little_dog_big_excitement/e56adf2f-6837-0109-b2ea-06ebf4154f08.flac",
+      "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_03_little_dog_big_excitement/5d8ef258-afe8-d314-81df-5fa6a996229a.flac",
+      "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_03_little_dog_big_excitement/6d88682c-740c-555d-fa81-317a56adb6d5.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_04_tiny_mushroom_in_trouble",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_04_tiny_mushroom_in_trouble/8a941bc8-fe27-7f9e-dbc2-48f923a6bc5c.flac",
+      "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_04_tiny_mushroom_in_trouble/9bfd412d-40bf-e744-226f-47f6946de9c2.flac",
+      "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_04_tiny_mushroom_in_trouble/28e66823-1739-5e08-6efa-9af5dbd21761.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_05_one_little_bite",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_05_one_little_bite/859daa71-1f1f-8bd6-a031-558588dc3dfb.flac",
+      "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_05_one_little_bite/2016f068-350f-e189-7762-8d23ef061a9e.flac",
+      "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_05_one_little_bite/b54358c1-d5f1-12c4-9d33-cf6f8c3411ec.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_06_dog_is_very_sorry",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_06_dog_is_very_sorry/e8cebbb5-074c-14bf-d1aa-f81cd9bf3082.flac",
+      "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_06_dog_is_very_sorry/8d31b921-940a-1e8e-ae01-a15f02945194.flac",
+      "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_06_dog_is_very_sorry/c480f743-547b-5c82-7df7-d7ffec055292.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_07_sunday_cuddle",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_07_sunday_cuddle/215efcdb-d347-1f0b-5c3e-fd22a4e0ce62.flac",
+      "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_07_sunday_cuddle/25b38222-87e3-484e-d6d6-f7591814badc.flac",
+      "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_07_sunday_cuddle/6a085f24-2d53-fd00-94a8-ebd944003461.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  }
+]

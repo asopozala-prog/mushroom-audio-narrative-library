@@ -1,0 +1,146 @@
+[
+  {
+    "output_name": "track_01_the_hidden_cemetery",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_01_the_hidden_cemetery/a5ea96ae-34b9-98ee-fac6-36f47d318a42.flac",
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_01_the_hidden_cemetery/2dde2636-1465-1e81-2f76-d05835054df1.flac",
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_01_the_hidden_cemetery/eeb86cd3-2829-3838-b202-d9139edd6019.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_02_beneath_enormous_trees",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_02_beneath_enormous_trees/8a37f25c-21c6-6191-282f-ec0beadabfd8.flac",
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_02_beneath_enormous_trees/b6e9370b-70fa-e3c6-0d25-552304a25767.flac",
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_02_beneath_enormous_trees/4c98f7bb-eff3-57b5-9fbf-11af9461c162.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_03_rust_copper_and_gold",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_03_rust_copper_and_gold/8c550fcd-d1c7-d2bb-c284-a943aa71d315.flac",
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_03_rust_copper_and_gold/7170fc22-2aeb-8aeb-814d-d3521974a946.flac",
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_03_rust_copper_and_gold/7c605bba-d646-14f9-de1e-bc254c80e60f.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_04_a_fox_in_the_shadows",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_04_a_fox_in_the_shadows/fbc61b27-cd69-5092-91c9-0b52c7705f77.flac",
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_04_a_fox_in_the_shadows/f1dbd96e-5047-097a-abf7-7d823e35cc43.flac",
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_04_a_fox_in_the_shadows/8157093a-b990-c33c-0b3d-b04939d4f84d.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_05_paws_among_fallen_leaves",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_05_paws_among_fallen_leaves/0e1404d5-3e19-2ce6-cf1b-484503521d85.flac",
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_05_paws_among_fallen_leaves/da4e43a3-e997-bb6b-c30f-5d9e4e74b956.flac",
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_05_paws_among_fallen_leaves/f6eb8b37-0088-8740-a3de-49f5d33d1d6b.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_06_the_old_wooden_cross",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_06_the_old_wooden_cross/2ef16dd4-7ed0-ad0c-c92a-f45fbf47fec3.flac",
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_06_the_old_wooden_cross/5d378ac6-655c-80fe-da76-d6067956c5bb.flac",
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_06_the_old_wooden_cross/28d2aeb7-3e1c-a24c-cbc9-fe5da1dab160.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_07_one_graceful_jump",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_07_one_graceful_jump/98756c12-589f-0f5d-e78d-a014a52ca0a2.flac",
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_07_one_graceful_jump/08eaa122-f419-50ea-f891-d4d5f1a23956.flac",
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_07_one_graceful_jump/be6df207-d295-98b1-4bba-b7e11de21616.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_08_the_stranger_stops",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_08_the_stranger_stops/348e614f-de7a-3608-69f7-0d1eb3481f60.flac",
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_08_the_stranger_stops/6647ee1e-955d-608d-b5e0-2695170932f1.flac",
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_08_the_stranger_stops/25439735-6032-f9c3-a028-0c8f6ae0e321.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_09_neither_runs_away",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_09_neither_runs_away/36c019dc-db0c-2df9-7670-70a9154ccf03.flac",
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_09_neither_runs_away/54b2d2b9-ff7d-9edf-7c0a-8d30ff4685c1.flac",
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_09_neither_runs_away/bafe0f89-845b-a0bb-a2bf-c44fad7dc240.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_10_the_breeze_in_her_tail",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_10_the_breeze_in_her_tail/bf6370d7-64d2-cd49-aa67-68c3a47901e6.flac",
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_10_the_breeze_in_her_tail/f6b32542-b921-631b-09cd-082bac12e59e.flac",
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_10_the_breeze_in_her_tail/ec7e45ca-1dd7-4331-5638-bb323181873c.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_11_golden_light_on_old_stones",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_11_golden_light_on_old_stones/b01df163-f1ca-783e-96f2-4fc838440d30.flac",
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_11_golden_light_on_old_stones/a2314555-c859-ea5e-7a02-069fec2f24d2.flac",
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_11_golden_light_on_old_stones/e959470c-6807-464e-ca27-f42a7d8caedd.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_12_the_hour_between_gold_and_shadow",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_12_the_hour_between_gold_and_shadow/7c4d34a7-9ff4-6a4f-bc36-a80d90b5075c.flac",
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_12_the_hour_between_gold_and_shadow/8dad3c86-4b8c-e6a8-3cef-9d03563e21f8.flac",
+      "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_12_the_hour_between_gold_and_shadow/cb39d02b-2629-1380-a0d9-242cbc51fe34.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  }
+]

@@ -1,0 +1,386 @@
+{
+  "schema_version": 1,
+  "batch_id": "studio_batch_993b5d5ff3d944db",
+  "archive_label": "20261102_114059_mushroom_weekend_excited_dog",
+  "batch_theme": "mushroom_weekend_excited_dog",
+  "generation_started_at": 1793616059.785743,
+  "model": {
+    "family": "ACE-Step",
+    "checkpoint_name": "acestep-v15-turbo",
+    "checkpoint_revision": null,
+    "route": "turbo"
+  },
+  "generation": {
+    "prompts": [
+      {
+        "output_name": "track_01_sleepy_saturday",
+        "prompt": "Mellow instrumental jazz trio, 65 BPM, warm piano, upright bass and soft brushed drums. Lazy swing groove, simple descending melody, gentle major harmonies, relaxed weekend atmosphere, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_02_unexpected_visitor",
+        "prompt": "Playful instrumental swing jazz, 108 BPM, bright piano, walking upright bass and crisp brushed drums. Bouncy syncopated rhythm, short ascending piano phrases, cheerful harmonic changes, lively dynamics, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_03_little_dog_big_excitement",
+        "prompt": "Energetic instrumental jazz, 132 BPM, lively piano, walking bass and swinging drums. Quick repeating melodic motifs, playful syncopation, bright major harmonies, spirited rhythmic accents, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_04_tiny_mushroom_in_trouble",
+        "prompt": "Comical instrumental swing jazz, 115 BPM, expressive piano, upright bass and light snare drums. Staccato melodic phrases, sudden rhythmic accents, playful chromatic movement, mischievous energetic atmosphere, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_05_one_little_bite",
+        "prompt": "Playful instrumental jazz, 96 BPM, warm piano, plucked upright bass and brushed drums. Short syncopated piano motifs, gentle rhythmic stops, bluesy harmonic turns, humorous tension and release, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_06_dog_is_very_sorry",
+        "prompt": "Tender instrumental jazz ballad, 68 BPM, mellow piano, soft upright bass and delicate brushed drums. Slow steady pulse, descending melodic phrases, warm minor-to-major harmonies, gentle expressive development, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_07_sunday_cuddle",
+        "prompt": "Cozy instrumental lounge jazz, 72 BPM, intimate piano, warm upright bass and soft brushed drums. Relaxed slow swing, affectionate repeating melody, mellow major seventh chords, smooth harmonic resolution, peaceful dynamics, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      }
+    ],
+    "requested_audio_format": "flac"
+  },
+  "kaggle_manifest": [
+    {
+      "output_name": "track_01_sleepy_saturday",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_01_sleepy_saturday/a49b15e2-2278-2b3a-4e48-d737a2d14b8e.flac",
+        "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_01_sleepy_saturday/313f9902-dd2f-9721-3c96-61bd2bd45c73.flac",
+        "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_01_sleepy_saturday/65190407-30e9-8ab2-bc0b-f8e2136c22c3.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_02_unexpected_visitor",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_02_unexpected_visitor/d0cebe7d-ec2f-3932-82f8-8e3a34b183a6.flac",
+        "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_02_unexpected_visitor/315e9f45-9ee8-3ad9-88de-952b78d3cbaf.flac",
+        "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_02_unexpected_visitor/46186c7c-f132-1208-d162-5b704f41cd94.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_03_little_dog_big_excitement",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_03_little_dog_big_excitement/e56adf2f-6837-0109-b2ea-06ebf4154f08.flac",
+        "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_03_little_dog_big_excitement/5d8ef258-afe8-d314-81df-5fa6a996229a.flac",
+        "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_03_little_dog_big_excitement/6d88682c-740c-555d-fa81-317a56adb6d5.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_04_tiny_mushroom_in_trouble",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_04_tiny_mushroom_in_trouble/8a941bc8-fe27-7f9e-dbc2-48f923a6bc5c.flac",
+        "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_04_tiny_mushroom_in_trouble/9bfd412d-40bf-e744-226f-47f6946de9c2.flac",
+        "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_04_tiny_mushroom_in_trouble/28e66823-1739-5e08-6efa-9af5dbd21761.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_05_one_little_bite",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_05_one_little_bite/859daa71-1f1f-8bd6-a031-558588dc3dfb.flac",
+        "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_05_one_little_bite/2016f068-350f-e189-7762-8d23ef061a9e.flac",
+        "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_05_one_little_bite/b54358c1-d5f1-12c4-9d33-cf6f8c3411ec.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_06_dog_is_very_sorry",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_06_dog_is_very_sorry/e8cebbb5-074c-14bf-d1aa-f81cd9bf3082.flac",
+        "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_06_dog_is_very_sorry/8d31b921-940a-1e8e-ae01-a15f02945194.flac",
+        "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_06_dog_is_very_sorry/c480f743-547b-5c82-7df7-d7ffec055292.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_07_sunday_cuddle",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_07_sunday_cuddle/215efcdb-d347-1f0b-5c3e-fd22a4e0ce62.flac",
+        "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_07_sunday_cuddle/25b38222-87e3-484e-d6d6-f7591814badc.flac",
+        "/kaggle/working/music_output/studio_batch_993b5d5ff3d944db/track_07_sunday_cuddle/6a085f24-2d53-fd00-94a8-ebd944003461.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    }
+  ],
+  "outputs": [
+    {
+      "composition": "track_01_sleepy_saturday",
+      "variation": 1,
+      "filename": "track_01_sleepy_saturday_01.flac",
+      "relative_path": "track_01_sleepy_saturday/track_01_sleepy_saturday_01.flac",
+      "size_bytes": 5065520,
+      "sha256": "3e3ee8e413ab86b0b381bdc61a9d67fa124972f19965c53c33446f90f8c9eac8",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_01_sleepy_saturday",
+      "variation": 2,
+      "filename": "track_01_sleepy_saturday_02.flac",
+      "relative_path": "track_01_sleepy_saturday/track_01_sleepy_saturday_02.flac",
+      "size_bytes": 4482742,
+      "sha256": "c97c3201465e75c4d7d87c6c210c6275be71deb451135680c4b1d4b14bce0db2",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_01_sleepy_saturday",
+      "variation": 3,
+      "filename": "track_01_sleepy_saturday_03.flac",
+      "relative_path": "track_01_sleepy_saturday/track_01_sleepy_saturday_03.flac",
+      "size_bytes": 4177502,
+      "sha256": "d4db48900f0c7160aa3a1853186ea3155bafb2bae1a1f667ebab70c73434c7cb",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_unexpected_visitor",
+      "variation": 1,
+      "filename": "track_02_unexpected_visitor_01.flac",
+      "relative_path": "track_02_unexpected_visitor/track_02_unexpected_visitor_01.flac",
+      "size_bytes": 5283545,
+      "sha256": "22487295f52c5b75c0bf46032a981e249b46888be70080a76f3c2ed97176e3c4",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_unexpected_visitor",
+      "variation": 2,
+      "filename": "track_02_unexpected_visitor_02.flac",
+      "relative_path": "track_02_unexpected_visitor/track_02_unexpected_visitor_02.flac",
+      "size_bytes": 5121007,
+      "sha256": "2b5c820dc4e50e98c650c55bb274734016422301afb88aa96e8dd4d598e65792",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_unexpected_visitor",
+      "variation": 3,
+      "filename": "track_02_unexpected_visitor_03.flac",
+      "relative_path": "track_02_unexpected_visitor/track_02_unexpected_visitor_03.flac",
+      "size_bytes": 5632415,
+      "sha256": "cf0d753b08bf87e6056fd7a44dd27a35c3ef60c38afb3f681e534108d560aa36",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_little_dog_big_excitement",
+      "variation": 1,
+      "filename": "track_03_little_dog_big_excitement_01.flac",
+      "relative_path": "track_03_little_dog_big_excitement/track_03_little_dog_big_excitement_01.flac",
+      "size_bytes": 5475672,
+      "sha256": "9ac118ed44710d27bcb314e97786cd3d7cb49aa0ab8ea55fb58503b832f21c2b",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_little_dog_big_excitement",
+      "variation": 2,
+      "filename": "track_03_little_dog_big_excitement_02.flac",
+      "relative_path": "track_03_little_dog_big_excitement/track_03_little_dog_big_excitement_02.flac",
+      "size_bytes": 5333412,
+      "sha256": "8da9cf99ad8c37e240460f23c1c0518bdef1303c5a4f405d5dbec34ecbc5aa92",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_little_dog_big_excitement",
+      "variation": 3,
+      "filename": "track_03_little_dog_big_excitement_03.flac",
+      "relative_path": "track_03_little_dog_big_excitement/track_03_little_dog_big_excitement_03.flac",
+      "size_bytes": 5251889,
+      "sha256": "e0c9c52e180087b85bd18da327368c1f6fd91ee31b50f37ea33b46e7f2e4d9e2",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_tiny_mushroom_in_trouble",
+      "variation": 1,
+      "filename": "track_04_tiny_mushroom_in_trouble_01.flac",
+      "relative_path": "track_04_tiny_mushroom_in_trouble/track_04_tiny_mushroom_in_trouble_01.flac",
+      "size_bytes": 5251070,
+      "sha256": "b3bcc62ae3100b913320c7c119312786fffb04b2e6ccae2c94b4792f56694450",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_tiny_mushroom_in_trouble",
+      "variation": 2,
+      "filename": "track_04_tiny_mushroom_in_trouble_02.flac",
+      "relative_path": "track_04_tiny_mushroom_in_trouble/track_04_tiny_mushroom_in_trouble_02.flac",
+      "size_bytes": 5151619,
+      "sha256": "7d51e548c06bb2aeff7b4ea8a61cfe27a7efaabc88b006025cde10f0f51b452c",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_tiny_mushroom_in_trouble",
+      "variation": 3,
+      "filename": "track_04_tiny_mushroom_in_trouble_03.flac",
+      "relative_path": "track_04_tiny_mushroom_in_trouble/track_04_tiny_mushroom_in_trouble_03.flac",
+      "size_bytes": 5115228,
+      "sha256": "1bfa1df24ebb61dacc5c680d1c2e352500788844cbc453c3ddb6ff0cf92e3629",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_one_little_bite",
+      "variation": 1,
+      "filename": "track_05_one_little_bite_01.flac",
+      "relative_path": "track_05_one_little_bite/track_05_one_little_bite_01.flac",
+      "size_bytes": 4685265,
+      "sha256": "c95dbe78ae0cb3c488ed36a1c44271486c793d8d3717b0bd802f9a6dc7767062",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_one_little_bite",
+      "variation": 2,
+      "filename": "track_05_one_little_bite_02.flac",
+      "relative_path": "track_05_one_little_bite/track_05_one_little_bite_02.flac",
+      "size_bytes": 4889003,
+      "sha256": "fbac21e12d1e778b172591190b6f640f35793fdef4bb2dcf81c6f1088c6006ca",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_one_little_bite",
+      "variation": 3,
+      "filename": "track_05_one_little_bite_03.flac",
+      "relative_path": "track_05_one_little_bite/track_05_one_little_bite_03.flac",
+      "size_bytes": 5134245,
+      "sha256": "daaf87dc1cd1c669192d76b483c861798c344159c022c147cb3afd6a5fc6d39c",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_dog_is_very_sorry",
+      "variation": 1,
+      "filename": "track_06_dog_is_very_sorry_01.flac",
+      "relative_path": "track_06_dog_is_very_sorry/track_06_dog_is_very_sorry_01.flac",
+      "size_bytes": 4339327,
+      "sha256": "6e8276a46ae71a6b4384e0e727a7866b3a4585dfc65d7e6421506b0b69a1e11b",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_dog_is_very_sorry",
+      "variation": 2,
+      "filename": "track_06_dog_is_very_sorry_02.flac",
+      "relative_path": "track_06_dog_is_very_sorry/track_06_dog_is_very_sorry_02.flac",
+      "size_bytes": 4420216,
+      "sha256": "36fe02b5c7bff1418c4727f4bec4dfff5ccd6b3e9123f830b806c37802bfed54",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_dog_is_very_sorry",
+      "variation": 3,
+      "filename": "track_06_dog_is_very_sorry_03.flac",
+      "relative_path": "track_06_dog_is_very_sorry/track_06_dog_is_very_sorry_03.flac",
+      "size_bytes": 4220542,
+      "sha256": "094fad26aa277dc617478edeae2ce135f504bf79d1c1dfb8e6df9ad224a10a7b",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_sunday_cuddle",
+      "variation": 1,
+      "filename": "track_07_sunday_cuddle_01.flac",
+      "relative_path": "track_07_sunday_cuddle/track_07_sunday_cuddle_01.flac",
+      "size_bytes": 4235125,
+      "sha256": "bb7c195be9f694904b7bb587bcf8e96fad21ade9b8ff4ff57c9d337144c79ccf",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_sunday_cuddle",
+      "variation": 2,
+      "filename": "track_07_sunday_cuddle_02.flac",
+      "relative_path": "track_07_sunday_cuddle/track_07_sunday_cuddle_02.flac",
+      "size_bytes": 4584659,
+      "sha256": "8f4333821de0cb5f0543fd067fad8485ec888b6915360876c757c4720c24b8a0",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_sunday_cuddle",
+      "variation": 3,
+      "filename": "track_07_sunday_cuddle_03.flac",
+      "relative_path": "track_07_sunday_cuddle/track_07_sunday_cuddle_03.flac",
+      "size_bytes": 4435460,
+      "sha256": "582772f2c5ebaeb87706846fd3658a8a2ebb77c971758945414581b7018cfd72",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    }
+  ],
+  "completed_compositions": 7,
+  "partial_compositions": 0,
+  "failed_compositions": 0,
+  "requested_variations": 21,
+  "generated_variations": 21,
+  "missing_variations": 0,
+  "archive_completed_at_utc": "2026-11-02T10:48:34.556763+00:00"
+}

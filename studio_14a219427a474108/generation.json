@@ -1,0 +1,11 @@
+{
+  "route": "sft_lm",
+  "prompt": "Intimate vocal jazz duet with a warm, mellow female voice and expressive acoustic jazz piano. Lazy swing at 78 BPM, soft syncopation, playful phrasing, gentle piano improvisation. Cozy, sleepy afternoon mood, natural acoustic sound, no drums or other instruments. \nlyric: I woke up late, the sun was slow, my coffee whispered, “Take your time.”\n\nThe world can wait another hour, while I sip this afternoon of mine.",
+  "duration_seconds": 90,
+  "output_name": "studio_14a219427a474108",
+  "source_format": "flac",
+  "listening_format": "mp3",
+  "mp3_bitrate": "320k",
+  "kernel_id": "asopozala/mushroom-house-ace-step-music-studio",
+  "requested_accelerator": "NvidiaTeslaT4"
+}

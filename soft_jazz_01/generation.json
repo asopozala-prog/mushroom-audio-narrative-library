@@ -1,0 +1,11 @@
+{
+  "route": "turbo",
+  "prompt": "Intimate, mellow instrumental jazz. Warm piano chords, gentle upright bass, soft brushed drums, and delicate jazz guitar. Relaxed, unhurried rhythm, subtle improvisation, cozy late-night atmosphere. Natural acoustic sound, no vocals.",
+  "duration_seconds": 30,
+  "output_name": "soft_jazz_01",
+  "source_format": "flac",
+  "listening_format": "mp3",
+  "mp3_bitrate": "320k",
+  "kernel_id": "asopozala/mushroom-house-ace-step-music-studio",
+  "requested_accelerator": "NvidiaTeslaT4"
+}

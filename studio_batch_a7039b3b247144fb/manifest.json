@@ -1,0 +1,65 @@
+[
+  {
+    "output_name": "track_01_golden_mist",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_01_golden_mist/229a0112-713a-18e6-b14e-148dd8daef79.flac",
+      "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_01_golden_mist/c12b243f-0ed7-9572-f1fc-a0b3e9bdd75a.flac",
+      "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_01_golden_mist/c0657211-43e3-6739-a2dd-aae17393014f.flac"
+    ]
+  },
+  {
+    "output_name": "track_02_coffee_and_croissant",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_02_coffee_and_croissant/5b7520c3-6b20-4596-3a03-0d9cbc11f33e.flac",
+      "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_02_coffee_and_croissant/9f1969e0-cc44-0618-b041-23e80fcf8817.flac",
+      "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_02_coffee_and_croissant/bb55edb9-e997-ac5f-1a4c-089ae20ac43e.flac"
+    ]
+  },
+  {
+    "output_name": "track_03_sleepy_kitchen",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_03_sleepy_kitchen/6578d542-4e76-73c4-fea8-6534484f42f9.flac",
+      "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_03_sleepy_kitchen/ab0ae41b-d126-ddbb-f22f-a45d5bbe8924.flac",
+      "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_03_sleepy_kitchen/7a373ebf-20ec-84f0-257b-ee20adeef9d2.flac"
+    ]
+  },
+  {
+    "output_name": "track_04_little_kettle",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_04_little_kettle/0a5f9fa0-c5a5-d911-f5bd-2b5362632473.flac",
+      "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_04_little_kettle/f7faa00e-2f47-e545-f737-ad0d8866e899.flac",
+      "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_04_little_kettle/b3c5d91e-434d-c85c-e3b0-82e2242b9be3.flac"
+    ]
+  },
+  {
+    "output_name": "track_05_rising_steam",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_05_rising_steam/601fd525-9ce9-5010-636a-db4fc11a4cc4.flac",
+      "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_05_rising_steam/bb416fa4-8a03-0093-f14f-2370ce84e28c.flac",
+      "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_05_rising_steam/10ab9d6e-0e00-923b-b868-9ffe734a3765.flac"
+    ]
+  },
+  {
+    "output_name": "track_06_silk_and_skin",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_06_silk_and_skin/0b68bd30-2198-d9b0-e005-3d07bf896043.flac",
+      "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_06_silk_and_skin/c4230a4a-015e-2ad4-65bb-2677beb3e244.flac",
+      "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_06_silk_and_skin/9d6699d6-6bc2-5630-5aed-b28cb206368c.flac"
+    ]
+  },
+  {
+    "output_name": "track_07_morning_after",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_07_morning_after/3d42e1e5-0b1e-59ce-a452-522c381e0da8.flac",
+      "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_07_morning_after/7fa29506-80b2-acf0-cd4e-12b9129790ae.flac",
+      "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_07_morning_after/36c2613c-4ce8-65c5-7d62-51b7952424cb.flac"
+    ]
+  }
+]

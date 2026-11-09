@@ -1,0 +1,111 @@
+{
+  "route": "turbo",
+  "batch_name": "studio_batch_72fc1602727d4455",
+  "batch_theme": "hormus_and_maja_the_wisdom_and_the_bee",
+  "generation_started_at": 1794047753.8934982,
+  "archive_label": "20261107_113553_hormus_and_maja_the_wisdom_and_the_bee",
+  "prompts": [
+    {
+      "output_name": "track_01_the_ancient_horse_spirit",
+      "prompt": "Majestic instrumental romantic orchestral music, 76 BPM, deep expressive cellos, warm French horns and lyrical violins. Broad flowing melody, rich minor-to-major harmonies, noble rhythmic movement, powerful restrained dynamics, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_02_a_million_years_of_memories",
+      "prompt": "Atmospheric instrumental neoclassical music, 62 BPM, expressive solo cello and warm sustained strings. Slow evolving melody, deep resonant harmonies, gentle repeating pulse, gradual orchestral swells, mysterious ancient atmosphere, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_03_too_many_ideas_at_once",
+      "prompt": "Playful instrumental bebop jazz, 132 BPM, lively alto saxophone, walking upright bass and crisp swinging drums. Rapid melodic phrases, unexpected syncopated accents, chromatic runs, energetic improvisational character, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_04_hormus_forgets_the_plan",
+      "prompt": "Whimsical instrumental chamber jazz, 96 BPM, expressive clarinet, plucked upright bass and light piano. Bouncing rhythmic groove, playful ascending motifs, sudden melodic turns, warm bluesy harmonies, mischievous atmosphere, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_05_the_wisdom_of_a_clumsy_spirit",
+      "prompt": "Warm instrumental cool jazz, 78 BPM, mellow tenor saxophone, upright bass and gentle brushed drums. Confident flowing melody interrupted by playful syncopation, rich seventh harmonies, relaxed steady swing, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_06_maja_the_little_bee",
+      "prompt": "Bright instrumental light swing jazz, 108 BPM, cheerful alto saxophone, walking upright bass and soft jazz drums. Short repeating melodic motifs, steady bouncing rhythm, simple major harmonies, clear playful energy, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_07_one_command_at_a_time",
+      "prompt": "Minimal instrumental groove jazz, 88 BPM, warm electric piano, rounded bass and crisp brushed percussion. Precise repeating four-note melody, consistent rhythmic pulse, simple harmonic progression, clean balanced production, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_08_the_joy_of_doing",
+      "prompt": "Cheerful instrumental bossa nova jazz, 104 BPM, warm nylon-string guitar, mellow bass and light Latin percussion. Steady syncopated groove, bright repeating melody, simple major seventh harmonies, relaxed joyful atmosphere, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_09_small_wings_steady_work",
+      "prompt": "Light instrumental chamber music, 112 BPM, delicate pizzicato violins, warm cello and gentle piano. Short repeating motifs, precise rhythmic movement, bright major harmonies, graceful controlled dynamics, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_10_the_horse_explains_everything",
+      "prompt": "Playful instrumental swing jazz, 118 BPM, expressive tenor saxophone, walking upright bass and lively brushed drums. Long elaborate melodic phrases, bluesy improvisation, confident rhythmic accents, humorous musical character, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_11_the_bee_has_already_finished",
+      "prompt": "Bright instrumental cool jazz, 110 BPM, cheerful alto saxophone, upright bass and crisp brushed drums. Short decisive melodic phrases, steady swinging groove, playful major harmonies, clean rhythmic resolution, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_12_a_command_lost_in_the_forest",
+      "prompt": "Mischievous instrumental modal jazz, 94 BPM, low tenor saxophone, warm upright bass and restrained jazz drums. Repeating minor-key motif, unexpected chromatic turns, subtle rhythmic tension, steady underlying groove, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_13_the_great_computing_disaster",
+      "prompt": "Energetic instrumental swing jazz, 138 BPM, bright alto saxophone, walking upright bass and lively jazz drums. Fast syncopated phrases, playful rhythmic accents, bluesy harmonic movement, controlled chaotic energy, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_14_maja_finds_the_missing_path",
+      "prompt": "Warm instrumental soul jazz, 92 BPM, mellow electric piano, deep rounded bass and soft brushed drums. Clear ascending melody, steady confident groove, gentle minor-to-major harmonic movement, optimistic restrained dynamics, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_15_two_minds_one_workshop",
+      "prompt": "Elegant instrumental chamber jazz, 84 BPM, lyrical tenor saxophone, warm piano, upright bass and gentle brushed drums. Alternating short piano and saxophone phrases, relaxed steady swing, balanced melodic dialogue, rich warm harmonies, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_16_the_mushroom_house_is_running",
+      "prompt": "Uplifting instrumental orchestral jazz, 106 BPM, expressive tenor saxophone, warm brass section, walking bass and steady jazz drums. Confident rhythmic groove, broad ascending melody, bright major harmonies, gradual dynamic expansion, celebratory energy, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_17_tomorrow_we_try_again",
+      "prompt": "Tender instrumental cool jazz, 72 BPM, mellow tenor saxophone, warm electric piano, rounded bass and soft brushed drums. Relaxed continuous groove, gentle repeating melody, rich major seventh harmonies, subtle playful variations, affectionate peaceful resolution, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    }
+  ]
+}

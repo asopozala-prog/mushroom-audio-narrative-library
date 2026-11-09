@@ -1,0 +1,122 @@
+[
+  {
+    "output_name": "track_01_the_rabbit_and_eternal_autumn",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_6178cb927d354563/track_01_the_rabbit_and_eternal_autumn/d1e56bd1-aac5-9774-ce45-348683251721.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_02_a_cold_among_golden_leaves",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_6178cb927d354563/track_02_a_cold_among_golden_leaves/1c6a6ae7-fa23-4093-4e2d-cb566eb44646.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_03_the_long_unquiet_nights",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_6178cb927d354563/track_03_the_long_unquiet_nights/eeca4c66-03a5-5512-2a53-6e9ea71b9e28.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_04_when_the_mind_grows_tired",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_6178cb927d354563/track_04_when_the_mind_grows_tired/ef95d100-9a8a-d3e6-82df-8bfdf304ccf4.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_05_the_window_full_of_autumn",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_6178cb927d354563/track_05_the_window_full_of_autumn/1264f0bb-a92e-8a51-5ab7-66ab69d4f6b4.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_06_a_small_suitcase",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_6178cb927d354563/track_06_a_small_suitcase/a59ebc31-dde8-29c6-0b08-038b009e4e2e.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_07_the_road_to_his_twin",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_6178cb927d354563/track_07_the_road_to_his_twin/1485257a-0819-727e-5786-358806cb8c11.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_08_two_rabbits_at_the_door",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_6178cb927d354563/track_08_two_rabbits_at_the_door/26379358-0966-d254-3846-8d8158cb6bce.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_09_the_house_that_remembers_him",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_6178cb927d354563/track_09_the_house_that_remembers_him/0d8a5041-e447-f72e-8970-31968a40e10f.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_10_sleeping_beneath_a_familiar_roof",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_6178cb927d354563/track_10_sleeping_beneath_a_familiar_roof/0699b2aa-ba92-a31a-7627-6791274c147f.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_11_strength_returns_with_morning",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_6178cb927d354563/track_11_strength_returns_with_morning/25df0a24-fb2b-f694-cf8d-b581300b05a7.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_12_returning_to_eternal_autumn",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_6178cb927d354563/track_12_returning_to_eternal_autumn/743cda21-0c22-62e7-cb2c-d10a09afb534.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  }
+]

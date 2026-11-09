@@ -1,0 +1,361 @@
+{
+  "schema_version": 1,
+  "batch_id": "studio_batch_a7039b3b247144fb",
+  "archive_label": "20261030_130455_mist_golden_morning",
+  "batch_theme": "mist_golden_morning",
+  "generation_started_at": 1793361895.613159,
+  "model": {
+    "family": "ACE-Step",
+    "checkpoint_name": "acestep-v15-turbo",
+    "checkpoint_revision": null,
+    "route": "turbo"
+  },
+  "generation": {
+    "prompts": [
+      {
+        "output_name": "track_01_golden_mist",
+        "prompt": "Soft instrumental ambient music, 55 BPM, gentle piano melody, warm sustained strings and airy synth pads. Delicate harmonies, spacious texture, quiet golden morning atmosphere, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_02_coffee_and_croissant",
+        "prompt": "Warm acoustic chamber jazz instrumental, 72 BPM, mellow piano, soft upright bass and delicate brushed drums. Relaxed slow swing, playful little melodic phrases, intimate cafe atmosphere, gentle dynamics, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_03_sleepy_kitchen",
+        "prompt": "Minimalist instrumental music, 48 BPM, sparse felt piano notes, soft cello and warm acoustic guitar. Simple descending melody, long pauses, drowsy intimate atmosphere, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_04_little_kettle",
+        "prompt": "Gentle instrumental miniature, 80 BPM, delicate pizzicato strings, soft piano and light wooden percussion. Quiet repeating motifs, subtle bubbling rhythmic figures, warm playful harmonies, restrained dynamics, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_05_rising_steam",
+        "prompt": "Airy ambient instrumental, 50 BPM, warm synthesizer pads, high delicate piano notes and soft sustained violin. Floating melody, slow harmonic changes, gentle swells, weightless spacious texture, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_06_silk_and_skin",
+        "prompt": "Sensual instrumental downtempo music, 65 BPM, deep warm bass, intimate electric piano and soft brushed percussion. Slow hypnotic pulse, expressive melodic phrasing, rich minor harmonies, gentle tension and release, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_07_morning_after",
+        "prompt": "Tender acoustic instrumental, 58 BPM, warm fingerpicked guitar, soft piano and low sustained cello. Simple affectionate melody, gentle major harmonies, intimate natural recording, soft fading dynamics, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      }
+    ],
+    "requested_audio_format": "flac"
+  },
+  "kaggle_manifest": [
+    {
+      "output_name": "track_01_golden_mist",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_01_golden_mist/229a0112-713a-18e6-b14e-148dd8daef79.flac",
+        "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_01_golden_mist/c12b243f-0ed7-9572-f1fc-a0b3e9bdd75a.flac",
+        "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_01_golden_mist/c0657211-43e3-6739-a2dd-aae17393014f.flac"
+      ]
+    },
+    {
+      "output_name": "track_02_coffee_and_croissant",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_02_coffee_and_croissant/5b7520c3-6b20-4596-3a03-0d9cbc11f33e.flac",
+        "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_02_coffee_and_croissant/9f1969e0-cc44-0618-b041-23e80fcf8817.flac",
+        "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_02_coffee_and_croissant/bb55edb9-e997-ac5f-1a4c-089ae20ac43e.flac"
+      ]
+    },
+    {
+      "output_name": "track_03_sleepy_kitchen",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_03_sleepy_kitchen/6578d542-4e76-73c4-fea8-6534484f42f9.flac",
+        "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_03_sleepy_kitchen/ab0ae41b-d126-ddbb-f22f-a45d5bbe8924.flac",
+        "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_03_sleepy_kitchen/7a373ebf-20ec-84f0-257b-ee20adeef9d2.flac"
+      ]
+    },
+    {
+      "output_name": "track_04_little_kettle",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_04_little_kettle/0a5f9fa0-c5a5-d911-f5bd-2b5362632473.flac",
+        "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_04_little_kettle/f7faa00e-2f47-e545-f737-ad0d8866e899.flac",
+        "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_04_little_kettle/b3c5d91e-434d-c85c-e3b0-82e2242b9be3.flac"
+      ]
+    },
+    {
+      "output_name": "track_05_rising_steam",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_05_rising_steam/601fd525-9ce9-5010-636a-db4fc11a4cc4.flac",
+        "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_05_rising_steam/bb416fa4-8a03-0093-f14f-2370ce84e28c.flac",
+        "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_05_rising_steam/10ab9d6e-0e00-923b-b868-9ffe734a3765.flac"
+      ]
+    },
+    {
+      "output_name": "track_06_silk_and_skin",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_06_silk_and_skin/0b68bd30-2198-d9b0-e005-3d07bf896043.flac",
+        "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_06_silk_and_skin/c4230a4a-015e-2ad4-65bb-2677beb3e244.flac",
+        "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_06_silk_and_skin/9d6699d6-6bc2-5630-5aed-b28cb206368c.flac"
+      ]
+    },
+    {
+      "output_name": "track_07_morning_after",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_07_morning_after/3d42e1e5-0b1e-59ce-a452-522c381e0da8.flac",
+        "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_07_morning_after/7fa29506-80b2-acf0-cd4e-12b9129790ae.flac",
+        "/kaggle/working/music_output/studio_batch_a7039b3b247144fb/track_07_morning_after/36c2613c-4ce8-65c5-7d62-51b7952424cb.flac"
+      ]
+    }
+  ],
+  "outputs": [
+    {
+      "composition": "track_01_golden_mist",
+      "variation": 1,
+      "filename": "track_01_golden_mist_01.flac",
+      "relative_path": "track_01_golden_mist/track_01_golden_mist_01.flac",
+      "size_bytes": 6725989,
+      "sha256": "a41fc892733f90747fd295d4e246bf1df37817b127f7fba8748a34175f6a08ea",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_01_golden_mist",
+      "variation": 2,
+      "filename": "track_01_golden_mist_02.flac",
+      "relative_path": "track_01_golden_mist/track_01_golden_mist_02.flac",
+      "size_bytes": 6902052,
+      "sha256": "b2ddf3c13596bf0a5a8f6ff66b7753f54e7126779cbb00cf13a24b6d094b4321",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_01_golden_mist",
+      "variation": 3,
+      "filename": "track_01_golden_mist_03.flac",
+      "relative_path": "track_01_golden_mist/track_01_golden_mist_03.flac",
+      "size_bytes": 7013644,
+      "sha256": "a3e2e930d695c3e843fb1283a52367dd7b7e879351a67fb207ee838af34150f8",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_coffee_and_croissant",
+      "variation": 1,
+      "filename": "track_02_coffee_and_croissant_01.flac",
+      "relative_path": "track_02_coffee_and_croissant/track_02_coffee_and_croissant_01.flac",
+      "size_bytes": 6542517,
+      "sha256": "692c3a72da3fbaec9b8abc7c5a7b69707f878acfde5a7874e686d81588f3fac3",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_coffee_and_croissant",
+      "variation": 2,
+      "filename": "track_02_coffee_and_croissant_02.flac",
+      "relative_path": "track_02_coffee_and_croissant/track_02_coffee_and_croissant_02.flac",
+      "size_bytes": 6542692,
+      "sha256": "d365341b3af3229df7c8a41ac8b80d5087051bf17e800ef9c85a024373fca250",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_coffee_and_croissant",
+      "variation": 3,
+      "filename": "track_02_coffee_and_croissant_03.flac",
+      "relative_path": "track_02_coffee_and_croissant/track_02_coffee_and_croissant_03.flac",
+      "size_bytes": 6816037,
+      "sha256": "cafd3b72bd34f8367c1c67401e93b3e961f895d9eb570dede017b48c2e899fc7",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_sleepy_kitchen",
+      "variation": 1,
+      "filename": "track_03_sleepy_kitchen_01.flac",
+      "relative_path": "track_03_sleepy_kitchen/track_03_sleepy_kitchen_01.flac",
+      "size_bytes": 6544543,
+      "sha256": "f37e13efee2cfb7628b8ebf1926c67038759d02e4795cc1eeebb720ca8dfacf8",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_sleepy_kitchen",
+      "variation": 2,
+      "filename": "track_03_sleepy_kitchen_02.flac",
+      "relative_path": "track_03_sleepy_kitchen/track_03_sleepy_kitchen_02.flac",
+      "size_bytes": 6473002,
+      "sha256": "89950f9ce8c21068d5ef9460e22c9c150a140c594b90cfcd622c18d07554a6a6",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_sleepy_kitchen",
+      "variation": 3,
+      "filename": "track_03_sleepy_kitchen_03.flac",
+      "relative_path": "track_03_sleepy_kitchen/track_03_sleepy_kitchen_03.flac",
+      "size_bytes": 6475130,
+      "sha256": "2ae54aa9ee9268967207cdb45d8d13999d381b70105f549f0a2da0ec767514ae",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_little_kettle",
+      "variation": 1,
+      "filename": "track_04_little_kettle_01.flac",
+      "relative_path": "track_04_little_kettle/track_04_little_kettle_01.flac",
+      "size_bytes": 7223627,
+      "sha256": "4f89555c6109f5045608df921cf458d5abd6af1ab702826db5bedd2e0b458ad2",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_little_kettle",
+      "variation": 2,
+      "filename": "track_04_little_kettle_02.flac",
+      "relative_path": "track_04_little_kettle/track_04_little_kettle_02.flac",
+      "size_bytes": 7296959,
+      "sha256": "943c9007a691b07a244ebfdbe860a0b55535617f331791a71e5d355c6abb372c",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_little_kettle",
+      "variation": 3,
+      "filename": "track_04_little_kettle_03.flac",
+      "relative_path": "track_04_little_kettle/track_04_little_kettle_03.flac",
+      "size_bytes": 7171994,
+      "sha256": "471aa21be4129a1aa60c40d9612905b26815a85c74055c958753bb92f4c04278",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_rising_steam",
+      "variation": 1,
+      "filename": "track_05_rising_steam_01.flac",
+      "relative_path": "track_05_rising_steam/track_05_rising_steam_01.flac",
+      "size_bytes": 6814063,
+      "sha256": "7d4b0ba96ad75f2b7bd8ce525e61d6b3c0e07cd23d89f951d2a3a1a2f7d8af05",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_rising_steam",
+      "variation": 2,
+      "filename": "track_05_rising_steam_02.flac",
+      "relative_path": "track_05_rising_steam/track_05_rising_steam_02.flac",
+      "size_bytes": 6810546,
+      "sha256": "fb89287642e01e177cb9a9395d4fa39ab2dd927c1864cafcef8f7f8ffab79ec9",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_rising_steam",
+      "variation": 3,
+      "filename": "track_05_rising_steam_03.flac",
+      "relative_path": "track_05_rising_steam/track_05_rising_steam_03.flac",
+      "size_bytes": 6902144,
+      "sha256": "01116ce30f2ae73b6da09e86d2c9555e6fb3f025fc42927d9651f800536a3600",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_silk_and_skin",
+      "variation": 1,
+      "filename": "track_06_silk_and_skin_01.flac",
+      "relative_path": "track_06_silk_and_skin/track_06_silk_and_skin_01.flac",
+      "size_bytes": 7409598,
+      "sha256": "95c4d740ad7a822cc870dae9125614b6049508e23fb3baa5411b4196f1997b06",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_silk_and_skin",
+      "variation": 2,
+      "filename": "track_06_silk_and_skin_02.flac",
+      "relative_path": "track_06_silk_and_skin/track_06_silk_and_skin_02.flac",
+      "size_bytes": 6819900,
+      "sha256": "7d8117d4ebc348c1e017e97d98b02df278db8e691ad46391cff4a963a0f363b1",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_silk_and_skin",
+      "variation": 3,
+      "filename": "track_06_silk_and_skin_03.flac",
+      "relative_path": "track_06_silk_and_skin/track_06_silk_and_skin_03.flac",
+      "size_bytes": 6839033,
+      "sha256": "d59a7c27be61b1cf170f871c6ab80a026d8a700b7248077bf501897e5406ce84",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_morning_after",
+      "variation": 1,
+      "filename": "track_07_morning_after_01.flac",
+      "relative_path": "track_07_morning_after/track_07_morning_after_01.flac",
+      "size_bytes": 7073789,
+      "sha256": "3d09986767cf200c821d6345cb7caa2df9b04cdfa0cceaf1320c27c12830eb79",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_morning_after",
+      "variation": 2,
+      "filename": "track_07_morning_after_02.flac",
+      "relative_path": "track_07_morning_after/track_07_morning_after_02.flac",
+      "size_bytes": 6616737,
+      "sha256": "1f9d1c3389033532cb1d202aea7443ceec6bf376aeaded8f16e0eb88519a4f2d",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_morning_after",
+      "variation": 3,
+      "filename": "track_07_morning_after_03.flac",
+      "relative_path": "track_07_morning_after/track_07_morning_after_03.flac",
+      "size_bytes": 7310985,
+      "sha256": "088d7296549ac45baf8a2884badc3033edf5fc55753493b15945d7438273d330",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    }
+  ],
+  "completed_compositions": 7,
+  "failed_compositions": 0,
+  "archive_completed_at_utc": "2026-10-30T12:12:35.580322+00:00"
+}

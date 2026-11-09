@@ -1,0 +1,51 @@
+{
+  "route": "turbo",
+  "batch_name": "studio_batch_993b5d5ff3d944db",
+  "batch_theme": "mushroom_weekend_excited_dog",
+  "generation_started_at": 1793616059.785743,
+  "archive_label": "20261102_114059_mushroom_weekend_excited_dog",
+  "prompts": [
+    {
+      "output_name": "track_01_sleepy_saturday",
+      "prompt": "Mellow instrumental jazz trio, 65 BPM, warm piano, upright bass and soft brushed drums. Lazy swing groove, simple descending melody, gentle major harmonies, relaxed weekend atmosphere, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    },
+    {
+      "output_name": "track_02_unexpected_visitor",
+      "prompt": "Playful instrumental swing jazz, 108 BPM, bright piano, walking upright bass and crisp brushed drums. Bouncy syncopated rhythm, short ascending piano phrases, cheerful harmonic changes, lively dynamics, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    },
+    {
+      "output_name": "track_03_little_dog_big_excitement",
+      "prompt": "Energetic instrumental jazz, 132 BPM, lively piano, walking bass and swinging drums. Quick repeating melodic motifs, playful syncopation, bright major harmonies, spirited rhythmic accents, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    },
+    {
+      "output_name": "track_04_tiny_mushroom_in_trouble",
+      "prompt": "Comical instrumental swing jazz, 115 BPM, expressive piano, upright bass and light snare drums. Staccato melodic phrases, sudden rhythmic accents, playful chromatic movement, mischievous energetic atmosphere, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    },
+    {
+      "output_name": "track_05_one_little_bite",
+      "prompt": "Playful instrumental jazz, 96 BPM, warm piano, plucked upright bass and brushed drums. Short syncopated piano motifs, gentle rhythmic stops, bluesy harmonic turns, humorous tension and release, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    },
+    {
+      "output_name": "track_06_dog_is_very_sorry",
+      "prompt": "Tender instrumental jazz ballad, 68 BPM, mellow piano, soft upright bass and delicate brushed drums. Slow steady pulse, descending melodic phrases, warm minor-to-major harmonies, gentle expressive development, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    },
+    {
+      "output_name": "track_07_sunday_cuddle",
+      "prompt": "Cozy instrumental lounge jazz, 72 BPM, intimate piano, warm upright bass and soft brushed drums. Relaxed slow swing, affectionate repeating melody, mellow major seventh chords, smooth harmonic resolution, peaceful dynamics, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    }
+  ]
+}

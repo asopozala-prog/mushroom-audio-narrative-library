@@ -1,0 +1,197 @@
+{
+  "schema_version": 1,
+  "batch_id": "studio_batch_7c5817f6931e4970",
+  "archive_label": "20261030_133539_mist_golden_morning",
+  "batch_theme": "mist_golden_morning",
+  "generation_started_at": 1793363739.140806,
+  "model": {
+    "family": "ACE-Step",
+    "checkpoint_name": "acestep-v15-sft",
+    "checkpoint_revision": null,
+    "route": "sft_lm"
+  },
+  "generation": {
+    "prompts": [
+      {
+        "output_name": "track_01_golden_mist",
+        "prompt": "Soft instrumental ambient music, 55 BPM, gentle piano melody, warm sustained strings and airy synth pads. Delicate harmonies, spacious texture, quiet golden morning atmosphere, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_02_coffee_and_croissant",
+        "prompt": "Warm acoustic chamber jazz instrumental, 72 BPM, mellow piano, soft upright bass and delicate brushed drums. Relaxed slow swing, playful little melodic phrases, intimate cafe atmosphere, gentle dynamics, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_03_sleepy_kitchen",
+        "prompt": "Minimalist instrumental music, 48 BPM, sparse felt piano notes, soft cello and warm acoustic guitar. Simple descending melody, long pauses, drowsy intimate atmosphere, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_04_little_kettle",
+        "prompt": "Gentle instrumental miniature, 80 BPM, delicate pizzicato strings, soft piano and light wooden percussion. Quiet repeating motifs, subtle bubbling rhythmic figures, warm playful harmonies, restrained dynamics, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_05_rising_steam",
+        "prompt": "Airy ambient instrumental, 50 BPM, warm synthesizer pads, high delicate piano notes and soft sustained violin. Floating melody, slow harmonic changes, gentle swells, weightless spacious texture, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_06_silk_and_skin",
+        "prompt": "Sensual instrumental downtempo music, 65 BPM, deep warm bass, intimate electric piano and soft brushed percussion. Slow hypnotic pulse, expressive melodic phrasing, rich minor harmonies, gentle tension and release, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_07_morning_after",
+        "prompt": "Tender acoustic instrumental, 58 BPM, warm fingerpicked guitar, soft piano and low sustained cello. Simple affectionate melody, gentle major harmonies, intimate natural recording, soft fading dynamics, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      }
+    ],
+    "requested_audio_format": "flac"
+  },
+  "kaggle_manifest": [
+    {
+      "output_name": "track_01_golden_mist",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_7c5817f6931e4970/track_01_golden_mist/a6f56333-8f80-b31a-b366-215aeb2acfe9.flac"
+      ],
+      "error": "RuntimeError: Expected 3 audio files, got 1",
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_02_coffee_and_croissant",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_7c5817f6931e4970/track_02_coffee_and_croissant/831815aa-08a6-3e7b-248c-45a87165186d.flac"
+      ],
+      "error": "RuntimeError: Expected 3 audio files, got 1",
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_03_sleepy_kitchen",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_7c5817f6931e4970/track_03_sleepy_kitchen/cdc89626-f0e3-cf78-0dc6-6bd3125f54c4.flac"
+      ],
+      "error": "RuntimeError: Expected 3 audio files, got 1",
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_04_little_kettle",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_7c5817f6931e4970/track_04_little_kettle/5b7bd959-af97-e41a-b367-3274bc62ef90.flac"
+      ],
+      "error": "RuntimeError: Expected 3 audio files, got 1",
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_05_rising_steam",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_7c5817f6931e4970/track_05_rising_steam/df1115d4-29a7-856c-e2eb-7873cc1970ff.flac"
+      ],
+      "error": "RuntimeError: Expected 3 audio files, got 1",
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_06_silk_and_skin",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_7c5817f6931e4970/track_06_silk_and_skin/09cc8a8a-a214-6530-131b-570f06c46246.flac"
+      ],
+      "error": "RuntimeError: Expected 3 audio files, got 1",
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_07_morning_after",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_7c5817f6931e4970/track_07_morning_after/a9530ec1-f6b3-2517-1658-03e2824d5b04.flac"
+      ],
+      "error": "RuntimeError: Expected 3 audio files, got 1",
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    }
+  ],
+  "outputs": [
+    {
+      "output_name": "track_01_golden_mist",
+      "files": [
+        "track_01_golden_mist/a6f56333-8f80-b31a-b366-215aeb2acfe9.flac"
+      ]
+    },
+    {
+      "output_name": "track_02_coffee_and_croissant",
+      "files": [
+        "track_02_coffee_and_croissant/831815aa-08a6-3e7b-248c-45a87165186d.flac"
+      ]
+    },
+    {
+      "output_name": "track_03_sleepy_kitchen",
+      "files": [
+        "track_03_sleepy_kitchen/cdc89626-f0e3-cf78-0dc6-6bd3125f54c4.flac"
+      ]
+    },
+    {
+      "output_name": "track_04_little_kettle",
+      "files": [
+        "track_04_little_kettle/5b7bd959-af97-e41a-b367-3274bc62ef90.flac"
+      ]
+    },
+    {
+      "output_name": "track_05_rising_steam",
+      "files": [
+        "track_05_rising_steam/df1115d4-29a7-856c-e2eb-7873cc1970ff.flac"
+      ]
+    },
+    {
+      "output_name": "track_06_silk_and_skin",
+      "files": [
+        "track_06_silk_and_skin/09cc8a8a-a214-6530-131b-570f06c46246.flac"
+      ]
+    },
+    {
+      "output_name": "track_07_morning_after",
+      "files": [
+        "track_07_morning_after/a9530ec1-f6b3-2517-1658-03e2824d5b04.flac"
+      ]
+    }
+  ],
+  "completed_compositions": 0,
+  "failed_compositions": 0,
+  "archive_completed_at_utc": "2026-10-30T12:46:17.870398+00:00",
+  "partial_compositions": 7,
+  "requested_variations": 21,
+  "generated_variations": 7,
+  "missing_variations": 14,
+  "reconciliation": {
+    "at_utc": "2026-10-30T19:38:12.734508+00:00",
+    "reason": "Original runner classified prompts with one of three generated files as failed.",
+    "method": "Verified seven archived FLAC files against original Kaggle manifest.",
+    "original_manifest_preserved": true,
+    "original_error_messages_preserved": true
+  }
+}

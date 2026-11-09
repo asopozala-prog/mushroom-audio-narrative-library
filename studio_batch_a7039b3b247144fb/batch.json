@@ -1,0 +1,51 @@
+{
+  "route": "turbo",
+  "batch_name": "studio_batch_a7039b3b247144fb",
+  "batch_theme": "mist_golden_morning",
+  "generation_started_at": 1793361895.613159,
+  "archive_label": "20261030_130455_mist_golden_morning",
+  "prompts": [
+    {
+      "output_name": "track_01_golden_mist",
+      "prompt": "Soft instrumental ambient music, 55 BPM, gentle piano melody, warm sustained strings and airy synth pads. Delicate harmonies, spacious texture, quiet golden morning atmosphere, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_02_coffee_and_croissant",
+      "prompt": "Warm acoustic chamber jazz instrumental, 72 BPM, mellow piano, soft upright bass and delicate brushed drums. Relaxed slow swing, playful little melodic phrases, intimate cafe atmosphere, gentle dynamics, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_03_sleepy_kitchen",
+      "prompt": "Minimalist instrumental music, 48 BPM, sparse felt piano notes, soft cello and warm acoustic guitar. Simple descending melody, long pauses, drowsy intimate atmosphere, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_04_little_kettle",
+      "prompt": "Gentle instrumental miniature, 80 BPM, delicate pizzicato strings, soft piano and light wooden percussion. Quiet repeating motifs, subtle bubbling rhythmic figures, warm playful harmonies, restrained dynamics, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_05_rising_steam",
+      "prompt": "Airy ambient instrumental, 50 BPM, warm synthesizer pads, high delicate piano notes and soft sustained violin. Floating melody, slow harmonic changes, gentle swells, weightless spacious texture, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_06_silk_and_skin",
+      "prompt": "Sensual instrumental downtempo music, 65 BPM, deep warm bass, intimate electric piano and soft brushed percussion. Slow hypnotic pulse, expressive melodic phrasing, rich minor harmonies, gentle tension and release, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_07_morning_after",
+      "prompt": "Tender acoustic instrumental, 58 BPM, warm fingerpicked guitar, soft piano and low sustained cello. Simple affectionate melody, gentle major harmonies, intimate natural recording, soft fading dynamics, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    }
+  ]
+}

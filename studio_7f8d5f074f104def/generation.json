@@ -1,0 +1,11 @@
+{
+  "route": "turbo",
+  "prompt": "batch_theme: mushroom_weekend_excited_dog\\\n\\\nsleepy_saturday:\\\nMellow instrumental jazz trio, 65 BPM, warm piano, upright bass and soft brushed drums. Lazy swing groove, simple descending melody, gentle major harmonies, relaxed weekend atmosphere, no vocals.\\\n\\\nunexpected_visitor:\\\nPlayful instrumental swing jazz, 108 BPM, bright piano, walking upright bass and crisp brushed drums. Bouncy syncopated rhythm, short ascending piano phrases, cheerful harmonic changes, lively dynamics, no vocals.\\\n\\\nlittle_dog_big_excitement:\\\nEnergetic instrumental jazz, 132 BPM, lively piano, walking bass and swinging drums. Quick repeating melodic motifs, playful syncopation, bright major harmonies, spirited rhythmic accents, no vocals.\\\n\\\ntiny_mushroom_in_trouble:\\\nComical instrumental swing jazz, 115 BPM, expressive piano, upright bass and light snare drums. Staccato melodic phrases, sudden rhythmic accents, playful chromatic movement, mischievous energetic atmosphere, no vocals.\\\n\\\none_little_bite:\\\nPlayful instrumental jazz, 96 BPM, warm piano, plucked upright bass and brushed drums. Short syncopated piano motifs, gentle rhythmic stops, bluesy harmonic turns, humorous tension and release, no vocals.\\\n\\\ndog_is_very_sorry:\\\nTender instrumental jazz ballad, 68 BPM, mellow piano, soft upright bass and delicate brushed drums. Slow steady pulse, descending melodic phrases, warm minor-to-major harmonies, gentle expressive development, no vocals.\\\n\\\nsunday_cuddle:\\\nCozy instrumental lounge jazz, 72 BPM, intimate piano, warm upright bass and soft brushed drums. Relaxed slow swing, affectionate repeating melody, mellow major seventh chords, smooth harmonic resolution, peaceful dynamics, no vocals.",
+  "duration_seconds": 30,
+  "output_name": "studio_7f8d5f074f104def",
+  "source_format": "flac",
+  "listening_format": "mp3",
+  "mp3_bitrate": "320k",
+  "kernel_id": "asopozala/mushroom-house-ace-step-music-studio",
+  "requested_accelerator": "NvidiaTeslaT4"
+}

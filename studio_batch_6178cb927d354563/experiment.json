@@ -1,0 +1,353 @@
+{
+  "schema_version": 1,
+  "batch_id": "studio_batch_6178cb927d354563",
+  "archive_label": "20261107_082709_the_rabbit_who_loved_eternal_autumn",
+  "batch_theme": "the_rabbit_who_loved_eternal_autumn",
+  "generation_started_at": 1794036429.495842,
+  "model": {
+    "family": "ACE-Step",
+    "checkpoint_name": "acestep-v15-sft",
+    "checkpoint_revision": null,
+    "route": "sft_lm"
+  },
+  "generation": {
+    "prompts": [
+      {
+        "output_name": "track_01_the_rabbit_and_eternal_autumn",
+        "prompt": "Warm instrumental cool jazz, 72 BPM, mellow tenor saxophone, upright bass and gentle brushed drums. Relaxed flowing swing, lyrical melody, rich major seventh harmonies, nostalgic golden atmosphere, intimate acoustic sound, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_02_a_cold_among_golden_leaves",
+        "prompt": "Tender instrumental chamber music, 66 BPM, expressive solo cello and soft piano accompaniment. Gentle descending melody, warm minor harmonies, measured rhythmic pulse, delicate dynamics, intimate natural recording, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_03_the_long_unquiet_nights",
+        "prompt": "Atmospheric instrumental downtempo, 62 BPM, warm electric piano, deep soft bass and restrained brushed percussion. Slow hypnotic groove, repeating minor-key melody, subtle harmonic tension, dark intimate production, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_04_when_the_mind_grows_tired",
+        "prompt": "Reflective instrumental modal jazz, 68 BPM, breathy tenor saxophone, upright bass and delicate brushed drums. Continuous relaxed pulse, narrow descending melodic phrases, suspended minor seventh harmonies, restrained dynamics, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_05_the_window_full_of_autumn",
+        "prompt": "Romantic classical string ensemble, 70 BPM, lyrical violins, warm violas and deep cellos. Flowing legato melody, rich minor-to-major harmonies, gentle orchestral swells, wistful autumn atmosphere, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_06_a_small_suitcase",
+        "prompt": "Gentle instrumental acoustic folk, 78 BPM, warm fingerpicked acoustic guitar and soft upright bass. Simple repeating melody, steady relaxed rhythm, mellow major harmonies, delicate dynamics, intimate natural sound, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_07_the_road_to_his_twin",
+        "prompt": "Warm instrumental soul jazz, 82 BPM, expressive tenor saxophone, rounded bass and soft brushed drums. Steady forward-moving groove, gently ascending melodic phrases, rich seventh chords, hopeful restrained energy, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_08_two_rabbits_at_the_door",
+        "prompt": "Tender instrumental classical chamber music, 74 BPM, expressive solo violin and warm piano accompaniment. Flowing lyrical melody, gentle major-key harmonies, graceful rhythmic movement, intimate resonant acoustics, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_09_the_house_that_remembers_him",
+        "prompt": "Cozy instrumental lounge jazz, 70 BPM, mellow tenor saxophone, soft electric piano, rounded bass and gentle brushed drums. Relaxed continuous groove, affectionate repeating melody, warm major seventh harmonies, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_10_sleeping_beneath_a_familiar_roof",
+        "prompt": "Gentle instrumental downtempo, 60 BPM, intimate electric piano, deep warm bass and soft brushed percussion. Slow steady pulse, simple descending melodic phrases, smooth harmonic movement, delicate dynamics, peaceful production, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_11_strength_returns_with_morning",
+        "prompt": "Warm instrumental romantic string orchestra, 80 BPM, expressive violins, rich cellos and warm violas. Broad ascending melody, flowing rhythmic movement, gradual crescendo, luminous major harmonies, controlled orchestral dynamics, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_12_returning_to_eternal_autumn",
+        "prompt": "Nostalgic instrumental cool jazz, 72 BPM, mellow tenor saxophone, upright bass and soft brushed drums. Relaxed steady swing, lyrical returning melody, rich major seventh harmonies with gentle minor colors, warm intimate sound, peaceful resolution, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      }
+    ],
+    "requested_audio_format": "flac"
+  },
+  "kaggle_manifest": [
+    {
+      "output_name": "track_01_the_rabbit_and_eternal_autumn",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_6178cb927d354563/track_01_the_rabbit_and_eternal_autumn/d1e56bd1-aac5-9774-ce45-348683251721.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_02_a_cold_among_golden_leaves",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_6178cb927d354563/track_02_a_cold_among_golden_leaves/1c6a6ae7-fa23-4093-4e2d-cb566eb44646.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_03_the_long_unquiet_nights",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_6178cb927d354563/track_03_the_long_unquiet_nights/eeca4c66-03a5-5512-2a53-6e9ea71b9e28.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_04_when_the_mind_grows_tired",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_6178cb927d354563/track_04_when_the_mind_grows_tired/ef95d100-9a8a-d3e6-82df-8bfdf304ccf4.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_05_the_window_full_of_autumn",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_6178cb927d354563/track_05_the_window_full_of_autumn/1264f0bb-a92e-8a51-5ab7-66ab69d4f6b4.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_06_a_small_suitcase",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_6178cb927d354563/track_06_a_small_suitcase/a59ebc31-dde8-29c6-0b08-038b009e4e2e.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_07_the_road_to_his_twin",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_6178cb927d354563/track_07_the_road_to_his_twin/1485257a-0819-727e-5786-358806cb8c11.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_08_two_rabbits_at_the_door",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_6178cb927d354563/track_08_two_rabbits_at_the_door/26379358-0966-d254-3846-8d8158cb6bce.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_09_the_house_that_remembers_him",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_6178cb927d354563/track_09_the_house_that_remembers_him/0d8a5041-e447-f72e-8970-31968a40e10f.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_10_sleeping_beneath_a_familiar_roof",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_6178cb927d354563/track_10_sleeping_beneath_a_familiar_roof/0699b2aa-ba92-a31a-7627-6791274c147f.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_11_strength_returns_with_morning",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_6178cb927d354563/track_11_strength_returns_with_morning/25df0a24-fb2b-f694-cf8d-b581300b05a7.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_12_returning_to_eternal_autumn",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_6178cb927d354563/track_12_returning_to_eternal_autumn/743cda21-0c22-62e7-cb2c-d10a09afb534.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    }
+  ],
+  "outputs": [
+    {
+      "composition": "track_01_the_rabbit_and_eternal_autumn",
+      "variation": 1,
+      "filename": "track_01_the_rabbit_and_eternal_autumn_01.flac",
+      "relative_path": "track_01_the_rabbit_and_eternal_autumn/track_01_the_rabbit_and_eternal_autumn_01.flac",
+      "size_bytes": 5260103,
+      "sha256": "62c6412ea0337672dd96d3a1eee4680810973c9da1974e4f80b57b951f4e4e13",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_a_cold_among_golden_leaves",
+      "variation": 1,
+      "filename": "track_02_a_cold_among_golden_leaves_01.flac",
+      "relative_path": "track_02_a_cold_among_golden_leaves/track_02_a_cold_among_golden_leaves_01.flac",
+      "size_bytes": 5420085,
+      "sha256": "8517c69893d3fac1ec4facf46fc6ad8cf3e91cd23c217b53f9c509ebd21795e9",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_the_long_unquiet_nights",
+      "variation": 1,
+      "filename": "track_03_the_long_unquiet_nights_01.flac",
+      "relative_path": "track_03_the_long_unquiet_nights/track_03_the_long_unquiet_nights_01.flac",
+      "size_bytes": 5157938,
+      "sha256": "5b9687e28b67496694dd1bccbac280edcb0347e468d73901823b71693015da0c",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_when_the_mind_grows_tired",
+      "variation": 1,
+      "filename": "track_04_when_the_mind_grows_tired_01.flac",
+      "relative_path": "track_04_when_the_mind_grows_tired/track_04_when_the_mind_grows_tired_01.flac",
+      "size_bytes": 5190436,
+      "sha256": "7b0745c7b918c06900c3247af27257d0a424e623395630e18644089364693b63",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_window_full_of_autumn",
+      "variation": 1,
+      "filename": "track_05_the_window_full_of_autumn_01.flac",
+      "relative_path": "track_05_the_window_full_of_autumn/track_05_the_window_full_of_autumn_01.flac",
+      "size_bytes": 5789172,
+      "sha256": "692c4720a8a734df9441429e92df70516392a1edba91114783be5d0df956a05c",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_a_small_suitcase",
+      "variation": 1,
+      "filename": "track_06_a_small_suitcase_01.flac",
+      "relative_path": "track_06_a_small_suitcase/track_06_a_small_suitcase_01.flac",
+      "size_bytes": 5092656,
+      "sha256": "e0035113a39665b7a075c4c562038ad6b834c128e2e408cb7dc93475f7a318f1",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_the_road_to_his_twin",
+      "variation": 1,
+      "filename": "track_07_the_road_to_his_twin_01.flac",
+      "relative_path": "track_07_the_road_to_his_twin/track_07_the_road_to_his_twin_01.flac",
+      "size_bytes": 5362769,
+      "sha256": "8a731909d602d965b77c7bf657b3ab6502c14af76bf6688ecc3e349616c82f5e",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_two_rabbits_at_the_door",
+      "variation": 1,
+      "filename": "track_08_two_rabbits_at_the_door_01.flac",
+      "relative_path": "track_08_two_rabbits_at_the_door/track_08_two_rabbits_at_the_door_01.flac",
+      "size_bytes": 5766731,
+      "sha256": "f12249288716e3cafcd8d380c1cdb549c0bae62c8501c696b60afe07281cf5e4",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_09_the_house_that_remembers_him",
+      "variation": 1,
+      "filename": "track_09_the_house_that_remembers_him_01.flac",
+      "relative_path": "track_09_the_house_that_remembers_him/track_09_the_house_that_remembers_him_01.flac",
+      "size_bytes": 5273656,
+      "sha256": "4f04aeea7cc4fb53dbfbbca971e9cbfaf6769cb8050e26157c215408de32742d",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_10_sleeping_beneath_a_familiar_roof",
+      "variation": 1,
+      "filename": "track_10_sleeping_beneath_a_familiar_roof_01.flac",
+      "relative_path": "track_10_sleeping_beneath_a_familiar_roof/track_10_sleeping_beneath_a_familiar_roof_01.flac",
+      "size_bytes": 5552568,
+      "sha256": "6fd7c74b4591839070d859f3e23ca8538597c0ee6f661f99805221187873efe1",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_11_strength_returns_with_morning",
+      "variation": 1,
+      "filename": "track_11_strength_returns_with_morning_01.flac",
+      "relative_path": "track_11_strength_returns_with_morning/track_11_strength_returns_with_morning_01.flac",
+      "size_bytes": 6018843,
+      "sha256": "d199d03f06e9b5c3b8218bdfefb6d39ff9b73791d7e5bb384b3d12c9c39c207b",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_12_returning_to_eternal_autumn",
+      "variation": 1,
+      "filename": "track_12_returning_to_eternal_autumn_01.flac",
+      "relative_path": "track_12_returning_to_eternal_autumn/track_12_returning_to_eternal_autumn_01.flac",
+      "size_bytes": 5538212,
+      "sha256": "e536a3199282e3e00bcb132c23870dfba7d96eb7677775f91192a6e56818b57d",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    }
+  ],
+  "completed_compositions": 0,
+  "partial_compositions": 12,
+  "failed_compositions": 0,
+  "requested_variations": 36,
+  "generated_variations": 12,
+  "missing_variations": 24,
+  "archive_completed_at_utc": "2026-11-07T07:41:35.024837+00:00"
+}

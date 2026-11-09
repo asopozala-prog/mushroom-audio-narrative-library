@@ -1,0 +1,488 @@
+{
+  "schema_version": 1,
+  "batch_id": "studio_batch_1483c580de6a49e0",
+  "archive_label": "20261107_131748_hormus_and_maja_the_wisdom_and_the_bee",
+  "batch_theme": "hormus_and_maja_the_wisdom_and_the_bee",
+  "generation_started_at": 1794053868.5045,
+  "model": {
+    "family": "ACE-Step",
+    "checkpoint_name": "acestep-v15-sft",
+    "checkpoint_revision": null,
+    "route": "sft_lm"
+  },
+  "generation": {
+    "prompts": [
+      {
+        "output_name": "track_01_the_ancient_horse_spirit",
+        "prompt": "Majestic instrumental romantic orchestral music, 76 BPM, deep expressive cellos, warm French horns and lyrical violins. Broad flowing melody, rich minor-to-major harmonies, noble rhythmic movement, powerful restrained dynamics, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_02_a_million_years_of_memories",
+        "prompt": "Atmospheric instrumental neoclassical music, 62 BPM, expressive solo cello and warm sustained strings. Slow evolving melody, deep resonant harmonies, gentle repeating pulse, gradual orchestral swells, mysterious ancient atmosphere, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_03_too_many_ideas_at_once",
+        "prompt": "Playful instrumental bebop jazz, 132 BPM, lively alto saxophone, walking upright bass and crisp swinging drums. Rapid melodic phrases, unexpected syncopated accents, chromatic runs, energetic improvisational character, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_04_hormus_forgets_the_plan",
+        "prompt": "Whimsical instrumental chamber jazz, 96 BPM, expressive clarinet, plucked upright bass and light piano. Bouncing rhythmic groove, playful ascending motifs, sudden melodic turns, warm bluesy harmonies, mischievous atmosphere, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_05_the_wisdom_of_a_clumsy_spirit",
+        "prompt": "Warm instrumental cool jazz, 78 BPM, mellow tenor saxophone, upright bass and gentle brushed drums. Confident flowing melody interrupted by playful syncopation, rich seventh harmonies, relaxed steady swing, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_06_maja_the_little_bee",
+        "prompt": "Bright instrumental light swing jazz, 108 BPM, cheerful alto saxophone, walking upright bass and soft jazz drums. Short repeating melodic motifs, steady bouncing rhythm, simple major harmonies, clear playful energy, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_07_one_command_at_a_time",
+        "prompt": "Minimal instrumental groove jazz, 88 BPM, warm electric piano, rounded bass and crisp brushed percussion. Precise repeating four-note melody, consistent rhythmic pulse, simple harmonic progression, clean balanced production, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_08_the_joy_of_doing",
+        "prompt": "Cheerful instrumental bossa nova jazz, 104 BPM, warm nylon-string guitar, mellow bass and light Latin percussion. Steady syncopated groove, bright repeating melody, simple major seventh harmonies, relaxed joyful atmosphere, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_09_small_wings_steady_work",
+        "prompt": "Light instrumental chamber music, 112 BPM, delicate pizzicato violins, warm cello and gentle piano. Short repeating motifs, precise rhythmic movement, bright major harmonies, graceful controlled dynamics, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_10_the_horse_explains_everything",
+        "prompt": "Playful instrumental swing jazz, 118 BPM, expressive tenor saxophone, walking upright bass and lively brushed drums. Long elaborate melodic phrases, bluesy improvisation, confident rhythmic accents, humorous musical character, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_11_the_bee_has_already_finished",
+        "prompt": "Bright instrumental cool jazz, 110 BPM, cheerful alto saxophone, upright bass and crisp brushed drums. Short decisive melodic phrases, steady swinging groove, playful major harmonies, clean rhythmic resolution, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_12_a_command_lost_in_the_forest",
+        "prompt": "Mischievous instrumental modal jazz, 94 BPM, low tenor saxophone, warm upright bass and restrained jazz drums. Repeating minor-key motif, unexpected chromatic turns, subtle rhythmic tension, steady underlying groove, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_13_the_great_computing_disaster",
+        "prompt": "Energetic instrumental swing jazz, 138 BPM, bright alto saxophone, walking upright bass and lively jazz drums. Fast syncopated phrases, playful rhythmic accents, bluesy harmonic movement, controlled chaotic energy, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_14_maja_finds_the_missing_path",
+        "prompt": "Warm instrumental soul jazz, 92 BPM, mellow electric piano, deep rounded bass and soft brushed drums. Clear ascending melody, steady confident groove, gentle minor-to-major harmonic movement, optimistic restrained dynamics, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_15_two_minds_one_workshop",
+        "prompt": "Elegant instrumental chamber jazz, 84 BPM, lyrical tenor saxophone, warm piano, upright bass and gentle brushed drums. Alternating short piano and saxophone phrases, relaxed steady swing, balanced melodic dialogue, rich warm harmonies, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_16_the_mushroom_house_is_running",
+        "prompt": "Uplifting instrumental orchestral jazz, 106 BPM, expressive tenor saxophone, warm brass section, walking bass and steady jazz drums. Confident rhythmic groove, broad ascending melody, bright major harmonies, gradual dynamic expansion, celebratory energy, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_17_tomorrow_we_try_again",
+        "prompt": "Tender instrumental cool jazz, 72 BPM, mellow tenor saxophone, warm electric piano, rounded bass and soft brushed drums. Relaxed continuous groove, gentle repeating melody, rich major seventh harmonies, subtle playful variations, affectionate peaceful resolution, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      }
+    ],
+    "requested_audio_format": "flac"
+  },
+  "kaggle_manifest": [
+    {
+      "output_name": "track_01_the_ancient_horse_spirit",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_01_the_ancient_horse_spirit/9a488379-7536-03a3-ad02-a06a09e082a0.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_02_a_million_years_of_memories",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_02_a_million_years_of_memories/5a063c01-aeaa-ba5a-f820-c252bd489141.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_03_too_many_ideas_at_once",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_03_too_many_ideas_at_once/d73f353a-d201-eb03-3ab1-a0dbdb40a6fe.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_04_hormus_forgets_the_plan",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_04_hormus_forgets_the_plan/537aabc8-6525-d534-9210-64519b3d835d.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_05_the_wisdom_of_a_clumsy_spirit",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_05_the_wisdom_of_a_clumsy_spirit/858856d6-5015-028f-ea5e-01a311ff8f05.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_06_maja_the_little_bee",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_06_maja_the_little_bee/9e513ad7-0620-3f1c-dfa9-cb830b88b047.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_07_one_command_at_a_time",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_07_one_command_at_a_time/2618afd6-69d4-689c-5ed1-c20e1b6a5875.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_08_the_joy_of_doing",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_08_the_joy_of_doing/33c7c472-a12f-5fc9-9131-497859700540.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_09_small_wings_steady_work",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_09_small_wings_steady_work/dfaf30fd-9d51-0243-db66-93a6897006db.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_10_the_horse_explains_everything",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_10_the_horse_explains_everything/e389ee40-b26b-337f-fccd-9a58b94df17d.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_11_the_bee_has_already_finished",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_11_the_bee_has_already_finished/36f5b999-0075-b9bc-e40c-6f06f1949a92.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_12_a_command_lost_in_the_forest",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_12_a_command_lost_in_the_forest/3a05c19e-4064-5601-96f6-c2794fc7b883.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_13_the_great_computing_disaster",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_13_the_great_computing_disaster/9b725cd4-cd4f-0259-b37f-ef8b6a974a7b.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_14_maja_finds_the_missing_path",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_14_maja_finds_the_missing_path/fdc926ec-aee6-2ffb-8856-aec1f4fc20f6.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_15_two_minds_one_workshop",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_15_two_minds_one_workshop/487d6f59-4b54-5988-4e06-a265dc7aabe6.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_16_the_mushroom_house_is_running",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_16_the_mushroom_house_is_running/3fdb5ff5-fd5b-4cd5-cc07-e8d563a41774.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_17_tomorrow_we_try_again",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_17_tomorrow_we_try_again/624309cb-4dda-9b46-7dd5-fee0682ae270.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    }
+  ],
+  "outputs": [
+    {
+      "composition": "track_01_the_ancient_horse_spirit",
+      "variation": 1,
+      "filename": "track_01_the_ancient_horse_spirit_01.flac",
+      "relative_path": "track_01_the_ancient_horse_spirit/track_01_the_ancient_horse_spirit_01.flac",
+      "size_bytes": 5595031,
+      "sha256": "ef97874c4cdc827b2bd2ca30aac54bf150da9abda2818895e5efd11d0cbd4128",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_a_million_years_of_memories",
+      "variation": 1,
+      "filename": "track_02_a_million_years_of_memories_01.flac",
+      "relative_path": "track_02_a_million_years_of_memories/track_02_a_million_years_of_memories_01.flac",
+      "size_bytes": 5118278,
+      "sha256": "eda05e9a04ddd214f25b42bff2a3aeabfad6963aeb4c674d486efa8039e76a5f",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_too_many_ideas_at_once",
+      "variation": 1,
+      "filename": "track_03_too_many_ideas_at_once_01.flac",
+      "relative_path": "track_03_too_many_ideas_at_once/track_03_too_many_ideas_at_once_01.flac",
+      "size_bytes": 5706528,
+      "sha256": "21a9ca3cf7d201f3632fefe4fb720632dd54ee0f5c466dfbe968950548514021",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_hormus_forgets_the_plan",
+      "variation": 1,
+      "filename": "track_04_hormus_forgets_the_plan_01.flac",
+      "relative_path": "track_04_hormus_forgets_the_plan/track_04_hormus_forgets_the_plan_01.flac",
+      "size_bytes": 5362753,
+      "sha256": "9033b07ba73b0cf06b694cfda08eb97215e7cb4ab88811f7351d061945369444",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_wisdom_of_a_clumsy_spirit",
+      "variation": 1,
+      "filename": "track_05_the_wisdom_of_a_clumsy_spirit_01.flac",
+      "relative_path": "track_05_the_wisdom_of_a_clumsy_spirit/track_05_the_wisdom_of_a_clumsy_spirit_01.flac",
+      "size_bytes": 5017518,
+      "sha256": "a77c44cd5c5fb1c549bf3f8404d93d83a3e4f9455ea8ce097755c4a09d6f0c9f",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_maja_the_little_bee",
+      "variation": 1,
+      "filename": "track_06_maja_the_little_bee_01.flac",
+      "relative_path": "track_06_maja_the_little_bee/track_06_maja_the_little_bee_01.flac",
+      "size_bytes": 5762026,
+      "sha256": "50b819eac0a5b2d45e0cb552565b316fda038459649be51206a9c8f1c3ebfccc",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_one_command_at_a_time",
+      "variation": 1,
+      "filename": "track_07_one_command_at_a_time_01.flac",
+      "relative_path": "track_07_one_command_at_a_time/track_07_one_command_at_a_time_01.flac",
+      "size_bytes": 5464716,
+      "sha256": "05b8ce3790f758f06414b77290fb11a769b16a47321d09d33efd514e816f111c",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_the_joy_of_doing",
+      "variation": 1,
+      "filename": "track_08_the_joy_of_doing_01.flac",
+      "relative_path": "track_08_the_joy_of_doing/track_08_the_joy_of_doing_01.flac",
+      "size_bytes": 5202819,
+      "sha256": "a3cb3593345fd5e1449316e3cfa562e95591c7f7127ddc2ab85474f4b4359f07",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_09_small_wings_steady_work",
+      "variation": 1,
+      "filename": "track_09_small_wings_steady_work_01.flac",
+      "relative_path": "track_09_small_wings_steady_work/track_09_small_wings_steady_work_01.flac",
+      "size_bytes": 5252729,
+      "sha256": "61ace995613f9f924303c96a66f48bd8776e837f9b590d640f20fd53fb03f8e0",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_10_the_horse_explains_everything",
+      "variation": 1,
+      "filename": "track_10_the_horse_explains_everything_01.flac",
+      "relative_path": "track_10_the_horse_explains_everything/track_10_the_horse_explains_everything_01.flac",
+      "size_bytes": 5729870,
+      "sha256": "d8d6f1fda165069e458a71886a1c55fd67a157677705b76837bf7c968ce7b046",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_11_the_bee_has_already_finished",
+      "variation": 1,
+      "filename": "track_11_the_bee_has_already_finished_01.flac",
+      "relative_path": "track_11_the_bee_has_already_finished/track_11_the_bee_has_already_finished_01.flac",
+      "size_bytes": 5533236,
+      "sha256": "53ad6aa505264a7092154df6df2185c8cacc5ad64ca0bc52e45924766ddea835",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_12_a_command_lost_in_the_forest",
+      "variation": 1,
+      "filename": "track_12_a_command_lost_in_the_forest_01.flac",
+      "relative_path": "track_12_a_command_lost_in_the_forest/track_12_a_command_lost_in_the_forest_01.flac",
+      "size_bytes": 5142153,
+      "sha256": "86af356d88f760a7cf9f405b6ccac225c49bcdb85fd7dd98c194376fdd85db4c",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_13_the_great_computing_disaster",
+      "variation": 1,
+      "filename": "track_13_the_great_computing_disaster_01.flac",
+      "relative_path": "track_13_the_great_computing_disaster/track_13_the_great_computing_disaster_01.flac",
+      "size_bytes": 5850105,
+      "sha256": "82e9b443bad82f2718b95615267d7773c2ae66fa80699fb16f1b3255964b7082",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_14_maja_finds_the_missing_path",
+      "variation": 1,
+      "filename": "track_14_maja_finds_the_missing_path_01.flac",
+      "relative_path": "track_14_maja_finds_the_missing_path/track_14_maja_finds_the_missing_path_01.flac",
+      "size_bytes": 5409927,
+      "sha256": "9619cc740504cf09c4dc424775313951365fa5e52f182fb7c02e3ed217babb24",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_15_two_minds_one_workshop",
+      "variation": 1,
+      "filename": "track_15_two_minds_one_workshop_01.flac",
+      "relative_path": "track_15_two_minds_one_workshop/track_15_two_minds_one_workshop_01.flac",
+      "size_bytes": 5426757,
+      "sha256": "89a5256f6349b9a17edc1a2057bb4226639e3dc6396a98dde3f969c8bf5c97e4",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_16_the_mushroom_house_is_running",
+      "variation": 1,
+      "filename": "track_16_the_mushroom_house_is_running_01.flac",
+      "relative_path": "track_16_the_mushroom_house_is_running/track_16_the_mushroom_house_is_running_01.flac",
+      "size_bytes": 5364264,
+      "sha256": "e8f11f4a01e3234bf9c703ad019e417ea243dd79f58a94842c37343167165a13",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_17_tomorrow_we_try_again",
+      "variation": 1,
+      "filename": "track_17_tomorrow_we_try_again_01.flac",
+      "relative_path": "track_17_tomorrow_we_try_again/track_17_tomorrow_we_try_again_01.flac",
+      "size_bytes": 5639048,
+      "sha256": "0c1a34735ff5612aedb9ca584273d6a552dbb1ea183345ba8b66c20c6b3f74b8",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    }
+  ],
+  "completed_compositions": 0,
+  "partial_compositions": 17,
+  "failed_compositions": 0,
+  "requested_variations": 51,
+  "generated_variations": 17,
+  "missing_variations": 34,
+  "archive_completed_at_utc": "2026-11-07T12:49:00.171853+00:00"
+}

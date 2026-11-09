@@ -1,0 +1,11 @@
+{
+  "route": "sft_lm",
+  "prompt": "Warm, relaxed café jazz with a mellow, expressive tenor saxophone lead, gentle jazz piano, upright bass, and soft brushed drums. Lazy swing at 82 BPM. Sleepy, playful saxophone improvisation, cozy afternoon atmosphere, intimate acoustic jazz quartet. Instrumental, no vocals.",
+  "duration_seconds": 90,
+  "output_name": "studio_8fdfa4729be74053",
+  "source_format": "flac",
+  "listening_format": "mp3",
+  "mp3_bitrate": "320k",
+  "kernel_id": "asopozala/mushroom-house-ace-step-music-studio",
+  "requested_accelerator": "NvidiaTeslaT4"
+}

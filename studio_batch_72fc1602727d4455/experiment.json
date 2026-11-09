@@ -1,0 +1,896 @@
+{
+  "schema_version": 1,
+  "batch_id": "studio_batch_72fc1602727d4455",
+  "archive_label": "20261107_113553_hormus_and_maja_the_wisdom_and_the_bee",
+  "batch_theme": "hormus_and_maja_the_wisdom_and_the_bee",
+  "generation_started_at": 1794047753.8934982,
+  "model": {
+    "family": "ACE-Step",
+    "checkpoint_name": "acestep-v15-turbo",
+    "checkpoint_revision": null,
+    "route": "turbo"
+  },
+  "generation": {
+    "prompts": [
+      {
+        "output_name": "track_01_the_ancient_horse_spirit",
+        "prompt": "Majestic instrumental romantic orchestral music, 76 BPM, deep expressive cellos, warm French horns and lyrical violins. Broad flowing melody, rich minor-to-major harmonies, noble rhythmic movement, powerful restrained dynamics, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_02_a_million_years_of_memories",
+        "prompt": "Atmospheric instrumental neoclassical music, 62 BPM, expressive solo cello and warm sustained strings. Slow evolving melody, deep resonant harmonies, gentle repeating pulse, gradual orchestral swells, mysterious ancient atmosphere, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_03_too_many_ideas_at_once",
+        "prompt": "Playful instrumental bebop jazz, 132 BPM, lively alto saxophone, walking upright bass and crisp swinging drums. Rapid melodic phrases, unexpected syncopated accents, chromatic runs, energetic improvisational character, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_04_hormus_forgets_the_plan",
+        "prompt": "Whimsical instrumental chamber jazz, 96 BPM, expressive clarinet, plucked upright bass and light piano. Bouncing rhythmic groove, playful ascending motifs, sudden melodic turns, warm bluesy harmonies, mischievous atmosphere, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_05_the_wisdom_of_a_clumsy_spirit",
+        "prompt": "Warm instrumental cool jazz, 78 BPM, mellow tenor saxophone, upright bass and gentle brushed drums. Confident flowing melody interrupted by playful syncopation, rich seventh harmonies, relaxed steady swing, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_06_maja_the_little_bee",
+        "prompt": "Bright instrumental light swing jazz, 108 BPM, cheerful alto saxophone, walking upright bass and soft jazz drums. Short repeating melodic motifs, steady bouncing rhythm, simple major harmonies, clear playful energy, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_07_one_command_at_a_time",
+        "prompt": "Minimal instrumental groove jazz, 88 BPM, warm electric piano, rounded bass and crisp brushed percussion. Precise repeating four-note melody, consistent rhythmic pulse, simple harmonic progression, clean balanced production, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_08_the_joy_of_doing",
+        "prompt": "Cheerful instrumental bossa nova jazz, 104 BPM, warm nylon-string guitar, mellow bass and light Latin percussion. Steady syncopated groove, bright repeating melody, simple major seventh harmonies, relaxed joyful atmosphere, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_09_small_wings_steady_work",
+        "prompt": "Light instrumental chamber music, 112 BPM, delicate pizzicato violins, warm cello and gentle piano. Short repeating motifs, precise rhythmic movement, bright major harmonies, graceful controlled dynamics, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_10_the_horse_explains_everything",
+        "prompt": "Playful instrumental swing jazz, 118 BPM, expressive tenor saxophone, walking upright bass and lively brushed drums. Long elaborate melodic phrases, bluesy improvisation, confident rhythmic accents, humorous musical character, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_11_the_bee_has_already_finished",
+        "prompt": "Bright instrumental cool jazz, 110 BPM, cheerful alto saxophone, upright bass and crisp brushed drums. Short decisive melodic phrases, steady swinging groove, playful major harmonies, clean rhythmic resolution, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_12_a_command_lost_in_the_forest",
+        "prompt": "Mischievous instrumental modal jazz, 94 BPM, low tenor saxophone, warm upright bass and restrained jazz drums. Repeating minor-key motif, unexpected chromatic turns, subtle rhythmic tension, steady underlying groove, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_13_the_great_computing_disaster",
+        "prompt": "Energetic instrumental swing jazz, 138 BPM, bright alto saxophone, walking upright bass and lively jazz drums. Fast syncopated phrases, playful rhythmic accents, bluesy harmonic movement, controlled chaotic energy, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_14_maja_finds_the_missing_path",
+        "prompt": "Warm instrumental soul jazz, 92 BPM, mellow electric piano, deep rounded bass and soft brushed drums. Clear ascending melody, steady confident groove, gentle minor-to-major harmonic movement, optimistic restrained dynamics, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_15_two_minds_one_workshop",
+        "prompt": "Elegant instrumental chamber jazz, 84 BPM, lyrical tenor saxophone, warm piano, upright bass and gentle brushed drums. Alternating short piano and saxophone phrases, relaxed steady swing, balanced melodic dialogue, rich warm harmonies, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_16_the_mushroom_house_is_running",
+        "prompt": "Uplifting instrumental orchestral jazz, 106 BPM, expressive tenor saxophone, warm brass section, walking bass and steady jazz drums. Confident rhythmic groove, broad ascending melody, bright major harmonies, gradual dynamic expansion, celebratory energy, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_17_tomorrow_we_try_again",
+        "prompt": "Tender instrumental cool jazz, 72 BPM, mellow tenor saxophone, warm electric piano, rounded bass and soft brushed drums. Relaxed continuous groove, gentle repeating melody, rich major seventh harmonies, subtle playful variations, affectionate peaceful resolution, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      }
+    ],
+    "requested_audio_format": "flac"
+  },
+  "kaggle_manifest": [
+    {
+      "output_name": "track_01_the_ancient_horse_spirit",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_01_the_ancient_horse_spirit/42111dd2-2eed-9e99-3a33-98256cb8b522.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_01_the_ancient_horse_spirit/4404f59a-2716-7aa3-7976-536503c429cd.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_01_the_ancient_horse_spirit/b8146f63-3be4-34dd-46cb-b6888ec75a7e.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_02_a_million_years_of_memories",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_02_a_million_years_of_memories/7d36b9d3-576c-dc38-c093-2745036d6383.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_02_a_million_years_of_memories/870b1172-0c10-1555-c685-8c79f93f6d72.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_02_a_million_years_of_memories/502f68f1-98cc-fdf2-81c1-c871ba64a067.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_03_too_many_ideas_at_once",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_03_too_many_ideas_at_once/65eacfb3-c14b-202e-a7cb-d744f8e9cb45.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_03_too_many_ideas_at_once/028a3185-068e-c52b-8ebd-99e33f65842f.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_03_too_many_ideas_at_once/88a384fd-af9e-71c0-f2ce-0a1a2a5491b5.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_04_hormus_forgets_the_plan",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_04_hormus_forgets_the_plan/7576f992-1743-f847-0a2e-a130623f8946.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_04_hormus_forgets_the_plan/4f09a986-05d2-63f4-425f-664e4e093d86.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_04_hormus_forgets_the_plan/faa0a9b5-88a7-520a-fd5a-68a782be91cd.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_05_the_wisdom_of_a_clumsy_spirit",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_05_the_wisdom_of_a_clumsy_spirit/34827778-3ec8-3442-1c6a-b8bed5e3e21e.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_05_the_wisdom_of_a_clumsy_spirit/3fba8dff-fee3-b8ec-e717-0df61e215191.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_05_the_wisdom_of_a_clumsy_spirit/8a806419-91ca-48ed-dd12-9c9a45ac18bc.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_06_maja_the_little_bee",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_06_maja_the_little_bee/691a9a00-8e24-76c4-cdd9-896ea59e19b0.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_06_maja_the_little_bee/7cd3816c-ccde-41a4-217d-60c64e51d6c6.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_06_maja_the_little_bee/cfab9596-251c-bee7-2e7b-c78dadc698ac.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_07_one_command_at_a_time",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_07_one_command_at_a_time/bd87c7d8-e6e0-9ce9-32ea-8586df36e7de.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_07_one_command_at_a_time/d752eb98-7363-5b9f-367c-3ca7f2366dec.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_07_one_command_at_a_time/7820391e-5711-9b69-6e53-121095a7ca5e.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_08_the_joy_of_doing",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_08_the_joy_of_doing/33c996c7-93ae-77cc-3874-9521758934ae.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_08_the_joy_of_doing/b7267595-a5ab-0d39-3c3b-4a7004e5c372.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_08_the_joy_of_doing/6aa2b710-1560-8e3a-5989-006089b36969.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_09_small_wings_steady_work",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_09_small_wings_steady_work/7dfc1ee8-eafb-e200-c71b-32d2edc83b6b.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_09_small_wings_steady_work/3738f743-019e-dae0-3a2e-6c0e75cf5133.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_09_small_wings_steady_work/12461feb-7769-2822-83a5-fcb6a6bd3f2e.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_10_the_horse_explains_everything",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_10_the_horse_explains_everything/8ef0ecb1-3c42-2a40-eabb-b0758adccf20.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_10_the_horse_explains_everything/4dc0c3ab-9a42-65c9-a75a-c60259dccf41.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_10_the_horse_explains_everything/3a86d3ec-502a-bad2-2f5c-53a679c7c06d.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_11_the_bee_has_already_finished",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_11_the_bee_has_already_finished/ae79479c-83c1-c5ef-1a72-ea78e64e1b3a.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_11_the_bee_has_already_finished/fbb17897-22b0-683d-d29c-04551a096237.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_11_the_bee_has_already_finished/04d785bc-3e8c-61f0-a9f6-c4adb87b28ef.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_12_a_command_lost_in_the_forest",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_12_a_command_lost_in_the_forest/0dcbb256-b101-b1b4-9470-92c8f344a5ae.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_12_a_command_lost_in_the_forest/2942df00-429f-9f71-20d3-730009dbad0b.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_12_a_command_lost_in_the_forest/ec4568fc-d722-7f9c-51c6-1396f3808cfa.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_13_the_great_computing_disaster",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_13_the_great_computing_disaster/ee5a57f0-70e8-7c34-a7a1-c9484d6bad75.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_13_the_great_computing_disaster/a12c23b9-5017-394f-39ed-8b8e58893d51.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_13_the_great_computing_disaster/d824c69e-a4e4-0256-4fff-0fe1e1eb918e.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_14_maja_finds_the_missing_path",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_14_maja_finds_the_missing_path/64967a84-c988-572f-a8f1-b0419fa9559d.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_14_maja_finds_the_missing_path/5cc05bd2-e95b-8d2d-18ec-39c1afac983f.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_14_maja_finds_the_missing_path/d242ee2e-19c7-b8ff-e181-637b6184bac6.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_15_two_minds_one_workshop",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_15_two_minds_one_workshop/a8234fae-e4bc-0a92-844d-2fc6bb5d2404.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_15_two_minds_one_workshop/03679dc3-956a-4f87-a9f5-dad41d9116b7.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_15_two_minds_one_workshop/903ccfd8-12a4-c332-9b52-ebf42afd49c6.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_16_the_mushroom_house_is_running",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_16_the_mushroom_house_is_running/6cb6dc25-0fdd-31ac-6b25-72228abd2957.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_16_the_mushroom_house_is_running/6158550c-a1f1-8cf2-f7ac-171c4c439134.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_16_the_mushroom_house_is_running/4879ed63-a872-0ce4-d13c-68aa6cd554b3.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_17_tomorrow_we_try_again",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_17_tomorrow_we_try_again/22536b6e-9746-9c3e-eb6c-54711161fcd0.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_17_tomorrow_we_try_again/95ca6101-c09f-8ca8-d5a4-ea2680da2233.flac",
+        "/kaggle/working/music_output/studio_batch_72fc1602727d4455/track_17_tomorrow_we_try_again/c56bd072-2db9-cea7-9237-65493fe5681d.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    }
+  ],
+  "outputs": [
+    {
+      "composition": "track_01_the_ancient_horse_spirit",
+      "variation": 1,
+      "filename": "track_01_the_ancient_horse_spirit_01.flac",
+      "relative_path": "track_01_the_ancient_horse_spirit/track_01_the_ancient_horse_spirit_01.flac",
+      "size_bytes": 7699690,
+      "sha256": "82db6807ce9f7d4c182e820e4c75d2451d10e069bf548cb26a78032f244dcedd",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_01_the_ancient_horse_spirit",
+      "variation": 2,
+      "filename": "track_01_the_ancient_horse_spirit_02.flac",
+      "relative_path": "track_01_the_ancient_horse_spirit/track_01_the_ancient_horse_spirit_02.flac",
+      "size_bytes": 7751825,
+      "sha256": "a44de17c5d55ac83b89be02b4d48ab07355f2df78e3100c48c6021033fff6991",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_01_the_ancient_horse_spirit",
+      "variation": 3,
+      "filename": "track_01_the_ancient_horse_spirit_03.flac",
+      "relative_path": "track_01_the_ancient_horse_spirit/track_01_the_ancient_horse_spirit_03.flac",
+      "size_bytes": 7672216,
+      "sha256": "1986495cbf09f99ed1c3f7b977edf1d8fafe9a797998cad17d73c834e7b532dd",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_a_million_years_of_memories",
+      "variation": 1,
+      "filename": "track_02_a_million_years_of_memories_01.flac",
+      "relative_path": "track_02_a_million_years_of_memories/track_02_a_million_years_of_memories_01.flac",
+      "size_bytes": 7285784,
+      "sha256": "cb1c21257dadd6f598e657e166d93d4ea2cce515e08016c05191ed21a887ef8d",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_a_million_years_of_memories",
+      "variation": 2,
+      "filename": "track_02_a_million_years_of_memories_02.flac",
+      "relative_path": "track_02_a_million_years_of_memories/track_02_a_million_years_of_memories_02.flac",
+      "size_bytes": 7232939,
+      "sha256": "4f3fbf6901d3678a4df6b7916ace7550036693b342c5cb98d60d6e63fb114399",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_a_million_years_of_memories",
+      "variation": 3,
+      "filename": "track_02_a_million_years_of_memories_03.flac",
+      "relative_path": "track_02_a_million_years_of_memories/track_02_a_million_years_of_memories_03.flac",
+      "size_bytes": 6928821,
+      "sha256": "e82735566b9cbf0646d6006bbd5543e56adffe6f3e1215c7d89f6950681212e7",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_too_many_ideas_at_once",
+      "variation": 1,
+      "filename": "track_03_too_many_ideas_at_once_01.flac",
+      "relative_path": "track_03_too_many_ideas_at_once/track_03_too_many_ideas_at_once_01.flac",
+      "size_bytes": 8155010,
+      "sha256": "cff8352e300d27afb7685aec2f6662309e1bbb39b2326ac51eded4bbf8ae7436",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_too_many_ideas_at_once",
+      "variation": 2,
+      "filename": "track_03_too_many_ideas_at_once_02.flac",
+      "relative_path": "track_03_too_many_ideas_at_once/track_03_too_many_ideas_at_once_02.flac",
+      "size_bytes": 7914301,
+      "sha256": "14601b69e456217cd226f1bcda6d242d6f1d00091b9508b7d606b495b2643058",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_too_many_ideas_at_once",
+      "variation": 3,
+      "filename": "track_03_too_many_ideas_at_once_03.flac",
+      "relative_path": "track_03_too_many_ideas_at_once/track_03_too_many_ideas_at_once_03.flac",
+      "size_bytes": 7964747,
+      "sha256": "a592a9cca2899ae21837d7bce5d8dd57df1222adcd25824af4c925dcf2e10120",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_hormus_forgets_the_plan",
+      "variation": 1,
+      "filename": "track_04_hormus_forgets_the_plan_01.flac",
+      "relative_path": "track_04_hormus_forgets_the_plan/track_04_hormus_forgets_the_plan_01.flac",
+      "size_bytes": 7327662,
+      "sha256": "57da825079b0feb7457cc6428dd379b79b68859f2ec6afaa228e58f4397faaa3",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_hormus_forgets_the_plan",
+      "variation": 2,
+      "filename": "track_04_hormus_forgets_the_plan_02.flac",
+      "relative_path": "track_04_hormus_forgets_the_plan/track_04_hormus_forgets_the_plan_02.flac",
+      "size_bytes": 6786242,
+      "sha256": "e6c4be8d1f775bb05c79ccf911c6e465c8f06f58c0b96c1e20c5267ff0a43c05",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_hormus_forgets_the_plan",
+      "variation": 3,
+      "filename": "track_04_hormus_forgets_the_plan_03.flac",
+      "relative_path": "track_04_hormus_forgets_the_plan/track_04_hormus_forgets_the_plan_03.flac",
+      "size_bytes": 7180465,
+      "sha256": "0f4a0601e5276149171e7bd63bd956d4578efdf155d9b61e4fc3a4374415ab9f",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_wisdom_of_a_clumsy_spirit",
+      "variation": 1,
+      "filename": "track_05_the_wisdom_of_a_clumsy_spirit_01.flac",
+      "relative_path": "track_05_the_wisdom_of_a_clumsy_spirit/track_05_the_wisdom_of_a_clumsy_spirit_01.flac",
+      "size_bytes": 7192722,
+      "sha256": "083f75e792330869d8195dfb5e96381de091178a8747e0871f5e673cf438343a",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_wisdom_of_a_clumsy_spirit",
+      "variation": 2,
+      "filename": "track_05_the_wisdom_of_a_clumsy_spirit_02.flac",
+      "relative_path": "track_05_the_wisdom_of_a_clumsy_spirit/track_05_the_wisdom_of_a_clumsy_spirit_02.flac",
+      "size_bytes": 7872077,
+      "sha256": "ed591ff9c6aa1f4085fdafd82e04a0f11a1533e518022f45e7bdfdf1df3009a9",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_wisdom_of_a_clumsy_spirit",
+      "variation": 3,
+      "filename": "track_05_the_wisdom_of_a_clumsy_spirit_03.flac",
+      "relative_path": "track_05_the_wisdom_of_a_clumsy_spirit/track_05_the_wisdom_of_a_clumsy_spirit_03.flac",
+      "size_bytes": 7723353,
+      "sha256": "6d0faea337336b3fe504fbac8b1ace45889d9f11cc35a0aa1b96d04de0729635",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_maja_the_little_bee",
+      "variation": 1,
+      "filename": "track_06_maja_the_little_bee_01.flac",
+      "relative_path": "track_06_maja_the_little_bee/track_06_maja_the_little_bee_01.flac",
+      "size_bytes": 8780477,
+      "sha256": "2f52995542afdb7a1919457f5cdadfe01e5a6ae9f19f320d8e03eb2475999756",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_maja_the_little_bee",
+      "variation": 2,
+      "filename": "track_06_maja_the_little_bee_02.flac",
+      "relative_path": "track_06_maja_the_little_bee/track_06_maja_the_little_bee_02.flac",
+      "size_bytes": 8301929,
+      "sha256": "a52bc2d6a3b937244bb5b1e24e001ace989ba8cd8f77a67bae0d8585abc1edfe",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_maja_the_little_bee",
+      "variation": 3,
+      "filename": "track_06_maja_the_little_bee_03.flac",
+      "relative_path": "track_06_maja_the_little_bee/track_06_maja_the_little_bee_03.flac",
+      "size_bytes": 8175465,
+      "sha256": "85de5061f10335aa870f6078b31ea37bc626b3bdfefc9088822b33716ff68285",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_one_command_at_a_time",
+      "variation": 1,
+      "filename": "track_07_one_command_at_a_time_01.flac",
+      "relative_path": "track_07_one_command_at_a_time/track_07_one_command_at_a_time_01.flac",
+      "size_bytes": 7526224,
+      "sha256": "cad0d0503de4deeaf104b9881d6203fd2c1ceafaa7d670a4820c650a375dd45c",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_one_command_at_a_time",
+      "variation": 2,
+      "filename": "track_07_one_command_at_a_time_02.flac",
+      "relative_path": "track_07_one_command_at_a_time/track_07_one_command_at_a_time_02.flac",
+      "size_bytes": 6718194,
+      "sha256": "8683221b0ba4d4ed4d1166c08d0131bf9433abbdee08fece562b8b9282427d9d",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_one_command_at_a_time",
+      "variation": 3,
+      "filename": "track_07_one_command_at_a_time_03.flac",
+      "relative_path": "track_07_one_command_at_a_time/track_07_one_command_at_a_time_03.flac",
+      "size_bytes": 8247223,
+      "sha256": "fc881a50fbc0685dd35e51e6428b3759f60bd86a847c8ca45c46a22b2403c8dc",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_the_joy_of_doing",
+      "variation": 1,
+      "filename": "track_08_the_joy_of_doing_01.flac",
+      "relative_path": "track_08_the_joy_of_doing/track_08_the_joy_of_doing_01.flac",
+      "size_bytes": 8599440,
+      "sha256": "120f5f25c10f730b81ed2ecfec96c653d514f07fcc0a834c3173e8b52aa2d45a",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_the_joy_of_doing",
+      "variation": 2,
+      "filename": "track_08_the_joy_of_doing_02.flac",
+      "relative_path": "track_08_the_joy_of_doing/track_08_the_joy_of_doing_02.flac",
+      "size_bytes": 7656871,
+      "sha256": "ff6548e0f117fd2dadede91fb9b42efb5872822e6508ba56d49c9d67ee587bf1",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_the_joy_of_doing",
+      "variation": 3,
+      "filename": "track_08_the_joy_of_doing_03.flac",
+      "relative_path": "track_08_the_joy_of_doing/track_08_the_joy_of_doing_03.flac",
+      "size_bytes": 7677890,
+      "sha256": "1ee8cc3ee551c80c15a0ddd02d8910cbce2e54cea409fd1bd89734d402da79e6",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_09_small_wings_steady_work",
+      "variation": 1,
+      "filename": "track_09_small_wings_steady_work_01.flac",
+      "relative_path": "track_09_small_wings_steady_work/track_09_small_wings_steady_work_01.flac",
+      "size_bytes": 7484405,
+      "sha256": "723b2ac6c4b89948b758c8444b4934abd078f10c42db05b52468591f4fb202ff",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_09_small_wings_steady_work",
+      "variation": 2,
+      "filename": "track_09_small_wings_steady_work_02.flac",
+      "relative_path": "track_09_small_wings_steady_work/track_09_small_wings_steady_work_02.flac",
+      "size_bytes": 7873897,
+      "sha256": "6c6da759ce32371b919f6c509f82724db0fb7a12c26f7cde56f25f656f7fda92",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_09_small_wings_steady_work",
+      "variation": 3,
+      "filename": "track_09_small_wings_steady_work_03.flac",
+      "relative_path": "track_09_small_wings_steady_work/track_09_small_wings_steady_work_03.flac",
+      "size_bytes": 7656878,
+      "sha256": "5d31ca97f41470c90d03ca02ff4c033c5a63eb7712477f7f118dcc368bcaa47f",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_10_the_horse_explains_everything",
+      "variation": 1,
+      "filename": "track_10_the_horse_explains_everything_01.flac",
+      "relative_path": "track_10_the_horse_explains_everything/track_10_the_horse_explains_everything_01.flac",
+      "size_bytes": 8020547,
+      "sha256": "898e077fcd4130a236f5ff916df8503271e5ff3ad3d52e4b7014a0b9265c54b0",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_10_the_horse_explains_everything",
+      "variation": 2,
+      "filename": "track_10_the_horse_explains_everything_02.flac",
+      "relative_path": "track_10_the_horse_explains_everything/track_10_the_horse_explains_everything_02.flac",
+      "size_bytes": 8515668,
+      "sha256": "865e0e9b168ead573b117894ab9f105a9cec129e1c3889f67d2a002ef77bdbe9",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_10_the_horse_explains_everything",
+      "variation": 3,
+      "filename": "track_10_the_horse_explains_everything_03.flac",
+      "relative_path": "track_10_the_horse_explains_everything/track_10_the_horse_explains_everything_03.flac",
+      "size_bytes": 8246435,
+      "sha256": "4381bb525b3d1d5896316ed5975ddc6bd40e1ac6c7a44bb01b00d5ea126f8ecc",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_11_the_bee_has_already_finished",
+      "variation": 1,
+      "filename": "track_11_the_bee_has_already_finished_01.flac",
+      "relative_path": "track_11_the_bee_has_already_finished/track_11_the_bee_has_already_finished_01.flac",
+      "size_bytes": 7753136,
+      "sha256": "cd745ddb8dbdcd2003fe29d7ea459585cb300adf592e3e7e54067856ce8699b1",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_11_the_bee_has_already_finished",
+      "variation": 2,
+      "filename": "track_11_the_bee_has_already_finished_02.flac",
+      "relative_path": "track_11_the_bee_has_already_finished/track_11_the_bee_has_already_finished_02.flac",
+      "size_bytes": 8433992,
+      "sha256": "451b99cff023976d2d1f61717c4d703c12c3d566c553d64e3a562a5bd7fa2e90",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_11_the_bee_has_already_finished",
+      "variation": 3,
+      "filename": "track_11_the_bee_has_already_finished_03.flac",
+      "relative_path": "track_11_the_bee_has_already_finished/track_11_the_bee_has_already_finished_03.flac",
+      "size_bytes": 8336779,
+      "sha256": "f2658a54f1b0ba1b1e0227bf11b28f1d51b8af379672e1c2c396da6e4fb0659f",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_12_a_command_lost_in_the_forest",
+      "variation": 1,
+      "filename": "track_12_a_command_lost_in_the_forest_01.flac",
+      "relative_path": "track_12_a_command_lost_in_the_forest/track_12_a_command_lost_in_the_forest_01.flac",
+      "size_bytes": 7633882,
+      "sha256": "ea6b78038960f3a96c500ea8e8dd312b2b3010709e8099ef67db6892b79d4930",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_12_a_command_lost_in_the_forest",
+      "variation": 2,
+      "filename": "track_12_a_command_lost_in_the_forest_02.flac",
+      "relative_path": "track_12_a_command_lost_in_the_forest/track_12_a_command_lost_in_the_forest_02.flac",
+      "size_bytes": 7523588,
+      "sha256": "06e2746f53838417995bc631bdacfe6734d6b80eab49e7c87cf1feb1ac97fd2f",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_12_a_command_lost_in_the_forest",
+      "variation": 3,
+      "filename": "track_12_a_command_lost_in_the_forest_03.flac",
+      "relative_path": "track_12_a_command_lost_in_the_forest/track_12_a_command_lost_in_the_forest_03.flac",
+      "size_bytes": 7366392,
+      "sha256": "825285c1256941dfffc1f5de2fb7a22a7b1268a0502337e043892fee7d4c9721",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_13_the_great_computing_disaster",
+      "variation": 1,
+      "filename": "track_13_the_great_computing_disaster_01.flac",
+      "relative_path": "track_13_the_great_computing_disaster/track_13_the_great_computing_disaster_01.flac",
+      "size_bytes": 8834953,
+      "sha256": "a2c561a580beeeb70c9633e0aad39f4831a87989cb8433e657752894e164e7e0",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_13_the_great_computing_disaster",
+      "variation": 2,
+      "filename": "track_13_the_great_computing_disaster_02.flac",
+      "relative_path": "track_13_the_great_computing_disaster/track_13_the_great_computing_disaster_02.flac",
+      "size_bytes": 8742625,
+      "sha256": "6602c19181827c47c4aa877f678eb35be1185c7b279ab94fb5c63daef5a0d5a5",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_13_the_great_computing_disaster",
+      "variation": 3,
+      "filename": "track_13_the_great_computing_disaster_03.flac",
+      "relative_path": "track_13_the_great_computing_disaster/track_13_the_great_computing_disaster_03.flac",
+      "size_bytes": 8362113,
+      "sha256": "81c6d8d06bd18dd9e2f0271adeb87d4dccd92b006f9ce71911f88ba729dff485",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_14_maja_finds_the_missing_path",
+      "variation": 1,
+      "filename": "track_14_maja_finds_the_missing_path_01.flac",
+      "relative_path": "track_14_maja_finds_the_missing_path/track_14_maja_finds_the_missing_path_01.flac",
+      "size_bytes": 8036013,
+      "sha256": "0fb346c979ea70cebb07987893294a233f29c31d67f7b9659bf0b08736497956",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_14_maja_finds_the_missing_path",
+      "variation": 2,
+      "filename": "track_14_maja_finds_the_missing_path_02.flac",
+      "relative_path": "track_14_maja_finds_the_missing_path/track_14_maja_finds_the_missing_path_02.flac",
+      "size_bytes": 7269722,
+      "sha256": "de096d6a1a306ca899ae42d5bca6b531b6fb6d91baa6de2db4787060591a44bc",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_14_maja_finds_the_missing_path",
+      "variation": 3,
+      "filename": "track_14_maja_finds_the_missing_path_03.flac",
+      "relative_path": "track_14_maja_finds_the_missing_path/track_14_maja_finds_the_missing_path_03.flac",
+      "size_bytes": 7589163,
+      "sha256": "a8bc28a49ca7ad7398a5444386011e56c9c02a0a28e0eabc926e56af961eddad",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_15_two_minds_one_workshop",
+      "variation": 1,
+      "filename": "track_15_two_minds_one_workshop_01.flac",
+      "relative_path": "track_15_two_minds_one_workshop/track_15_two_minds_one_workshop_01.flac",
+      "size_bytes": 7397563,
+      "sha256": "b3df1ca41cb70c611d0f7d444a06ed371eb5a5b8a7f6d4975010e35ed820d7da",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_15_two_minds_one_workshop",
+      "variation": 2,
+      "filename": "track_15_two_minds_one_workshop_02.flac",
+      "relative_path": "track_15_two_minds_one_workshop/track_15_two_minds_one_workshop_02.flac",
+      "size_bytes": 7104399,
+      "sha256": "0ebaff684f428c0db7bc9c21f1cb03a01168e9618adbc3ad6cd831be435f8b4a",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_15_two_minds_one_workshop",
+      "variation": 3,
+      "filename": "track_15_two_minds_one_workshop_03.flac",
+      "relative_path": "track_15_two_minds_one_workshop/track_15_two_minds_one_workshop_03.flac",
+      "size_bytes": 7570250,
+      "sha256": "358a494323480ece1a80888dee9354e660de589f3115b5bc878266cc86320af9",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_16_the_mushroom_house_is_running",
+      "variation": 1,
+      "filename": "track_16_the_mushroom_house_is_running_01.flac",
+      "relative_path": "track_16_the_mushroom_house_is_running/track_16_the_mushroom_house_is_running_01.flac",
+      "size_bytes": 7999068,
+      "sha256": "91e21f30a394f96e9cd8994ef7f2d21209719a8758a14ec080e04180940753e3",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_16_the_mushroom_house_is_running",
+      "variation": 2,
+      "filename": "track_16_the_mushroom_house_is_running_02.flac",
+      "relative_path": "track_16_the_mushroom_house_is_running/track_16_the_mushroom_house_is_running_02.flac",
+      "size_bytes": 8204020,
+      "sha256": "8384e64f6a7cdd40626f1395f9f1c8f4744a0dd1ba80dbfaa3363348e540e199",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_16_the_mushroom_house_is_running",
+      "variation": 3,
+      "filename": "track_16_the_mushroom_house_is_running_03.flac",
+      "relative_path": "track_16_the_mushroom_house_is_running/track_16_the_mushroom_house_is_running_03.flac",
+      "size_bytes": 8389843,
+      "sha256": "bf3acf12a152a0c056ed199f491e7db0256051a8f3d78bbae6745b919bb28401",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_17_tomorrow_we_try_again",
+      "variation": 1,
+      "filename": "track_17_tomorrow_we_try_again_01.flac",
+      "relative_path": "track_17_tomorrow_we_try_again/track_17_tomorrow_we_try_again_01.flac",
+      "size_bytes": 6886304,
+      "sha256": "b7baf5d65b37dc4e44f7d915532be22ecaeee3f9b1127285a14e1c248ef2ecc2",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_17_tomorrow_we_try_again",
+      "variation": 2,
+      "filename": "track_17_tomorrow_we_try_again_02.flac",
+      "relative_path": "track_17_tomorrow_we_try_again/track_17_tomorrow_we_try_again_02.flac",
+      "size_bytes": 7037254,
+      "sha256": "1cf889d7d25f36c1eede0dfef08faff3928be432628f909ff07dad3ebbd1ddfa",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_17_tomorrow_we_try_again",
+      "variation": 3,
+      "filename": "track_17_tomorrow_we_try_again_03.flac",
+      "relative_path": "track_17_tomorrow_we_try_again/track_17_tomorrow_we_try_again_03.flac",
+      "size_bytes": 7006152,
+      "sha256": "4fb49d6409326b0e1f061f7b992874c00a644b60c3a5bbfaf47b246f4e161f3f",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    }
+  ],
+  "completed_compositions": 17,
+  "partial_compositions": 0,
+  "failed_compositions": 0,
+  "requested_variations": 51,
+  "generated_variations": 51,
+  "missing_variations": 0,
+  "archive_completed_at_utc": "2026-11-07T11:02:30.217099+00:00"
+}

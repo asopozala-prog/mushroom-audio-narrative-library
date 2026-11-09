@@ -1,0 +1,92 @@
+[
+  {
+    "output_name": "track_01_the_afternoon_begins",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_680f2b5ae6514ae7/track_01_the_afternoon_begins/89baef4c-b666-5700-01fd-ad55145717a8.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_02_the_gentleman_and_his_newspaper",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_680f2b5ae6514ae7/track_02_the_gentleman_and_his_newspaper/8cbbc7e2-3b7e-e7df-c6d2-63bd96f357de.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_03_the_cat_favourite_chair",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_680f2b5ae6514ae7/track_03_the_cat_favourite_chair/f8fb18f8-84c8-52c7-fd9f-ff4d9fe1e640.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_04_the_lady_in_red",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_680f2b5ae6514ae7/track_04_the_lady_in_red/5f51b225-69e8-5cc0-8762-473402a35d8d.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_05_a_chair_for_a_deer",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_680f2b5ae6514ae7/track_05_a_chair_for_a_deer/8ea392a4-f5af-4792-afd6-47d6a9293ede.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_06_antlers_and_antique_furniture",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_680f2b5ae6514ae7/track_06_antlers_and_antique_furniture/f5253c99-e7af-e713-255c-b54718a4a62c.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_07_the_little_demons_coffee",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_680f2b5ae6514ae7/track_07_the_little_demons_coffee/38657e52-4b97-2853-3500-5bbafd6ddebe.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_08_the_unreachable_cup",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_680f2b5ae6514ae7/track_08_the_unreachable_cup/7c6706f7-ae53-6c0c-7c50-fe0c8184756c.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_09_an_unexpected_neighbour",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_680f2b5ae6514ae7/track_09_an_unexpected_neighbour/f535a98f-7231-c553-5ac9-0eef3016a74d.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  }
+]

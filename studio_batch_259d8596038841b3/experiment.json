@@ -1,0 +1,641 @@
+{
+  "schema_version": 1,
+  "batch_id": "studio_batch_259d8596038841b3",
+  "archive_label": "20261106_095342_panic_attack_the_body_remembers_but_i_remain",
+  "batch_theme": "panic_attack_the_body_remembers_but_i_remain",
+  "generation_started_at": 1793955222.3400168,
+  "model": {
+    "family": "ACE-Step",
+    "checkpoint_name": "acestep-v15-turbo",
+    "checkpoint_revision": null,
+    "route": "turbo"
+  },
+  "generation": {
+    "prompts": [
+      {
+        "output_name": "track_01_the_morning_of_waiting",
+        "prompt": "Tense instrumental cool jazz, 68 BPM, breathy tenor saxophone, deep upright bass and soft brushed drums. Slow steady pulse, descending minor melody, restrained dynamics, unresolved harmonies, intimate dark atmosphere, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_02_the_letter_not_yet_opened",
+        "prompt": "Atmospheric instrumental downtempo, 65 BPM, intimate electric piano, deep warm bass and restrained brushed percussion. Hypnotic steady groove, repeating minor-key motif, subtle harmonic tension, controlled dynamics, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_03_words_like_cold_metal",
+        "prompt": "Dark instrumental modal jazz, 74 BPM, low tenor saxophone, walking upright bass and crisp jazz drums. Insistent rhythmic pulse, angular melodic phrases, dissonant minor harmonies, sharp accents, controlled intensity, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_04_the_first_heartbeat",
+        "prompt": "Tense instrumental downtempo jazz, 78 BPM, deep pulsing bass, warm electric piano and soft brushed percussion. Strong regular beat, short repeating piano motif, gradually rising harmonic tension, intimate close production, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_05_the_body_begins_to_shiver",
+        "prompt": "Dark instrumental cool jazz, 82 BPM, expressive tenor saxophone, upright bass and restrained brushed drums. Nervous syncopated melody over a steady groove, subtle chromatic movement, minor seventh harmonies, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_06_the_room_becomes_distant",
+        "prompt": "Atmospheric instrumental chillout, 60 BPM, warm synthesizer pads, deep rounded bass and soft electronic percussion. Slow continuous pulse, distant repeating electric piano melody, suspended minor harmonies, spacious reverb, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_07_the_numbness",
+        "prompt": "Minimal instrumental downtempo, 64 BPM, muted electric piano, deep soft bass and delicate brushed percussion. Repetitive hypnotic groove, narrow melodic range, restrained dynamics, unresolved minor harmonies, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_08_still_here_beneath_the_fear",
+        "prompt": "Warm instrumental soul jazz, 68 BPM, mellow tenor saxophone, rounded upright bass and gentle brushed drums. Steady grounded groove, expressive descending melody, rich minor seventh harmonies, gradual softening of tension, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_09_one_page_at_a_time",
+        "prompt": "Reflective instrumental cool jazz, 72 BPM, warm tenor saxophone, upright bass and soft brushed drums. Measured continuous swing, clear repeating melodic phrases, gentle harmonic progression, restrained confident dynamics, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_10_the_right_to_remain",
+        "prompt": "Resolute instrumental romantic chamber music, 76 BPM, expressive solo cello with warm piano accompaniment. Strong measured pulse, sustained lyrical melody, rich minor-to-major harmonies, gradual controlled crescendo, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_11_the_door_is_mine_to_open",
+        "prompt": "Warm instrumental modal jazz, 80 BPM, confident tenor saxophone, walking upright bass and steady brushed drums. Firm rhythmic groove, ascending melodic phrases, blues-inflected harmonies, gradual dynamic expansion, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_12_after_the_shivering",
+        "prompt": "Tender instrumental downtempo jazz, 65 BPM, intimate electric piano, deep warm bass and soft brushed percussion. Slow hypnotic pulse, flowing melodic phrases, gentle minor-to-major harmonic movement, quiet resolution, warm natural production, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      }
+    ],
+    "requested_audio_format": "flac"
+  },
+  "kaggle_manifest": [
+    {
+      "output_name": "track_01_the_morning_of_waiting",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_01_the_morning_of_waiting/31aa1032-4f31-1560-9ae6-db68021614ab.flac",
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_01_the_morning_of_waiting/7c3b3e98-9407-57a5-6fd9-e8484f8a9bc3.flac",
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_01_the_morning_of_waiting/cbd0eaac-3b6c-5652-7d63-c7d79bf75d17.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_02_the_letter_not_yet_opened",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_02_the_letter_not_yet_opened/ae4b40e0-f18d-50f2-db01-f3a33a9b93ca.flac",
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_02_the_letter_not_yet_opened/0025de09-5d43-c2e4-a4f4-e6599aa03641.flac",
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_02_the_letter_not_yet_opened/0559aecb-2078-5d00-76fb-021848038619.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_03_words_like_cold_metal",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_03_words_like_cold_metal/a6116d55-0804-8a01-22a1-551c600e6a85.flac",
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_03_words_like_cold_metal/7be8b04a-4eeb-be99-d318-b6b3b19e65d9.flac",
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_03_words_like_cold_metal/0ea93b40-3890-8dd5-dc1a-9e9b2f6b1e20.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_04_the_first_heartbeat",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_04_the_first_heartbeat/36cd59d1-bc9d-f350-08b7-d1d033523e62.flac",
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_04_the_first_heartbeat/058fe98e-1805-e0e6-7514-38463dccf5f9.flac",
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_04_the_first_heartbeat/29663518-67e7-d50f-409a-460e521c2f29.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_05_the_body_begins_to_shiver",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_05_the_body_begins_to_shiver/c03d4429-a5b1-dfc7-3819-ce283c5bbd15.flac",
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_05_the_body_begins_to_shiver/ddab221f-38da-864d-3522-5612aa7b9e3b.flac",
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_05_the_body_begins_to_shiver/899bf9e5-2f44-530d-16ef-e82b71a8ed48.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_06_the_room_becomes_distant",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_06_the_room_becomes_distant/f2f62c7f-8317-e302-6dbd-bd84dacdf03a.flac",
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_06_the_room_becomes_distant/0cc1283e-9419-eb2c-e600-148cdfb92841.flac",
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_06_the_room_becomes_distant/d90b06cc-6667-3bd1-ce21-54a7db920720.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_07_the_numbness",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_07_the_numbness/b7492fdc-6704-cd3d-5de1-973bfce384e5.flac",
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_07_the_numbness/07cbc1dc-2930-0168-d133-7137f62eb5b4.flac",
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_07_the_numbness/ac0078ed-7efa-0777-c5f3-3cb38547da93.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_08_still_here_beneath_the_fear",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_08_still_here_beneath_the_fear/92a47a95-d16d-492d-1be1-15c2499695e0.flac",
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_08_still_here_beneath_the_fear/5afa5abe-5321-b019-193f-6944d58e612c.flac",
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_08_still_here_beneath_the_fear/f03d5e83-818f-e0c7-e2ac-a07d52a5f65d.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_09_one_page_at_a_time",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_09_one_page_at_a_time/07deeb8a-7bec-0c6b-fe9b-9d3f636a7afe.flac",
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_09_one_page_at_a_time/fa658489-6ccc-665f-cc02-a4c9552d4ace.flac",
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_09_one_page_at_a_time/239957c8-2528-8af7-a5bc-d96f02dfb3cf.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_10_the_right_to_remain",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_10_the_right_to_remain/edf77e01-e369-d05c-d0d2-05004107ef3d.flac",
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_10_the_right_to_remain/60d52c3b-6040-e138-03ed-ddc726363b50.flac",
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_10_the_right_to_remain/1d517356-ead8-0401-3dfe-7eaaaeadf2a7.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_11_the_door_is_mine_to_open",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_11_the_door_is_mine_to_open/62d696ee-4e4d-13be-44b3-7b57070f9dec.flac",
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_11_the_door_is_mine_to_open/f92e8279-54be-4042-1c8b-d45c8853fcd2.flac",
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_11_the_door_is_mine_to_open/5e43d2f3-f3b7-205e-316a-131bc0e6125f.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_12_after_the_shivering",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_12_after_the_shivering/5a590b9b-47f4-1b34-34df-70c7c231e25d.flac",
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_12_after_the_shivering/a40ddbf8-37c5-235f-9059-80ef8aae63f6.flac",
+        "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_12_after_the_shivering/3d858e82-41af-1565-9b98-b8fa010f345a.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    }
+  ],
+  "outputs": [
+    {
+      "composition": "track_01_the_morning_of_waiting",
+      "variation": 1,
+      "filename": "track_01_the_morning_of_waiting_01.flac",
+      "relative_path": "track_01_the_morning_of_waiting/track_01_the_morning_of_waiting_01.flac",
+      "size_bytes": 4372544,
+      "sha256": "775e32746d3e9c2417e64416392363b7a21ee05080981f9ca2746c6799ad8489",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_01_the_morning_of_waiting",
+      "variation": 2,
+      "filename": "track_01_the_morning_of_waiting_02.flac",
+      "relative_path": "track_01_the_morning_of_waiting/track_01_the_morning_of_waiting_02.flac",
+      "size_bytes": 4099542,
+      "sha256": "794a4d24ff96a269be028ce1c35ad05b73e9da0bf273324b6febd1abf52d37e9",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_01_the_morning_of_waiting",
+      "variation": 3,
+      "filename": "track_01_the_morning_of_waiting_03.flac",
+      "relative_path": "track_01_the_morning_of_waiting/track_01_the_morning_of_waiting_03.flac",
+      "size_bytes": 4494426,
+      "sha256": "bc7c923d37fb960a4ffe1c92b6511f8d3e864c7cd828b4f839a2cbb1ede04320",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_the_letter_not_yet_opened",
+      "variation": 1,
+      "filename": "track_02_the_letter_not_yet_opened_01.flac",
+      "relative_path": "track_02_the_letter_not_yet_opened/track_02_the_letter_not_yet_opened_01.flac",
+      "size_bytes": 4724299,
+      "sha256": "b4ff0d5cc431d62cef5740cb1a4f757adebb23a4d1a3e145e17ab84503e33a28",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_the_letter_not_yet_opened",
+      "variation": 2,
+      "filename": "track_02_the_letter_not_yet_opened_02.flac",
+      "relative_path": "track_02_the_letter_not_yet_opened/track_02_the_letter_not_yet_opened_02.flac",
+      "size_bytes": 4392622,
+      "sha256": "bb77163d9f8ad2f4c0ccb57c05b4e2a3e819e7d3637c7c02a0b33b0f04e545fa",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_the_letter_not_yet_opened",
+      "variation": 3,
+      "filename": "track_02_the_letter_not_yet_opened_03.flac",
+      "relative_path": "track_02_the_letter_not_yet_opened/track_02_the_letter_not_yet_opened_03.flac",
+      "size_bytes": 4480402,
+      "sha256": "1cae278206d652412a44270774721666ffe747624442b92aefae7abc9399ad5a",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_words_like_cold_metal",
+      "variation": 1,
+      "filename": "track_03_words_like_cold_metal_01.flac",
+      "relative_path": "track_03_words_like_cold_metal/track_03_words_like_cold_metal_01.flac",
+      "size_bytes": 4903954,
+      "sha256": "016975f89d318082371597ec7c28157c5bbfe3b59bd022d04104081c598849c7",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_words_like_cold_metal",
+      "variation": 2,
+      "filename": "track_03_words_like_cold_metal_02.flac",
+      "relative_path": "track_03_words_like_cold_metal/track_03_words_like_cold_metal_02.flac",
+      "size_bytes": 4736964,
+      "sha256": "9fb25ac98881aff860bb35aa7576eab261c9ed58c7e0e6a0e18edb8308e8bb8b",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_words_like_cold_metal",
+      "variation": 3,
+      "filename": "track_03_words_like_cold_metal_03.flac",
+      "relative_path": "track_03_words_like_cold_metal/track_03_words_like_cold_metal_03.flac",
+      "size_bytes": 4620713,
+      "sha256": "ee451dd22fea31044bae2a6f344f03a1018e67d697a19f8d9f2f4fc9fe2e431e",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_the_first_heartbeat",
+      "variation": 1,
+      "filename": "track_04_the_first_heartbeat_01.flac",
+      "relative_path": "track_04_the_first_heartbeat/track_04_the_first_heartbeat_01.flac",
+      "size_bytes": 4711063,
+      "sha256": "274d4eb21e1499bb4a138c39b4dff4c619101d440b40a582c48d7019dc4fc4e6",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_the_first_heartbeat",
+      "variation": 2,
+      "filename": "track_04_the_first_heartbeat_02.flac",
+      "relative_path": "track_04_the_first_heartbeat/track_04_the_first_heartbeat_02.flac",
+      "size_bytes": 5258661,
+      "sha256": "5d8ad86b26a7d68e6cca9748fe4ff24e6e26fcb4f2cb0a35bd4096edbdab914e",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_the_first_heartbeat",
+      "variation": 3,
+      "filename": "track_04_the_first_heartbeat_03.flac",
+      "relative_path": "track_04_the_first_heartbeat/track_04_the_first_heartbeat_03.flac",
+      "size_bytes": 5235034,
+      "sha256": "29b0bb44664cebd635dc9dc352e384dbdd711fbb1d182241507637ef4ce7ae29",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_body_begins_to_shiver",
+      "variation": 1,
+      "filename": "track_05_the_body_begins_to_shiver_01.flac",
+      "relative_path": "track_05_the_body_begins_to_shiver/track_05_the_body_begins_to_shiver_01.flac",
+      "size_bytes": 4562595,
+      "sha256": "cd90b57366464c040f1a8457175d8914822baab0337e93d557bfb68aa8605f87",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_body_begins_to_shiver",
+      "variation": 2,
+      "filename": "track_05_the_body_begins_to_shiver_02.flac",
+      "relative_path": "track_05_the_body_begins_to_shiver/track_05_the_body_begins_to_shiver_02.flac",
+      "size_bytes": 4522459,
+      "sha256": "428e8a9d3db971c6c5da5d86d3ade7b8e5bfb4da14ce73680cb60b3a38fb8ff1",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_body_begins_to_shiver",
+      "variation": 3,
+      "filename": "track_05_the_body_begins_to_shiver_03.flac",
+      "relative_path": "track_05_the_body_begins_to_shiver/track_05_the_body_begins_to_shiver_03.flac",
+      "size_bytes": 5099049,
+      "sha256": "277d485fd53af815ad48cd2df87c67c79bc2b26c27e7c9d8c42640094938aa9a",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_the_room_becomes_distant",
+      "variation": 1,
+      "filename": "track_06_the_room_becomes_distant_01.flac",
+      "relative_path": "track_06_the_room_becomes_distant/track_06_the_room_becomes_distant_01.flac",
+      "size_bytes": 4325292,
+      "sha256": "9ba935b4598765fb24577b883af1fd6c14d67b405f983c9011a47292734bf81c",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_the_room_becomes_distant",
+      "variation": 2,
+      "filename": "track_06_the_room_becomes_distant_02.flac",
+      "relative_path": "track_06_the_room_becomes_distant/track_06_the_room_becomes_distant_02.flac",
+      "size_bytes": 4474563,
+      "sha256": "6fbe31c68d0e7ef1d506adb02bd11a4494d344463de33ae356554ec563507d49",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_the_room_becomes_distant",
+      "variation": 3,
+      "filename": "track_06_the_room_becomes_distant_03.flac",
+      "relative_path": "track_06_the_room_becomes_distant/track_06_the_room_becomes_distant_03.flac",
+      "size_bytes": 4545130,
+      "sha256": "43520b4063943d30427bcad45edb760215bf4aa1ed9c847eec433b4ea9126a4d",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_the_numbness",
+      "variation": 1,
+      "filename": "track_07_the_numbness_01.flac",
+      "relative_path": "track_07_the_numbness/track_07_the_numbness_01.flac",
+      "size_bytes": 4101028,
+      "sha256": "d568e20e0cf3c4576d3cd61879fe2fcef82b67fb1e2f88a9ba38336ff3f3e5cc",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_the_numbness",
+      "variation": 2,
+      "filename": "track_07_the_numbness_02.flac",
+      "relative_path": "track_07_the_numbness/track_07_the_numbness_02.flac",
+      "size_bytes": 4826921,
+      "sha256": "e556c4063e2fb2ba10cd63f0fd11c2f19e27f0ca56f23af8b5efaa6479558357",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_the_numbness",
+      "variation": 3,
+      "filename": "track_07_the_numbness_03.flac",
+      "relative_path": "track_07_the_numbness/track_07_the_numbness_03.flac",
+      "size_bytes": 4365076,
+      "sha256": "5cf2517ab5ad4f358843f38cea0ffccc6023d009bf058e22b0d5a47e0bd0f5c6",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_still_here_beneath_the_fear",
+      "variation": 1,
+      "filename": "track_08_still_here_beneath_the_fear_01.flac",
+      "relative_path": "track_08_still_here_beneath_the_fear/track_08_still_here_beneath_the_fear_01.flac",
+      "size_bytes": 4857420,
+      "sha256": "cf6649746553ca9884349c355bab04b871d48fdd1a7e920c837d9d5d3cceb914",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_still_here_beneath_the_fear",
+      "variation": 2,
+      "filename": "track_08_still_here_beneath_the_fear_02.flac",
+      "relative_path": "track_08_still_here_beneath_the_fear/track_08_still_here_beneath_the_fear_02.flac",
+      "size_bytes": 4912834,
+      "sha256": "c832da4c429b3bf8f4377ba39ee675a6e728b21b3e8a769a34303290cf15a316",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_still_here_beneath_the_fear",
+      "variation": 3,
+      "filename": "track_08_still_here_beneath_the_fear_03.flac",
+      "relative_path": "track_08_still_here_beneath_the_fear/track_08_still_here_beneath_the_fear_03.flac",
+      "size_bytes": 4288375,
+      "sha256": "d24d5a81a2b5d556616b999cbbd2009c868300dc498534b1aca25648779da717",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_09_one_page_at_a_time",
+      "variation": 1,
+      "filename": "track_09_one_page_at_a_time_01.flac",
+      "relative_path": "track_09_one_page_at_a_time/track_09_one_page_at_a_time_01.flac",
+      "size_bytes": 5181253,
+      "sha256": "27892e6b5560f445c473d4cc4789a0f34ed840c2211e113a6a0f616f791d521e",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_09_one_page_at_a_time",
+      "variation": 2,
+      "filename": "track_09_one_page_at_a_time_02.flac",
+      "relative_path": "track_09_one_page_at_a_time/track_09_one_page_at_a_time_02.flac",
+      "size_bytes": 4669219,
+      "sha256": "330dc1ba58a109a47778bbdb96520e30dcd851ef0933e5fe520a19eb6f4cbf0c",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_09_one_page_at_a_time",
+      "variation": 3,
+      "filename": "track_09_one_page_at_a_time_03.flac",
+      "relative_path": "track_09_one_page_at_a_time/track_09_one_page_at_a_time_03.flac",
+      "size_bytes": 4776346,
+      "sha256": "7cca3fe334ff6e48a9fcdaac751376f46e9129fd9c6b659abc85bffe5fd08360",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_10_the_right_to_remain",
+      "variation": 1,
+      "filename": "track_10_the_right_to_remain_01.flac",
+      "relative_path": "track_10_the_right_to_remain/track_10_the_right_to_remain_01.flac",
+      "size_bytes": 4672550,
+      "sha256": "bff88426972fa9fac43816c0307afec5dbc0af219979b47e66b2f69b00b0ea13",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_10_the_right_to_remain",
+      "variation": 2,
+      "filename": "track_10_the_right_to_remain_02.flac",
+      "relative_path": "track_10_the_right_to_remain/track_10_the_right_to_remain_02.flac",
+      "size_bytes": 4663257,
+      "sha256": "4e34cdc4b982f964f8fd216b2e05dbb40cd19c85c2075f3adeffd0619d545a14",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_10_the_right_to_remain",
+      "variation": 3,
+      "filename": "track_10_the_right_to_remain_03.flac",
+      "relative_path": "track_10_the_right_to_remain/track_10_the_right_to_remain_03.flac",
+      "size_bytes": 4473297,
+      "sha256": "d924a356fc23bcaa1fc5be80bbf044beda6812a8784c0262b85f3eeba8d7787b",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_11_the_door_is_mine_to_open",
+      "variation": 1,
+      "filename": "track_11_the_door_is_mine_to_open_01.flac",
+      "relative_path": "track_11_the_door_is_mine_to_open/track_11_the_door_is_mine_to_open_01.flac",
+      "size_bytes": 5288376,
+      "sha256": "d1b5d0b0fb1e9f8157f352d0809dccad1c839432a75273b1fc2cb541e68e8c59",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_11_the_door_is_mine_to_open",
+      "variation": 2,
+      "filename": "track_11_the_door_is_mine_to_open_02.flac",
+      "relative_path": "track_11_the_door_is_mine_to_open/track_11_the_door_is_mine_to_open_02.flac",
+      "size_bytes": 5348358,
+      "sha256": "ff38241c1ccaf0dd9453e36e918c76a066be0e2a88ce18cc9333265e24b45496",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_11_the_door_is_mine_to_open",
+      "variation": 3,
+      "filename": "track_11_the_door_is_mine_to_open_03.flac",
+      "relative_path": "track_11_the_door_is_mine_to_open/track_11_the_door_is_mine_to_open_03.flac",
+      "size_bytes": 4936073,
+      "sha256": "25459f569da65d5258e1de0583a19063a2f939aa08e273a131b8bfe17363c72e",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_12_after_the_shivering",
+      "variation": 1,
+      "filename": "track_12_after_the_shivering_01.flac",
+      "relative_path": "track_12_after_the_shivering/track_12_after_the_shivering_01.flac",
+      "size_bytes": 4403653,
+      "sha256": "e56bf3ac051c9132b430a09b799c0b52b0d0392a648b4aa43e1fcf1ed46a2b19",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_12_after_the_shivering",
+      "variation": 2,
+      "filename": "track_12_after_the_shivering_02.flac",
+      "relative_path": "track_12_after_the_shivering/track_12_after_the_shivering_02.flac",
+      "size_bytes": 4425277,
+      "sha256": "290af7dad3584a5966a59b1c29f4f4203559e82a024f3ca00037a236555db253",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_12_after_the_shivering",
+      "variation": 3,
+      "filename": "track_12_after_the_shivering_03.flac",
+      "relative_path": "track_12_after_the_shivering/track_12_after_the_shivering_03.flac",
+      "size_bytes": 4655788,
+      "sha256": "3f50ddff20b2994320e469a2472631cafe5e349cf4bd2fefcdff5c3e2ec94570",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    }
+  ],
+  "completed_compositions": 12,
+  "partial_compositions": 0,
+  "failed_compositions": 0,
+  "requested_variations": 36,
+  "generated_variations": 36,
+  "missing_variations": 0,
+  "archive_completed_at_utc": "2026-11-06T09:00:03.209188+00:00"
+}

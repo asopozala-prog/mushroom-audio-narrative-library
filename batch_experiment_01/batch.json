@@ -1,0 +1,18 @@
+{
+  "route": "turbo",
+  "batch_name": "batch_experiment_01",
+  "prompts": [
+    {
+      "output_name": "quiet_lake",
+      "prompt": "Minimal instrumental ambient music, gentle piano, soft sustained strings, quiet lake at dawn, spacious and delicate, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    },
+    {
+      "output_name": "forest_rhythm",
+      "prompt": "Playful acoustic instrumental music, light wooden percussion, pizzicato strings, small forest creatures moving through autumn leaves, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    }
+  ]
+}

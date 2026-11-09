@@ -1,0 +1,122 @@
+[
+  {
+    "output_name": "track_01_the_morning_of_waiting",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1b773da53f054ac5/track_01_the_morning_of_waiting/8df23b2c-7c00-93d8-068b-f16344335f4f.flac"
+    ],
+    "requested_variations": 1,
+    "generated_variations": 1,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_02_the_letter_not_yet_opened",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1b773da53f054ac5/track_02_the_letter_not_yet_opened/5d341fa3-4630-3936-2519-94e21a5738b3.flac"
+    ],
+    "requested_variations": 1,
+    "generated_variations": 1,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_03_words_like_cold_metal",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1b773da53f054ac5/track_03_words_like_cold_metal/6a0b3598-b873-7e47-457c-6572cc0d1346.flac"
+    ],
+    "requested_variations": 1,
+    "generated_variations": 1,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_04_the_first_heartbeat",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1b773da53f054ac5/track_04_the_first_heartbeat/3bd21b8a-d46f-e56f-a82c-86b756e1927b.flac"
+    ],
+    "requested_variations": 1,
+    "generated_variations": 1,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_05_the_body_begins_to_shiver",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1b773da53f054ac5/track_05_the_body_begins_to_shiver/ab073441-aa56-5efd-f8c1-9f0cfa45dd02.flac"
+    ],
+    "requested_variations": 1,
+    "generated_variations": 1,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_06_the_room_becomes_distant",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1b773da53f054ac5/track_06_the_room_becomes_distant/25b250d9-e9ae-6acb-2acc-ec75f1ffa1d5.flac"
+    ],
+    "requested_variations": 1,
+    "generated_variations": 1,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_07_the_numbness",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1b773da53f054ac5/track_07_the_numbness/69b2dc6d-36ad-3371-38b4-14b83df6df2e.flac"
+    ],
+    "requested_variations": 1,
+    "generated_variations": 1,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_08_still_here_beneath_the_fear",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1b773da53f054ac5/track_08_still_here_beneath_the_fear/9b004514-f1dc-d884-a6f4-3461363701f8.flac"
+    ],
+    "requested_variations": 1,
+    "generated_variations": 1,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_09_one_page_at_a_time",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1b773da53f054ac5/track_09_one_page_at_a_time/7f4132b7-27da-e926-f266-320c2ea73b46.flac"
+    ],
+    "requested_variations": 1,
+    "generated_variations": 1,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_10_the_right_to_remain",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1b773da53f054ac5/track_10_the_right_to_remain/f75e4db2-5607-9368-8314-a44ed3d7a937.flac"
+    ],
+    "requested_variations": 1,
+    "generated_variations": 1,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_11_the_door_is_mine_to_open",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1b773da53f054ac5/track_11_the_door_is_mine_to_open/ab56045f-320c-613c-7a8d-c9a74ecfcdcb.flac"
+    ],
+    "requested_variations": 1,
+    "generated_variations": 1,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_12_after_the_shivering",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1b773da53f054ac5/track_12_after_the_shivering/8e225002-5c86-14bd-f26d-730149681091.flac"
+    ],
+    "requested_variations": 1,
+    "generated_variations": 1,
+    "missing_variations": 0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "output_name": "track_01_golden_mist",
+    "status": "failed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_7c5817f6931e4970/track_01_golden_mist/a6f56333-8f80-b31a-b366-215aeb2acfe9.flac"
+    ],
+    "error": "RuntimeError: Expected 3 audio files, got 1"
+  },
+  {
+    "output_name": "track_02_coffee_and_croissant",
+    "status": "failed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_7c5817f6931e4970/track_02_coffee_and_croissant/831815aa-08a6-3e7b-248c-45a87165186d.flac"
+    ],
+    "error": "RuntimeError: Expected 3 audio files, got 1"
+  },
+  {
+    "output_name": "track_03_sleepy_kitchen",
+    "status": "failed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_7c5817f6931e4970/track_03_sleepy_kitchen/cdc89626-f0e3-cf78-0dc6-6bd3125f54c4.flac"
+    ],
+    "error": "RuntimeError: Expected 3 audio files, got 1"
+  },
+  {
+    "output_name": "track_04_little_kettle",
+    "status": "failed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_7c5817f6931e4970/track_04_little_kettle/5b7bd959-af97-e41a-b367-3274bc62ef90.flac"
+    ],
+    "error": "RuntimeError: Expected 3 audio files, got 1"
+  },
+  {
+    "output_name": "track_05_rising_steam",
+    "status": "failed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_7c5817f6931e4970/track_05_rising_steam/df1115d4-29a7-856c-e2eb-7873cc1970ff.flac"
+    ],
+    "error": "RuntimeError: Expected 3 audio files, got 1"
+  },
+  {
+    "output_name": "track_06_silk_and_skin",
+    "status": "failed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_7c5817f6931e4970/track_06_silk_and_skin/09cc8a8a-a214-6530-131b-570f06c46246.flac"
+    ],
+    "error": "RuntimeError: Expected 3 audio files, got 1"
+  },
+  {
+    "output_name": "track_07_morning_after",
+    "status": "failed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_7c5817f6931e4970/track_07_morning_after/a9530ec1-f6b3-2517-1658-03e2824d5b04.flac"
+    ],
+    "error": "RuntimeError: Expected 3 audio files, got 1"
+  }
+]

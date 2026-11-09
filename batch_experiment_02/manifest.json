@@ -1,0 +1,47 @@
+[
+  {
+    "output_name": "misty_lake",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/batch_experiment_02/misty_lake/21d00336-7f97-a193-68a6-cf74c90ae3f9.flac",
+      "/kaggle/working/music_output/batch_experiment_02/misty_lake/0681aa74-0211-ba70-bcc5-fb9ea6eed495.flac",
+      "/kaggle/working/music_output/batch_experiment_02/misty_lake/c445dbf5-3e16-85d9-99f1-280c3265ae07.flac"
+    ]
+  },
+  {
+    "output_name": "winter_chamber",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/batch_experiment_02/winter_chamber/f5dda850-f7d1-1a85-f0f1-458c8a6c7c6e.flac",
+      "/kaggle/working/music_output/batch_experiment_02/winter_chamber/ef332b1c-bbbd-f845-9cd7-83984468a46f.flac",
+      "/kaggle/working/music_output/batch_experiment_02/winter_chamber/18abcaa9-8769-5f4e-0b4a-fa0b423cb7fc.flac"
+    ]
+  },
+  {
+    "output_name": "forest_folk",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/batch_experiment_02/forest_folk/7a2bead8-5d82-105c-b863-7a77f715f2bd.flac",
+      "/kaggle/working/music_output/batch_experiment_02/forest_folk/fec153c4-7036-4a32-15fa-1fc4a01c1609.flac",
+      "/kaggle/working/music_output/batch_experiment_02/forest_folk/232ec9eb-a381-14d5-3ddb-375c4b95fae0.flac"
+    ]
+  },
+  {
+    "output_name": "mushroom_dance",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/batch_experiment_02/mushroom_dance/fc8c5e6f-8264-2150-4395-43d2b266ebbc.flac",
+      "/kaggle/working/music_output/batch_experiment_02/mushroom_dance/d17c60ff-ae31-a977-622b-ac9ad9a8e584.flac",
+      "/kaggle/working/music_output/batch_experiment_02/mushroom_dance/d2e136d7-59c7-82e4-3ec9-a21e3577d957.flac"
+    ]
+  },
+  {
+    "output_name": "night_signals",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/batch_experiment_02/night_signals/029c18e2-ab69-5bc5-b9f0-56d8559fc259.flac",
+      "/kaggle/working/music_output/batch_experiment_02/night_signals/148fa16d-7608-78bd-d25f-07990799a29a.flac",
+      "/kaggle/working/music_output/batch_experiment_02/night_signals/45b9246d-060e-214a-5cb7-5bccc96c4862.flac"
+    ]
+  }
+]

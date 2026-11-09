@@ -1,0 +1,146 @@
+[
+  {
+    "output_name": "track_01_the_morning_of_waiting",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_01_the_morning_of_waiting/31aa1032-4f31-1560-9ae6-db68021614ab.flac",
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_01_the_morning_of_waiting/7c3b3e98-9407-57a5-6fd9-e8484f8a9bc3.flac",
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_01_the_morning_of_waiting/cbd0eaac-3b6c-5652-7d63-c7d79bf75d17.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_02_the_letter_not_yet_opened",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_02_the_letter_not_yet_opened/ae4b40e0-f18d-50f2-db01-f3a33a9b93ca.flac",
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_02_the_letter_not_yet_opened/0025de09-5d43-c2e4-a4f4-e6599aa03641.flac",
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_02_the_letter_not_yet_opened/0559aecb-2078-5d00-76fb-021848038619.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_03_words_like_cold_metal",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_03_words_like_cold_metal/a6116d55-0804-8a01-22a1-551c600e6a85.flac",
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_03_words_like_cold_metal/7be8b04a-4eeb-be99-d318-b6b3b19e65d9.flac",
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_03_words_like_cold_metal/0ea93b40-3890-8dd5-dc1a-9e9b2f6b1e20.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_04_the_first_heartbeat",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_04_the_first_heartbeat/36cd59d1-bc9d-f350-08b7-d1d033523e62.flac",
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_04_the_first_heartbeat/058fe98e-1805-e0e6-7514-38463dccf5f9.flac",
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_04_the_first_heartbeat/29663518-67e7-d50f-409a-460e521c2f29.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_05_the_body_begins_to_shiver",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_05_the_body_begins_to_shiver/c03d4429-a5b1-dfc7-3819-ce283c5bbd15.flac",
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_05_the_body_begins_to_shiver/ddab221f-38da-864d-3522-5612aa7b9e3b.flac",
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_05_the_body_begins_to_shiver/899bf9e5-2f44-530d-16ef-e82b71a8ed48.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_06_the_room_becomes_distant",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_06_the_room_becomes_distant/f2f62c7f-8317-e302-6dbd-bd84dacdf03a.flac",
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_06_the_room_becomes_distant/0cc1283e-9419-eb2c-e600-148cdfb92841.flac",
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_06_the_room_becomes_distant/d90b06cc-6667-3bd1-ce21-54a7db920720.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_07_the_numbness",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_07_the_numbness/b7492fdc-6704-cd3d-5de1-973bfce384e5.flac",
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_07_the_numbness/07cbc1dc-2930-0168-d133-7137f62eb5b4.flac",
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_07_the_numbness/ac0078ed-7efa-0777-c5f3-3cb38547da93.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_08_still_here_beneath_the_fear",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_08_still_here_beneath_the_fear/92a47a95-d16d-492d-1be1-15c2499695e0.flac",
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_08_still_here_beneath_the_fear/5afa5abe-5321-b019-193f-6944d58e612c.flac",
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_08_still_here_beneath_the_fear/f03d5e83-818f-e0c7-e2ac-a07d52a5f65d.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_09_one_page_at_a_time",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_09_one_page_at_a_time/07deeb8a-7bec-0c6b-fe9b-9d3f636a7afe.flac",
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_09_one_page_at_a_time/fa658489-6ccc-665f-cc02-a4c9552d4ace.flac",
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_09_one_page_at_a_time/239957c8-2528-8af7-a5bc-d96f02dfb3cf.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_10_the_right_to_remain",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_10_the_right_to_remain/edf77e01-e369-d05c-d0d2-05004107ef3d.flac",
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_10_the_right_to_remain/60d52c3b-6040-e138-03ed-ddc726363b50.flac",
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_10_the_right_to_remain/1d517356-ead8-0401-3dfe-7eaaaeadf2a7.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_11_the_door_is_mine_to_open",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_11_the_door_is_mine_to_open/62d696ee-4e4d-13be-44b3-7b57070f9dec.flac",
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_11_the_door_is_mine_to_open/f92e8279-54be-4042-1c8b-d45c8853fcd2.flac",
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_11_the_door_is_mine_to_open/5e43d2f3-f3b7-205e-316a-131bc0e6125f.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_12_after_the_shivering",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_12_after_the_shivering/5a590b9b-47f4-1b34-34df-70c7c231e25d.flac",
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_12_after_the_shivering/a40ddbf8-37c5-235f-9059-80ef8aae63f6.flac",
+      "/kaggle/working/music_output/studio_batch_259d8596038841b3/track_12_after_the_shivering/3d858e82-41af-1565-9b98-b8fa010f345a.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  }
+]

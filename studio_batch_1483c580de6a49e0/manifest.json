@@ -1,0 +1,172 @@
+[
+  {
+    "output_name": "track_01_the_ancient_horse_spirit",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_01_the_ancient_horse_spirit/9a488379-7536-03a3-ad02-a06a09e082a0.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_02_a_million_years_of_memories",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_02_a_million_years_of_memories/5a063c01-aeaa-ba5a-f820-c252bd489141.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_03_too_many_ideas_at_once",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_03_too_many_ideas_at_once/d73f353a-d201-eb03-3ab1-a0dbdb40a6fe.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_04_hormus_forgets_the_plan",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_04_hormus_forgets_the_plan/537aabc8-6525-d534-9210-64519b3d835d.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_05_the_wisdom_of_a_clumsy_spirit",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_05_the_wisdom_of_a_clumsy_spirit/858856d6-5015-028f-ea5e-01a311ff8f05.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_06_maja_the_little_bee",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_06_maja_the_little_bee/9e513ad7-0620-3f1c-dfa9-cb830b88b047.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_07_one_command_at_a_time",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_07_one_command_at_a_time/2618afd6-69d4-689c-5ed1-c20e1b6a5875.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_08_the_joy_of_doing",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_08_the_joy_of_doing/33c7c472-a12f-5fc9-9131-497859700540.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_09_small_wings_steady_work",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_09_small_wings_steady_work/dfaf30fd-9d51-0243-db66-93a6897006db.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_10_the_horse_explains_everything",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_10_the_horse_explains_everything/e389ee40-b26b-337f-fccd-9a58b94df17d.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_11_the_bee_has_already_finished",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_11_the_bee_has_already_finished/36f5b999-0075-b9bc-e40c-6f06f1949a92.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_12_a_command_lost_in_the_forest",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_12_a_command_lost_in_the_forest/3a05c19e-4064-5601-96f6-c2794fc7b883.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_13_the_great_computing_disaster",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_13_the_great_computing_disaster/9b725cd4-cd4f-0259-b37f-ef8b6a974a7b.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_14_maja_finds_the_missing_path",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_14_maja_finds_the_missing_path/fdc926ec-aee6-2ffb-8856-aec1f4fc20f6.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_15_two_minds_one_workshop",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_15_two_minds_one_workshop/487d6f59-4b54-5988-4e06-a265dc7aabe6.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_16_the_mushroom_house_is_running",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_16_the_mushroom_house_is_running/3fdb5ff5-fd5b-4cd5-cc07-e8d563a41774.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_17_tomorrow_we_try_again",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1483c580de6a49e0/track_17_tomorrow_we_try_again/624309cb-4dda-9b46-7dd5-fee0682ae270.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  }
+]

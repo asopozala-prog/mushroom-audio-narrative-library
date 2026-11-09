@@ -1,0 +1,641 @@
+{
+  "schema_version": 1,
+  "batch_id": "studio_batch_110f881de23b4d24",
+  "archive_label": "20261105_105711_red_fox_in_dusk_graveyard",
+  "batch_theme": "red_fox_in_dusk_graveyard",
+  "generation_started_at": 1793872631.809243,
+  "model": {
+    "family": "ACE-Step",
+    "checkpoint_name": "acestep-v15-turbo",
+    "checkpoint_revision": null,
+    "route": "turbo"
+  },
+  "generation": {
+    "prompts": [
+      {
+        "output_name": "track_01_the_hidden_cemetery",
+        "prompt": "Romantic classical chamber instrumental, 68 BPM, expressive solo cello with warm piano accompaniment. Flowing minor-key melody, rich sustained cello tones, gentle harmonic movement, solemn autumn atmosphere, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_02_beneath_enormous_trees",
+        "prompt": "Classical string ensemble, 72 BPM, lyrical violins, warm violas and deep cellos. Broad legato melody, rich minor harmonies, measured rhythmic movement, restrained orchestral dynamics, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_03_rust_copper_and_gold",
+        "prompt": "Romantic classical instrumental, 76 BPM, expressive solo violin with warm piano accompaniment. Sweeping lyrical melody, rich major-minor harmonies, elegant phrasing, warm resonant acoustic sound, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_04_a_fox_in_the_shadows",
+        "prompt": "Dark classical chamber music, 66 BPM, low solo cello and soft piano accompaniment. Expressive descending melody, sustained minor harmonies, gentle rhythmic pulse, mysterious intimate atmosphere, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_05_paws_among_fallen_leaves",
+        "prompt": "Light classical string quartet, 84 BPM, delicate violins, viola and pizzicato cello. Graceful repeating melody, gentle rhythmic movement, subtle staccato accents, warm chamber acoustics, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_06_the_old_wooden_cross",
+        "prompt": "Solemn romantic classical instrumental, 60 BPM, deep expressive cello with sustained string accompaniment. Slow lyrical phrases, rich minor harmonies, gradual dynamic swells, spacious resonant sound, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_07_one_graceful_jump",
+        "prompt": "Elegant classical chamber music, 92 BPM, bright solo violin with piano accompaniment. Light ascending melody, graceful rhythmic accents, flowing major-key harmonies, controlled lively dynamics, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_08_the_stranger_stops",
+        "prompt": "Intimate romantic classical instrumental, 64 BPM, warm solo cello and gentle piano. Sustained lyrical melody, steady measured pulse, subtle harmonic tension, restrained dynamics, natural chamber recording, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_09_neither_runs_away",
+        "prompt": "Tender classical string ensemble, 68 BPM, expressive violins, warm violas and deep cellos. Gentle legato melody, rich minor-to-major harmonies, steady flowing rhythm, intimate restrained dynamics, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_10_the_breeze_in_her_tail",
+        "prompt": "Delicate romantic classical instrumental, 74 BPM, lyrical solo violin with soft string accompaniment. Flowing melodic phrases, gentle rising and falling dynamics, warm major harmonies, airy chamber acoustics, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_11_golden_light_on_old_stones",
+        "prompt": "Rich romantic orchestral instrumental, 70 BPM, expressive cello section, lyrical violins and warm French horns. Broad sustained melody, deep harmonic movement, gradual orchestral swells, noble autumn atmosphere, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_12_the_hour_between_gold_and_shadow",
+        "prompt": "Romantic classical string orchestra, 62 BPM, deep cellos, expressive violins and warm violas. Slow flowing minor-key melody, rich sustained harmonies, gentle crescendo followed by a soft resolution, solemn intimate atmosphere, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      }
+    ],
+    "requested_audio_format": "flac"
+  },
+  "kaggle_manifest": [
+    {
+      "output_name": "track_01_the_hidden_cemetery",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_01_the_hidden_cemetery/a5ea96ae-34b9-98ee-fac6-36f47d318a42.flac",
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_01_the_hidden_cemetery/2dde2636-1465-1e81-2f76-d05835054df1.flac",
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_01_the_hidden_cemetery/eeb86cd3-2829-3838-b202-d9139edd6019.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_02_beneath_enormous_trees",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_02_beneath_enormous_trees/8a37f25c-21c6-6191-282f-ec0beadabfd8.flac",
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_02_beneath_enormous_trees/b6e9370b-70fa-e3c6-0d25-552304a25767.flac",
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_02_beneath_enormous_trees/4c98f7bb-eff3-57b5-9fbf-11af9461c162.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_03_rust_copper_and_gold",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_03_rust_copper_and_gold/8c550fcd-d1c7-d2bb-c284-a943aa71d315.flac",
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_03_rust_copper_and_gold/7170fc22-2aeb-8aeb-814d-d3521974a946.flac",
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_03_rust_copper_and_gold/7c605bba-d646-14f9-de1e-bc254c80e60f.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_04_a_fox_in_the_shadows",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_04_a_fox_in_the_shadows/fbc61b27-cd69-5092-91c9-0b52c7705f77.flac",
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_04_a_fox_in_the_shadows/f1dbd96e-5047-097a-abf7-7d823e35cc43.flac",
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_04_a_fox_in_the_shadows/8157093a-b990-c33c-0b3d-b04939d4f84d.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_05_paws_among_fallen_leaves",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_05_paws_among_fallen_leaves/0e1404d5-3e19-2ce6-cf1b-484503521d85.flac",
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_05_paws_among_fallen_leaves/da4e43a3-e997-bb6b-c30f-5d9e4e74b956.flac",
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_05_paws_among_fallen_leaves/f6eb8b37-0088-8740-a3de-49f5d33d1d6b.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_06_the_old_wooden_cross",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_06_the_old_wooden_cross/2ef16dd4-7ed0-ad0c-c92a-f45fbf47fec3.flac",
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_06_the_old_wooden_cross/5d378ac6-655c-80fe-da76-d6067956c5bb.flac",
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_06_the_old_wooden_cross/28d2aeb7-3e1c-a24c-cbc9-fe5da1dab160.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_07_one_graceful_jump",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_07_one_graceful_jump/98756c12-589f-0f5d-e78d-a014a52ca0a2.flac",
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_07_one_graceful_jump/08eaa122-f419-50ea-f891-d4d5f1a23956.flac",
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_07_one_graceful_jump/be6df207-d295-98b1-4bba-b7e11de21616.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_08_the_stranger_stops",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_08_the_stranger_stops/348e614f-de7a-3608-69f7-0d1eb3481f60.flac",
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_08_the_stranger_stops/6647ee1e-955d-608d-b5e0-2695170932f1.flac",
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_08_the_stranger_stops/25439735-6032-f9c3-a028-0c8f6ae0e321.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_09_neither_runs_away",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_09_neither_runs_away/36c019dc-db0c-2df9-7670-70a9154ccf03.flac",
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_09_neither_runs_away/54b2d2b9-ff7d-9edf-7c0a-8d30ff4685c1.flac",
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_09_neither_runs_away/bafe0f89-845b-a0bb-a2bf-c44fad7dc240.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_10_the_breeze_in_her_tail",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_10_the_breeze_in_her_tail/bf6370d7-64d2-cd49-aa67-68c3a47901e6.flac",
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_10_the_breeze_in_her_tail/f6b32542-b921-631b-09cd-082bac12e59e.flac",
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_10_the_breeze_in_her_tail/ec7e45ca-1dd7-4331-5638-bb323181873c.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_11_golden_light_on_old_stones",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_11_golden_light_on_old_stones/b01df163-f1ca-783e-96f2-4fc838440d30.flac",
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_11_golden_light_on_old_stones/a2314555-c859-ea5e-7a02-069fec2f24d2.flac",
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_11_golden_light_on_old_stones/e959470c-6807-464e-ca27-f42a7d8caedd.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_12_the_hour_between_gold_and_shadow",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_12_the_hour_between_gold_and_shadow/7c4d34a7-9ff4-6a4f-bc36-a80d90b5075c.flac",
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_12_the_hour_between_gold_and_shadow/8dad3c86-4b8c-e6a8-3cef-9d03563e21f8.flac",
+        "/kaggle/working/music_output/studio_batch_110f881de23b4d24/track_12_the_hour_between_gold_and_shadow/cb39d02b-2629-1380-a0d9-242cbc51fe34.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    }
+  ],
+  "outputs": [
+    {
+      "composition": "track_01_the_hidden_cemetery",
+      "variation": 1,
+      "filename": "track_01_the_hidden_cemetery_01.flac",
+      "relative_path": "track_01_the_hidden_cemetery/track_01_the_hidden_cemetery_01.flac",
+      "size_bytes": 4868549,
+      "sha256": "ac795c06c79bd4d6841a33c7654057a846615c467e9b1844b1af6ee41997a922",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_01_the_hidden_cemetery",
+      "variation": 2,
+      "filename": "track_01_the_hidden_cemetery_02.flac",
+      "relative_path": "track_01_the_hidden_cemetery/track_01_the_hidden_cemetery_02.flac",
+      "size_bytes": 4945765,
+      "sha256": "3629d217020ac4d671de5a6611bfd5f93300ca8bda1f8c59fc76e3ef00e8bc79",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_01_the_hidden_cemetery",
+      "variation": 3,
+      "filename": "track_01_the_hidden_cemetery_03.flac",
+      "relative_path": "track_01_the_hidden_cemetery/track_01_the_hidden_cemetery_03.flac",
+      "size_bytes": 4502974,
+      "sha256": "b9c221b6fd40ea2ad748ce2e9ba27496f3615cccff44517f326cfba611087610",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_beneath_enormous_trees",
+      "variation": 1,
+      "filename": "track_02_beneath_enormous_trees_01.flac",
+      "relative_path": "track_02_beneath_enormous_trees/track_02_beneath_enormous_trees_01.flac",
+      "size_bytes": 4983082,
+      "sha256": "b78703ccd3e8b876943bcf4dd075d7d69f9c5e4c49d7267df08ab67fb8481b2d",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_beneath_enormous_trees",
+      "variation": 2,
+      "filename": "track_02_beneath_enormous_trees_02.flac",
+      "relative_path": "track_02_beneath_enormous_trees/track_02_beneath_enormous_trees_02.flac",
+      "size_bytes": 5217252,
+      "sha256": "81a4be340eca4118ec20de9ea1d6a1307a8008e51baab6eceb129df38e2907e2",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_beneath_enormous_trees",
+      "variation": 3,
+      "filename": "track_02_beneath_enormous_trees_03.flac",
+      "relative_path": "track_02_beneath_enormous_trees/track_02_beneath_enormous_trees_03.flac",
+      "size_bytes": 5391299,
+      "sha256": "d31544a9459a7d165897f223414ae05e52f54daf0c0780a2aa25198b56a5c8cb",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_rust_copper_and_gold",
+      "variation": 1,
+      "filename": "track_03_rust_copper_and_gold_01.flac",
+      "relative_path": "track_03_rust_copper_and_gold/track_03_rust_copper_and_gold_01.flac",
+      "size_bytes": 4908319,
+      "sha256": "593f4fc9d6324b638b9f3f0ab6ccee404c36868173faea55fcc70cf71a6cbe66",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_rust_copper_and_gold",
+      "variation": 2,
+      "filename": "track_03_rust_copper_and_gold_02.flac",
+      "relative_path": "track_03_rust_copper_and_gold/track_03_rust_copper_and_gold_02.flac",
+      "size_bytes": 4653431,
+      "sha256": "11becc42838a9ccd49d8fe558c5340cbbfebb85da88bcee2b3cdce090321d255",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_rust_copper_and_gold",
+      "variation": 3,
+      "filename": "track_03_rust_copper_and_gold_03.flac",
+      "relative_path": "track_03_rust_copper_and_gold/track_03_rust_copper_and_gold_03.flac",
+      "size_bytes": 4753484,
+      "sha256": "eff900531e4b3da161a805fb6d99a181aff7a51f39b2b83cf05f1ce5b6c8726f",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_a_fox_in_the_shadows",
+      "variation": 1,
+      "filename": "track_04_a_fox_in_the_shadows_01.flac",
+      "relative_path": "track_04_a_fox_in_the_shadows/track_04_a_fox_in_the_shadows_01.flac",
+      "size_bytes": 4558726,
+      "sha256": "9457a582fa242db6eb63ecada85e7c2ad7f4340de589fa1ad5550b0d1eb247a6",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_a_fox_in_the_shadows",
+      "variation": 2,
+      "filename": "track_04_a_fox_in_the_shadows_02.flac",
+      "relative_path": "track_04_a_fox_in_the_shadows/track_04_a_fox_in_the_shadows_02.flac",
+      "size_bytes": 4453183,
+      "sha256": "767a2e8ef541bb5987a98c82c30b622b58ae2bbe0d7d46cd304e3c4811471ba2",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_a_fox_in_the_shadows",
+      "variation": 3,
+      "filename": "track_04_a_fox_in_the_shadows_03.flac",
+      "relative_path": "track_04_a_fox_in_the_shadows/track_04_a_fox_in_the_shadows_03.flac",
+      "size_bytes": 4979637,
+      "sha256": "ff7638fa1158de2090cdb6d510c475d04a28b66e4a32c3a3277c4a103ab753ef",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_paws_among_fallen_leaves",
+      "variation": 1,
+      "filename": "track_05_paws_among_fallen_leaves_01.flac",
+      "relative_path": "track_05_paws_among_fallen_leaves/track_05_paws_among_fallen_leaves_01.flac",
+      "size_bytes": 4835992,
+      "sha256": "cad82d863957b6423edbd5a546a0ddcbe3067f5b897e0b70da779b8d76a33f5c",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_paws_among_fallen_leaves",
+      "variation": 2,
+      "filename": "track_05_paws_among_fallen_leaves_02.flac",
+      "relative_path": "track_05_paws_among_fallen_leaves/track_05_paws_among_fallen_leaves_02.flac",
+      "size_bytes": 5007474,
+      "sha256": "0ada5d1e20145902c078c36c31128f64467884903ae86274295c3e9c8ceef2d6",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_paws_among_fallen_leaves",
+      "variation": 3,
+      "filename": "track_05_paws_among_fallen_leaves_03.flac",
+      "relative_path": "track_05_paws_among_fallen_leaves/track_05_paws_among_fallen_leaves_03.flac",
+      "size_bytes": 4636517,
+      "sha256": "d4d495d0e4946107c4e1ad71bcf2302eafd6479be0d740b1cf256a62a63deb95",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_the_old_wooden_cross",
+      "variation": 1,
+      "filename": "track_06_the_old_wooden_cross_01.flac",
+      "relative_path": "track_06_the_old_wooden_cross/track_06_the_old_wooden_cross_01.flac",
+      "size_bytes": 4711344,
+      "sha256": "2a3d26e3539404de2914f8a9a7bfce6d11d8f90788bba5cc9a73e5dcc8e6c2e0",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_the_old_wooden_cross",
+      "variation": 2,
+      "filename": "track_06_the_old_wooden_cross_02.flac",
+      "relative_path": "track_06_the_old_wooden_cross/track_06_the_old_wooden_cross_02.flac",
+      "size_bytes": 4928441,
+      "sha256": "09e85bb3025bac9978bc0692e6d7592529a676cf4bf849cfd324b811a778713c",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_the_old_wooden_cross",
+      "variation": 3,
+      "filename": "track_06_the_old_wooden_cross_03.flac",
+      "relative_path": "track_06_the_old_wooden_cross/track_06_the_old_wooden_cross_03.flac",
+      "size_bytes": 4626240,
+      "sha256": "9fd349ce30b614488821980fbc355b057396f3a6aaa6718fd720cc7640dbe0c9",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_one_graceful_jump",
+      "variation": 1,
+      "filename": "track_07_one_graceful_jump_01.flac",
+      "relative_path": "track_07_one_graceful_jump/track_07_one_graceful_jump_01.flac",
+      "size_bytes": 4625633,
+      "sha256": "2054b70693c99d4973c0819a8ff33fcedab33482396978955862144ee1976b63",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_one_graceful_jump",
+      "variation": 2,
+      "filename": "track_07_one_graceful_jump_02.flac",
+      "relative_path": "track_07_one_graceful_jump/track_07_one_graceful_jump_02.flac",
+      "size_bytes": 4992069,
+      "sha256": "17181f4249a813419c28d187347ba9b70b22a8800a455b0451c4205d30c22067",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_one_graceful_jump",
+      "variation": 3,
+      "filename": "track_07_one_graceful_jump_03.flac",
+      "relative_path": "track_07_one_graceful_jump/track_07_one_graceful_jump_03.flac",
+      "size_bytes": 4764596,
+      "sha256": "4b0304e19d1985eeea2b69b0bf1bbbd10e388e26eeac78002055e5d1097c33fb",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_the_stranger_stops",
+      "variation": 1,
+      "filename": "track_08_the_stranger_stops_01.flac",
+      "relative_path": "track_08_the_stranger_stops/track_08_the_stranger_stops_01.flac",
+      "size_bytes": 4694364,
+      "sha256": "59339c43db6e539a045491f8a07545d5ce22c6ee9739eddee08beab711b9865b",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_the_stranger_stops",
+      "variation": 2,
+      "filename": "track_08_the_stranger_stops_02.flac",
+      "relative_path": "track_08_the_stranger_stops/track_08_the_stranger_stops_02.flac",
+      "size_bytes": 4521916,
+      "sha256": "538d88e030e59f8515bf1a3735205b70933acf892c8f97a7ef2157b393521577",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_the_stranger_stops",
+      "variation": 3,
+      "filename": "track_08_the_stranger_stops_03.flac",
+      "relative_path": "track_08_the_stranger_stops/track_08_the_stranger_stops_03.flac",
+      "size_bytes": 4526359,
+      "sha256": "2d9647b5f986f969a5ce56e2adb3e56f3fe6a450c6bdd24616e95fdb86737258",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_09_neither_runs_away",
+      "variation": 1,
+      "filename": "track_09_neither_runs_away_01.flac",
+      "relative_path": "track_09_neither_runs_away/track_09_neither_runs_away_01.flac",
+      "size_bytes": 5198902,
+      "sha256": "4a670973fc9eee30dd7209d8552d8363956f1c614a93b6619fcdc9dcebda2cc3",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_09_neither_runs_away",
+      "variation": 2,
+      "filename": "track_09_neither_runs_away_02.flac",
+      "relative_path": "track_09_neither_runs_away/track_09_neither_runs_away_02.flac",
+      "size_bytes": 4725999,
+      "sha256": "e2a0383e1a80622e8256aa950ad6d9838f590ce7a38fc27f27c8e683231881bc",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_09_neither_runs_away",
+      "variation": 3,
+      "filename": "track_09_neither_runs_away_03.flac",
+      "relative_path": "track_09_neither_runs_away/track_09_neither_runs_away_03.flac",
+      "size_bytes": 5183916,
+      "sha256": "d70a0d339af54b94a124a1631b5a91f2ac2eeee9c4bf7f23010e1b46e31aed2a",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_10_the_breeze_in_her_tail",
+      "variation": 1,
+      "filename": "track_10_the_breeze_in_her_tail_01.flac",
+      "relative_path": "track_10_the_breeze_in_her_tail/track_10_the_breeze_in_her_tail_01.flac",
+      "size_bytes": 4774243,
+      "sha256": "d21ecaf85dbfa9bd0ab091b45c3a4b4ad5bb8ca0aed03def42e91dc3e6d3e3cf",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_10_the_breeze_in_her_tail",
+      "variation": 2,
+      "filename": "track_10_the_breeze_in_her_tail_02.flac",
+      "relative_path": "track_10_the_breeze_in_her_tail/track_10_the_breeze_in_her_tail_02.flac",
+      "size_bytes": 4910312,
+      "sha256": "77a2d39098d23e4645ea3d6c09c7d381d74045f7e5fafcdbd3869a1828e722b5",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_10_the_breeze_in_her_tail",
+      "variation": 3,
+      "filename": "track_10_the_breeze_in_her_tail_03.flac",
+      "relative_path": "track_10_the_breeze_in_her_tail/track_10_the_breeze_in_her_tail_03.flac",
+      "size_bytes": 5048429,
+      "sha256": "e130aebd0a7023c15667872282093c5051a93a139efbe7389cc3f08453905ccc",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_11_golden_light_on_old_stones",
+      "variation": 1,
+      "filename": "track_11_golden_light_on_old_stones_01.flac",
+      "relative_path": "track_11_golden_light_on_old_stones/track_11_golden_light_on_old_stones_01.flac",
+      "size_bytes": 5045951,
+      "sha256": "ceb52e327d5aa294651c798a17e3d580b2c28cc13dc54e10342fc90ca0959217",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_11_golden_light_on_old_stones",
+      "variation": 2,
+      "filename": "track_11_golden_light_on_old_stones_02.flac",
+      "relative_path": "track_11_golden_light_on_old_stones/track_11_golden_light_on_old_stones_02.flac",
+      "size_bytes": 5100226,
+      "sha256": "c66c2e65e105487298f9695cac6dd237e595a5d901837bfe3f3cb6489662e2ae",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_11_golden_light_on_old_stones",
+      "variation": 3,
+      "filename": "track_11_golden_light_on_old_stones_03.flac",
+      "relative_path": "track_11_golden_light_on_old_stones/track_11_golden_light_on_old_stones_03.flac",
+      "size_bytes": 4972948,
+      "sha256": "28f51e46ee9440b5d847fa8d29777a650a25d67667a9db6df9e3785051e9d804",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_12_the_hour_between_gold_and_shadow",
+      "variation": 1,
+      "filename": "track_12_the_hour_between_gold_and_shadow_01.flac",
+      "relative_path": "track_12_the_hour_between_gold_and_shadow/track_12_the_hour_between_gold_and_shadow_01.flac",
+      "size_bytes": 4881575,
+      "sha256": "dbe50257c751ec20d29489b9a72a91c8a53bcca76d2642bbfe59eee0ed548649",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_12_the_hour_between_gold_and_shadow",
+      "variation": 2,
+      "filename": "track_12_the_hour_between_gold_and_shadow_02.flac",
+      "relative_path": "track_12_the_hour_between_gold_and_shadow/track_12_the_hour_between_gold_and_shadow_02.flac",
+      "size_bytes": 5078944,
+      "sha256": "6d004f46a95f079e5672701ee46e150873e4d3961a1cf940e095ef32a32c8933",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_12_the_hour_between_gold_and_shadow",
+      "variation": 3,
+      "filename": "track_12_the_hour_between_gold_and_shadow_03.flac",
+      "relative_path": "track_12_the_hour_between_gold_and_shadow/track_12_the_hour_between_gold_and_shadow_03.flac",
+      "size_bytes": 4978813,
+      "sha256": "7c3057bf8d65c246ad2921f8437694326bd746ee9e24c4e85fba6fc70e1f2506",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    }
+  ],
+  "completed_compositions": 12,
+  "partial_compositions": 0,
+  "failed_compositions": 0,
+  "requested_variations": 36,
+  "generated_variations": 36,
+  "missing_variations": 0,
+  "archive_completed_at_utc": "2026-11-05T10:03:58.870977+00:00"
+}

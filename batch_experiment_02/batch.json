@@ -1,0 +1,36 @@
+{
+  "route": "turbo",
+  "batch_name": "batch_experiment_02",
+  "prompts": [
+    {
+      "output_name": "misty_lake",
+      "prompt": "Delicate instrumental ambient music, gentle piano, airy strings, quiet lake covered in morning mist, slow evolving harmonies, intimate and spacious, no vocals.",
+      "duration_seconds": 60,
+      "variations": 3
+    },
+    {
+      "output_name": "winter_chamber",
+      "prompt": "Intimate classical chamber music for cello, viola and piano, restrained emotional expression, warm acoustic resonance, elegant melodic dialogue, no vocals.",
+      "duration_seconds": 60,
+      "variations": 3
+    },
+    {
+      "output_name": "forest_folk",
+      "prompt": "Gentle acoustic folk instrumental, fingerpicked guitar, wooden flute and soft hand percussion, wandering through an autumn forest, organic and melodic, no vocals.",
+      "duration_seconds": 60,
+      "variations": 3
+    },
+    {
+      "output_name": "mushroom_dance",
+      "prompt": "Playful instrumental miniature, pizzicato strings, marimba, light wooden percussion, curious tiny creatures dancing together, whimsical rhythms and clear melodic motifs, no vocals.",
+      "duration_seconds": 60,
+      "variations": 3
+    },
+    {
+      "output_name": "night_signals",
+      "prompt": "Minimalist electronic instrumental, soft analog synthesizers, delicate repeating patterns, subtle bass pulses, distant nighttime signals, atmospheric and contemplative, no vocals.",
+      "duration_seconds": 60,
+      "variations": 3
+    }
+  ]
+}

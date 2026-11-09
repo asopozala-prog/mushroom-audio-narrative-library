@@ -1,0 +1,437 @@
+{
+  "schema_version": 1,
+  "batch_id": "studio_batch_6fd337f668454fbf",
+  "archive_label": "20261105_100000_cacifers_autumnal_windowsill",
+  "batch_theme": "cacifers_autumnal_windowsill",
+  "generation_started_at": 1793869200.897156,
+  "model": {
+    "family": "ACE-Step",
+    "checkpoint_name": "acestep-v15-turbo",
+    "checkpoint_revision": null,
+    "route": "turbo"
+  },
+  "generation": {
+    "prompts": [
+      {
+        "output_name": "track_01_golden_tree",
+        "prompt": "Warm instrumental cool jazz, 68 BPM, mellow tenor saxophone, soft upright bass and gentle brushed drums. Relaxed steady swing, flowing saxophone melody, warm major seventh harmonies, intimate autumn atmosphere, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_02_one_falling_leaf",
+        "prompt": "Gentle instrumental slow swing jazz, 64 BPM, soft tenor saxophone, warm upright bass and delicate brushed drums. Smooth descending melodic phrases, continuous relaxed pulse, subtle harmonic movement, wistful peaceful mood, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_03_the_blue_cup",
+        "prompt": "Cozy instrumental lounge jazz, 72 BPM, mellow alto saxophone, warm electric piano, soft bass and brushed percussion. Gentle steady groove, playful repeating saxophone motif, mellow major harmonies, intimate natural sound, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_04_a_paw_on_the_windowsill",
+        "prompt": "Minimal instrumental cool jazz, 66 BPM, warm tenor saxophone, rounded upright bass and soft brushed drums. Relaxed continuous swing, short expressive melodic phrases, restrained dynamics, subtle blues harmonies, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_05_watching_the_rain",
+        "prompt": "Atmospheric instrumental smooth jazz, 70 BPM, breathy tenor saxophone, warm electric piano and deep mellow bass. Gentle steady groove, flowing descending melody, rich minor seventh harmonies, soft spacious production, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_06_the_long_pause",
+        "prompt": "Quiet instrumental cool jazz, 62 BPM, mellow tenor saxophone, soft upright bass and delicate brushed drums. Slow continuous swing, simple repeating melodic motif, gentle sustained notes, restrained dynamics, intimate peaceful atmosphere, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_07_almost_asleep",
+        "prompt": "Sleepy instrumental lounge jazz, 65 BPM, soft alto saxophone, warm electric piano and mellow bass. Slow hypnotic groove, gently descending saxophone melody, smooth harmonic transitions, delicate dynamics, cozy drowsy atmosphere, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_08_last_light_in_the_leaves",
+        "prompt": "Warm instrumental smooth jazz, 74 BPM, expressive tenor saxophone, mellow electric piano, rounded bass and soft brushed drums. Relaxed steady groove, flowing lyrical melody, rich major seventh harmonies, gentle harmonic resolution, nostalgic golden autumn atmosphere, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      }
+    ],
+    "requested_audio_format": "flac"
+  },
+  "kaggle_manifest": [
+    {
+      "output_name": "track_01_golden_tree",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_01_golden_tree/274f66db-880b-839c-7589-93db31e9fa96.flac",
+        "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_01_golden_tree/af3c6504-cbd5-05d0-3d10-0ceadb90eaca.flac",
+        "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_01_golden_tree/be1e502d-390a-fc51-a408-9d06b73e3918.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_02_one_falling_leaf",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_02_one_falling_leaf/afa52001-7488-70c2-9f6f-8e7f29341cb6.flac",
+        "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_02_one_falling_leaf/511d2a6c-8c37-ec34-23e3-c4a2cacf81d0.flac",
+        "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_02_one_falling_leaf/9ccf5fae-6d05-3516-82e8-8d3f53a55848.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_03_the_blue_cup",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_03_the_blue_cup/96b2d5da-0c40-6cfc-4dc7-cbe310ee6d91.flac",
+        "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_03_the_blue_cup/8dd8fe5f-2b60-0811-dc40-568bec810e9f.flac",
+        "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_03_the_blue_cup/21089895-9389-6740-46c1-7d27b2673845.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_04_a_paw_on_the_windowsill",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_04_a_paw_on_the_windowsill/f2ad0518-fbb2-d2c9-7dd1-d27393e1b0ac.flac",
+        "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_04_a_paw_on_the_windowsill/580939f5-f91a-71d3-46c6-221dd47ad87d.flac",
+        "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_04_a_paw_on_the_windowsill/f50d08ef-cb97-7248-7d5f-fb0631a25b0c.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_05_watching_the_rain",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_05_watching_the_rain/59a51310-6851-f4fb-48a1-1c4eebc58f5f.flac",
+        "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_05_watching_the_rain/230e0597-abef-10da-87fa-2ef6c30f78ef.flac",
+        "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_05_watching_the_rain/98920eb0-5abf-ca85-9106-38b73aa340e3.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_06_the_long_pause",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_06_the_long_pause/86a61943-dfef-52fe-f098-85b31c18051e.flac",
+        "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_06_the_long_pause/91eb8a72-353d-20e7-e628-3a8ad9f9565d.flac",
+        "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_06_the_long_pause/735e6fe4-c528-b06e-9785-e966c00bb88b.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_07_almost_asleep",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_07_almost_asleep/2035bd8d-3744-a933-9791-feac15d10da0.flac",
+        "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_07_almost_asleep/c53ebb5c-05ce-0cd1-43ba-4575fce3dad5.flac",
+        "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_07_almost_asleep/3470d65f-3185-e0c9-2b96-2260dd8f60c9.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_08_last_light_in_the_leaves",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_08_last_light_in_the_leaves/3703bc78-18a9-a2c9-e956-036c2e8cb28a.flac",
+        "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_08_last_light_in_the_leaves/2930ef93-b004-b7db-0bf3-e23e3139ec9e.flac",
+        "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_08_last_light_in_the_leaves/132f388f-d4e6-e18c-0317-5578dd786104.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    }
+  ],
+  "outputs": [
+    {
+      "composition": "track_01_golden_tree",
+      "variation": 1,
+      "filename": "track_01_golden_tree_01.flac",
+      "relative_path": "track_01_golden_tree/track_01_golden_tree_01.flac",
+      "size_bytes": 4805870,
+      "sha256": "9f88996dc40f9e82745e5dcaac4c04698a4812f35e802f91ca204afdf97a489c",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_01_golden_tree",
+      "variation": 2,
+      "filename": "track_01_golden_tree_02.flac",
+      "relative_path": "track_01_golden_tree/track_01_golden_tree_02.flac",
+      "size_bytes": 4788013,
+      "sha256": "81645c856d7aaed033df4d8e0f9670e2adac47fd0b48c9bcd14c99069302fee3",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_01_golden_tree",
+      "variation": 3,
+      "filename": "track_01_golden_tree_03.flac",
+      "relative_path": "track_01_golden_tree/track_01_golden_tree_03.flac",
+      "size_bytes": 5039325,
+      "sha256": "4d86f4a1409c570c8d6148b881d6bfcfa5a36a57bfb9a57ea514d5b024a1e803",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_one_falling_leaf",
+      "variation": 1,
+      "filename": "track_02_one_falling_leaf_01.flac",
+      "relative_path": "track_02_one_falling_leaf/track_02_one_falling_leaf_01.flac",
+      "size_bytes": 4267678,
+      "sha256": "4d04eec700da072ca522f8f5eac298ae861d3a1cf75e13db89fb5203cf4c0720",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_one_falling_leaf",
+      "variation": 2,
+      "filename": "track_02_one_falling_leaf_02.flac",
+      "relative_path": "track_02_one_falling_leaf/track_02_one_falling_leaf_02.flac",
+      "size_bytes": 4446604,
+      "sha256": "be1e9f2c96ee34ff2c7869192126428ae5e0cfcf03404363f09eb911efda72c6",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_one_falling_leaf",
+      "variation": 3,
+      "filename": "track_02_one_falling_leaf_03.flac",
+      "relative_path": "track_02_one_falling_leaf/track_02_one_falling_leaf_03.flac",
+      "size_bytes": 4515255,
+      "sha256": "db26778d0f85f76f4e291a69a74a53f7786548eca0d98eb40b1e38dce2cd0c64",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_the_blue_cup",
+      "variation": 1,
+      "filename": "track_03_the_blue_cup_01.flac",
+      "relative_path": "track_03_the_blue_cup/track_03_the_blue_cup_01.flac",
+      "size_bytes": 4570687,
+      "sha256": "e4370f97b2d99e012a9e4e9c984a3c9ea6e9fc2b592787de68d5642cd374d9dc",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_the_blue_cup",
+      "variation": 2,
+      "filename": "track_03_the_blue_cup_02.flac",
+      "relative_path": "track_03_the_blue_cup/track_03_the_blue_cup_02.flac",
+      "size_bytes": 4984821,
+      "sha256": "ac3a00fa6d7c715efb701d9ac668c68441c0812a1998dea9080d1d463224c789",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_the_blue_cup",
+      "variation": 3,
+      "filename": "track_03_the_blue_cup_03.flac",
+      "relative_path": "track_03_the_blue_cup/track_03_the_blue_cup_03.flac",
+      "size_bytes": 4489054,
+      "sha256": "cc0c803f9163353c5ffeca503338276d31d316e76250ac7bda1272e565b9bbf4",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_a_paw_on_the_windowsill",
+      "variation": 1,
+      "filename": "track_04_a_paw_on_the_windowsill_01.flac",
+      "relative_path": "track_04_a_paw_on_the_windowsill/track_04_a_paw_on_the_windowsill_01.flac",
+      "size_bytes": 5021603,
+      "sha256": "35db57d7d098a71f81ecf8fed8d6283535e921ff00e7bcbe521710d636dae498",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_a_paw_on_the_windowsill",
+      "variation": 2,
+      "filename": "track_04_a_paw_on_the_windowsill_02.flac",
+      "relative_path": "track_04_a_paw_on_the_windowsill/track_04_a_paw_on_the_windowsill_02.flac",
+      "size_bytes": 5113832,
+      "sha256": "4a0aad1539db1d57dfd3a227b980a99f7697d4be3d24f12b8ecb6aa0ac81c705",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_a_paw_on_the_windowsill",
+      "variation": 3,
+      "filename": "track_04_a_paw_on_the_windowsill_03.flac",
+      "relative_path": "track_04_a_paw_on_the_windowsill/track_04_a_paw_on_the_windowsill_03.flac",
+      "size_bytes": 4945628,
+      "sha256": "ee79d1919e50db0c24ad9a180a64cafc0fba5f29f9d226c902f732636f2da3fe",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_watching_the_rain",
+      "variation": 1,
+      "filename": "track_05_watching_the_rain_01.flac",
+      "relative_path": "track_05_watching_the_rain/track_05_watching_the_rain_01.flac",
+      "size_bytes": 4532471,
+      "sha256": "d5d446f062b0ae0eb01bd81cd7d60449842de36f7c1f148ff910d3f4724c9b76",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_watching_the_rain",
+      "variation": 2,
+      "filename": "track_05_watching_the_rain_02.flac",
+      "relative_path": "track_05_watching_the_rain/track_05_watching_the_rain_02.flac",
+      "size_bytes": 4700214,
+      "sha256": "f94d244fb671c8ee889a308d01bc993d3fad572a470e4f44d495ebc853b274d6",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_watching_the_rain",
+      "variation": 3,
+      "filename": "track_05_watching_the_rain_03.flac",
+      "relative_path": "track_05_watching_the_rain/track_05_watching_the_rain_03.flac",
+      "size_bytes": 4570702,
+      "sha256": "f4a45d44dbef2157a3db9839fd2198284ad6700d4689d4b81d12488926c7d81f",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_the_long_pause",
+      "variation": 1,
+      "filename": "track_06_the_long_pause_01.flac",
+      "relative_path": "track_06_the_long_pause/track_06_the_long_pause_01.flac",
+      "size_bytes": 4465474,
+      "sha256": "8efa889fcfb078ad62e774cd153eb86bfdc49ae0be6cb922365fc55df2668661",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_the_long_pause",
+      "variation": 2,
+      "filename": "track_06_the_long_pause_02.flac",
+      "relative_path": "track_06_the_long_pause/track_06_the_long_pause_02.flac",
+      "size_bytes": 4844328,
+      "sha256": "98204d1bbe3012e9341225f70543e388e72a018f431700507abdb77e27cde4b4",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_the_long_pause",
+      "variation": 3,
+      "filename": "track_06_the_long_pause_03.flac",
+      "relative_path": "track_06_the_long_pause/track_06_the_long_pause_03.flac",
+      "size_bytes": 4412636,
+      "sha256": "8782662b42f979872d443167e63e739b8b4fb3b65b96c2ad801202c521375045",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_almost_asleep",
+      "variation": 1,
+      "filename": "track_07_almost_asleep_01.flac",
+      "relative_path": "track_07_almost_asleep/track_07_almost_asleep_01.flac",
+      "size_bytes": 4533288,
+      "sha256": "0596ccdd85a4f194f1499e0d5bee06662621e9cc6a75ac642defd2775e4a0976",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_almost_asleep",
+      "variation": 2,
+      "filename": "track_07_almost_asleep_02.flac",
+      "relative_path": "track_07_almost_asleep/track_07_almost_asleep_02.flac",
+      "size_bytes": 4462880,
+      "sha256": "59951cad12d8c98aad1ed612b607f38be3690411bd2f60127f6d14745ce2275f",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_almost_asleep",
+      "variation": 3,
+      "filename": "track_07_almost_asleep_03.flac",
+      "relative_path": "track_07_almost_asleep/track_07_almost_asleep_03.flac",
+      "size_bytes": 4213952,
+      "sha256": "28c3cb1f77b7411b957cdbee36cd8c944756fd512ec8888b8386640f43c22c53",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_last_light_in_the_leaves",
+      "variation": 1,
+      "filename": "track_08_last_light_in_the_leaves_01.flac",
+      "relative_path": "track_08_last_light_in_the_leaves/track_08_last_light_in_the_leaves_01.flac",
+      "size_bytes": 4791046,
+      "sha256": "14ef656358aea9579376b6340edf4b730049114be094fb2822d45362c5ae49e8",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_last_light_in_the_leaves",
+      "variation": 2,
+      "filename": "track_08_last_light_in_the_leaves_02.flac",
+      "relative_path": "track_08_last_light_in_the_leaves/track_08_last_light_in_the_leaves_02.flac",
+      "size_bytes": 4879524,
+      "sha256": "17e0444595b46185bf9f6a2d9f1fcc53a3597a0131e0b7d69369b2e12d58ccdd",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_last_light_in_the_leaves",
+      "variation": 3,
+      "filename": "track_08_last_light_in_the_leaves_03.flac",
+      "relative_path": "track_08_last_light_in_the_leaves/track_08_last_light_in_the_leaves_03.flac",
+      "size_bytes": 4544309,
+      "sha256": "5238d777efc12329a61957506f4210d625a573c1c20092e686c70ac4bc8b7212",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    }
+  ],
+  "completed_compositions": 8,
+  "partial_compositions": 0,
+  "failed_compositions": 0,
+  "requested_variations": 24,
+  "generated_variations": 24,
+  "missing_variations": 0,
+  "archive_completed_at_utc": "2026-11-05T09:05:51.225067+00:00"
+}

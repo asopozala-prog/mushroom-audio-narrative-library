@@ -1,0 +1,11 @@
+{
+  "route": "sft_lm",
+  "prompt": "A 90-second instrumental composition for solo violin, poetic, delicate, and atmospheric, evoking the wind carrying autumn leaves through a moonlit forest at night. Three connected musical movements, each with a distinct melodic motif.\n\n**Part I — The First Whisper (0–30s):** A tender, solitary violin introduces a simple, memorable five-note motif. Long, breathlike bow strokes, delicate pauses, and gentle descending phrases suggest the first leaves stirring beneath the moon.\n\n**Part II — The Dance of Leaves (30–60s):** The wind awakens. A second, playful motif emerges through flowing arpeggios, graceful ascending runs, and light rhythmic variations. The violin becomes more animated, as though golden leaves are circling and dancing in invisible currents. Subtle emotional intensity, never dramatic.\n\n**Part III — The Moonlit Farewell (60–90s):** The wind gradually settles. A third, wistful motif appears, then gently recalls and transforms the opening five-note melody. Slow descending notes, expressive vibrato, delicate harmonics, and a final sustained tone fading into silence.\n\nIntimate chamber-music character, natural acoustic violin, expressive bowing, spacious phrasing, subtle dynamic changes, lyrical melodic development. A sense of wonder, solitude, tenderness, and quiet enchantment. No vocals, no percussion, no electronic instruments.",
+  "duration_seconds": 60,
+  "output_name": "studio_08847cdc9d8f4840",
+  "source_format": "flac",
+  "listening_format": "mp3",
+  "mp3_bitrate": "320k",
+  "kernel_id": "asopozala/mushroom-house-ace-step-music-studio",
+  "requested_accelerator": "NvidiaTeslaT4"
+}

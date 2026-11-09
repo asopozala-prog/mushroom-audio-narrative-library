@@ -1,0 +1,20 @@
+[
+  {
+    "output_name": "quiet_lake",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/batch_experiment_01/quiet_lake/dd99fa9c-1f48-766c-5137-05847fa7aaba.flac",
+      "/kaggle/working/music_output/batch_experiment_01/quiet_lake/a2034e1a-03fe-3baf-3eaf-2a4b23c511dd.flac",
+      "/kaggle/working/music_output/batch_experiment_01/quiet_lake/3f81e73d-4b6d-6bd0-f22b-087c79a9bd1d.flac"
+    ]
+  },
+  {
+    "output_name": "forest_rhythm",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/batch_experiment_01/forest_rhythm/56cd62f8-9669-f6ea-c379-c3736541ce9f.flac",
+      "/kaggle/working/music_output/batch_experiment_01/forest_rhythm/6f6b7451-be3e-4581-44a6-9f2b6872eccf.flac",
+      "/kaggle/working/music_output/batch_experiment_01/forest_rhythm/7468efbf-1af7-658c-813a-e6c3459e2ee0.flac"
+    ]
+  }
+]

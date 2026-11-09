@@ -1,0 +1,98 @@
+[
+  {
+    "output_name": "track_01_golden_tree",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_01_golden_tree/274f66db-880b-839c-7589-93db31e9fa96.flac",
+      "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_01_golden_tree/af3c6504-cbd5-05d0-3d10-0ceadb90eaca.flac",
+      "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_01_golden_tree/be1e502d-390a-fc51-a408-9d06b73e3918.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_02_one_falling_leaf",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_02_one_falling_leaf/afa52001-7488-70c2-9f6f-8e7f29341cb6.flac",
+      "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_02_one_falling_leaf/511d2a6c-8c37-ec34-23e3-c4a2cacf81d0.flac",
+      "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_02_one_falling_leaf/9ccf5fae-6d05-3516-82e8-8d3f53a55848.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_03_the_blue_cup",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_03_the_blue_cup/96b2d5da-0c40-6cfc-4dc7-cbe310ee6d91.flac",
+      "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_03_the_blue_cup/8dd8fe5f-2b60-0811-dc40-568bec810e9f.flac",
+      "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_03_the_blue_cup/21089895-9389-6740-46c1-7d27b2673845.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_04_a_paw_on_the_windowsill",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_04_a_paw_on_the_windowsill/f2ad0518-fbb2-d2c9-7dd1-d27393e1b0ac.flac",
+      "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_04_a_paw_on_the_windowsill/580939f5-f91a-71d3-46c6-221dd47ad87d.flac",
+      "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_04_a_paw_on_the_windowsill/f50d08ef-cb97-7248-7d5f-fb0631a25b0c.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_05_watching_the_rain",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_05_watching_the_rain/59a51310-6851-f4fb-48a1-1c4eebc58f5f.flac",
+      "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_05_watching_the_rain/230e0597-abef-10da-87fa-2ef6c30f78ef.flac",
+      "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_05_watching_the_rain/98920eb0-5abf-ca85-9106-38b73aa340e3.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_06_the_long_pause",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_06_the_long_pause/86a61943-dfef-52fe-f098-85b31c18051e.flac",
+      "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_06_the_long_pause/91eb8a72-353d-20e7-e628-3a8ad9f9565d.flac",
+      "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_06_the_long_pause/735e6fe4-c528-b06e-9785-e966c00bb88b.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_07_almost_asleep",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_07_almost_asleep/2035bd8d-3744-a933-9791-feac15d10da0.flac",
+      "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_07_almost_asleep/c53ebb5c-05ce-0cd1-43ba-4575fce3dad5.flac",
+      "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_07_almost_asleep/3470d65f-3185-e0c9-2b96-2260dd8f60c9.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_08_last_light_in_the_leaves",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_08_last_light_in_the_leaves/3703bc78-18a9-a2c9-e956-036c2e8cb28a.flac",
+      "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_08_last_light_in_the_leaves/2930ef93-b004-b7db-0bf3-e23e3139ec9e.flac",
+      "/kaggle/working/music_output/studio_batch_6fd337f668454fbf/track_08_last_light_in_the_leaves/132f388f-d4e6-e18c-0317-5578dd786104.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  }
+]

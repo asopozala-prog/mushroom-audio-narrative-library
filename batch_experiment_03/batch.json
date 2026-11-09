@@ -1,0 +1,36 @@
+{
+  "route": "turbo",
+  "batch_name": "batch_experiment_03",
+  "prompts": [
+    {
+      "output_name": "misty_lake",
+      "prompt": "Ambient piano and soft strings, 70 BPM, steady 4/4. Calm and slightly mysterious.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "winter_chamber",
+      "prompt": "Cello, viola and piano, 65 BPM, steady 3/4. Warm, intimate and melancholic.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "forest_folk",
+      "prompt": "Acoustic guitar and wooden flute, 90 BPM, steady 4/4. Gentle and quietly adventurous.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "mushroom_dance",
+      "prompt": "Pizzicato strings and marimba, 110 BPM, steady 4/4. Playful, curious and cheerful.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "night_signals",
+      "prompt": "Analog synthesizers and soft bass, 80 BPM, steady 4/4. Dreamy and a little lonely.",
+      "duration_seconds": 45,
+      "variations": 3
+    }
+  ]
+}
