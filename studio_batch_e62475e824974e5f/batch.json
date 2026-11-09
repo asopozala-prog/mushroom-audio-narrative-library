@@ -1,0 +1,39 @@
+{
+  "route": "turbo",
+  "batch_name": "studio_batch_e62475e824974e5f",
+  "batch_theme": "two_creatures_across_the_water",
+  "generation_started_at": 1794065277.717056,
+  "archive_label": "20261107_162757_two_creatures_across_the_water",
+  "prompts": [
+    {
+      "output_name": "track_01_a_stranger_beneath_the_surface",
+      "prompt": "Gentle instrumental cool jazz, 72 BPM, mellow tenor saxophone, warm upright bass and soft brushed drums. Relaxed flowing groove, curious ascending melodic phrases, subtle blues harmonies, intimate acoustic sound, quiet sense of discovery, no vocals.",
+      "duration_seconds": 60,
+      "variations": 3
+    },
+    {
+      "output_name": "track_02_the_boat_and_the_water",
+      "prompt": "Playful instrumental chamber music, 84 BPM, expressive solo violin, warm cello and gentle piano. Two contrasting melodic motifs, one light and bouncing, the other smooth and flowing. Graceful rhythmic movement, warm major harmonies, delicate dynamics, no vocals.",
+      "duration_seconds": 60,
+      "variations": 3
+    },
+    {
+      "output_name": "track_03_can_you_see_me",
+      "prompt": "Warm instrumental chamber jazz, 78 BPM, lyrical clarinet, soft acoustic piano and upright bass. Short questioning clarinet phrases answered by gentle piano motifs, relaxed steady swing, playful melodic dialogue, tender curiosity, no vocals.",
+      "duration_seconds": 60,
+      "variations": 3
+    },
+    {
+      "output_name": "track_04_a_game_between_two_worlds",
+      "prompt": "Cheerful instrumental swing jazz, 96 BPM, bright alto saxophone, walking upright bass and light brushed drums. Playful call-and-response melodies, bouncing syncopation, small rhythmic surprises, joyful major seventh harmonies, lively but gentle dynamics, no vocals.",
+      "duration_seconds": 60,
+      "variations": 3
+    },
+    {
+      "output_name": "track_05_the_same_little_adventure",
+      "prompt": "Tender instrumental downtempo jazz, 68 BPM, warm electric piano, mellow tenor saxophone, deep rounded bass and soft brushed percussion. Two simple melodies gradually intertwine over a steady relaxed groove, gentle minor-to-major harmonies, affectionate musical dialogue, peaceful resolution, no vocals.",
+      "duration_seconds": 60,
+      "variations": 3
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "schema_version": 1,
+  "batch_id": "studio_batch_e62475e824974e5f",
+  "archive_label": "20261107_162757_two_creatures_across_the_water",
+  "batch_theme": "two_creatures_across_the_water",
+  "generation_started_at": 1794065277.717056,
+  "model": {
+    "family": "ACE-Step",
+    "checkpoint_name": "acestep-v15-turbo",
+    "checkpoint_revision": null,
+    "route": "turbo"
+  },
+  "generation": {
+    "prompts": [
+      {
+        "output_name": "track_01_a_stranger_beneath_the_surface",
+        "prompt": "Gentle instrumental cool jazz, 72 BPM, mellow tenor saxophone, warm upright bass and soft brushed drums. Relaxed flowing groove, curious ascending melodic phrases, subtle blues harmonies, intimate acoustic sound, quiet sense of discovery, no vocals.",
+        "duration_seconds": 60,
+        "variations": 3
+      },
+      {
+        "output_name": "track_02_the_boat_and_the_water",
+        "prompt": "Playful instrumental chamber music, 84 BPM, expressive solo violin, warm cello and gentle piano. Two contrasting melodic motifs, one light and bouncing, the other smooth and flowing. Graceful rhythmic movement, warm major harmonies, delicate dynamics, no vocals.",
+        "duration_seconds": 60,
+        "variations": 3
+      },
+      {
+        "output_name": "track_03_can_you_see_me",
+        "prompt": "Warm instrumental chamber jazz, 78 BPM, lyrical clarinet, soft acoustic piano and upright bass. Short questioning clarinet phrases answered by gentle piano motifs, relaxed steady swing, playful melodic dialogue, tender curiosity, no vocals.",
+        "duration_seconds": 60,
+        "variations": 3
+      },
+      {
+        "output_name": "track_04_a_game_between_two_worlds",
+        "prompt": "Cheerful instrumental swing jazz, 96 BPM, bright alto saxophone, walking upright bass and light brushed drums. Playful call-and-response melodies, bouncing syncopation, small rhythmic surprises, joyful major seventh harmonies, lively but gentle dynamics, no vocals.",
+        "duration_seconds": 60,
+        "variations": 3
+      },
+      {
+        "output_name": "track_05_the_same_little_adventure",
+        "prompt": "Tender instrumental downtempo jazz, 68 BPM, warm electric piano, mellow tenor saxophone, deep rounded bass and soft brushed percussion. Two simple melodies gradually intertwine over a steady relaxed groove, gentle minor-to-major harmonies, affectionate musical dialogue, peaceful resolution, no vocals.",
+        "duration_seconds": 60,
+        "variations": 3
+      }
+    ],
+    "requested_audio_format": "flac"
+  },
+  "kaggle_manifest": [
+    {
+      "output_name": "track_01_a_stranger_beneath_the_surface",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_e62475e824974e5f/track_01_a_stranger_beneath_the_surface/cb54f056-49c6-4d31-ca07-04002da2687a.flac",
+        "/kaggle/working/music_output/studio_batch_e62475e824974e5f/track_01_a_stranger_beneath_the_surface/c2cb1955-9228-80a3-7432-6b4db51bf7b4.flac",
+        "/kaggle/working/music_output/studio_batch_e62475e824974e5f/track_01_a_stranger_beneath_the_surface/de1d0d72-f4ec-5b99-2df9-71b5b0c8674c.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_02_the_boat_and_the_water",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_e62475e824974e5f/track_02_the_boat_and_the_water/bc8b4f91-dd01-f149-3f08-515ad2bb0322.flac",
+        "/kaggle/working/music_output/studio_batch_e62475e824974e5f/track_02_the_boat_and_the_water/878a0acb-01b0-406f-c0e1-221a0582e016.flac",
+        "/kaggle/working/music_output/studio_batch_e62475e824974e5f/track_02_the_boat_and_the_water/74c1f433-7243-8a41-e21b-50bc135b7856.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_03_can_you_see_me",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_e62475e824974e5f/track_03_can_you_see_me/ae414fc4-2d99-cab0-2526-f90e925e4bb0.flac",
+        "/kaggle/working/music_output/studio_batch_e62475e824974e5f/track_03_can_you_see_me/af24c49a-6d87-bf2a-9b2d-4e664ca52565.flac",
+        "/kaggle/working/music_output/studio_batch_e62475e824974e5f/track_03_can_you_see_me/263ac06e-597c-2aa2-3b40-9bba8c32ae41.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_04_a_game_between_two_worlds",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_e62475e824974e5f/track_04_a_game_between_two_worlds/438941d1-ac7a-f82d-88b6-9fa3bf6092a1.flac",
+        "/kaggle/working/music_output/studio_batch_e62475e824974e5f/track_04_a_game_between_two_worlds/33d64d96-b6e6-66ca-6ac2-a5f5c53c682d.flac",
+        "/kaggle/working/music_output/studio_batch_e62475e824974e5f/track_04_a_game_between_two_worlds/c2e2bcc6-d3f2-39e7-ba9d-6da4cff6b238.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_05_the_same_little_adventure",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_e62475e824974e5f/track_05_the_same_little_adventure/dfebe4c9-366c-ba0b-81c5-6d12da0e36bc.flac",
+        "/kaggle/working/music_output/studio_batch_e62475e824974e5f/track_05_the_same_little_adventure/bcd57766-cb5f-06e1-5e4e-151dcf583cd7.flac",
+        "/kaggle/working/music_output/studio_batch_e62475e824974e5f/track_05_the_same_little_adventure/aecbc350-b263-f1e0-76c4-c4cf64cb0e4c.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    }
+  ],
+  "outputs": [
+    {
+      "composition": "track_01_a_stranger_beneath_the_surface",
+      "variation": 1,
+      "filename": "track_01_a_stranger_beneath_the_surface_01.flac",
+      "relative_path": "track_01_a_stranger_beneath_the_surface/track_01_a_stranger_beneath_the_surface_01.flac",
+      "size_bytes": 9527710,
+      "sha256": "421038d661ec1bad8f63124d3d4e99870174fbfd2df27dc47e9bf22833aa6fa7",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_01_a_stranger_beneath_the_surface",
+      "variation": 2,
+      "filename": "track_01_a_stranger_beneath_the_surface_02.flac",
+      "relative_path": "track_01_a_stranger_beneath_the_surface/track_01_a_stranger_beneath_the_surface_02.flac",
+      "size_bytes": 9109590,
+      "sha256": "345f1cac1a115dda6fcb109e929c473fcc9501172b18119abe2fea100b3c7e68",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_01_a_stranger_beneath_the_surface",
+      "variation": 3,
+      "filename": "track_01_a_stranger_beneath_the_surface_03.flac",
+      "relative_path": "track_01_a_stranger_beneath_the_surface/track_01_a_stranger_beneath_the_surface_03.flac",
+      "size_bytes": 9624037,
+      "sha256": "59883b1103e542843dbd9c0eb0caa6f9b82c5fa11f1b20fb27b24f7b43ef95aa",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_the_boat_and_the_water",
+      "variation": 1,
+      "filename": "track_02_the_boat_and_the_water_01.flac",
+      "relative_path": "track_02_the_boat_and_the_water/track_02_the_boat_and_the_water_01.flac",
+      "size_bytes": 10351477,
+      "sha256": "0893a0b70e17036f1b66f70e0137d68c23c53491737abfbb64f38f6f7fdec66d",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_the_boat_and_the_water",
+      "variation": 2,
+      "filename": "track_02_the_boat_and_the_water_02.flac",
+      "relative_path": "track_02_the_boat_and_the_water/track_02_the_boat_and_the_water_02.flac",
+      "size_bytes": 9742662,
+      "sha256": "509b0b655998b9c2e3651a83c4d7ceb3a6377dbbe27aaa540cad9f23bb98b3a0",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_the_boat_and_the_water",
+      "variation": 3,
+      "filename": "track_02_the_boat_and_the_water_03.flac",
+      "relative_path": "track_02_the_boat_and_the_water/track_02_the_boat_and_the_water_03.flac",
+      "size_bytes": 10252876,
+      "sha256": "784f5ea05242bed8fd9b5a395175d4ef8f7fc496ac991e6653e0eabb7c1df991",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_can_you_see_me",
+      "variation": 1,
+      "filename": "track_03_can_you_see_me_01.flac",
+      "relative_path": "track_03_can_you_see_me/track_03_can_you_see_me_01.flac",
+      "size_bytes": 10188443,
+      "sha256": "acb0833db1c25dc69e493e4a0828ac8b65d187496493da703d122065f14e0f9c",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_can_you_see_me",
+      "variation": 2,
+      "filename": "track_03_can_you_see_me_02.flac",
+      "relative_path": "track_03_can_you_see_me/track_03_can_you_see_me_02.flac",
+      "size_bytes": 10164793,
+      "sha256": "701042bc004f6b8a80acff6ca13184a254d9e09ed86c57033dc920c511b70c49",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_can_you_see_me",
+      "variation": 3,
+      "filename": "track_03_can_you_see_me_03.flac",
+      "relative_path": "track_03_can_you_see_me/track_03_can_you_see_me_03.flac",
+      "size_bytes": 10213559,
+      "sha256": "a04676736392ce2dad8789109a93c38ddd6ab990cb50e482a662baf289520117",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_a_game_between_two_worlds",
+      "variation": 1,
+      "filename": "track_04_a_game_between_two_worlds_01.flac",
+      "relative_path": "track_04_a_game_between_two_worlds/track_04_a_game_between_two_worlds_01.flac",
+      "size_bytes": 11963652,
+      "sha256": "c81e046485613a8e2dafbfe5b37334ea694b72ecc8689c654bd068b79420bb40",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_a_game_between_two_worlds",
+      "variation": 2,
+      "filename": "track_04_a_game_between_two_worlds_02.flac",
+      "relative_path": "track_04_a_game_between_two_worlds/track_04_a_game_between_two_worlds_02.flac",
+      "size_bytes": 11102176,
+      "sha256": "5c6a2df000ec9b08c7162170f7e80bd535c28ca7f96249e7f29d726ea5a182e6",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_a_game_between_two_worlds",
+      "variation": 3,
+      "filename": "track_04_a_game_between_two_worlds_03.flac",
+      "relative_path": "track_04_a_game_between_two_worlds/track_04_a_game_between_two_worlds_03.flac",
+      "size_bytes": 11017016,
+      "sha256": "5d5950edf79286cf45f35023dfe7cc26c82771b7531ff2858813a7dc45ffdeae",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_same_little_adventure",
+      "variation": 1,
+      "filename": "track_05_the_same_little_adventure_01.flac",
+      "relative_path": "track_05_the_same_little_adventure/track_05_the_same_little_adventure_01.flac",
+      "size_bytes": 9428800,
+      "sha256": "5274a3bbe37c502e312bd4c63c8a3d28c829b4615d41ddbb3733d5a3b984b205",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_same_little_adventure",
+      "variation": 2,
+      "filename": "track_05_the_same_little_adventure_02.flac",
+      "relative_path": "track_05_the_same_little_adventure/track_05_the_same_little_adventure_02.flac",
+      "size_bytes": 9607724,
+      "sha256": "62276dc5f1a2834b9e95f38d3f1a09c943a46d45bfee1a1ef9cf711c8844602a",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_same_little_adventure",
+      "variation": 3,
+      "filename": "track_05_the_same_little_adventure_03.flac",
+      "relative_path": "track_05_the_same_little_adventure/track_05_the_same_little_adventure_03.flac",
+      "size_bytes": 10221134,
+      "sha256": "4c051178faddc05f0788f7dad8cb9b6f099cb6d18d9b27cc80b9443820ae5116",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    }
+  ],
+  "completed_compositions": 5,
+  "partial_compositions": 0,
+  "failed_compositions": 0,
+  "requested_variations": 15,
+  "generated_variations": 15,
+  "missing_variations": 0,
+  "archive_completed_at_utc": "2026-11-07T15:35:48.145175+00:00"
+}

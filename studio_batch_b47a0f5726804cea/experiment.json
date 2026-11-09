@@ -1,0 +1,353 @@
+{
+  "schema_version": 1,
+  "batch_id": "studio_batch_b47a0f5726804cea",
+  "archive_label": "20261103_112208_mushroom_house_kitchen_weekend",
+  "batch_theme": "mushroom_house_kitchen_weekend",
+  "generation_started_at": 1793701328.2481542,
+  "model": {
+    "family": "ACE-Step",
+    "checkpoint_name": "acestep-v15-sft",
+    "checkpoint_revision": null,
+    "route": "sft_lm"
+  },
+  "generation": {
+    "prompts": [
+      {
+        "output_name": "track_01_saturday_kitchen_wakes",
+        "prompt": "Warm instrumental lounge jazz, 68 BPM, mellow electric piano, upright bass and soft brushed drums. Relaxed swing groove, gentle repeating melody, warm major seventh chords, intimate cozy atmosphere, no vocals.",
+        "duration_seconds": 30,
+        "variations": 2
+      },
+      {
+        "output_name": "track_02_hormus_knows_noodles",
+        "prompt": "Playful instrumental swing jazz, 92 BPM, bright acoustic piano, walking upright bass and light brushed drums. Bouncy syncopated rhythm, cheerful melodic phrases, bluesy chord changes, warm vintage jazz sound, no vocals.",
+        "duration_seconds": 30,
+        "variations": 2
+      },
+      {
+        "output_name": "track_03_seventeen_minutes_one_noodle",
+        "prompt": "Comical instrumental jazz trio, 106 BPM, lively piano, plucked upright bass and swinging drums. Short staccato piano motifs, playful rhythmic accents, light chromatic runs, steady cheerful groove, no vocals.",
+        "duration_seconds": 30,
+        "variations": 2
+      },
+      {
+        "output_name": "track_04_silas_noodle_supervisor",
+        "prompt": "Cool instrumental jazz, 88 BPM, smooth electric piano, deep upright bass and crisp brushed percussion. Confident syncopated groove, neat repeating melodic phrases, subtle blues harmonies, polished intimate sound, no vocals.",
+        "duration_seconds": 30,
+        "variations": 2
+      },
+      {
+        "output_name": "track_05_osi_tastes_one_noodle",
+        "prompt": "Sleepy instrumental jazz ballad, 60 BPM, gentle acoustic piano, soft upright bass and delicate brushed drums. Slow steady pulse, simple descending melody, warm sustained chords, unhurried peaceful atmosphere, no vocals.",
+        "duration_seconds": 30,
+        "variations": 2
+      },
+      {
+        "output_name": "track_06_sunday_somyeon",
+        "prompt": "Cozy instrumental lounge jazz, 72 BPM, warm electric piano, mellow bass and soft brushed drums. Gentle flowing melody, relaxed swing rhythm, rich major seventh harmonies, intimate natural production, no vocals.",
+        "duration_seconds": 30,
+        "variations": 2
+      },
+      {
+        "output_name": "track_07_cabbage_and_mushrooms",
+        "prompt": "Light instrumental bossa nova jazz, 94 BPM, warm nylon-string guitar, soft electric piano and gentle Latin percussion. Smooth syncopated groove, playful melodic phrases, bright mellow harmonies, relaxed kitchen atmosphere, no vocals.",
+        "duration_seconds": 30,
+        "variations": 2
+      },
+      {
+        "output_name": "track_08_the_missing_olive",
+        "prompt": "Mischievous instrumental swing jazz, 110 BPM, lively piano, walking upright bass and light jazz drums. Short bluesy motifs, bouncing rhythm, playful chromatic phrases, cheerful tension and release, no vocals.",
+        "duration_seconds": 30,
+        "variations": 2
+      },
+      {
+        "output_name": "track_09_hazel_guards_breakfast",
+        "prompt": "Gentle instrumental cool jazz, 76 BPM, mellow piano, upright bass and soft brushed drums. Steady relaxed groove, thoughtful melodic phrasing, warm minor seventh harmonies, restrained dynamics, intimate acoustic sound, no vocals.",
+        "duration_seconds": 30,
+        "variations": 2
+      },
+      {
+        "output_name": "track_10_the_dough_is_rising",
+        "prompt": "Warm instrumental soul jazz, 70 BPM, soft electric piano, deep rounded bass and delicate brushed percussion. Slow hypnotic groove, gently ascending melody, rich warm harmonies, gradual musical development, no vocals.",
+        "duration_seconds": 30,
+        "variations": 2
+      },
+      {
+        "output_name": "track_11_one_rise_no_disturbance",
+        "prompt": "Minimal instrumental downtempo jazz, 64 BPM, mellow electric piano, warm bass and subtle brushed drums. Slow continuous pulse, simple repeating piano motif, smooth harmonic movement, soft dynamics, peaceful intimate atmosphere, no vocals.",
+        "duration_seconds": 30,
+        "variations": 2
+      },
+      {
+        "output_name": "track_12_hormus_sunday_loaf",
+        "prompt": "Tender instrumental jazz ballad, 66 BPM, warm acoustic piano, soft upright bass and gentle brushed drums. Relaxed steady rhythm, affectionate flowing melody, mellow major harmonies, gentle resolution, cozy nostalgic atmosphere, no vocals.",
+        "duration_seconds": 30,
+        "variations": 2
+      }
+    ],
+    "requested_audio_format": "flac"
+  },
+  "kaggle_manifest": [
+    {
+      "output_name": "track_01_saturday_kitchen_wakes",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b47a0f5726804cea/track_01_saturday_kitchen_wakes/17fdece8-407c-0c80-0e9c-a28bba4108f0.flac"
+      ],
+      "requested_variations": 2,
+      "generated_variations": 1,
+      "missing_variations": 1
+    },
+    {
+      "output_name": "track_02_hormus_knows_noodles",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b47a0f5726804cea/track_02_hormus_knows_noodles/e3cf7b55-fb9d-fb8c-cd63-300325f37f9d.flac"
+      ],
+      "requested_variations": 2,
+      "generated_variations": 1,
+      "missing_variations": 1
+    },
+    {
+      "output_name": "track_03_seventeen_minutes_one_noodle",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b47a0f5726804cea/track_03_seventeen_minutes_one_noodle/ac2cac09-24c2-0c84-e906-4f5f95de2232.flac"
+      ],
+      "requested_variations": 2,
+      "generated_variations": 1,
+      "missing_variations": 1
+    },
+    {
+      "output_name": "track_04_silas_noodle_supervisor",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b47a0f5726804cea/track_04_silas_noodle_supervisor/6d3e71b2-fac2-d6be-a13a-bbdc06154ae5.flac"
+      ],
+      "requested_variations": 2,
+      "generated_variations": 1,
+      "missing_variations": 1
+    },
+    {
+      "output_name": "track_05_osi_tastes_one_noodle",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b47a0f5726804cea/track_05_osi_tastes_one_noodle/3c73e55f-e76d-74e5-1dba-f565b35e5714.flac"
+      ],
+      "requested_variations": 2,
+      "generated_variations": 1,
+      "missing_variations": 1
+    },
+    {
+      "output_name": "track_06_sunday_somyeon",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b47a0f5726804cea/track_06_sunday_somyeon/41d256f5-c564-d313-fbda-20658485a2c7.flac"
+      ],
+      "requested_variations": 2,
+      "generated_variations": 1,
+      "missing_variations": 1
+    },
+    {
+      "output_name": "track_07_cabbage_and_mushrooms",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b47a0f5726804cea/track_07_cabbage_and_mushrooms/b3afa05f-a991-f9de-ca3e-817979e6f5b1.flac"
+      ],
+      "requested_variations": 2,
+      "generated_variations": 1,
+      "missing_variations": 1
+    },
+    {
+      "output_name": "track_08_the_missing_olive",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b47a0f5726804cea/track_08_the_missing_olive/72a3eec1-8456-4f80-a70c-e2cffe065585.flac"
+      ],
+      "requested_variations": 2,
+      "generated_variations": 1,
+      "missing_variations": 1
+    },
+    {
+      "output_name": "track_09_hazel_guards_breakfast",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b47a0f5726804cea/track_09_hazel_guards_breakfast/ef1bf4b1-6d32-9adc-f554-eb1077346480.flac"
+      ],
+      "requested_variations": 2,
+      "generated_variations": 1,
+      "missing_variations": 1
+    },
+    {
+      "output_name": "track_10_the_dough_is_rising",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b47a0f5726804cea/track_10_the_dough_is_rising/99c79035-60c8-9642-5a7c-0fd1f65604fc.flac"
+      ],
+      "requested_variations": 2,
+      "generated_variations": 1,
+      "missing_variations": 1
+    },
+    {
+      "output_name": "track_11_one_rise_no_disturbance",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b47a0f5726804cea/track_11_one_rise_no_disturbance/fc245502-51cf-25de-eba3-81aebc2211a1.flac"
+      ],
+      "requested_variations": 2,
+      "generated_variations": 1,
+      "missing_variations": 1
+    },
+    {
+      "output_name": "track_12_hormus_sunday_loaf",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b47a0f5726804cea/track_12_hormus_sunday_loaf/dc522ddf-6c20-2b93-a237-28ea3e08a2df.flac"
+      ],
+      "requested_variations": 2,
+      "generated_variations": 1,
+      "missing_variations": 1
+    }
+  ],
+  "outputs": [
+    {
+      "composition": "track_01_saturday_kitchen_wakes",
+      "variation": 1,
+      "filename": "track_01_saturday_kitchen_wakes_01.flac",
+      "relative_path": "track_01_saturday_kitchen_wakes/track_01_saturday_kitchen_wakes_01.flac",
+      "size_bytes": 5397508,
+      "sha256": "76b56bb8a8f1536b43d2fc04adfffeb7283a807d6d6e3d87c4bada0d0cf0c69b",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_hormus_knows_noodles",
+      "variation": 1,
+      "filename": "track_02_hormus_knows_noodles_01.flac",
+      "relative_path": "track_02_hormus_knows_noodles/track_02_hormus_knows_noodles_01.flac",
+      "size_bytes": 5165627,
+      "sha256": "49d70611a8a7a8161b510c04c12242d3227a59aea4f82e6dd30574fccea07eb4",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_seventeen_minutes_one_noodle",
+      "variation": 1,
+      "filename": "track_03_seventeen_minutes_one_noodle_01.flac",
+      "relative_path": "track_03_seventeen_minutes_one_noodle/track_03_seventeen_minutes_one_noodle_01.flac",
+      "size_bytes": 4763762,
+      "sha256": "a045203d3ebc13df1026a5c6cd6a9a555ab5911c6e70539b73a28bbca2248361",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_silas_noodle_supervisor",
+      "variation": 1,
+      "filename": "track_04_silas_noodle_supervisor_01.flac",
+      "relative_path": "track_04_silas_noodle_supervisor/track_04_silas_noodle_supervisor_01.flac",
+      "size_bytes": 4725427,
+      "sha256": "dee251d2731d7216d46a8a5bf4a41a1514588b4385caef40b4c511db5b9d1334",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_osi_tastes_one_noodle",
+      "variation": 1,
+      "filename": "track_05_osi_tastes_one_noodle_01.flac",
+      "relative_path": "track_05_osi_tastes_one_noodle/track_05_osi_tastes_one_noodle_01.flac",
+      "size_bytes": 5419016,
+      "sha256": "f223266733b2741f135fcf563d5991ad7d04a707fe279c33ea8d74677816ec0b",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_sunday_somyeon",
+      "variation": 1,
+      "filename": "track_06_sunday_somyeon_01.flac",
+      "relative_path": "track_06_sunday_somyeon/track_06_sunday_somyeon_01.flac",
+      "size_bytes": 5393197,
+      "sha256": "d51507d41c98119a35538854677403ab1d13f0ab94501d5ef79e7b43bcaef313",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_cabbage_and_mushrooms",
+      "variation": 1,
+      "filename": "track_07_cabbage_and_mushrooms_01.flac",
+      "relative_path": "track_07_cabbage_and_mushrooms/track_07_cabbage_and_mushrooms_01.flac",
+      "size_bytes": 5168576,
+      "sha256": "a1204f6e7f8486a931b84318769461e9424965e01564cec8deccf55f91183258",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_the_missing_olive",
+      "variation": 1,
+      "filename": "track_08_the_missing_olive_01.flac",
+      "relative_path": "track_08_the_missing_olive/track_08_the_missing_olive_01.flac",
+      "size_bytes": 6011993,
+      "sha256": "5aa26423234e54cd8be7e72d59c77eb09e7b2f490e22f2fda47d97ea22a48d3e",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_09_hazel_guards_breakfast",
+      "variation": 1,
+      "filename": "track_09_hazel_guards_breakfast_01.flac",
+      "relative_path": "track_09_hazel_guards_breakfast/track_09_hazel_guards_breakfast_01.flac",
+      "size_bytes": 6222611,
+      "sha256": "161de5ee96d4ace48ede766be93363e9da35a6510e286fb8df6530d536cbcea4",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_10_the_dough_is_rising",
+      "variation": 1,
+      "filename": "track_10_the_dough_is_rising_01.flac",
+      "relative_path": "track_10_the_dough_is_rising/track_10_the_dough_is_rising_01.flac",
+      "size_bytes": 5313561,
+      "sha256": "a3786396a7ab05f40bbaca8b090191cb4de588d7f67a55ea959210698728aabd",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_11_one_rise_no_disturbance",
+      "variation": 1,
+      "filename": "track_11_one_rise_no_disturbance_01.flac",
+      "relative_path": "track_11_one_rise_no_disturbance/track_11_one_rise_no_disturbance_01.flac",
+      "size_bytes": 5166969,
+      "sha256": "565689f766a95f27732739e82a6e2cc33beb022b2edbe016f8198343061bd2a1",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_12_hormus_sunday_loaf",
+      "variation": 1,
+      "filename": "track_12_hormus_sunday_loaf_01.flac",
+      "relative_path": "track_12_hormus_sunday_loaf/track_12_hormus_sunday_loaf_01.flac",
+      "size_bytes": 5498645,
+      "sha256": "4e9c5f8afe1700cc141677c2bb7e577f2826cc3e26eb42f47490b821d07d4292",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    }
+  ],
+  "completed_compositions": 0,
+  "partial_compositions": 12,
+  "failed_compositions": 0,
+  "requested_variations": 24,
+  "generated_variations": 12,
+  "missing_variations": 12,
+  "archive_completed_at_utc": "2026-11-03T10:51:41.588745+00:00"
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "output_name": "track_01_the_rabbit_and_eternal_autumn",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_01_the_rabbit_and_eternal_autumn/8bec56ba-4365-a635-c939-456e9a917ea6.flac",
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_01_the_rabbit_and_eternal_autumn/1ca004dc-4079-03e4-844d-d6eb0c24dc76.flac",
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_01_the_rabbit_and_eternal_autumn/fe61c3a0-0df1-1d57-650b-b4bf6cc4c27c.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_02_a_cold_among_golden_leaves",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_02_a_cold_among_golden_leaves/636bf0ec-f6d6-285b-523e-5be404b86f64.flac",
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_02_a_cold_among_golden_leaves/aabe2d36-bd18-f7e2-c692-c6f8a3559ffa.flac",
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_02_a_cold_among_golden_leaves/99aac848-e50d-46c2-72de-dcce281d89f3.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_03_the_long_unquiet_nights",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_03_the_long_unquiet_nights/1e6143bc-2e4d-4f44-92af-efbc2929e070.flac",
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_03_the_long_unquiet_nights/cb3b4c66-7bf9-6c89-9606-9925edbb4a88.flac",
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_03_the_long_unquiet_nights/a7e570f9-9401-4749-716e-841ae4d1a7d5.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_04_when_the_mind_grows_tired",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_04_when_the_mind_grows_tired/e5433bd9-befe-45fe-fa6d-0f9a8c705c11.flac",
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_04_when_the_mind_grows_tired/6eb947f3-691f-f6e9-dbee-b93338efdeb7.flac",
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_04_when_the_mind_grows_tired/ea65670b-ed10-190b-49cf-0e7de7957817.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_05_the_window_full_of_autumn",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_05_the_window_full_of_autumn/f6636e3d-006c-225b-b797-d69f6500edd9.flac",
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_05_the_window_full_of_autumn/44b6a16c-2850-b911-9ca8-2654057f3d7d.flac",
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_05_the_window_full_of_autumn/34274c89-f510-7ad3-ca31-b23a5dde4532.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_06_a_small_suitcase",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_06_a_small_suitcase/b1835bcc-21ab-14ef-7d8e-83923e77498e.flac",
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_06_a_small_suitcase/3a31caaa-5830-b070-1bea-1ca680ef0544.flac",
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_06_a_small_suitcase/090a5f52-e28e-eda6-eade-201dde016af9.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_07_the_road_to_his_twin",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_07_the_road_to_his_twin/cd1ff0e1-2185-41bc-fab3-aad6489dc5a5.flac",
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_07_the_road_to_his_twin/ecd1e422-684e-128c-3438-10356352498d.flac",
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_07_the_road_to_his_twin/f4deb8a2-f6ae-f3ca-c209-0319cbc467dc.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_08_two_rabbits_at_the_door",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_08_two_rabbits_at_the_door/6ed18dc2-57a9-5924-0325-6b4030a1e5b0.flac",
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_08_two_rabbits_at_the_door/1d7ad3be-64ff-0ec8-5420-daf7f306d9d6.flac",
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_08_two_rabbits_at_the_door/fcd92da9-0af9-578b-5147-d46986c0d33c.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_09_the_house_that_remembers_him",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_09_the_house_that_remembers_him/fe9b725a-8ab6-2cd3-83c5-9a13e0bfd4e4.flac",
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_09_the_house_that_remembers_him/0e8cbe57-7cde-2c9b-c8e1-73d85478b35e.flac",
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_09_the_house_that_remembers_him/27c6b0b3-aa49-d1ed-dc4c-008bece3f86e.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_10_sleeping_beneath_a_familiar_roof",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_10_sleeping_beneath_a_familiar_roof/9c3d6db0-f336-ce6c-ab78-3a7b5b16c30a.flac",
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_10_sleeping_beneath_a_familiar_roof/9b65a97e-2545-b234-c311-087066fad263.flac",
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_10_sleeping_beneath_a_familiar_roof/58392a86-9989-4b47-b463-abec9bb00a09.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_11_strength_returns_with_morning",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_11_strength_returns_with_morning/edab3be6-ca44-49eb-cd12-30b181f10b21.flac",
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_11_strength_returns_with_morning/5484c5a2-9f0f-1a47-f019-9e98609abf1b.flac",
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_11_strength_returns_with_morning/ebc22406-34c8-3a02-da26-072f853360b3.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_12_returning_to_eternal_autumn",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_12_returning_to_eternal_autumn/a7606989-1dd4-03fa-1d4d-695b15a9b712.flac",
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_12_returning_to_eternal_autumn/fdfbe669-f1cb-956c-f4fd-ec34babd90b6.flac",
+      "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_12_returning_to_eternal_autumn/089c1211-d76b-b751-fd4b-5d37b6382e95.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  }
+]

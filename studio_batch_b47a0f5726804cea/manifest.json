@@ -1,0 +1,122 @@
+[
+  {
+    "output_name": "track_01_saturday_kitchen_wakes",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b47a0f5726804cea/track_01_saturday_kitchen_wakes/17fdece8-407c-0c80-0e9c-a28bba4108f0.flac"
+    ],
+    "requested_variations": 2,
+    "generated_variations": 1,
+    "missing_variations": 1
+  },
+  {
+    "output_name": "track_02_hormus_knows_noodles",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b47a0f5726804cea/track_02_hormus_knows_noodles/e3cf7b55-fb9d-fb8c-cd63-300325f37f9d.flac"
+    ],
+    "requested_variations": 2,
+    "generated_variations": 1,
+    "missing_variations": 1
+  },
+  {
+    "output_name": "track_03_seventeen_minutes_one_noodle",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b47a0f5726804cea/track_03_seventeen_minutes_one_noodle/ac2cac09-24c2-0c84-e906-4f5f95de2232.flac"
+    ],
+    "requested_variations": 2,
+    "generated_variations": 1,
+    "missing_variations": 1
+  },
+  {
+    "output_name": "track_04_silas_noodle_supervisor",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b47a0f5726804cea/track_04_silas_noodle_supervisor/6d3e71b2-fac2-d6be-a13a-bbdc06154ae5.flac"
+    ],
+    "requested_variations": 2,
+    "generated_variations": 1,
+    "missing_variations": 1
+  },
+  {
+    "output_name": "track_05_osi_tastes_one_noodle",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b47a0f5726804cea/track_05_osi_tastes_one_noodle/3c73e55f-e76d-74e5-1dba-f565b35e5714.flac"
+    ],
+    "requested_variations": 2,
+    "generated_variations": 1,
+    "missing_variations": 1
+  },
+  {
+    "output_name": "track_06_sunday_somyeon",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b47a0f5726804cea/track_06_sunday_somyeon/41d256f5-c564-d313-fbda-20658485a2c7.flac"
+    ],
+    "requested_variations": 2,
+    "generated_variations": 1,
+    "missing_variations": 1
+  },
+  {
+    "output_name": "track_07_cabbage_and_mushrooms",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b47a0f5726804cea/track_07_cabbage_and_mushrooms/b3afa05f-a991-f9de-ca3e-817979e6f5b1.flac"
+    ],
+    "requested_variations": 2,
+    "generated_variations": 1,
+    "missing_variations": 1
+  },
+  {
+    "output_name": "track_08_the_missing_olive",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b47a0f5726804cea/track_08_the_missing_olive/72a3eec1-8456-4f80-a70c-e2cffe065585.flac"
+    ],
+    "requested_variations": 2,
+    "generated_variations": 1,
+    "missing_variations": 1
+  },
+  {
+    "output_name": "track_09_hazel_guards_breakfast",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b47a0f5726804cea/track_09_hazel_guards_breakfast/ef1bf4b1-6d32-9adc-f554-eb1077346480.flac"
+    ],
+    "requested_variations": 2,
+    "generated_variations": 1,
+    "missing_variations": 1
+  },
+  {
+    "output_name": "track_10_the_dough_is_rising",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b47a0f5726804cea/track_10_the_dough_is_rising/99c79035-60c8-9642-5a7c-0fd1f65604fc.flac"
+    ],
+    "requested_variations": 2,
+    "generated_variations": 1,
+    "missing_variations": 1
+  },
+  {
+    "output_name": "track_11_one_rise_no_disturbance",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b47a0f5726804cea/track_11_one_rise_no_disturbance/fc245502-51cf-25de-eba3-81aebc2211a1.flac"
+    ],
+    "requested_variations": 2,
+    "generated_variations": 1,
+    "missing_variations": 1
+  },
+  {
+    "output_name": "track_12_hormus_sunday_loaf",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b47a0f5726804cea/track_12_hormus_sunday_loaf/dc522ddf-6c20-2b93-a237-28ea3e08a2df.flac"
+    ],
+    "requested_variations": 2,
+    "generated_variations": 1,
+    "missing_variations": 1
+  }
+]

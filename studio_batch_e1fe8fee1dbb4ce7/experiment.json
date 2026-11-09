@@ -1,0 +1,488 @@
+{
+  "schema_version": 1,
+  "batch_id": "studio_batch_e1fe8fee1dbb4ce7",
+  "archive_label": "20261105_132506_chairs_multicultural_coffee_shop",
+  "batch_theme": "chairs_multicultural_coffee_shop",
+  "generation_started_at": 1793881506.2816331,
+  "model": {
+    "family": "ACE-Step",
+    "checkpoint_name": "acestep-v15-turbo",
+    "checkpoint_revision": null,
+    "route": "turbo"
+  },
+  "generation": {
+    "prompts": [
+      {
+        "output_name": "track_01_the_afternoon_begins",
+        "prompt": "Warm instrumental vintage café jazz, 74 BPM, mellow tenor saxophone, upright bass and soft brushed drums. Relaxed swing groove, graceful melodic phrases, warm major seventh harmonies, intimate acoustic recording, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_02_the_gentleman_and_his_newspaper",
+        "prompt": "Elegant instrumental cool jazz, 78 BPM, expressive tenor saxophone, soft jazz piano and walking upright bass. Unhurried swing rhythm, sophisticated melodic phrasing, subtle blues harmonies, polished 1950s jazz club atmosphere, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_03_the_cat_favourite_chair",
+        "prompt": "Playful instrumental swing jazz, 86 BPM, warm alto saxophone, upright bass and light brushed drums. Short descending saxophone motifs, gentle syncopation, relaxed bouncing groove, mellow harmonies, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_04_the_lady_in_red",
+        "prompt": "Elegant instrumental French café jazz, 82 BPM, lyrical violin, warm acoustic guitar and upright bass. Graceful flowing melody, light rhythmic swing, romantic major-minor harmonies, intimate vintage acoustic sound, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_05_a_chair_for_a_deer",
+        "prompt": "Whimsical instrumental chamber jazz, 88 BPM, expressive clarinet, pizzicato double bass and light piano accompaniment. Playful staccato melody, gentle rhythmic accents, warm chromatic harmonies, steady swinging pulse, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_06_antlers_and_antique_furniture",
+        "prompt": "Light instrumental classical chamber music, 76 BPM, lyrical solo violin, warm cello and gentle piano. Elegant measured rhythm, playful ascending phrases, graceful harmonic movement, delicate dynamics, natural chamber acoustics, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_07_the_little_demons_coffee",
+        "prompt": "Playful instrumental cool jazz, 80 BPM, mellow alto saxophone, plucked upright bass and soft brushed drums. Short repeating melodic phrases, gentle bluesy harmonies, light syncopation, warm intimate atmosphere, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_08_the_unreachable_cup",
+        "prompt": "Gentle instrumental jazz, 70 BPM, expressive tenor saxophone, warm electric piano and deep mellow bass. Slow continuous groove, small ascending melodic motifs, subtle harmonic tension and release, restrained dynamics, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_09_an_unexpected_neighbour",
+        "prompt": "Tender instrumental chamber jazz, 68 BPM, warm tenor saxophone, soft upright bass and delicate brushed drums. Gentle steady swing, flowing affectionate melody, rich major seventh harmonies, gradual soft resolution, intimate peaceful café atmosphere, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      }
+    ],
+    "requested_audio_format": "flac"
+  },
+  "kaggle_manifest": [
+    {
+      "output_name": "track_01_the_afternoon_begins",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_e1fe8fee1dbb4ce7/track_01_the_afternoon_begins/08022564-8e50-42a7-a6d1-7472332eaad6.flac",
+        "/kaggle/working/music_output/studio_batch_e1fe8fee1dbb4ce7/track_01_the_afternoon_begins/184af772-c2e7-4f28-09f8-9ebca93ec39f.flac",
+        "/kaggle/working/music_output/studio_batch_e1fe8fee1dbb4ce7/track_01_the_afternoon_begins/7450bebf-a67c-f295-278a-50c541dce99c.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_02_the_gentleman_and_his_newspaper",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_e1fe8fee1dbb4ce7/track_02_the_gentleman_and_his_newspaper/86877a11-f6c8-3a2b-4f63-041547cb1f1b.flac",
+        "/kaggle/working/music_output/studio_batch_e1fe8fee1dbb4ce7/track_02_the_gentleman_and_his_newspaper/671b7337-ac2a-984b-cf5e-da1839c4cf73.flac",
+        "/kaggle/working/music_output/studio_batch_e1fe8fee1dbb4ce7/track_02_the_gentleman_and_his_newspaper/24be1d66-bbd3-7f41-739c-0b26f33a1c65.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_03_the_cat_favourite_chair",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_e1fe8fee1dbb4ce7/track_03_the_cat_favourite_chair/2b517d32-851d-10f3-96ab-71471092c0b2.flac",
+        "/kaggle/working/music_output/studio_batch_e1fe8fee1dbb4ce7/track_03_the_cat_favourite_chair/f922227a-acfe-888e-ed89-a15cc726f8b1.flac",
+        "/kaggle/working/music_output/studio_batch_e1fe8fee1dbb4ce7/track_03_the_cat_favourite_chair/cb00d387-69c3-96f1-9976-3f5eb3e39fc9.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_04_the_lady_in_red",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_e1fe8fee1dbb4ce7/track_04_the_lady_in_red/d44a2fe9-a2fe-58fc-b618-554ab5cdbed2.flac",
+        "/kaggle/working/music_output/studio_batch_e1fe8fee1dbb4ce7/track_04_the_lady_in_red/72c6f62b-f23a-d6ef-2f3b-0c2ed1d27b4f.flac",
+        "/kaggle/working/music_output/studio_batch_e1fe8fee1dbb4ce7/track_04_the_lady_in_red/f3c1dd7c-6294-ab9c-277f-800571ad6c68.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_05_a_chair_for_a_deer",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_e1fe8fee1dbb4ce7/track_05_a_chair_for_a_deer/b083b31f-7bbe-ee9c-ef35-81b4c6e4c843.flac",
+        "/kaggle/working/music_output/studio_batch_e1fe8fee1dbb4ce7/track_05_a_chair_for_a_deer/9ba19606-d9d8-5ec0-3142-c1704f99c29d.flac",
+        "/kaggle/working/music_output/studio_batch_e1fe8fee1dbb4ce7/track_05_a_chair_for_a_deer/5383b6fe-2ee1-94e0-d584-cf016d942c20.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_06_antlers_and_antique_furniture",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_e1fe8fee1dbb4ce7/track_06_antlers_and_antique_furniture/1c9b7556-bdcb-997f-ba5f-32618c3b5fb2.flac",
+        "/kaggle/working/music_output/studio_batch_e1fe8fee1dbb4ce7/track_06_antlers_and_antique_furniture/ee4f929d-5be0-3362-b3da-053b307274d3.flac",
+        "/kaggle/working/music_output/studio_batch_e1fe8fee1dbb4ce7/track_06_antlers_and_antique_furniture/f5e8a6f5-f140-16e0-c78f-3b5da6cca3e8.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_07_the_little_demons_coffee",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_e1fe8fee1dbb4ce7/track_07_the_little_demons_coffee/5069ed38-2f45-a19c-f82a-d392d8e22c75.flac",
+        "/kaggle/working/music_output/studio_batch_e1fe8fee1dbb4ce7/track_07_the_little_demons_coffee/42cbd673-9d8d-c9fa-0aad-7f37d19f098f.flac",
+        "/kaggle/working/music_output/studio_batch_e1fe8fee1dbb4ce7/track_07_the_little_demons_coffee/10d65b2e-d75a-547e-6817-c8797708a9b5.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_08_the_unreachable_cup",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_e1fe8fee1dbb4ce7/track_08_the_unreachable_cup/b63ef570-d5d2-fedf-bc16-17629edd772c.flac",
+        "/kaggle/working/music_output/studio_batch_e1fe8fee1dbb4ce7/track_08_the_unreachable_cup/8cd8ee94-13be-8f8b-e50b-19637bea58bf.flac",
+        "/kaggle/working/music_output/studio_batch_e1fe8fee1dbb4ce7/track_08_the_unreachable_cup/71c02ddd-068e-17bc-70a5-4a355181143d.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_09_an_unexpected_neighbour",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_e1fe8fee1dbb4ce7/track_09_an_unexpected_neighbour/dc3471ec-92b4-4451-0f9e-c32d337dac21.flac",
+        "/kaggle/working/music_output/studio_batch_e1fe8fee1dbb4ce7/track_09_an_unexpected_neighbour/d7866f4c-7ec3-b0bb-215b-c0a81cd7c5b6.flac",
+        "/kaggle/working/music_output/studio_batch_e1fe8fee1dbb4ce7/track_09_an_unexpected_neighbour/82d76c27-1d73-cc06-b74c-f5a55fec9e1a.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    }
+  ],
+  "outputs": [
+    {
+      "composition": "track_01_the_afternoon_begins",
+      "variation": 1,
+      "filename": "track_01_the_afternoon_begins_01.flac",
+      "relative_path": "track_01_the_afternoon_begins/track_01_the_afternoon_begins_01.flac",
+      "size_bytes": 4777169,
+      "sha256": "deca8af570da95e532f84f12982924e4e3701d302cb97aabade5bb0d7b6c8686",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_01_the_afternoon_begins",
+      "variation": 2,
+      "filename": "track_01_the_afternoon_begins_02.flac",
+      "relative_path": "track_01_the_afternoon_begins/track_01_the_afternoon_begins_02.flac",
+      "size_bytes": 4351893,
+      "sha256": "9b1d4fdc5970e2fe43068c792ea7d2263c4fed3244252419aec933509ae4089c",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_01_the_afternoon_begins",
+      "variation": 3,
+      "filename": "track_01_the_afternoon_begins_03.flac",
+      "relative_path": "track_01_the_afternoon_begins/track_01_the_afternoon_begins_03.flac",
+      "size_bytes": 4946219,
+      "sha256": "28dbd64359d8867d8a52f46ff4cf8bbfbc5faa5022569c1526b780a3ac3d2fb1",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_the_gentleman_and_his_newspaper",
+      "variation": 1,
+      "filename": "track_02_the_gentleman_and_his_newspaper_01.flac",
+      "relative_path": "track_02_the_gentleman_and_his_newspaper/track_02_the_gentleman_and_his_newspaper_01.flac",
+      "size_bytes": 4515397,
+      "sha256": "b222d1a795677f8842d563043228046dbc390525c1ec732286cbdd9b29ddddf6",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_the_gentleman_and_his_newspaper",
+      "variation": 2,
+      "filename": "track_02_the_gentleman_and_his_newspaper_02.flac",
+      "relative_path": "track_02_the_gentleman_and_his_newspaper/track_02_the_gentleman_and_his_newspaper_02.flac",
+      "size_bytes": 4330957,
+      "sha256": "fe0fac8d6dc62e32d6dc3553bbe6a79ef7a9c75e83cedeefd2b768b865038699",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_the_gentleman_and_his_newspaper",
+      "variation": 3,
+      "filename": "track_02_the_gentleman_and_his_newspaper_03.flac",
+      "relative_path": "track_02_the_gentleman_and_his_newspaper/track_02_the_gentleman_and_his_newspaper_03.flac",
+      "size_bytes": 4918701,
+      "sha256": "ffaa507a4dc75619561d667f73d983162f15297ef4c57fbce02c97e9f8f5ffd6",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_the_cat_favourite_chair",
+      "variation": 1,
+      "filename": "track_03_the_cat_favourite_chair_01.flac",
+      "relative_path": "track_03_the_cat_favourite_chair/track_03_the_cat_favourite_chair_01.flac",
+      "size_bytes": 5133815,
+      "sha256": "42cc0f447dfeaef7254af3cdfedd7ff3461752db79214dce4b80d84d64bc3c1c",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_the_cat_favourite_chair",
+      "variation": 2,
+      "filename": "track_03_the_cat_favourite_chair_02.flac",
+      "relative_path": "track_03_the_cat_favourite_chair/track_03_the_cat_favourite_chair_02.flac",
+      "size_bytes": 4833513,
+      "sha256": "7e73e0e38d3a250e36d9a85f1c4efe8226d07ba918536c5088435bac23f34ba8",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_the_cat_favourite_chair",
+      "variation": 3,
+      "filename": "track_03_the_cat_favourite_chair_03.flac",
+      "relative_path": "track_03_the_cat_favourite_chair/track_03_the_cat_favourite_chair_03.flac",
+      "size_bytes": 5149777,
+      "sha256": "46f85590773ba1c86818d9e865e40f50623659e5a951242e8e122736f4d9323d",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_the_lady_in_red",
+      "variation": 1,
+      "filename": "track_04_the_lady_in_red_01.flac",
+      "relative_path": "track_04_the_lady_in_red/track_04_the_lady_in_red_01.flac",
+      "size_bytes": 4818589,
+      "sha256": "f246b2ceb9136041dfc10130086eb9e75167efca234da8b56d4f4556d80db0e0",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_the_lady_in_red",
+      "variation": 2,
+      "filename": "track_04_the_lady_in_red_02.flac",
+      "relative_path": "track_04_the_lady_in_red/track_04_the_lady_in_red_02.flac",
+      "size_bytes": 4944915,
+      "sha256": "8e1fef65cac8454dd3d84bd0482fcea80361cf452699900084c46d928703e16b",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_the_lady_in_red",
+      "variation": 3,
+      "filename": "track_04_the_lady_in_red_03.flac",
+      "relative_path": "track_04_the_lady_in_red/track_04_the_lady_in_red_03.flac",
+      "size_bytes": 4848728,
+      "sha256": "f2954dc5cff772d8dac7a41acd6de83c89c42138c7ade90f32a7cf81e6c5db44",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_a_chair_for_a_deer",
+      "variation": 1,
+      "filename": "track_05_a_chair_for_a_deer_01.flac",
+      "relative_path": "track_05_a_chair_for_a_deer/track_05_a_chair_for_a_deer_01.flac",
+      "size_bytes": 4758364,
+      "sha256": "cc3feb83b74c106c69a8683746db3f48e64fc14f8ebaf7d3ae87c1870e6d2561",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_a_chair_for_a_deer",
+      "variation": 2,
+      "filename": "track_05_a_chair_for_a_deer_02.flac",
+      "relative_path": "track_05_a_chair_for_a_deer/track_05_a_chair_for_a_deer_02.flac",
+      "size_bytes": 4644909,
+      "sha256": "1a2be999e1475b4ce5dfcd0e224edaca1c2d08099fb01c91d24d09042249d418",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_a_chair_for_a_deer",
+      "variation": 3,
+      "filename": "track_05_a_chair_for_a_deer_03.flac",
+      "relative_path": "track_05_a_chair_for_a_deer/track_05_a_chair_for_a_deer_03.flac",
+      "size_bytes": 4472646,
+      "sha256": "d207e3b09146a6be2398b840cecd8dfdb7decfafb4ad7e754e17b2f587f7c475",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_antlers_and_antique_furniture",
+      "variation": 1,
+      "filename": "track_06_antlers_and_antique_furniture_01.flac",
+      "relative_path": "track_06_antlers_and_antique_furniture/track_06_antlers_and_antique_furniture_01.flac",
+      "size_bytes": 4687557,
+      "sha256": "5ddc970c870a6c76d929a8b69bcf6694f5ee9f800a062f72d0b52b03c4ed2bd2",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_antlers_and_antique_furniture",
+      "variation": 2,
+      "filename": "track_06_antlers_and_antique_furniture_02.flac",
+      "relative_path": "track_06_antlers_and_antique_furniture/track_06_antlers_and_antique_furniture_02.flac",
+      "size_bytes": 4685258,
+      "sha256": "a36cfced505b047c576eac47a63448c8eede3757a0fd70db9b1a8a61c024960f",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_antlers_and_antique_furniture",
+      "variation": 3,
+      "filename": "track_06_antlers_and_antique_furniture_03.flac",
+      "relative_path": "track_06_antlers_and_antique_furniture/track_06_antlers_and_antique_furniture_03.flac",
+      "size_bytes": 4750506,
+      "sha256": "5f68a572c4de8728738aee2bcdf451450d438afafcdec0cdaa53fbd8a60df662",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_the_little_demons_coffee",
+      "variation": 1,
+      "filename": "track_07_the_little_demons_coffee_01.flac",
+      "relative_path": "track_07_the_little_demons_coffee/track_07_the_little_demons_coffee_01.flac",
+      "size_bytes": 4434773,
+      "sha256": "cbcf7478bac2816a915f8d7b617467949891e9dd8c556d76dece9e7173412903",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_the_little_demons_coffee",
+      "variation": 2,
+      "filename": "track_07_the_little_demons_coffee_02.flac",
+      "relative_path": "track_07_the_little_demons_coffee/track_07_the_little_demons_coffee_02.flac",
+      "size_bytes": 4526015,
+      "sha256": "2466b9c05fb0102f2a5f5054de11b83f41c793c22f6666b0bda85bde1391c951",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_the_little_demons_coffee",
+      "variation": 3,
+      "filename": "track_07_the_little_demons_coffee_03.flac",
+      "relative_path": "track_07_the_little_demons_coffee/track_07_the_little_demons_coffee_03.flac",
+      "size_bytes": 4770178,
+      "sha256": "4b315da3d06f41dea167a2d5169b5171a687f75d2a08b78fd559c402256dcc9e",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_the_unreachable_cup",
+      "variation": 1,
+      "filename": "track_08_the_unreachable_cup_01.flac",
+      "relative_path": "track_08_the_unreachable_cup/track_08_the_unreachable_cup_01.flac",
+      "size_bytes": 5019458,
+      "sha256": "1902a2d6986bd8f373fb5b9b4f995fc6c7f853eef6293863637809217c419f65",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_the_unreachable_cup",
+      "variation": 2,
+      "filename": "track_08_the_unreachable_cup_02.flac",
+      "relative_path": "track_08_the_unreachable_cup/track_08_the_unreachable_cup_02.flac",
+      "size_bytes": 4781946,
+      "sha256": "83677df5c06d8b83f748be4104cf717ba50ed5e94caf2dfee32a1c7ef2a87a98",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_the_unreachable_cup",
+      "variation": 3,
+      "filename": "track_08_the_unreachable_cup_03.flac",
+      "relative_path": "track_08_the_unreachable_cup/track_08_the_unreachable_cup_03.flac",
+      "size_bytes": 4737372,
+      "sha256": "5e79cb2b6f6808636905f0203a9203cc408094d9de4a2865eb72abc6cfd90c28",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_09_an_unexpected_neighbour",
+      "variation": 1,
+      "filename": "track_09_an_unexpected_neighbour_01.flac",
+      "relative_path": "track_09_an_unexpected_neighbour/track_09_an_unexpected_neighbour_01.flac",
+      "size_bytes": 5165356,
+      "sha256": "e15ca583b4b6aa3685f5b158b2f66b66940d87776f5ec46e3a0d29a72dad84fd",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_09_an_unexpected_neighbour",
+      "variation": 2,
+      "filename": "track_09_an_unexpected_neighbour_02.flac",
+      "relative_path": "track_09_an_unexpected_neighbour/track_09_an_unexpected_neighbour_02.flac",
+      "size_bytes": 5285468,
+      "sha256": "79a18de9d6f4749a872cbfb95479990a5a5e97a3e7401bde5237b53e758717b0",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_09_an_unexpected_neighbour",
+      "variation": 3,
+      "filename": "track_09_an_unexpected_neighbour_03.flac",
+      "relative_path": "track_09_an_unexpected_neighbour/track_09_an_unexpected_neighbour_03.flac",
+      "size_bytes": 4576188,
+      "sha256": "dbab69709d9461e460d82774682d2cfd4cdea0a5bd396c881b4214f736178496",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    }
+  ],
+  "completed_compositions": 9,
+  "partial_compositions": 0,
+  "failed_compositions": 0,
+  "requested_variations": 27,
+  "generated_variations": 27,
+  "missing_variations": 0,
+  "archive_completed_at_utc": "2026-11-05T12:31:00.799544+00:00"
+}

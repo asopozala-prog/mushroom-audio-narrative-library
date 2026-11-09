@@ -1,0 +1,63 @@
+{
+  "route": "turbo",
+  "batch_name": "studio_batch_e1fe8fee1dbb4ce7",
+  "batch_theme": "chairs_multicultural_coffee_shop",
+  "generation_started_at": 1793881506.2816331,
+  "archive_label": "20261105_132506_chairs_multicultural_coffee_shop",
+  "prompts": [
+    {
+      "output_name": "track_01_the_afternoon_begins",
+      "prompt": "Warm instrumental vintage café jazz, 74 BPM, mellow tenor saxophone, upright bass and soft brushed drums. Relaxed swing groove, graceful melodic phrases, warm major seventh harmonies, intimate acoustic recording, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    },
+    {
+      "output_name": "track_02_the_gentleman_and_his_newspaper",
+      "prompt": "Elegant instrumental cool jazz, 78 BPM, expressive tenor saxophone, soft jazz piano and walking upright bass. Unhurried swing rhythm, sophisticated melodic phrasing, subtle blues harmonies, polished 1950s jazz club atmosphere, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    },
+    {
+      "output_name": "track_03_the_cat_favourite_chair",
+      "prompt": "Playful instrumental swing jazz, 86 BPM, warm alto saxophone, upright bass and light brushed drums. Short descending saxophone motifs, gentle syncopation, relaxed bouncing groove, mellow harmonies, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    },
+    {
+      "output_name": "track_04_the_lady_in_red",
+      "prompt": "Elegant instrumental French café jazz, 82 BPM, lyrical violin, warm acoustic guitar and upright bass. Graceful flowing melody, light rhythmic swing, romantic major-minor harmonies, intimate vintage acoustic sound, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    },
+    {
+      "output_name": "track_05_a_chair_for_a_deer",
+      "prompt": "Whimsical instrumental chamber jazz, 88 BPM, expressive clarinet, pizzicato double bass and light piano accompaniment. Playful staccato melody, gentle rhythmic accents, warm chromatic harmonies, steady swinging pulse, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    },
+    {
+      "output_name": "track_06_antlers_and_antique_furniture",
+      "prompt": "Light instrumental classical chamber music, 76 BPM, lyrical solo violin, warm cello and gentle piano. Elegant measured rhythm, playful ascending phrases, graceful harmonic movement, delicate dynamics, natural chamber acoustics, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    },
+    {
+      "output_name": "track_07_the_little_demons_coffee",
+      "prompt": "Playful instrumental cool jazz, 80 BPM, mellow alto saxophone, plucked upright bass and soft brushed drums. Short repeating melodic phrases, gentle bluesy harmonies, light syncopation, warm intimate atmosphere, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    },
+    {
+      "output_name": "track_08_the_unreachable_cup",
+      "prompt": "Gentle instrumental jazz, 70 BPM, expressive tenor saxophone, warm electric piano and deep mellow bass. Slow continuous groove, small ascending melodic motifs, subtle harmonic tension and release, restrained dynamics, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    },
+    {
+      "output_name": "track_09_an_unexpected_neighbour",
+      "prompt": "Tender instrumental chamber jazz, 68 BPM, warm tenor saxophone, soft upright bass and delicate brushed drums. Gentle steady swing, flowing affectionate melody, rich major seventh harmonies, gradual soft resolution, intimate peaceful café atmosphere, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    }
+  ]
+}

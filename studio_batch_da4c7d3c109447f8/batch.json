@@ -1,0 +1,18 @@
+{
+  "route": "turbo",
+  "batch_name": "studio_batch_da4c7d3c109447f8",
+  "prompts": [
+    {
+      "output_name": "track_01_misty_lake",
+      "prompt": "Quiet instrumental ambient music, gentle piano, soft sustained strings, spacious atmosphere, slow and peaceful, no vocals.",
+      "duration_seconds": 15,
+      "variations": 1
+    },
+    {
+      "output_name": "track_02_mushroom_morning",
+      "prompt": "Warm acoustic instrumental miniature, delicate plucked strings, soft wooden percussion, playful but calm, no vocals.",
+      "duration_seconds": 15,
+      "variations": 1
+    }
+  ]
+}

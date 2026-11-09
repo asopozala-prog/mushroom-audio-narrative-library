@@ -1,0 +1,62 @@
+[
+  {
+    "output_name": "track_01_a_stranger_beneath_the_surface",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_e62475e824974e5f/track_01_a_stranger_beneath_the_surface/cb54f056-49c6-4d31-ca07-04002da2687a.flac",
+      "/kaggle/working/music_output/studio_batch_e62475e824974e5f/track_01_a_stranger_beneath_the_surface/c2cb1955-9228-80a3-7432-6b4db51bf7b4.flac",
+      "/kaggle/working/music_output/studio_batch_e62475e824974e5f/track_01_a_stranger_beneath_the_surface/de1d0d72-f4ec-5b99-2df9-71b5b0c8674c.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_02_the_boat_and_the_water",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_e62475e824974e5f/track_02_the_boat_and_the_water/bc8b4f91-dd01-f149-3f08-515ad2bb0322.flac",
+      "/kaggle/working/music_output/studio_batch_e62475e824974e5f/track_02_the_boat_and_the_water/878a0acb-01b0-406f-c0e1-221a0582e016.flac",
+      "/kaggle/working/music_output/studio_batch_e62475e824974e5f/track_02_the_boat_and_the_water/74c1f433-7243-8a41-e21b-50bc135b7856.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_03_can_you_see_me",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_e62475e824974e5f/track_03_can_you_see_me/ae414fc4-2d99-cab0-2526-f90e925e4bb0.flac",
+      "/kaggle/working/music_output/studio_batch_e62475e824974e5f/track_03_can_you_see_me/af24c49a-6d87-bf2a-9b2d-4e664ca52565.flac",
+      "/kaggle/working/music_output/studio_batch_e62475e824974e5f/track_03_can_you_see_me/263ac06e-597c-2aa2-3b40-9bba8c32ae41.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_04_a_game_between_two_worlds",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_e62475e824974e5f/track_04_a_game_between_two_worlds/438941d1-ac7a-f82d-88b6-9fa3bf6092a1.flac",
+      "/kaggle/working/music_output/studio_batch_e62475e824974e5f/track_04_a_game_between_two_worlds/33d64d96-b6e6-66ca-6ac2-a5f5c53c682d.flac",
+      "/kaggle/working/music_output/studio_batch_e62475e824974e5f/track_04_a_game_between_two_worlds/c2e2bcc6-d3f2-39e7-ba9d-6da4cff6b238.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_05_the_same_little_adventure",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_e62475e824974e5f/track_05_the_same_little_adventure/dfebe4c9-366c-ba0b-81c5-6d12da0e36bc.flac",
+      "/kaggle/working/music_output/studio_batch_e62475e824974e5f/track_05_the_same_little_adventure/bcd57766-cb5f-06e1-5e4e-151dcf583cd7.flac",
+      "/kaggle/working/music_output/studio_batch_e62475e824974e5f/track_05_the_same_little_adventure/aecbc350-b263-f1e0-76c4-c4cf64cb0e4c.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  }
+]

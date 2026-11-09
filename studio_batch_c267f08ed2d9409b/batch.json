@@ -1,0 +1,51 @@
+{
+  "route": "sft_lm",
+  "batch_name": "studio_batch_c267f08ed2d9409b",
+  "batch_theme": "mist_golden_morning",
+  "generation_started_at": 1793390850.858986,
+  "archive_label": "20261030_210730_mist_golden_morning",
+  "prompts": [
+    {
+      "output_name": "track_01_golden_mist",
+      "prompt": "Gentle instrumental downtempo ambient music, 62 BPM, warm electric piano, deep soft bass and smooth synthesizer pads. Steady relaxed pulse, flowing melodic phrases, mellow harmonies, gradual development, spacious atmospheric production, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    },
+    {
+      "output_name": "track_02_coffee_and_croissant",
+      "prompt": "Warm instrumental lounge jazz, 72 BPM, mellow jazz piano, upright bass and soft brushed drums. Relaxed swing groove, playful piano melody, gentle chord changes, intimate acoustic sound, balanced dynamics, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    },
+    {
+      "output_name": "track_03_sleepy_kitchen",
+      "prompt": "Mellow instrumental downtempo music, 65 BPM, warm electric piano, soft bass and restrained brushed percussion. Slow steady groove, simple descending piano melody, gentle repeating phrases, sleepy intimate atmosphere, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    },
+    {
+      "output_name": "track_04_little_kettle",
+      "prompt": "Light instrumental jazz, 78 BPM, playful piano, upright bass and soft brushed drums. Gentle bouncing rhythm, short repeating melodic motifs, warm major harmonies, subtle rhythmic variations, relaxed cheerful atmosphere, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    },
+    {
+      "output_name": "track_05_rising_steam",
+      "prompt": "Dreamy instrumental chillout music, 60 BPM, soft electric piano, warm synthesizer pads and deep mellow bass. Gentle continuous pulse, floating melodic phrases, smooth harmonic transitions, gradual swells, airy spacious production, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    },
+    {
+      "output_name": "track_06_silk_and_skin",
+      "prompt": "Sensual instrumental downtempo music, 65 BPM, deep warm bass, intimate electric piano and soft brushed percussion. Slow hypnotic pulse, expressive melodic phrasing, rich minor harmonies, gentle tension and release, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    },
+    {
+      "output_name": "track_07_morning_after",
+      "prompt": "Tender instrumental smooth jazz, 68 BPM, warm electric piano, mellow bass and delicate brushed drums. Slow relaxed groove, affectionate flowing melody, gentle major harmonies, subtle harmonic development, intimate natural sound, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    }
+  ]
+}

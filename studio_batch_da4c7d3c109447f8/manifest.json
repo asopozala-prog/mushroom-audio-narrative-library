@@ -1,0 +1,16 @@
+[
+  {
+    "output_name": "track_01_misty_lake",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_da4c7d3c109447f8/track_01_misty_lake/9cfd0a43-ce39-1f8e-359e-45fdb2a07eb6.flac"
+    ]
+  },
+  {
+    "output_name": "track_02_mushroom_morning",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_da4c7d3c109447f8/track_02_mushroom_morning/985f434d-2da1-43df-a5bd-0a50b198054a.flac"
+    ]
+  }
+]

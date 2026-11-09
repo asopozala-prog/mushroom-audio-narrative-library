@@ -1,0 +1,122 @@
+[
+  {
+    "output_name": "track_01_the_hidden_cemetery",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_ee2b573cc3b84f2f/track_01_the_hidden_cemetery/1a20006c-2543-2e82-de05-ca965498e947.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_02_beneath_enormous_trees",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_ee2b573cc3b84f2f/track_02_beneath_enormous_trees/1d6a7be4-ca6c-eb94-8a28-f3a4f1f3125b.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_03_rust_copper_and_gold",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_ee2b573cc3b84f2f/track_03_rust_copper_and_gold/9ec40aa2-4f9e-090d-f66a-b20c9f38c762.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_04_a_fox_in_the_shadows",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_ee2b573cc3b84f2f/track_04_a_fox_in_the_shadows/227fbe1f-00a1-0df9-4080-ded97b8d514a.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_05_paws_among_fallen_leaves",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_ee2b573cc3b84f2f/track_05_paws_among_fallen_leaves/c69d5d45-501f-34bc-1883-5c9008d4e6b8.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_06_the_old_wooden_cross",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_ee2b573cc3b84f2f/track_06_the_old_wooden_cross/fab8d50e-766a-3ea6-b0a9-186ac1070674.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_07_one_graceful_jump",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_ee2b573cc3b84f2f/track_07_one_graceful_jump/c223d04d-3634-81ea-e771-d4b1fccc2b85.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_08_the_stranger_stops",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_ee2b573cc3b84f2f/track_08_the_stranger_stops/21495999-aac2-c3c6-3ee5-3e88658c9695.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_09_neither_runs_away",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_ee2b573cc3b84f2f/track_09_neither_runs_away/40cab2a3-1ae0-9d55-7cc2-04c362f5da1d.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_10_the_breeze_in_her_tail",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_ee2b573cc3b84f2f/track_10_the_breeze_in_her_tail/59d05f84-e3eb-1db5-dce5-ee959bfca7ad.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_11_golden_light_on_old_stones",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_ee2b573cc3b84f2f/track_11_golden_light_on_old_stones/e1722bd7-ccbe-1355-1423-85f0635427a7.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_12_the_hour_between_gold_and_shadow",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_ee2b573cc3b84f2f/track_12_the_hour_between_gold_and_shadow/823f0c94-7e60-ab48-77d5-b27716302b17.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  }
+]

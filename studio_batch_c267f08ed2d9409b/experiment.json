@@ -1,0 +1,218 @@
+{
+  "schema_version": 1,
+  "batch_id": "studio_batch_c267f08ed2d9409b",
+  "archive_label": "20261030_210730_mist_golden_morning",
+  "batch_theme": "mist_golden_morning",
+  "generation_started_at": 1793390850.858986,
+  "model": {
+    "family": "ACE-Step",
+    "checkpoint_name": "acestep-v15-sft",
+    "checkpoint_revision": null,
+    "route": "sft_lm"
+  },
+  "generation": {
+    "prompts": [
+      {
+        "output_name": "track_01_golden_mist",
+        "prompt": "Gentle instrumental downtempo ambient music, 62 BPM, warm electric piano, deep soft bass and smooth synthesizer pads. Steady relaxed pulse, flowing melodic phrases, mellow harmonies, gradual development, spacious atmospheric production, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_02_coffee_and_croissant",
+        "prompt": "Warm instrumental lounge jazz, 72 BPM, mellow jazz piano, upright bass and soft brushed drums. Relaxed swing groove, playful piano melody, gentle chord changes, intimate acoustic sound, balanced dynamics, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_03_sleepy_kitchen",
+        "prompt": "Mellow instrumental downtempo music, 65 BPM, warm electric piano, soft bass and restrained brushed percussion. Slow steady groove, simple descending piano melody, gentle repeating phrases, sleepy intimate atmosphere, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_04_little_kettle",
+        "prompt": "Light instrumental jazz, 78 BPM, playful piano, upright bass and soft brushed drums. Gentle bouncing rhythm, short repeating melodic motifs, warm major harmonies, subtle rhythmic variations, relaxed cheerful atmosphere, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_05_rising_steam",
+        "prompt": "Dreamy instrumental chillout music, 60 BPM, soft electric piano, warm synthesizer pads and deep mellow bass. Gentle continuous pulse, floating melodic phrases, smooth harmonic transitions, gradual swells, airy spacious production, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_06_silk_and_skin",
+        "prompt": "Sensual instrumental downtempo music, 65 BPM, deep warm bass, intimate electric piano and soft brushed percussion. Slow hypnotic pulse, expressive melodic phrasing, rich minor harmonies, gentle tension and release, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_07_morning_after",
+        "prompt": "Tender instrumental smooth jazz, 68 BPM, warm electric piano, mellow bass and delicate brushed drums. Slow relaxed groove, affectionate flowing melody, gentle major harmonies, subtle harmonic development, intimate natural sound, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      }
+    ],
+    "requested_audio_format": "flac"
+  },
+  "kaggle_manifest": [
+    {
+      "output_name": "track_01_golden_mist",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_c267f08ed2d9409b/track_01_golden_mist/4b405234-c40b-c613-4165-2d147c2d5eb3.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_02_coffee_and_croissant",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_c267f08ed2d9409b/track_02_coffee_and_croissant/97fcb506-274b-0204-3b5f-e13f5bee0eb7.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_03_sleepy_kitchen",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_c267f08ed2d9409b/track_03_sleepy_kitchen/fbf8a01d-c24a-d392-2dec-45202fbc084b.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_04_little_kettle",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_c267f08ed2d9409b/track_04_little_kettle/4d039310-e143-c83f-ef08-b2acbcfb6a7d.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_05_rising_steam",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_c267f08ed2d9409b/track_05_rising_steam/bf86b563-0b5e-0229-2036-f6bf1b37e47b.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_06_silk_and_skin",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_c267f08ed2d9409b/track_06_silk_and_skin/32488d76-d7a0-4964-8e1c-494d184da472.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_07_morning_after",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_c267f08ed2d9409b/track_07_morning_after/45e961b7-a4ef-0a4d-7f94-cf509778ad11.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    }
+  ],
+  "outputs": [
+    {
+      "composition": "track_01_golden_mist",
+      "variation": 1,
+      "filename": "track_01_golden_mist_01.flac",
+      "relative_path": "track_01_golden_mist/track_01_golden_mist_01.flac",
+      "size_bytes": 5218689,
+      "sha256": "62e4aef8199bc83d7de6d3bb33701f256d4503717bcf286cc622beeac092eed8",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_coffee_and_croissant",
+      "variation": 1,
+      "filename": "track_02_coffee_and_croissant_01.flac",
+      "relative_path": "track_02_coffee_and_croissant/track_02_coffee_and_croissant_01.flac",
+      "size_bytes": 5808615,
+      "sha256": "721406f31fc3c4388a3e27816e0514344916938a48d6f23190b8082116a9a144",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_sleepy_kitchen",
+      "variation": 1,
+      "filename": "track_03_sleepy_kitchen_01.flac",
+      "relative_path": "track_03_sleepy_kitchen/track_03_sleepy_kitchen_01.flac",
+      "size_bytes": 5700322,
+      "sha256": "9357ffc9feb20f05acb9f1a081b6672a4fab020e715c79b0eef318897cd41419",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_little_kettle",
+      "variation": 1,
+      "filename": "track_04_little_kettle_01.flac",
+      "relative_path": "track_04_little_kettle/track_04_little_kettle_01.flac",
+      "size_bytes": 5806750,
+      "sha256": "eb59ac0013687131ae1ab37294f01738f70c47b9052b8803adb2f6b6f0eb2655",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_rising_steam",
+      "variation": 1,
+      "filename": "track_05_rising_steam_01.flac",
+      "relative_path": "track_05_rising_steam/track_05_rising_steam_01.flac",
+      "size_bytes": 5240702,
+      "sha256": "35bc50336c5be80ab5e59c235cccd01f6809d83273706354a8b8cd97e414de98",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_silk_and_skin",
+      "variation": 1,
+      "filename": "track_06_silk_and_skin_01.flac",
+      "relative_path": "track_06_silk_and_skin/track_06_silk_and_skin_01.flac",
+      "size_bytes": 4991036,
+      "sha256": "38531297686625e454b3ccc28f14c2eb2aeccab280c548961f3dd1607b9b4b29",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_morning_after",
+      "variation": 1,
+      "filename": "track_07_morning_after_01.flac",
+      "relative_path": "track_07_morning_after/track_07_morning_after_01.flac",
+      "size_bytes": 5291379,
+      "sha256": "87e94b11fb4181c551e43cd08cbe22915eb1cd46d523f9271c43bd885c51d072",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    }
+  ],
+  "completed_compositions": 0,
+  "partial_compositions": 7,
+  "failed_compositions": 0,
+  "requested_variations": 21,
+  "generated_variations": 7,
+  "missing_variations": 14,
+  "archive_completed_at_utc": "2026-10-30T20:23:00.461146+00:00"
+}

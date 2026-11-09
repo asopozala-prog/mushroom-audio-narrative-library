@@ -1,0 +1,164 @@
+{
+  "schema_version": 1,
+  "batch_id": "studio_batch_ddc2260149fa4d3e",
+  "archive_label": "20261107_170659_two_creatures_across_the_water",
+  "batch_theme": "two_creatures_across_the_water",
+  "generation_started_at": 1794067619.55232,
+  "model": {
+    "family": "ACE-Step",
+    "checkpoint_name": "acestep-v15-sft",
+    "checkpoint_revision": null,
+    "route": "sft_lm"
+  },
+  "generation": {
+    "prompts": [
+      {
+        "output_name": "track_01_a_stranger_beneath_the_surface",
+        "prompt": "Gentle instrumental cool jazz, 72 BPM, mellow tenor saxophone, warm upright bass and soft brushed drums. Relaxed flowing groove, curious ascending melodic phrases, subtle blues harmonies, intimate acoustic sound, quiet sense of discovery, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_02_the_boat_and_the_water",
+        "prompt": "Playful instrumental chamber music, 84 BPM, expressive solo violin, warm cello and gentle piano. Two contrasting melodic motifs, one light and bouncing, the other smooth and flowing. Graceful rhythmic movement, warm major harmonies, delicate dynamics, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_03_can_you_see_me",
+        "prompt": "Warm instrumental chamber jazz, 78 BPM, lyrical clarinet, soft acoustic piano and upright bass. Short questioning clarinet phrases answered by gentle piano motifs, relaxed steady swing, playful melodic dialogue, tender curiosity, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_04_a_game_between_two_worlds",
+        "prompt": "Cheerful instrumental swing jazz, 96 BPM, bright alto saxophone, walking upright bass and light brushed drums. Playful call-and-response melodies, bouncing syncopation, small rhythmic surprises, joyful major seventh harmonies, lively but gentle dynamics, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_05_the_same_little_adventure",
+        "prompt": "Tender instrumental downtempo jazz, 68 BPM, warm electric piano, mellow tenor saxophone, deep rounded bass and soft brushed percussion. Two simple melodies gradually intertwine over a steady relaxed groove, gentle minor-to-major harmonies, affectionate musical dialogue, peaceful resolution, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      }
+    ],
+    "requested_audio_format": "flac"
+  },
+  "kaggle_manifest": [
+    {
+      "output_name": "track_01_a_stranger_beneath_the_surface",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_ddc2260149fa4d3e/track_01_a_stranger_beneath_the_surface/240cd5b5-0263-8f3b-453a-b2695724d846.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_02_the_boat_and_the_water",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_ddc2260149fa4d3e/track_02_the_boat_and_the_water/fbd43e91-832e-43ba-57b5-426975f7c0db.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_03_can_you_see_me",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_ddc2260149fa4d3e/track_03_can_you_see_me/45f8f5d0-d630-0e99-c845-7136a613965e.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_04_a_game_between_two_worlds",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_ddc2260149fa4d3e/track_04_a_game_between_two_worlds/f86f1e3a-0bf0-b334-cbc0-c80453e3a0e3.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_05_the_same_little_adventure",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_ddc2260149fa4d3e/track_05_the_same_little_adventure/43cd5094-1303-205a-44a2-c691cdf5500e.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    }
+  ],
+  "outputs": [
+    {
+      "composition": "track_01_a_stranger_beneath_the_surface",
+      "variation": 1,
+      "filename": "track_01_a_stranger_beneath_the_surface_01.flac",
+      "relative_path": "track_01_a_stranger_beneath_the_surface/track_01_a_stranger_beneath_the_surface_01.flac",
+      "size_bytes": 7976920,
+      "sha256": "2cf489c8f4c71f5218c219d8b8bc9c16646271e29e0b9612c971fd7e73b27899",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_the_boat_and_the_water",
+      "variation": 1,
+      "filename": "track_02_the_boat_and_the_water_01.flac",
+      "relative_path": "track_02_the_boat_and_the_water/track_02_the_boat_and_the_water_01.flac",
+      "size_bytes": 8085460,
+      "sha256": "c285ffb397d9cf5d358d531f227c9e917b2e1ae918ecff8f58c5c49bd3c6f599",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_can_you_see_me",
+      "variation": 1,
+      "filename": "track_03_can_you_see_me_01.flac",
+      "relative_path": "track_03_can_you_see_me/track_03_can_you_see_me_01.flac",
+      "size_bytes": 8190467,
+      "sha256": "44196952c255504a1f5f2a7feb53fcc7badcc03f7015556ba28425e9a5043cf2",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_a_game_between_two_worlds",
+      "variation": 1,
+      "filename": "track_04_a_game_between_two_worlds_01.flac",
+      "relative_path": "track_04_a_game_between_two_worlds/track_04_a_game_between_two_worlds_01.flac",
+      "size_bytes": 8756755,
+      "sha256": "4f727e60fd606adc92206751bdde420020653371d160afb0eca9600b0f2eda68",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_same_little_adventure",
+      "variation": 1,
+      "filename": "track_05_the_same_little_adventure_01.flac",
+      "relative_path": "track_05_the_same_little_adventure/track_05_the_same_little_adventure_01.flac",
+      "size_bytes": 8669414,
+      "sha256": "71ec6525957e8d8a2572f43b0484ab1a3d05fbb5229e95e463c017fab0c74a3e",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    }
+  ],
+  "completed_compositions": 0,
+  "partial_compositions": 5,
+  "failed_compositions": 0,
+  "requested_variations": 15,
+  "generated_variations": 5,
+  "missing_variations": 10,
+  "archive_completed_at_utc": "2026-11-07T16:21:11.819491+00:00"
+}

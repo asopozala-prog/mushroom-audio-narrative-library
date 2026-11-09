@@ -1,0 +1,72 @@
+[
+  {
+    "output_name": "track_01_golden_mist",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_c267f08ed2d9409b/track_01_golden_mist/4b405234-c40b-c613-4165-2d147c2d5eb3.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_02_coffee_and_croissant",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_c267f08ed2d9409b/track_02_coffee_and_croissant/97fcb506-274b-0204-3b5f-e13f5bee0eb7.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_03_sleepy_kitchen",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_c267f08ed2d9409b/track_03_sleepy_kitchen/fbf8a01d-c24a-d392-2dec-45202fbc084b.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_04_little_kettle",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_c267f08ed2d9409b/track_04_little_kettle/4d039310-e143-c83f-ef08-b2acbcfb6a7d.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_05_rising_steam",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_c267f08ed2d9409b/track_05_rising_steam/bf86b563-0b5e-0229-2036-f6bf1b37e47b.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_06_silk_and_skin",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_c267f08ed2d9409b/track_06_silk_and_skin/32488d76-d7a0-4964-8e1c-494d184da472.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_07_morning_after",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_c267f08ed2d9409b/track_07_morning_after/45e961b7-a4ef-0a4d-7f94-cf509778ad11.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  }
+]

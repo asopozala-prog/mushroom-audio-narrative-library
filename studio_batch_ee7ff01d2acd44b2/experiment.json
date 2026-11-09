@@ -1,0 +1,641 @@
+{
+  "schema_version": 1,
+  "batch_id": "studio_batch_ee7ff01d2acd44b2",
+  "archive_label": "20261107_081450_the_rabbit_who_loved_eternal_autumn",
+  "batch_theme": "the_rabbit_who_loved_eternal_autumn",
+  "generation_started_at": 1794035690.0176508,
+  "model": {
+    "family": "ACE-Step",
+    "checkpoint_name": "acestep-v15-turbo",
+    "checkpoint_revision": null,
+    "route": "turbo"
+  },
+  "generation": {
+    "prompts": [
+      {
+        "output_name": "track_01_the_rabbit_and_eternal_autumn",
+        "prompt": "Warm instrumental cool jazz, 72 BPM, mellow tenor saxophone, upright bass and gentle brushed drums. Relaxed flowing swing, lyrical melody, rich major seventh harmonies, nostalgic golden atmosphere, intimate acoustic sound, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_02_a_cold_among_golden_leaves",
+        "prompt": "Tender instrumental chamber music, 66 BPM, expressive solo cello and soft piano accompaniment. Gentle descending melody, warm minor harmonies, measured rhythmic pulse, delicate dynamics, intimate natural recording, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_03_the_long_unquiet_nights",
+        "prompt": "Atmospheric instrumental downtempo, 62 BPM, warm electric piano, deep soft bass and restrained brushed percussion. Slow hypnotic groove, repeating minor-key melody, subtle harmonic tension, dark intimate production, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_04_when_the_mind_grows_tired",
+        "prompt": "Reflective instrumental modal jazz, 68 BPM, breathy tenor saxophone, upright bass and delicate brushed drums. Continuous relaxed pulse, narrow descending melodic phrases, suspended minor seventh harmonies, restrained dynamics, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_05_the_window_full_of_autumn",
+        "prompt": "Romantic classical string ensemble, 70 BPM, lyrical violins, warm violas and deep cellos. Flowing legato melody, rich minor-to-major harmonies, gentle orchestral swells, wistful autumn atmosphere, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_06_a_small_suitcase",
+        "prompt": "Gentle instrumental acoustic folk, 78 BPM, warm fingerpicked acoustic guitar and soft upright bass. Simple repeating melody, steady relaxed rhythm, mellow major harmonies, delicate dynamics, intimate natural sound, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_07_the_road_to_his_twin",
+        "prompt": "Warm instrumental soul jazz, 82 BPM, expressive tenor saxophone, rounded bass and soft brushed drums. Steady forward-moving groove, gently ascending melodic phrases, rich seventh chords, hopeful restrained energy, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_08_two_rabbits_at_the_door",
+        "prompt": "Tender instrumental classical chamber music, 74 BPM, expressive solo violin and warm piano accompaniment. Flowing lyrical melody, gentle major-key harmonies, graceful rhythmic movement, intimate resonant acoustics, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_09_the_house_that_remembers_him",
+        "prompt": "Cozy instrumental lounge jazz, 70 BPM, mellow tenor saxophone, soft electric piano, rounded bass and gentle brushed drums. Relaxed continuous groove, affectionate repeating melody, warm major seventh harmonies, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_10_sleeping_beneath_a_familiar_roof",
+        "prompt": "Gentle instrumental downtempo, 60 BPM, intimate electric piano, deep warm bass and soft brushed percussion. Slow steady pulse, simple descending melodic phrases, smooth harmonic movement, delicate dynamics, peaceful production, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_11_strength_returns_with_morning",
+        "prompt": "Warm instrumental romantic string orchestra, 80 BPM, expressive violins, rich cellos and warm violas. Broad ascending melody, flowing rhythmic movement, gradual crescendo, luminous major harmonies, controlled orchestral dynamics, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_12_returning_to_eternal_autumn",
+        "prompt": "Nostalgic instrumental cool jazz, 72 BPM, mellow tenor saxophone, upright bass and soft brushed drums. Relaxed steady swing, lyrical returning melody, rich major seventh harmonies with gentle minor colors, warm intimate sound, peaceful resolution, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      }
+    ],
+    "requested_audio_format": "flac"
+  },
+  "kaggle_manifest": [
+    {
+      "output_name": "track_01_the_rabbit_and_eternal_autumn",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_01_the_rabbit_and_eternal_autumn/8bec56ba-4365-a635-c939-456e9a917ea6.flac",
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_01_the_rabbit_and_eternal_autumn/1ca004dc-4079-03e4-844d-d6eb0c24dc76.flac",
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_01_the_rabbit_and_eternal_autumn/fe61c3a0-0df1-1d57-650b-b4bf6cc4c27c.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_02_a_cold_among_golden_leaves",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_02_a_cold_among_golden_leaves/636bf0ec-f6d6-285b-523e-5be404b86f64.flac",
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_02_a_cold_among_golden_leaves/aabe2d36-bd18-f7e2-c692-c6f8a3559ffa.flac",
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_02_a_cold_among_golden_leaves/99aac848-e50d-46c2-72de-dcce281d89f3.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_03_the_long_unquiet_nights",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_03_the_long_unquiet_nights/1e6143bc-2e4d-4f44-92af-efbc2929e070.flac",
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_03_the_long_unquiet_nights/cb3b4c66-7bf9-6c89-9606-9925edbb4a88.flac",
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_03_the_long_unquiet_nights/a7e570f9-9401-4749-716e-841ae4d1a7d5.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_04_when_the_mind_grows_tired",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_04_when_the_mind_grows_tired/e5433bd9-befe-45fe-fa6d-0f9a8c705c11.flac",
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_04_when_the_mind_grows_tired/6eb947f3-691f-f6e9-dbee-b93338efdeb7.flac",
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_04_when_the_mind_grows_tired/ea65670b-ed10-190b-49cf-0e7de7957817.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_05_the_window_full_of_autumn",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_05_the_window_full_of_autumn/f6636e3d-006c-225b-b797-d69f6500edd9.flac",
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_05_the_window_full_of_autumn/44b6a16c-2850-b911-9ca8-2654057f3d7d.flac",
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_05_the_window_full_of_autumn/34274c89-f510-7ad3-ca31-b23a5dde4532.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_06_a_small_suitcase",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_06_a_small_suitcase/b1835bcc-21ab-14ef-7d8e-83923e77498e.flac",
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_06_a_small_suitcase/3a31caaa-5830-b070-1bea-1ca680ef0544.flac",
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_06_a_small_suitcase/090a5f52-e28e-eda6-eade-201dde016af9.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_07_the_road_to_his_twin",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_07_the_road_to_his_twin/cd1ff0e1-2185-41bc-fab3-aad6489dc5a5.flac",
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_07_the_road_to_his_twin/ecd1e422-684e-128c-3438-10356352498d.flac",
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_07_the_road_to_his_twin/f4deb8a2-f6ae-f3ca-c209-0319cbc467dc.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_08_two_rabbits_at_the_door",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_08_two_rabbits_at_the_door/6ed18dc2-57a9-5924-0325-6b4030a1e5b0.flac",
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_08_two_rabbits_at_the_door/1d7ad3be-64ff-0ec8-5420-daf7f306d9d6.flac",
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_08_two_rabbits_at_the_door/fcd92da9-0af9-578b-5147-d46986c0d33c.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_09_the_house_that_remembers_him",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_09_the_house_that_remembers_him/fe9b725a-8ab6-2cd3-83c5-9a13e0bfd4e4.flac",
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_09_the_house_that_remembers_him/0e8cbe57-7cde-2c9b-c8e1-73d85478b35e.flac",
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_09_the_house_that_remembers_him/27c6b0b3-aa49-d1ed-dc4c-008bece3f86e.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_10_sleeping_beneath_a_familiar_roof",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_10_sleeping_beneath_a_familiar_roof/9c3d6db0-f336-ce6c-ab78-3a7b5b16c30a.flac",
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_10_sleeping_beneath_a_familiar_roof/9b65a97e-2545-b234-c311-087066fad263.flac",
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_10_sleeping_beneath_a_familiar_roof/58392a86-9989-4b47-b463-abec9bb00a09.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_11_strength_returns_with_morning",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_11_strength_returns_with_morning/edab3be6-ca44-49eb-cd12-30b181f10b21.flac",
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_11_strength_returns_with_morning/5484c5a2-9f0f-1a47-f019-9e98609abf1b.flac",
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_11_strength_returns_with_morning/ebc22406-34c8-3a02-da26-072f853360b3.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_12_returning_to_eternal_autumn",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_12_returning_to_eternal_autumn/a7606989-1dd4-03fa-1d4d-695b15a9b712.flac",
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_12_returning_to_eternal_autumn/fdfbe669-f1cb-956c-f4fd-ec34babd90b6.flac",
+        "/kaggle/working/music_output/studio_batch_ee7ff01d2acd44b2/track_12_returning_to_eternal_autumn/089c1211-d76b-b751-fd4b-5d37b6382e95.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    }
+  ],
+  "outputs": [
+    {
+      "composition": "track_01_the_rabbit_and_eternal_autumn",
+      "variation": 1,
+      "filename": "track_01_the_rabbit_and_eternal_autumn_01.flac",
+      "relative_path": "track_01_the_rabbit_and_eternal_autumn/track_01_the_rabbit_and_eternal_autumn_01.flac",
+      "size_bytes": 7844413,
+      "sha256": "0b6288dd25e4813bbe5335dda5e814b681b6657e435ccfeb20bc73ec58fcc486",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_01_the_rabbit_and_eternal_autumn",
+      "variation": 2,
+      "filename": "track_01_the_rabbit_and_eternal_autumn_02.flac",
+      "relative_path": "track_01_the_rabbit_and_eternal_autumn/track_01_the_rabbit_and_eternal_autumn_02.flac",
+      "size_bytes": 7559464,
+      "sha256": "294630a0e14f91599a275dcb1256c03d14fc8a3b6582f5dff13284b8a5d58cba",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_01_the_rabbit_and_eternal_autumn",
+      "variation": 3,
+      "filename": "track_01_the_rabbit_and_eternal_autumn_03.flac",
+      "relative_path": "track_01_the_rabbit_and_eternal_autumn/track_01_the_rabbit_and_eternal_autumn_03.flac",
+      "size_bytes": 6997255,
+      "sha256": "14b1ec76a018ebee879ae5baa04c1f6808720554c4ec61256afb59c2de758baf",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_a_cold_among_golden_leaves",
+      "variation": 1,
+      "filename": "track_02_a_cold_among_golden_leaves_01.flac",
+      "relative_path": "track_02_a_cold_among_golden_leaves/track_02_a_cold_among_golden_leaves_01.flac",
+      "size_bytes": 6425025,
+      "sha256": "b3f55f4968fd2b1587f56ed9ee0aaeff17d88bc9718f0dd5fea09eb17692dace",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_a_cold_among_golden_leaves",
+      "variation": 2,
+      "filename": "track_02_a_cold_among_golden_leaves_02.flac",
+      "relative_path": "track_02_a_cold_among_golden_leaves/track_02_a_cold_among_golden_leaves_02.flac",
+      "size_bytes": 7012471,
+      "sha256": "672024cf72fdcd273ede5a5c4e11e466bb81ff0a8c0bbf338a1fdc55755deb90",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_a_cold_among_golden_leaves",
+      "variation": 3,
+      "filename": "track_02_a_cold_among_golden_leaves_03.flac",
+      "relative_path": "track_02_a_cold_among_golden_leaves/track_02_a_cold_among_golden_leaves_03.flac",
+      "size_bytes": 6629320,
+      "sha256": "0058ca4e5399d64bf7ec30e6511b4556afcfa2da4ae0a40762b87d4bdcc03a6f",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_the_long_unquiet_nights",
+      "variation": 1,
+      "filename": "track_03_the_long_unquiet_nights_01.flac",
+      "relative_path": "track_03_the_long_unquiet_nights/track_03_the_long_unquiet_nights_01.flac",
+      "size_bytes": 7033046,
+      "sha256": "e7939380010afff82b7ae99427e31a899a8d34c4f3ee94d5800b4342d46ac4e0",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_the_long_unquiet_nights",
+      "variation": 2,
+      "filename": "track_03_the_long_unquiet_nights_02.flac",
+      "relative_path": "track_03_the_long_unquiet_nights/track_03_the_long_unquiet_nights_02.flac",
+      "size_bytes": 7219475,
+      "sha256": "ad1e98afa7d63310fea8245b0fe2f003414bbbc3a4d13dd488fe206e260b87ce",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_the_long_unquiet_nights",
+      "variation": 3,
+      "filename": "track_03_the_long_unquiet_nights_03.flac",
+      "relative_path": "track_03_the_long_unquiet_nights/track_03_the_long_unquiet_nights_03.flac",
+      "size_bytes": 6510603,
+      "sha256": "11eca608c7f3ba75e286f72327de230da92e61b9aee6d80bed9d6ad043ee978d",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_when_the_mind_grows_tired",
+      "variation": 1,
+      "filename": "track_04_when_the_mind_grows_tired_01.flac",
+      "relative_path": "track_04_when_the_mind_grows_tired/track_04_when_the_mind_grows_tired_01.flac",
+      "size_bytes": 7268779,
+      "sha256": "7ba8e840d9335b0e0e565c5c42e4aa6cdfd83a04697065f39cc9218f612de948",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_when_the_mind_grows_tired",
+      "variation": 2,
+      "filename": "track_04_when_the_mind_grows_tired_02.flac",
+      "relative_path": "track_04_when_the_mind_grows_tired/track_04_when_the_mind_grows_tired_02.flac",
+      "size_bytes": 7124879,
+      "sha256": "cfadfaf2f2015230b37495c17b1c897733bb213ff07c532c42bb743e9daf0675",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_when_the_mind_grows_tired",
+      "variation": 3,
+      "filename": "track_04_when_the_mind_grows_tired_03.flac",
+      "relative_path": "track_04_when_the_mind_grows_tired/track_04_when_the_mind_grows_tired_03.flac",
+      "size_bytes": 7222706,
+      "sha256": "12f96f62164b440fa86434075006460088d4be5aecdfa6e9a75b0f41eb55ce5b",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_window_full_of_autumn",
+      "variation": 1,
+      "filename": "track_05_the_window_full_of_autumn_01.flac",
+      "relative_path": "track_05_the_window_full_of_autumn/track_05_the_window_full_of_autumn_01.flac",
+      "size_bytes": 7875858,
+      "sha256": "8be72410b23cc0d567bc05db72f52ae04e3acced4551771089e42a5cd57f1de0",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_window_full_of_autumn",
+      "variation": 2,
+      "filename": "track_05_the_window_full_of_autumn_02.flac",
+      "relative_path": "track_05_the_window_full_of_autumn/track_05_the_window_full_of_autumn_02.flac",
+      "size_bytes": 7830593,
+      "sha256": "6fd5bb928b96c792f5fa23f45a10cb8b883fcf9a01baee3ed56e525a245322a3",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_window_full_of_autumn",
+      "variation": 3,
+      "filename": "track_05_the_window_full_of_autumn_03.flac",
+      "relative_path": "track_05_the_window_full_of_autumn/track_05_the_window_full_of_autumn_03.flac",
+      "size_bytes": 7467938,
+      "sha256": "2292b3c9dfb53364a08d9e3f219c26b600fd263afd7f020f34d8162141dd7164",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_a_small_suitcase",
+      "variation": 1,
+      "filename": "track_06_a_small_suitcase_01.flac",
+      "relative_path": "track_06_a_small_suitcase/track_06_a_small_suitcase_01.flac",
+      "size_bytes": 6976130,
+      "sha256": "dcdb776ac2103aa6054c209e56a17c4bed14f1ef5a96622826d5bb49b786d7af",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_a_small_suitcase",
+      "variation": 2,
+      "filename": "track_06_a_small_suitcase_02.flac",
+      "relative_path": "track_06_a_small_suitcase/track_06_a_small_suitcase_02.flac",
+      "size_bytes": 7056894,
+      "sha256": "25615391ebef4aeca66415220b16bc8c5abf338ff3cc4b17b52e33e16350f15e",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_a_small_suitcase",
+      "variation": 3,
+      "filename": "track_06_a_small_suitcase_03.flac",
+      "relative_path": "track_06_a_small_suitcase/track_06_a_small_suitcase_03.flac",
+      "size_bytes": 6940906,
+      "sha256": "2db03d7c972e07a77de1ad4a27a54a4d2dea752428ece787fec61a11a63c54b0",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_the_road_to_his_twin",
+      "variation": 1,
+      "filename": "track_07_the_road_to_his_twin_01.flac",
+      "relative_path": "track_07_the_road_to_his_twin/track_07_the_road_to_his_twin_01.flac",
+      "size_bytes": 7719429,
+      "sha256": "e59f09b359c9fea134ac2f0d8c35f3ce4d64b64f477f08533ca9b1393922ca9a",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_the_road_to_his_twin",
+      "variation": 2,
+      "filename": "track_07_the_road_to_his_twin_02.flac",
+      "relative_path": "track_07_the_road_to_his_twin/track_07_the_road_to_his_twin_02.flac",
+      "size_bytes": 7804605,
+      "sha256": "c36e0314de3dc2312e9020d0d1d87b92af0a1a211fd5b21adc4709176cd3bcb4",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_the_road_to_his_twin",
+      "variation": 3,
+      "filename": "track_07_the_road_to_his_twin_03.flac",
+      "relative_path": "track_07_the_road_to_his_twin/track_07_the_road_to_his_twin_03.flac",
+      "size_bytes": 7167671,
+      "sha256": "645ea3151c574cf38a4f6508d061c00f36d90c1256380b5925a78d8e161269fe",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_two_rabbits_at_the_door",
+      "variation": 1,
+      "filename": "track_08_two_rabbits_at_the_door_01.flac",
+      "relative_path": "track_08_two_rabbits_at_the_door/track_08_two_rabbits_at_the_door_01.flac",
+      "size_bytes": 7618171,
+      "sha256": "1f46bac71e6b26254ab8ad19d8f97ba81af480eed2fd8577faba6127a69ce73f",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_two_rabbits_at_the_door",
+      "variation": 2,
+      "filename": "track_08_two_rabbits_at_the_door_02.flac",
+      "relative_path": "track_08_two_rabbits_at_the_door/track_08_two_rabbits_at_the_door_02.flac",
+      "size_bytes": 7630880,
+      "sha256": "e0eb8104de076b4a44c251979eefa9338255fa45a12748f1f5b507cb01b49f5a",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_two_rabbits_at_the_door",
+      "variation": 3,
+      "filename": "track_08_two_rabbits_at_the_door_03.flac",
+      "relative_path": "track_08_two_rabbits_at_the_door/track_08_two_rabbits_at_the_door_03.flac",
+      "size_bytes": 7730215,
+      "sha256": "cc7f31b219aba4b97dcc0dc0081dd520fe6791529741f3be474e6a2acc71c67d",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_09_the_house_that_remembers_him",
+      "variation": 1,
+      "filename": "track_09_the_house_that_remembers_him_01.flac",
+      "relative_path": "track_09_the_house_that_remembers_him/track_09_the_house_that_remembers_him_01.flac",
+      "size_bytes": 6157053,
+      "sha256": "17b7fd42939abc50a07b2fa638e02fd75ae4f76d5cafa436b7dd107286efd624",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_09_the_house_that_remembers_him",
+      "variation": 2,
+      "filename": "track_09_the_house_that_remembers_him_02.flac",
+      "relative_path": "track_09_the_house_that_remembers_him/track_09_the_house_that_remembers_him_02.flac",
+      "size_bytes": 7329482,
+      "sha256": "e807db85aa4f7b239f8213a89ec883d640a55f094117bd74bf288bd7f3e203d9",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_09_the_house_that_remembers_him",
+      "variation": 3,
+      "filename": "track_09_the_house_that_remembers_him_03.flac",
+      "relative_path": "track_09_the_house_that_remembers_him/track_09_the_house_that_remembers_him_03.flac",
+      "size_bytes": 6468317,
+      "sha256": "f395f5363a158f5085e3703859427b3c6e99d56c41edc619ce95a05cfd288544",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_10_sleeping_beneath_a_familiar_roof",
+      "variation": 1,
+      "filename": "track_10_sleeping_beneath_a_familiar_roof_01.flac",
+      "relative_path": "track_10_sleeping_beneath_a_familiar_roof/track_10_sleeping_beneath_a_familiar_roof_01.flac",
+      "size_bytes": 6641501,
+      "sha256": "0e5b76d0185ae84287211716fa94c1944ee890008e9504466a0d5f34f3f428ea",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_10_sleeping_beneath_a_familiar_roof",
+      "variation": 2,
+      "filename": "track_10_sleeping_beneath_a_familiar_roof_02.flac",
+      "relative_path": "track_10_sleeping_beneath_a_familiar_roof/track_10_sleeping_beneath_a_familiar_roof_02.flac",
+      "size_bytes": 7011148,
+      "sha256": "9a7b7da941cbe02d2770c22d9e47eb72e24c01dae8b21199512ffaa185a465f4",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_10_sleeping_beneath_a_familiar_roof",
+      "variation": 3,
+      "filename": "track_10_sleeping_beneath_a_familiar_roof_03.flac",
+      "relative_path": "track_10_sleeping_beneath_a_familiar_roof/track_10_sleeping_beneath_a_familiar_roof_03.flac",
+      "size_bytes": 7223377,
+      "sha256": "8e93bcf649236897c8e8910b0af086f7a0e99f75e784664630ce28bbbdd44ba2",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_11_strength_returns_with_morning",
+      "variation": 1,
+      "filename": "track_11_strength_returns_with_morning_01.flac",
+      "relative_path": "track_11_strength_returns_with_morning/track_11_strength_returns_with_morning_01.flac",
+      "size_bytes": 7979665,
+      "sha256": "76b5298381c6d871ccea3e0b08e3881d7a67b2099ed29e4c4d118b62bd031d38",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_11_strength_returns_with_morning",
+      "variation": 2,
+      "filename": "track_11_strength_returns_with_morning_02.flac",
+      "relative_path": "track_11_strength_returns_with_morning/track_11_strength_returns_with_morning_02.flac",
+      "size_bytes": 7801291,
+      "sha256": "357be2012fb29dc07844457bf48ec7bc8436ee0e3b454e1c8c06176566c7e9b1",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_11_strength_returns_with_morning",
+      "variation": 3,
+      "filename": "track_11_strength_returns_with_morning_03.flac",
+      "relative_path": "track_11_strength_returns_with_morning/track_11_strength_returns_with_morning_03.flac",
+      "size_bytes": 7951464,
+      "sha256": "198fd71dcd6395781d8b8de439e850956c26d7b12e606e851c648fae3e6ff983",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_12_returning_to_eternal_autumn",
+      "variation": 1,
+      "filename": "track_12_returning_to_eternal_autumn_01.flac",
+      "relative_path": "track_12_returning_to_eternal_autumn/track_12_returning_to_eternal_autumn_01.flac",
+      "size_bytes": 6884519,
+      "sha256": "38ac52043ad9e4d04ca08426a118cc6d29e258d529995b65f3b87b39ffeb714e",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_12_returning_to_eternal_autumn",
+      "variation": 2,
+      "filename": "track_12_returning_to_eternal_autumn_02.flac",
+      "relative_path": "track_12_returning_to_eternal_autumn/track_12_returning_to_eternal_autumn_02.flac",
+      "size_bytes": 7112606,
+      "sha256": "ff7d6531944ce4da4a9e71ba28d67c0564ecf46e7b065a9b39605ccd033ee751",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_12_returning_to_eternal_autumn",
+      "variation": 3,
+      "filename": "track_12_returning_to_eternal_autumn_03.flac",
+      "relative_path": "track_12_returning_to_eternal_autumn/track_12_returning_to_eternal_autumn_03.flac",
+      "size_bytes": 6718434,
+      "sha256": "6e12e413dd583b5f1e95771da8e5f37777411deeea2f2aa91b36fe203a5da462",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    }
+  ],
+  "completed_compositions": 12,
+  "partial_compositions": 0,
+  "failed_compositions": 0,
+  "requested_variations": 36,
+  "generated_variations": 36,
+  "missing_variations": 0,
+  "archive_completed_at_utc": "2026-11-07T07:23:56.278664+00:00"
+}

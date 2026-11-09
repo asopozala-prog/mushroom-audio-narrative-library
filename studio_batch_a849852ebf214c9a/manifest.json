@@ -1,0 +1,82 @@
+[
+  {
+    "output_name": "track_01_golden_tree",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_a849852ebf214c9a/track_01_golden_tree/c8f1228f-25e4-4525-d88c-afa0f87b2940.flac"
+    ],
+    "requested_variations": 2,
+    "generated_variations": 1,
+    "missing_variations": 1
+  },
+  {
+    "output_name": "track_02_one_falling_leaf",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_a849852ebf214c9a/track_02_one_falling_leaf/174d7e6f-2b94-8b4e-009b-7b80765304d5.flac"
+    ],
+    "requested_variations": 2,
+    "generated_variations": 1,
+    "missing_variations": 1
+  },
+  {
+    "output_name": "track_03_the_blue_cup",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_a849852ebf214c9a/track_03_the_blue_cup/0e27fc2b-110e-b246-1693-877bd00149fe.flac"
+    ],
+    "requested_variations": 2,
+    "generated_variations": 1,
+    "missing_variations": 1
+  },
+  {
+    "output_name": "track_04_a_paw_on_the_windowsill",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_a849852ebf214c9a/track_04_a_paw_on_the_windowsill/46588ec9-1d08-a9b2-f5e3-52a9cc2474d4.flac"
+    ],
+    "requested_variations": 2,
+    "generated_variations": 1,
+    "missing_variations": 1
+  },
+  {
+    "output_name": "track_05_watching_the_rain",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_a849852ebf214c9a/track_05_watching_the_rain/9291670c-32f2-0629-27e1-bb5eca066d94.flac"
+    ],
+    "requested_variations": 2,
+    "generated_variations": 1,
+    "missing_variations": 1
+  },
+  {
+    "output_name": "track_06_the_long_pause",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_a849852ebf214c9a/track_06_the_long_pause/6db77f07-f7d5-6b83-3911-bffb00d912e9.flac"
+    ],
+    "requested_variations": 2,
+    "generated_variations": 1,
+    "missing_variations": 1
+  },
+  {
+    "output_name": "track_07_almost_asleep",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_a849852ebf214c9a/track_07_almost_asleep/e59316b3-5250-2938-8574-385674618d86.flac"
+    ],
+    "requested_variations": 2,
+    "generated_variations": 1,
+    "missing_variations": 1
+  },
+  {
+    "output_name": "track_08_last_light_in_the_leaves",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_a849852ebf214c9a/track_08_last_light_in_the_leaves/e2e6adbd-9165-6c3a-886b-19fda075852a.flac"
+    ],
+    "requested_variations": 2,
+    "generated_variations": 1,
+    "missing_variations": 1
+  }
+]

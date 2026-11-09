@@ -1,0 +1,57 @@
+{
+  "route": "sft_lm",
+  "batch_name": "studio_batch_a849852ebf214c9a",
+  "batch_theme": "cacifers_autumnal_windowsill",
+  "generation_started_at": 1793871223.173205,
+  "archive_label": "20261105_103343_cacifers_autumnal_windowsill",
+  "prompts": [
+    {
+      "output_name": "track_01_golden_tree",
+      "prompt": "Warm instrumental cool jazz, 68 BPM, mellow tenor saxophone, soft upright bass and gentle brushed drums. Relaxed steady swing, flowing saxophone melody, warm major seventh harmonies, intimate autumn atmosphere, no vocals.",
+      "duration_seconds": 15,
+      "variations": 2
+    },
+    {
+      "output_name": "track_02_one_falling_leaf",
+      "prompt": "Gentle instrumental slow swing jazz, 64 BPM, soft tenor saxophone, warm upright bass and delicate brushed drums. Smooth descending melodic phrases, continuous relaxed pulse, subtle harmonic movement, wistful peaceful mood, no vocals.",
+      "duration_seconds": 15,
+      "variations": 2
+    },
+    {
+      "output_name": "track_03_the_blue_cup",
+      "prompt": "Cozy instrumental lounge jazz, 72 BPM, mellow alto saxophone, warm electric piano, soft bass and brushed percussion. Gentle steady groove, playful repeating saxophone motif, mellow major harmonies, intimate natural sound, no vocals.",
+      "duration_seconds": 15,
+      "variations": 2
+    },
+    {
+      "output_name": "track_04_a_paw_on_the_windowsill",
+      "prompt": "Minimal instrumental cool jazz, 66 BPM, warm tenor saxophone, rounded upright bass and soft brushed drums. Relaxed continuous swing, short expressive melodic phrases, restrained dynamics, subtle blues harmonies, no vocals.",
+      "duration_seconds": 15,
+      "variations": 2
+    },
+    {
+      "output_name": "track_05_watching_the_rain",
+      "prompt": "Atmospheric instrumental smooth jazz, 70 BPM, breathy tenor saxophone, warm electric piano and deep mellow bass. Gentle steady groove, flowing descending melody, rich minor seventh harmonies, soft spacious production, no vocals.",
+      "duration_seconds": 15,
+      "variations": 2
+    },
+    {
+      "output_name": "track_06_the_long_pause",
+      "prompt": "Quiet instrumental cool jazz, 62 BPM, mellow tenor saxophone, soft upright bass and delicate brushed drums. Slow continuous swing, simple repeating melodic motif, gentle sustained notes, restrained dynamics, intimate peaceful atmosphere, no vocals.",
+      "duration_seconds": 15,
+      "variations": 2
+    },
+    {
+      "output_name": "track_07_almost_asleep",
+      "prompt": "Sleepy instrumental lounge jazz, 65 BPM, soft alto saxophone, warm electric piano and mellow bass. Slow hypnotic groove, gently descending saxophone melody, smooth harmonic transitions, delicate dynamics, cozy drowsy atmosphere, no vocals.",
+      "duration_seconds": 15,
+      "variations": 2
+    },
+    {
+      "output_name": "track_08_last_light_in_the_leaves",
+      "prompt": "Warm instrumental smooth jazz, 74 BPM, expressive tenor saxophone, mellow electric piano, rounded bass and soft brushed drums. Relaxed steady groove, flowing lyrical melody, rich major seventh harmonies, gentle harmonic resolution, nostalgic golden autumn atmosphere, no vocals.",
+      "duration_seconds": 15,
+      "variations": 2
+    }
+  ]
+}

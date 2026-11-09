@@ -1,0 +1,52 @@
+[
+  {
+    "output_name": "track_01_a_stranger_beneath_the_surface",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_ddc2260149fa4d3e/track_01_a_stranger_beneath_the_surface/240cd5b5-0263-8f3b-453a-b2695724d846.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_02_the_boat_and_the_water",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_ddc2260149fa4d3e/track_02_the_boat_and_the_water/fbd43e91-832e-43ba-57b5-426975f7c0db.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_03_can_you_see_me",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_ddc2260149fa4d3e/track_03_can_you_see_me/45f8f5d0-d630-0e99-c845-7136a613965e.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_04_a_game_between_two_worlds",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_ddc2260149fa4d3e/track_04_a_game_between_two_worlds/f86f1e3a-0bf0-b334-cbc0-c80453e3a0e3.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_05_the_same_little_adventure",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_ddc2260149fa4d3e/track_05_the_same_little_adventure/43cd5094-1303-205a-44a2-c691cdf5500e.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  }
+]

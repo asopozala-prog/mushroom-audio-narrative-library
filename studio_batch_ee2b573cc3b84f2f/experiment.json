@@ -1,0 +1,353 @@
+{
+  "schema_version": 1,
+  "batch_id": "studio_batch_ee2b573cc3b84f2f",
+  "archive_label": "20261105_111349_red_fox_in_dusk_graveyard",
+  "batch_theme": "red_fox_in_dusk_graveyard",
+  "generation_started_at": 1793873629.990318,
+  "model": {
+    "family": "ACE-Step",
+    "checkpoint_name": "acestep-v15-sft",
+    "checkpoint_revision": null,
+    "route": "sft_lm"
+  },
+  "generation": {
+    "prompts": [
+      {
+        "output_name": "track_01_the_hidden_cemetery",
+        "prompt": "Romantic classical chamber instrumental, 68 BPM, expressive solo cello with warm piano accompaniment. Flowing minor-key melody, rich sustained cello tones, gentle harmonic movement, solemn autumn atmosphere, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_02_beneath_enormous_trees",
+        "prompt": "Classical string ensemble, 72 BPM, lyrical violins, warm violas and deep cellos. Broad legato melody, rich minor harmonies, measured rhythmic movement, restrained orchestral dynamics, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_03_rust_copper_and_gold",
+        "prompt": "Romantic classical instrumental, 76 BPM, expressive solo violin with warm piano accompaniment. Sweeping lyrical melody, rich major-minor harmonies, elegant phrasing, warm resonant acoustic sound, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_04_a_fox_in_the_shadows",
+        "prompt": "Dark classical chamber music, 66 BPM, low solo cello and soft piano accompaniment. Expressive descending melody, sustained minor harmonies, gentle rhythmic pulse, mysterious intimate atmosphere, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_05_paws_among_fallen_leaves",
+        "prompt": "Light classical string quartet, 84 BPM, delicate violins, viola and pizzicato cello. Graceful repeating melody, gentle rhythmic movement, subtle staccato accents, warm chamber acoustics, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_06_the_old_wooden_cross",
+        "prompt": "Solemn romantic classical instrumental, 60 BPM, deep expressive cello with sustained string accompaniment. Slow lyrical phrases, rich minor harmonies, gradual dynamic swells, spacious resonant sound, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_07_one_graceful_jump",
+        "prompt": "Elegant classical chamber music, 92 BPM, bright solo violin with piano accompaniment. Light ascending melody, graceful rhythmic accents, flowing major-key harmonies, controlled lively dynamics, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_08_the_stranger_stops",
+        "prompt": "Intimate romantic classical instrumental, 64 BPM, warm solo cello and gentle piano. Sustained lyrical melody, steady measured pulse, subtle harmonic tension, restrained dynamics, natural chamber recording, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_09_neither_runs_away",
+        "prompt": "Tender classical string ensemble, 68 BPM, expressive violins, warm violas and deep cellos. Gentle legato melody, rich minor-to-major harmonies, steady flowing rhythm, intimate restrained dynamics, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_10_the_breeze_in_her_tail",
+        "prompt": "Delicate romantic classical instrumental, 74 BPM, lyrical solo violin with soft string accompaniment. Flowing melodic phrases, gentle rising and falling dynamics, warm major harmonies, airy chamber acoustics, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_11_golden_light_on_old_stones",
+        "prompt": "Rich romantic orchestral instrumental, 70 BPM, expressive cello section, lyrical violins and warm French horns. Broad sustained melody, deep harmonic movement, gradual orchestral swells, noble autumn atmosphere, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      },
+      {
+        "output_name": "track_12_the_hour_between_gold_and_shadow",
+        "prompt": "Romantic classical string orchestra, 62 BPM, deep cellos, expressive violins and warm violas. Slow flowing minor-key melody, rich sustained harmonies, gentle crescendo followed by a soft resolution, solemn intimate atmosphere, no vocals.",
+        "duration_seconds": 30,
+        "variations": 3
+      }
+    ],
+    "requested_audio_format": "flac"
+  },
+  "kaggle_manifest": [
+    {
+      "output_name": "track_01_the_hidden_cemetery",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_ee2b573cc3b84f2f/track_01_the_hidden_cemetery/1a20006c-2543-2e82-de05-ca965498e947.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_02_beneath_enormous_trees",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_ee2b573cc3b84f2f/track_02_beneath_enormous_trees/1d6a7be4-ca6c-eb94-8a28-f3a4f1f3125b.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_03_rust_copper_and_gold",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_ee2b573cc3b84f2f/track_03_rust_copper_and_gold/9ec40aa2-4f9e-090d-f66a-b20c9f38c762.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_04_a_fox_in_the_shadows",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_ee2b573cc3b84f2f/track_04_a_fox_in_the_shadows/227fbe1f-00a1-0df9-4080-ded97b8d514a.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_05_paws_among_fallen_leaves",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_ee2b573cc3b84f2f/track_05_paws_among_fallen_leaves/c69d5d45-501f-34bc-1883-5c9008d4e6b8.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_06_the_old_wooden_cross",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_ee2b573cc3b84f2f/track_06_the_old_wooden_cross/fab8d50e-766a-3ea6-b0a9-186ac1070674.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_07_one_graceful_jump",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_ee2b573cc3b84f2f/track_07_one_graceful_jump/c223d04d-3634-81ea-e771-d4b1fccc2b85.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_08_the_stranger_stops",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_ee2b573cc3b84f2f/track_08_the_stranger_stops/21495999-aac2-c3c6-3ee5-3e88658c9695.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_09_neither_runs_away",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_ee2b573cc3b84f2f/track_09_neither_runs_away/40cab2a3-1ae0-9d55-7cc2-04c362f5da1d.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_10_the_breeze_in_her_tail",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_ee2b573cc3b84f2f/track_10_the_breeze_in_her_tail/59d05f84-e3eb-1db5-dce5-ee959bfca7ad.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_11_golden_light_on_old_stones",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_ee2b573cc3b84f2f/track_11_golden_light_on_old_stones/e1722bd7-ccbe-1355-1423-85f0635427a7.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_12_the_hour_between_gold_and_shadow",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_ee2b573cc3b84f2f/track_12_the_hour_between_gold_and_shadow/823f0c94-7e60-ab48-77d5-b27716302b17.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    }
+  ],
+  "outputs": [
+    {
+      "composition": "track_01_the_hidden_cemetery",
+      "variation": 1,
+      "filename": "track_01_the_hidden_cemetery_01.flac",
+      "relative_path": "track_01_the_hidden_cemetery/track_01_the_hidden_cemetery_01.flac",
+      "size_bytes": 5109766,
+      "sha256": "4dcab946fa1252505429066ff8eb9513b88469f327d52af8d8e121e80f56b5fa",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_beneath_enormous_trees",
+      "variation": 1,
+      "filename": "track_02_beneath_enormous_trees_01.flac",
+      "relative_path": "track_02_beneath_enormous_trees/track_02_beneath_enormous_trees_01.flac",
+      "size_bytes": 5615278,
+      "sha256": "5122ed6b702371b09857535cdf13b8473152b3ade0d162720e5731b09e0d7f45",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_rust_copper_and_gold",
+      "variation": 1,
+      "filename": "track_03_rust_copper_and_gold_01.flac",
+      "relative_path": "track_03_rust_copper_and_gold/track_03_rust_copper_and_gold_01.flac",
+      "size_bytes": 5727382,
+      "sha256": "996dc218953877a8b7dc9f52c9f981c61a481c31108cca39f06f40e1497c74a2",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_a_fox_in_the_shadows",
+      "variation": 1,
+      "filename": "track_04_a_fox_in_the_shadows_01.flac",
+      "relative_path": "track_04_a_fox_in_the_shadows/track_04_a_fox_in_the_shadows_01.flac",
+      "size_bytes": 5406794,
+      "sha256": "6a6b7449540df7cf95d36e42182df5ee1b1e1be61ff26c9e5170700f4f84095c",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_paws_among_fallen_leaves",
+      "variation": 1,
+      "filename": "track_05_paws_among_fallen_leaves_01.flac",
+      "relative_path": "track_05_paws_among_fallen_leaves/track_05_paws_among_fallen_leaves_01.flac",
+      "size_bytes": 5861920,
+      "sha256": "468f0e21daacae19343bf494969ecca46bbd34e3b3b98b70be4685cd78e40615",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_the_old_wooden_cross",
+      "variation": 1,
+      "filename": "track_06_the_old_wooden_cross_01.flac",
+      "relative_path": "track_06_the_old_wooden_cross/track_06_the_old_wooden_cross_01.flac",
+      "size_bytes": 5115636,
+      "sha256": "9a29378bac5a7329bbc52e27eca893ce341c183cf343fc7728a27c6760883082",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_one_graceful_jump",
+      "variation": 1,
+      "filename": "track_07_one_graceful_jump_01.flac",
+      "relative_path": "track_07_one_graceful_jump/track_07_one_graceful_jump_01.flac",
+      "size_bytes": 5502255,
+      "sha256": "7ef931a434e1b8124fc79eeee92ddf97bc489a66befec69e67e82bbd1d60c3a0",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_the_stranger_stops",
+      "variation": 1,
+      "filename": "track_08_the_stranger_stops_01.flac",
+      "relative_path": "track_08_the_stranger_stops/track_08_the_stranger_stops_01.flac",
+      "size_bytes": 5853834,
+      "sha256": "5f3306064934d64aac8f57750abc66eeb0ecc965ccfd050ae61e0e8c1cd59510",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_09_neither_runs_away",
+      "variation": 1,
+      "filename": "track_09_neither_runs_away_01.flac",
+      "relative_path": "track_09_neither_runs_away/track_09_neither_runs_away_01.flac",
+      "size_bytes": 5555910,
+      "sha256": "7b0ad6b51e903f6239e07f6cb3d9b5d5c47670e9e8838afab60f5752b90dd993",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_10_the_breeze_in_her_tail",
+      "variation": 1,
+      "filename": "track_10_the_breeze_in_her_tail_01.flac",
+      "relative_path": "track_10_the_breeze_in_her_tail/track_10_the_breeze_in_her_tail_01.flac",
+      "size_bytes": 5690899,
+      "sha256": "380089a7c9d38bfc6cf0b697b72d6761a84c7cf4f93246b89f7ed6050b278347",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_11_golden_light_on_old_stones",
+      "variation": 1,
+      "filename": "track_11_golden_light_on_old_stones_01.flac",
+      "relative_path": "track_11_golden_light_on_old_stones/track_11_golden_light_on_old_stones_01.flac",
+      "size_bytes": 5520477,
+      "sha256": "486a09e6ee12e01e42de8fa0f0b6b71dbf03c694d272bf79e9423fd3491f9009",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_12_the_hour_between_gold_and_shadow",
+      "variation": 1,
+      "filename": "track_12_the_hour_between_gold_and_shadow_01.flac",
+      "relative_path": "track_12_the_hour_between_gold_and_shadow/track_12_the_hour_between_gold_and_shadow_01.flac",
+      "size_bytes": 5821768,
+      "sha256": "526e7bc9e87a83177c026e62a2b053386827deaae707eaae5cb2fee138a4bc56",
+      "duration_seconds_actual": 30.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    }
+  ],
+  "completed_compositions": 0,
+  "partial_compositions": 12,
+  "failed_compositions": 0,
+  "requested_variations": 36,
+  "generated_variations": 12,
+  "missing_variations": 24,
+  "archive_completed_at_utc": "2026-11-05T10:30:18.340193+00:00"
+}

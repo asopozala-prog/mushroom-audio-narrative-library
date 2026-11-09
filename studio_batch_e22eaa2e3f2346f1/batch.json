@@ -1,0 +1,81 @@
+{
+  "route": "turbo",
+  "batch_name": "studio_batch_e22eaa2e3f2346f1",
+  "batch_theme": "mushroom_house_kitchen_weekend",
+  "generation_started_at": 1793619306.0300748,
+  "archive_label": "20261102_123506_mushroom_house_kitchen_weekend",
+  "prompts": [
+    {
+      "output_name": "track_01_saturday_kitchen_wakes",
+      "prompt": "Warm instrumental lounge jazz, 68 BPM, mellow electric piano, upright bass and soft brushed drums. Relaxed swing groove, gentle repeating melody, warm major seventh chords, intimate cozy atmosphere, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    },
+    {
+      "output_name": "track_02_hormus_knows_noodles",
+      "prompt": "Playful instrumental swing jazz, 92 BPM, bright acoustic piano, walking upright bass and light brushed drums. Bouncy syncopated rhythm, cheerful melodic phrases, bluesy chord changes, warm vintage jazz sound, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    },
+    {
+      "output_name": "track_03_seventeen_minutes_one_noodle",
+      "prompt": "Comical instrumental jazz trio, 106 BPM, lively piano, plucked upright bass and swinging drums. Short staccato piano motifs, playful rhythmic accents, light chromatic runs, steady cheerful groove, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    },
+    {
+      "output_name": "track_04_silas_noodle_supervisor",
+      "prompt": "Cool instrumental jazz, 88 BPM, smooth electric piano, deep upright bass and crisp brushed percussion. Confident syncopated groove, neat repeating melodic phrases, subtle blues harmonies, polished intimate sound, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    },
+    {
+      "output_name": "track_05_osi_tastes_one_noodle",
+      "prompt": "Sleepy instrumental jazz ballad, 60 BPM, gentle acoustic piano, soft upright bass and delicate brushed drums. Slow steady pulse, simple descending melody, warm sustained chords, unhurried peaceful atmosphere, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    },
+    {
+      "output_name": "track_06_sunday_somyeon",
+      "prompt": "Cozy instrumental lounge jazz, 72 BPM, warm electric piano, mellow bass and soft brushed drums. Gentle flowing melody, relaxed swing rhythm, rich major seventh harmonies, intimate natural production, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    },
+    {
+      "output_name": "track_07_cabbage_and_mushrooms",
+      "prompt": "Light instrumental bossa nova jazz, 94 BPM, warm nylon-string guitar, soft electric piano and gentle Latin percussion. Smooth syncopated groove, playful melodic phrases, bright mellow harmonies, relaxed kitchen atmosphere, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    },
+    {
+      "output_name": "track_08_the_missing_olive",
+      "prompt": "Mischievous instrumental swing jazz, 110 BPM, lively piano, walking upright bass and light jazz drums. Short bluesy motifs, bouncing rhythm, playful chromatic phrases, cheerful tension and release, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    },
+    {
+      "output_name": "track_09_hazel_guards_breakfast",
+      "prompt": "Gentle instrumental cool jazz, 76 BPM, mellow piano, upright bass and soft brushed drums. Steady relaxed groove, thoughtful melodic phrasing, warm minor seventh harmonies, restrained dynamics, intimate acoustic sound, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    },
+    {
+      "output_name": "track_10_the_dough_is_rising",
+      "prompt": "Warm instrumental soul jazz, 70 BPM, soft electric piano, deep rounded bass and delicate brushed percussion. Slow hypnotic groove, gently ascending melody, rich warm harmonies, gradual musical development, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    },
+    {
+      "output_name": "track_11_one_rise_no_disturbance",
+      "prompt": "Minimal instrumental downtempo jazz, 64 BPM, mellow electric piano, warm bass and subtle brushed drums. Slow continuous pulse, simple repeating piano motif, smooth harmonic movement, soft dynamics, peaceful intimate atmosphere, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    },
+    {
+      "output_name": "track_12_hormus_sunday_loaf",
+      "prompt": "Tender instrumental jazz ballad, 66 BPM, warm acoustic piano, soft upright bass and gentle brushed drums. Relaxed steady rhythm, affectionate flowing melody, mellow major harmonies, gentle resolution, cozy nostalgic atmosphere, no vocals.",
+      "duration_seconds": 30,
+      "variations": 3
+    }
+  ]
+}
