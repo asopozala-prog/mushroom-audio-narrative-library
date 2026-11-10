@@ -1,0 +1,437 @@
+{
+  "schema_version": 1,
+  "batch_id": "studio_batch_bd07f413b59749d3",
+  "archive_label": "20261110_152155_last_week_of_autumn_ginkgo_garden",
+  "batch_theme": "last_week_of_autumn_ginkgo_garden",
+  "generation_started_at": 1794320515.7676759,
+  "model": {
+    "family": "ACE-Step",
+    "checkpoint_name": "acestep-v15-turbo",
+    "checkpoint_revision": null,
+    "route": "turbo"
+  },
+  "generation": {
+    "prompts": [
+      {
+        "output_name": "track_01_batch_story",
+        "prompt": "In the last week of autumn, the Japanese garden becomes quiet and almost weightless beneath the falling ginkgo leaves. Their yellow color is not scattered like many European autumn trees, but gathered into one unified golden presence, covering the ground like a soft memory. The pond, the stones, the moss, and the curved branches all seem to hold their breath as the season prepares to end. This batch explores that late-autumn atmosphere through different Asian-oriented instruments, so we can listen to which timbres the model handles most convincingly. Each piece stays simple and focused, allowing one main instrument to carry the feeling of the garden.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_02_golden_ginkgo_ground",
+        "prompt": "Gentle instrumental Japanese-inspired chamber music, 62 BPM, shakuhachi as the main instrument with soft sustained strings. Slow steady pulse, spacious breathing phrases, simple pentatonic melody, quiet reflective atmosphere, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_03_stone_lantern_in_mist",
+        "prompt": "Quiet instrumental East Asian chamber music, 58 BPM, xiao flute as the main instrument with warm low drone accompaniment. Very slow flowing rhythm, long sustained notes, restrained dynamics, meditative autumn mood, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_04_pond_beneath_falling_leaves",
+        "prompt": "Delicate instrumental Japanese-inspired music, 66 BPM, koto as the main instrument with light cello support. Gentle repeating plucked motifs, steady relaxed pulse, clear spacious texture, soft golden atmosphere, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_05_the_bridge_at_dusk",
+        "prompt": "Tender instrumental East Asian chamber music, 64 BPM, erhu as the main instrument with subtle piano accompaniment. Lyrical descending melody, measured pulse, warm minor-to-major harmonies, intimate melancholic feeling, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_06_wind_through_bamboo_fence",
+        "prompt": "Light instrumental traditional-inspired music, 72 BPM, dizi flute as the main instrument with soft bass support. Gentle continuous rhythm, airy melodic phrases, simple ornamentation, clear bright tone, restrained dynamics, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_07_yellow_leaves_on_moss",
+        "prompt": "Graceful instrumental East Asian plucked-string music, 68 BPM, guzheng as the main instrument with soft sustained accompaniment. Calm repeating figures, slow even pulse, spacious harmonies, serene end-of-autumn atmosphere, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_08_the_last_week_of_autumn",
+        "prompt": "Reflective instrumental Japanese-inspired chamber music, 60 BPM, shamisen as the main instrument with subtle low strings. Sparse steady rhythm, clear plucked melodic phrases, restrained tension and release, quiet dignified closing atmosphere, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      }
+    ],
+    "requested_audio_format": "flac"
+  },
+  "kaggle_manifest": [
+    {
+      "output_name": "track_01_batch_story",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_bd07f413b59749d3/track_01_batch_story/2ea82a79-168a-9483-5e54-de8f366924f5.flac",
+        "/kaggle/working/music_output/studio_batch_bd07f413b59749d3/track_01_batch_story/1dd9aae7-2425-8ba5-4408-c8a035e7fc98.flac",
+        "/kaggle/working/music_output/studio_batch_bd07f413b59749d3/track_01_batch_story/5b0b902d-65d6-27a6-5742-16157d163d82.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_02_golden_ginkgo_ground",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_bd07f413b59749d3/track_02_golden_ginkgo_ground/6fe1fc62-3e2e-4005-45bf-3aac2e13aa7d.flac",
+        "/kaggle/working/music_output/studio_batch_bd07f413b59749d3/track_02_golden_ginkgo_ground/333ce43a-498c-9e3c-92ea-a15cefb6d7f5.flac",
+        "/kaggle/working/music_output/studio_batch_bd07f413b59749d3/track_02_golden_ginkgo_ground/e329c92d-71b4-972d-79c5-0670302e3140.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_03_stone_lantern_in_mist",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_bd07f413b59749d3/track_03_stone_lantern_in_mist/69d821ad-a40f-58da-5581-8e6e58244e7a.flac",
+        "/kaggle/working/music_output/studio_batch_bd07f413b59749d3/track_03_stone_lantern_in_mist/5104921f-a33a-a30f-3bdd-798f982afe8a.flac",
+        "/kaggle/working/music_output/studio_batch_bd07f413b59749d3/track_03_stone_lantern_in_mist/af5ce55a-4791-e0ea-796d-c511caf5e8eb.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_04_pond_beneath_falling_leaves",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_bd07f413b59749d3/track_04_pond_beneath_falling_leaves/1b99e2af-14ca-d522-eeca-be87b7d6bb16.flac",
+        "/kaggle/working/music_output/studio_batch_bd07f413b59749d3/track_04_pond_beneath_falling_leaves/c62995dc-103e-c668-c427-448a2c541d16.flac",
+        "/kaggle/working/music_output/studio_batch_bd07f413b59749d3/track_04_pond_beneath_falling_leaves/c824580d-011b-bf20-8329-c80a875b7e1f.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_05_the_bridge_at_dusk",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_bd07f413b59749d3/track_05_the_bridge_at_dusk/cd5b37ed-cdf1-caa5-edb3-6a3e371d5357.flac",
+        "/kaggle/working/music_output/studio_batch_bd07f413b59749d3/track_05_the_bridge_at_dusk/95290c8c-3afb-e529-ac72-3480d8068ce1.flac",
+        "/kaggle/working/music_output/studio_batch_bd07f413b59749d3/track_05_the_bridge_at_dusk/d13108f6-51d2-6271-e116-ad8a254cf5ce.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_06_wind_through_bamboo_fence",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_bd07f413b59749d3/track_06_wind_through_bamboo_fence/a6baeba1-dd5d-72df-38ab-0adc734e4ea3.flac",
+        "/kaggle/working/music_output/studio_batch_bd07f413b59749d3/track_06_wind_through_bamboo_fence/f853eff4-de9c-c1ad-d47e-67dea3b5bb44.flac",
+        "/kaggle/working/music_output/studio_batch_bd07f413b59749d3/track_06_wind_through_bamboo_fence/3ff55f52-885e-6f48-def5-cf0c78fdf0c9.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_07_yellow_leaves_on_moss",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_bd07f413b59749d3/track_07_yellow_leaves_on_moss/39f0a49f-1742-84f6-796e-c84a37a30924.flac",
+        "/kaggle/working/music_output/studio_batch_bd07f413b59749d3/track_07_yellow_leaves_on_moss/a0bc91a9-9735-55c5-96aa-ca97aa0576d4.flac",
+        "/kaggle/working/music_output/studio_batch_bd07f413b59749d3/track_07_yellow_leaves_on_moss/6763da94-d44f-2cd8-20e9-91ba9a20624a.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_08_the_last_week_of_autumn",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_bd07f413b59749d3/track_08_the_last_week_of_autumn/84059a82-6ebf-2720-b723-7f9bc45f6934.flac",
+        "/kaggle/working/music_output/studio_batch_bd07f413b59749d3/track_08_the_last_week_of_autumn/d98a69c7-4a51-1385-f242-1fc201bbdc8e.flac",
+        "/kaggle/working/music_output/studio_batch_bd07f413b59749d3/track_08_the_last_week_of_autumn/3e98db6f-658b-4191-e2a8-1daed4b5edde.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    }
+  ],
+  "outputs": [
+    {
+      "composition": "track_01_batch_story",
+      "variation": 1,
+      "filename": "track_01_batch_story_01.flac",
+      "relative_path": "track_01_batch_story/track_01_batch_story_01.flac",
+      "size_bytes": 6780885,
+      "sha256": "bca9e053d1f8cc730ccfe195ae1eff53da746f6161590b71952f61b376bdb24c",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_01_batch_story",
+      "variation": 2,
+      "filename": "track_01_batch_story_02.flac",
+      "relative_path": "track_01_batch_story/track_01_batch_story_02.flac",
+      "size_bytes": 6608105,
+      "sha256": "7be4553157fc3d7f806f84b1f95620c22060e523ea5796c5591c1042a6d2a391",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_01_batch_story",
+      "variation": 3,
+      "filename": "track_01_batch_story_03.flac",
+      "relative_path": "track_01_batch_story/track_01_batch_story_03.flac",
+      "size_bytes": 6990382,
+      "sha256": "5397df1a9c7769fe2169cbec19c5ce33168655ec206606390fcf6eb7830bbba0",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_golden_ginkgo_ground",
+      "variation": 1,
+      "filename": "track_02_golden_ginkgo_ground_01.flac",
+      "relative_path": "track_02_golden_ginkgo_ground/track_02_golden_ginkgo_ground_01.flac",
+      "size_bytes": 7059143,
+      "sha256": "0e51739230604e628959ec432a9c015f88c111834a77f44b1c24e52346d4f58b",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_golden_ginkgo_ground",
+      "variation": 2,
+      "filename": "track_02_golden_ginkgo_ground_02.flac",
+      "relative_path": "track_02_golden_ginkgo_ground/track_02_golden_ginkgo_ground_02.flac",
+      "size_bytes": 7185470,
+      "sha256": "06896d9cb9c2ad1aa5df82acf85a2835727d048e7697d781a14d35fcf9d6463a",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_golden_ginkgo_ground",
+      "variation": 3,
+      "filename": "track_02_golden_ginkgo_ground_03.flac",
+      "relative_path": "track_02_golden_ginkgo_ground/track_02_golden_ginkgo_ground_03.flac",
+      "size_bytes": 6983851,
+      "sha256": "230802bc2bb69bc3f75860b3597db87d208da86e917dbc8d15d0bcaafedb6d35",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_stone_lantern_in_mist",
+      "variation": 1,
+      "filename": "track_03_stone_lantern_in_mist_01.flac",
+      "relative_path": "track_03_stone_lantern_in_mist/track_03_stone_lantern_in_mist_01.flac",
+      "size_bytes": 6324970,
+      "sha256": "5402dfbb2c82e7a70e140d75cf1e8c90c2a5e3c25023d1e07d5c3a45835f84e7",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_stone_lantern_in_mist",
+      "variation": 2,
+      "filename": "track_03_stone_lantern_in_mist_02.flac",
+      "relative_path": "track_03_stone_lantern_in_mist/track_03_stone_lantern_in_mist_02.flac",
+      "size_bytes": 7092913,
+      "sha256": "045c81e15943e44acafaef224ea59f5aed04b2bb8081efe30880197c7b676ae7",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_stone_lantern_in_mist",
+      "variation": 3,
+      "filename": "track_03_stone_lantern_in_mist_03.flac",
+      "relative_path": "track_03_stone_lantern_in_mist/track_03_stone_lantern_in_mist_03.flac",
+      "size_bytes": 6457943,
+      "sha256": "d5dc031d91fae76664f406d46539cda75fdbd958812a480189065519fa253f9a",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_pond_beneath_falling_leaves",
+      "variation": 1,
+      "filename": "track_04_pond_beneath_falling_leaves_01.flac",
+      "relative_path": "track_04_pond_beneath_falling_leaves/track_04_pond_beneath_falling_leaves_01.flac",
+      "size_bytes": 7330251,
+      "sha256": "d33b1eab493e4387715ea266a86afe0207e1c852df9541e83fb2faadd2ec10f1",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_pond_beneath_falling_leaves",
+      "variation": 2,
+      "filename": "track_04_pond_beneath_falling_leaves_02.flac",
+      "relative_path": "track_04_pond_beneath_falling_leaves/track_04_pond_beneath_falling_leaves_02.flac",
+      "size_bytes": 6603557,
+      "sha256": "a3fe8821b727c18d31990b928fc3c3122362f12dbc8bd748db03c7555c0f3496",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_pond_beneath_falling_leaves",
+      "variation": 3,
+      "filename": "track_04_pond_beneath_falling_leaves_03.flac",
+      "relative_path": "track_04_pond_beneath_falling_leaves/track_04_pond_beneath_falling_leaves_03.flac",
+      "size_bytes": 7291413,
+      "sha256": "cbae7bbfd036cde78dadffdb4a15bbfcfb9b564c788529bbe0023e2cd840ce57",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_bridge_at_dusk",
+      "variation": 1,
+      "filename": "track_05_the_bridge_at_dusk_01.flac",
+      "relative_path": "track_05_the_bridge_at_dusk/track_05_the_bridge_at_dusk_01.flac",
+      "size_bytes": 7099646,
+      "sha256": "e3241175a23a2d9bf899c0073be77a5102fe7326cce3c07079d65990d52080c2",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_bridge_at_dusk",
+      "variation": 2,
+      "filename": "track_05_the_bridge_at_dusk_02.flac",
+      "relative_path": "track_05_the_bridge_at_dusk/track_05_the_bridge_at_dusk_02.flac",
+      "size_bytes": 6992957,
+      "sha256": "c95439aea0e0c85bb633c0b5d3ba5841f0ce5f0b1e19e04e1e9f54609524df0a",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_bridge_at_dusk",
+      "variation": 3,
+      "filename": "track_05_the_bridge_at_dusk_03.flac",
+      "relative_path": "track_05_the_bridge_at_dusk/track_05_the_bridge_at_dusk_03.flac",
+      "size_bytes": 7224602,
+      "sha256": "45ba6673d889543d142f12d2ffdc7dc5e5b8d20fa9c53055376d97857f7e7f7b",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_wind_through_bamboo_fence",
+      "variation": 1,
+      "filename": "track_06_wind_through_bamboo_fence_01.flac",
+      "relative_path": "track_06_wind_through_bamboo_fence/track_06_wind_through_bamboo_fence_01.flac",
+      "size_bytes": 7479451,
+      "sha256": "948a3e142d895bdbfc2d0a85ffd326f7efe8771dacb154c4eaf1802788e687ef",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_wind_through_bamboo_fence",
+      "variation": 2,
+      "filename": "track_06_wind_through_bamboo_fence_02.flac",
+      "relative_path": "track_06_wind_through_bamboo_fence/track_06_wind_through_bamboo_fence_02.flac",
+      "size_bytes": 7630512,
+      "sha256": "218c93e9f7cc827c3de01edfbeb753e89fb471a1877aeaff252f397daad73321",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_wind_through_bamboo_fence",
+      "variation": 3,
+      "filename": "track_06_wind_through_bamboo_fence_03.flac",
+      "relative_path": "track_06_wind_through_bamboo_fence/track_06_wind_through_bamboo_fence_03.flac",
+      "size_bytes": 7449038,
+      "sha256": "55f9092f974675c60fe95ad08bdd1affdc4933fd58e110bd513bf5b8db25b69e",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_yellow_leaves_on_moss",
+      "variation": 1,
+      "filename": "track_07_yellow_leaves_on_moss_01.flac",
+      "relative_path": "track_07_yellow_leaves_on_moss/track_07_yellow_leaves_on_moss_01.flac",
+      "size_bytes": 7693765,
+      "sha256": "55cc1cb87dfe498c075fa8d74a80d1ded4af36f33eb0a4e24c2960d28ad51ef9",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_yellow_leaves_on_moss",
+      "variation": 2,
+      "filename": "track_07_yellow_leaves_on_moss_02.flac",
+      "relative_path": "track_07_yellow_leaves_on_moss/track_07_yellow_leaves_on_moss_02.flac",
+      "size_bytes": 7457377,
+      "sha256": "6b4dfb5b390edf06e4fb5a067566fbeb95c32d0754fe424bbe32744b958ae7dc",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_yellow_leaves_on_moss",
+      "variation": 3,
+      "filename": "track_07_yellow_leaves_on_moss_03.flac",
+      "relative_path": "track_07_yellow_leaves_on_moss/track_07_yellow_leaves_on_moss_03.flac",
+      "size_bytes": 7484190,
+      "sha256": "6429e087b994215fc2a7286b461ac2fa48680644b78982a607337e19b7a8e8a8",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_the_last_week_of_autumn",
+      "variation": 1,
+      "filename": "track_08_the_last_week_of_autumn_01.flac",
+      "relative_path": "track_08_the_last_week_of_autumn/track_08_the_last_week_of_autumn_01.flac",
+      "size_bytes": 7296622,
+      "sha256": "8249e8d134988e56226ad570e61bbe4b8460e0f1970a585d75f103c1e8c39441",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_the_last_week_of_autumn",
+      "variation": 2,
+      "filename": "track_08_the_last_week_of_autumn_02.flac",
+      "relative_path": "track_08_the_last_week_of_autumn/track_08_the_last_week_of_autumn_02.flac",
+      "size_bytes": 7046689,
+      "sha256": "381d8b8d5d206c9546d7cb065c316f835c2f1568109154626911b8ddfbb24e61",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_the_last_week_of_autumn",
+      "variation": 3,
+      "filename": "track_08_the_last_week_of_autumn_03.flac",
+      "relative_path": "track_08_the_last_week_of_autumn/track_08_the_last_week_of_autumn_03.flac",
+      "size_bytes": 6927746,
+      "sha256": "a4553944da3059854733781414ef99bb452037b53dfd7cc0083cc6a966dfa3dd",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    }
+  ],
+  "completed_compositions": 8,
+  "partial_compositions": 0,
+  "failed_compositions": 0,
+  "requested_variations": 24,
+  "generated_variations": 24,
+  "missing_variations": 0,
+  "archive_completed_at_utc": "2026-11-10T16:08:33.909167+00:00"
+}

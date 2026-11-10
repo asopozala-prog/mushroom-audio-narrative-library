@@ -1,0 +1,82 @@
+[
+  {
+    "output_name": "track_01_batch_story",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_36a12ce2505b4f46/track_01_batch_story/411440b9-1f7a-6ab2-1bb1-86ebd7fb7686.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_02_golden_ginkgo_ground",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_36a12ce2505b4f46/track_02_golden_ginkgo_ground/600d0df2-c283-36b7-176f-1ebdca783f35.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_03_stone_lantern_in_mist",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_36a12ce2505b4f46/track_03_stone_lantern_in_mist/71b9c295-4a6d-9194-dadb-d6005a330ce3.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_04_pond_beneath_falling_leaves",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_36a12ce2505b4f46/track_04_pond_beneath_falling_leaves/93ab58f3-8ed1-5a6f-39ad-388285b10791.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_05_the_bridge_at_dusk",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_36a12ce2505b4f46/track_05_the_bridge_at_dusk/2bfdff88-4bdd-1165-2aa1-561975a2aca8.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_06_wind_through_bamboo_fence",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_36a12ce2505b4f46/track_06_wind_through_bamboo_fence/80b58fd7-7232-2926-a10a-9b75442cf150.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_07_yellow_leaves_on_moss",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_36a12ce2505b4f46/track_07_yellow_leaves_on_moss/dcd88d06-a33c-c327-8240-7017e917d4c3.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_08_the_last_week_of_autumn",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_36a12ce2505b4f46/track_08_the_last_week_of_autumn/b9cc8ca6-c4af-90dd-af77-0763f3af447d.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  }
+]

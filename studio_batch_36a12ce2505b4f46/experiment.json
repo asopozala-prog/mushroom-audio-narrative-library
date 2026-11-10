@@ -1,0 +1,245 @@
+{
+  "schema_version": 1,
+  "batch_id": "studio_batch_36a12ce2505b4f46",
+  "archive_label": "20261110_170958_last_week_of_autumn_ginkgo_garden",
+  "batch_theme": "last_week_of_autumn_ginkgo_garden",
+  "generation_started_at": 1794326998.111903,
+  "model": {
+    "family": "ACE-Step",
+    "checkpoint_name": "acestep-v15-sft",
+    "checkpoint_revision": null,
+    "route": "sft_lm"
+  },
+  "generation": {
+    "prompts": [
+      {
+        "output_name": "track_01_batch_story",
+        "prompt": "In the last week of autumn, the Japanese garden becomes quiet and almost weightless beneath the falling ginkgo leaves. Their yellow color is not scattered like many European autumn trees, but gathered into one unified golden presence, covering the ground like a soft memory. The pond, the stones, the moss, and the curved branches all seem to hold their breath as the season prepares to end. This batch explores that late-autumn atmosphere through different Asian-oriented instruments, so we can listen to which timbres the model handles most convincingly. Each piece stays simple and focused, allowing one main instrument to carry the feeling of the garden.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_02_golden_ginkgo_ground",
+        "prompt": "Gentle instrumental Japanese-inspired chamber music, 62 BPM, shakuhachi as the main instrument with soft sustained strings. Slow steady pulse, spacious breathing phrases, simple pentatonic melody, quiet reflective atmosphere, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_03_stone_lantern_in_mist",
+        "prompt": "Quiet instrumental East Asian chamber music, 58 BPM, xiao flute as the main instrument with warm low drone accompaniment. Very slow flowing rhythm, long sustained notes, restrained dynamics, meditative autumn mood, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_04_pond_beneath_falling_leaves",
+        "prompt": "Delicate instrumental Japanese-inspired music, 66 BPM, koto as the main instrument with light cello support. Gentle repeating plucked motifs, steady relaxed pulse, clear spacious texture, soft golden atmosphere, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_05_the_bridge_at_dusk",
+        "prompt": "Tender instrumental East Asian chamber music, 64 BPM, erhu as the main instrument with subtle piano accompaniment. Lyrical descending melody, measured pulse, warm minor-to-major harmonies, intimate melancholic feeling, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_06_wind_through_bamboo_fence",
+        "prompt": "Light instrumental traditional-inspired music, 72 BPM, dizi flute as the main instrument with soft bass support. Gentle continuous rhythm, airy melodic phrases, simple ornamentation, clear bright tone, restrained dynamics, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_07_yellow_leaves_on_moss",
+        "prompt": "Graceful instrumental East Asian plucked-string music, 68 BPM, guzheng as the main instrument with soft sustained accompaniment. Calm repeating figures, slow even pulse, spacious harmonies, serene end-of-autumn atmosphere, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_08_the_last_week_of_autumn",
+        "prompt": "Reflective instrumental Japanese-inspired chamber music, 60 BPM, shamisen as the main instrument with subtle low strings. Sparse steady rhythm, clear plucked melodic phrases, restrained tension and release, quiet dignified closing atmosphere, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      }
+    ],
+    "requested_audio_format": "flac"
+  },
+  "kaggle_manifest": [
+    {
+      "output_name": "track_01_batch_story",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_36a12ce2505b4f46/track_01_batch_story/411440b9-1f7a-6ab2-1bb1-86ebd7fb7686.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_02_golden_ginkgo_ground",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_36a12ce2505b4f46/track_02_golden_ginkgo_ground/600d0df2-c283-36b7-176f-1ebdca783f35.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_03_stone_lantern_in_mist",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_36a12ce2505b4f46/track_03_stone_lantern_in_mist/71b9c295-4a6d-9194-dadb-d6005a330ce3.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_04_pond_beneath_falling_leaves",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_36a12ce2505b4f46/track_04_pond_beneath_falling_leaves/93ab58f3-8ed1-5a6f-39ad-388285b10791.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_05_the_bridge_at_dusk",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_36a12ce2505b4f46/track_05_the_bridge_at_dusk/2bfdff88-4bdd-1165-2aa1-561975a2aca8.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_06_wind_through_bamboo_fence",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_36a12ce2505b4f46/track_06_wind_through_bamboo_fence/80b58fd7-7232-2926-a10a-9b75442cf150.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_07_yellow_leaves_on_moss",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_36a12ce2505b4f46/track_07_yellow_leaves_on_moss/dcd88d06-a33c-c327-8240-7017e917d4c3.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_08_the_last_week_of_autumn",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_36a12ce2505b4f46/track_08_the_last_week_of_autumn/b9cc8ca6-c4af-90dd-af77-0763f3af447d.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    }
+  ],
+  "outputs": [
+    {
+      "composition": "track_01_batch_story",
+      "variation": 1,
+      "filename": "track_01_batch_story_01.flac",
+      "relative_path": "track_01_batch_story/track_01_batch_story_01.flac",
+      "size_bytes": 8698969,
+      "sha256": "e5d7a88739b0ad47dc134e683b114d9545891c0df1dbb41e1882cadc185be685",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_golden_ginkgo_ground",
+      "variation": 1,
+      "filename": "track_02_golden_ginkgo_ground_01.flac",
+      "relative_path": "track_02_golden_ginkgo_ground/track_02_golden_ginkgo_ground_01.flac",
+      "size_bytes": 8677203,
+      "sha256": "1cca39efcc247852e63e2a873efc0d4d7696f21187530d53ae56558f39fd0193",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_stone_lantern_in_mist",
+      "variation": 1,
+      "filename": "track_03_stone_lantern_in_mist_01.flac",
+      "relative_path": "track_03_stone_lantern_in_mist/track_03_stone_lantern_in_mist_01.flac",
+      "size_bytes": 8887569,
+      "sha256": "5e32ff37aef5039a84f675cabfb7a30f5f70735eb5e0a9fc6dd7c9ea5c87f748",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_pond_beneath_falling_leaves",
+      "variation": 1,
+      "filename": "track_04_pond_beneath_falling_leaves_01.flac",
+      "relative_path": "track_04_pond_beneath_falling_leaves/track_04_pond_beneath_falling_leaves_01.flac",
+      "size_bytes": 8524765,
+      "sha256": "f37a5a85c83d47817f9471dea0468fbca507e666717f21d442a35ab1c2376dbd",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_bridge_at_dusk",
+      "variation": 1,
+      "filename": "track_05_the_bridge_at_dusk_01.flac",
+      "relative_path": "track_05_the_bridge_at_dusk/track_05_the_bridge_at_dusk_01.flac",
+      "size_bytes": 8523538,
+      "sha256": "e394724ded6d665437918a72983e3fb5e13e42fae477559c955f05899258815e",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_wind_through_bamboo_fence",
+      "variation": 1,
+      "filename": "track_06_wind_through_bamboo_fence_01.flac",
+      "relative_path": "track_06_wind_through_bamboo_fence/track_06_wind_through_bamboo_fence_01.flac",
+      "size_bytes": 8786142,
+      "sha256": "b2686714c58cf003eaf3290db673a55306a240804c9b9ff62756796a5503513b",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_yellow_leaves_on_moss",
+      "variation": 1,
+      "filename": "track_07_yellow_leaves_on_moss_01.flac",
+      "relative_path": "track_07_yellow_leaves_on_moss/track_07_yellow_leaves_on_moss_01.flac",
+      "size_bytes": 8709495,
+      "sha256": "5b3363ef8aa4d9147ed23ef5e53372e2da358c7a284da5652cd67530395968c7",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_the_last_week_of_autumn",
+      "variation": 1,
+      "filename": "track_08_the_last_week_of_autumn_01.flac",
+      "relative_path": "track_08_the_last_week_of_autumn/track_08_the_last_week_of_autumn_01.flac",
+      "size_bytes": 8064513,
+      "sha256": "4d92cc1aa16d653a5542c9a048a1e24238d19f43ed7faa58c5948f8e42dfccfd",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    }
+  ],
+  "completed_compositions": 0,
+  "partial_compositions": 8,
+  "failed_compositions": 0,
+  "requested_variations": 24,
+  "generated_variations": 8,
+  "missing_variations": 16,
+  "archive_completed_at_utc": "2026-11-10T16:24:03.647558+00:00"
+}

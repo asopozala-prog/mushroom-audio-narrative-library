@@ -1,0 +1,57 @@
+{
+  "route": "turbo",
+  "batch_name": "studio_batch_bd07f413b59749d3",
+  "batch_theme": "last_week_of_autumn_ginkgo_garden",
+  "generation_started_at": 1794320515.7676759,
+  "archive_label": "20261110_152155_last_week_of_autumn_ginkgo_garden",
+  "prompts": [
+    {
+      "output_name": "track_01_batch_story",
+      "prompt": "In the last week of autumn, the Japanese garden becomes quiet and almost weightless beneath the falling ginkgo leaves. Their yellow color is not scattered like many European autumn trees, but gathered into one unified golden presence, covering the ground like a soft memory. The pond, the stones, the moss, and the curved branches all seem to hold their breath as the season prepares to end. This batch explores that late-autumn atmosphere through different Asian-oriented instruments, so we can listen to which timbres the model handles most convincingly. Each piece stays simple and focused, allowing one main instrument to carry the feeling of the garden.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_02_golden_ginkgo_ground",
+      "prompt": "Gentle instrumental Japanese-inspired chamber music, 62 BPM, shakuhachi as the main instrument with soft sustained strings. Slow steady pulse, spacious breathing phrases, simple pentatonic melody, quiet reflective atmosphere, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_03_stone_lantern_in_mist",
+      "prompt": "Quiet instrumental East Asian chamber music, 58 BPM, xiao flute as the main instrument with warm low drone accompaniment. Very slow flowing rhythm, long sustained notes, restrained dynamics, meditative autumn mood, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_04_pond_beneath_falling_leaves",
+      "prompt": "Delicate instrumental Japanese-inspired music, 66 BPM, koto as the main instrument with light cello support. Gentle repeating plucked motifs, steady relaxed pulse, clear spacious texture, soft golden atmosphere, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_05_the_bridge_at_dusk",
+      "prompt": "Tender instrumental East Asian chamber music, 64 BPM, erhu as the main instrument with subtle piano accompaniment. Lyrical descending melody, measured pulse, warm minor-to-major harmonies, intimate melancholic feeling, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_06_wind_through_bamboo_fence",
+      "prompt": "Light instrumental traditional-inspired music, 72 BPM, dizi flute as the main instrument with soft bass support. Gentle continuous rhythm, airy melodic phrases, simple ornamentation, clear bright tone, restrained dynamics, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_07_yellow_leaves_on_moss",
+      "prompt": "Graceful instrumental East Asian plucked-string music, 68 BPM, guzheng as the main instrument with soft sustained accompaniment. Calm repeating figures, slow even pulse, spacious harmonies, serene end-of-autumn atmosphere, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_08_the_last_week_of_autumn",
+      "prompt": "Reflective instrumental Japanese-inspired chamber music, 60 BPM, shamisen as the main instrument with subtle low strings. Sparse steady rhythm, clear plucked melodic phrases, restrained tension and release, quiet dignified closing atmosphere, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    }
+  ]
+}
