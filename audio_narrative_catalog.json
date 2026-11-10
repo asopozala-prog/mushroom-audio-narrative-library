@@ -8046,6 +8046,589 @@
           ]
         }
       ]
+    },
+    {
+      "id": "last_week_of_autumn_ginkgo_garden",
+      "title": "Last Week Of Autumn Ginkgo Garden",
+      "description": "In the last week of autumn, the Japanese garden becomes quiet and almost weightless beneath the falling ginkgo leaves. Their yellow color is not scattered like many European autumn trees, but gathered into one unified golden presence, covering the ground like a soft memory. The pond, the stones, the moss, and the curved branches all seem to hold their breath as the season prepares to end. This batch explores that late-autumn atmosphere through different Asian-oriented instruments, so we can listen to which timbres the model handles most convincingly. Each piece stays simple and focused, allowing one main instrument to carry the feeling of the garden.",
+      "scenes": [
+        {
+          "id": "last_week_of_autumn_ginkgo_garden/track_01_batch_story/b7ae5266a58205cc",
+          "title": "Track 01 Batch Story",
+          "order": 1,
+          "prompt": "In the last week of autumn, the Japanese garden becomes quiet and almost weightless beneath the falling ginkgo leaves. Their yellow color is not scattered like many European autumn trees, but gathered into one unified golden presence, covering the ground like a soft memory. The pond, the stones, the moss, and the curved branches all seem to hold their breath as the season prepares to end. This batch explores that late-autumn atmosphere through different Asian-oriented instruments, so we can listen to which timbres the model handles most convincingly. Each piece stays simple and focused, allowing one main instrument to carry the feeling of the garden.",
+          "recordings": [
+            {
+              "id": "studio_batch_bd07f413b59749d3/track_01_batch_story/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794320515.7676759,
+              "audio": {
+                "format": "flac",
+                "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_01_batch_story/track_01_batch_story_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_01_batch_story/track_01_batch_story_01.flac"
+                }
+              ],
+              "filename": "track_01_batch_story_01"
+            },
+            {
+              "id": "studio_batch_bd07f413b59749d3/track_01_batch_story/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794320515.7676759,
+              "audio": {
+                "format": "flac",
+                "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_01_batch_story/track_01_batch_story_02.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_01_batch_story/track_01_batch_story_02.flac"
+                }
+              ],
+              "filename": "track_01_batch_story_02"
+            },
+            {
+              "id": "studio_batch_bd07f413b59749d3/track_01_batch_story/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794320515.7676759,
+              "audio": {
+                "format": "flac",
+                "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_01_batch_story/track_01_batch_story_03.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_01_batch_story/track_01_batch_story_03.flac"
+                }
+              ],
+              "filename": "track_01_batch_story_03"
+            },
+            {
+              "id": "studio_batch_36a12ce2505b4f46/track_01_batch_story/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794326998.111903,
+              "audio": {
+                "format": "flac",
+                "url": "20261110_170958_last_week_of_autumn_ginkgo_garden/track_01_batch_story/track_01_batch_story_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "20261110_170958_last_week_of_autumn_ginkgo_garden/track_01_batch_story/track_01_batch_story_01.flac"
+                }
+              ],
+              "filename": "track_01_batch_story_01"
+            }
+          ]
+        },
+        {
+          "id": "last_week_of_autumn_ginkgo_garden/track_02_golden_ginkgo_ground/d45355fbb05170c1",
+          "title": "Track 02 Golden Ginkgo Ground",
+          "order": 2,
+          "prompt": "Gentle instrumental Japanese-inspired chamber music, 62 BPM, shakuhachi as the main instrument with soft sustained strings. Slow steady pulse, spacious breathing phrases, simple pentatonic melody, quiet reflective atmosphere, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_bd07f413b59749d3/track_02_golden_ginkgo_ground/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794320515.7676759,
+              "audio": {
+                "format": "flac",
+                "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_02_golden_ginkgo_ground/track_02_golden_ginkgo_ground_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_02_golden_ginkgo_ground/track_02_golden_ginkgo_ground_01.flac"
+                }
+              ],
+              "filename": "track_02_golden_ginkgo_ground_01"
+            },
+            {
+              "id": "studio_batch_bd07f413b59749d3/track_02_golden_ginkgo_ground/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794320515.7676759,
+              "audio": {
+                "format": "flac",
+                "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_02_golden_ginkgo_ground/track_02_golden_ginkgo_ground_02.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_02_golden_ginkgo_ground/track_02_golden_ginkgo_ground_02.flac"
+                }
+              ],
+              "filename": "track_02_golden_ginkgo_ground_02"
+            },
+            {
+              "id": "studio_batch_bd07f413b59749d3/track_02_golden_ginkgo_ground/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794320515.7676759,
+              "audio": {
+                "format": "flac",
+                "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_02_golden_ginkgo_ground/track_02_golden_ginkgo_ground_03.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_02_golden_ginkgo_ground/track_02_golden_ginkgo_ground_03.flac"
+                }
+              ],
+              "filename": "track_02_golden_ginkgo_ground_03"
+            },
+            {
+              "id": "studio_batch_36a12ce2505b4f46/track_02_golden_ginkgo_ground/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794326998.111903,
+              "audio": {
+                "format": "flac",
+                "url": "20261110_170958_last_week_of_autumn_ginkgo_garden/track_02_golden_ginkgo_ground/track_02_golden_ginkgo_ground_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "20261110_170958_last_week_of_autumn_ginkgo_garden/track_02_golden_ginkgo_ground/track_02_golden_ginkgo_ground_01.flac"
+                }
+              ],
+              "filename": "track_02_golden_ginkgo_ground_01"
+            }
+          ]
+        },
+        {
+          "id": "last_week_of_autumn_ginkgo_garden/track_03_stone_lantern_in_mist/485af4136af7b0a1",
+          "title": "Track 03 Stone Lantern In Mist",
+          "order": 3,
+          "prompt": "Quiet instrumental East Asian chamber music, 58 BPM, xiao flute as the main instrument with warm low drone accompaniment. Very slow flowing rhythm, long sustained notes, restrained dynamics, meditative autumn mood, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_bd07f413b59749d3/track_03_stone_lantern_in_mist/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794320515.7676759,
+              "audio": {
+                "format": "flac",
+                "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_03_stone_lantern_in_mist/track_03_stone_lantern_in_mist_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_03_stone_lantern_in_mist/track_03_stone_lantern_in_mist_01.flac"
+                }
+              ],
+              "filename": "track_03_stone_lantern_in_mist_01"
+            },
+            {
+              "id": "studio_batch_bd07f413b59749d3/track_03_stone_lantern_in_mist/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794320515.7676759,
+              "audio": {
+                "format": "flac",
+                "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_03_stone_lantern_in_mist/track_03_stone_lantern_in_mist_02.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_03_stone_lantern_in_mist/track_03_stone_lantern_in_mist_02.flac"
+                }
+              ],
+              "filename": "track_03_stone_lantern_in_mist_02"
+            },
+            {
+              "id": "studio_batch_bd07f413b59749d3/track_03_stone_lantern_in_mist/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794320515.7676759,
+              "audio": {
+                "format": "flac",
+                "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_03_stone_lantern_in_mist/track_03_stone_lantern_in_mist_03.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_03_stone_lantern_in_mist/track_03_stone_lantern_in_mist_03.flac"
+                }
+              ],
+              "filename": "track_03_stone_lantern_in_mist_03"
+            },
+            {
+              "id": "studio_batch_36a12ce2505b4f46/track_03_stone_lantern_in_mist/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794326998.111903,
+              "audio": {
+                "format": "flac",
+                "url": "20261110_170958_last_week_of_autumn_ginkgo_garden/track_03_stone_lantern_in_mist/track_03_stone_lantern_in_mist_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "20261110_170958_last_week_of_autumn_ginkgo_garden/track_03_stone_lantern_in_mist/track_03_stone_lantern_in_mist_01.flac"
+                }
+              ],
+              "filename": "track_03_stone_lantern_in_mist_01"
+            }
+          ]
+        },
+        {
+          "id": "last_week_of_autumn_ginkgo_garden/track_04_pond_beneath_falling_leaves/ee5d6432aac2c5dc",
+          "title": "Track 04 Pond Beneath Falling Leaves",
+          "order": 4,
+          "prompt": "Delicate instrumental Japanese-inspired music, 66 BPM, koto as the main instrument with light cello support. Gentle repeating plucked motifs, steady relaxed pulse, clear spacious texture, soft golden atmosphere, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_bd07f413b59749d3/track_04_pond_beneath_falling_leaves/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794320515.7676759,
+              "audio": {
+                "format": "flac",
+                "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_04_pond_beneath_falling_leaves/track_04_pond_beneath_falling_leaves_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_04_pond_beneath_falling_leaves/track_04_pond_beneath_falling_leaves_01.flac"
+                }
+              ],
+              "filename": "track_04_pond_beneath_falling_leaves_01"
+            },
+            {
+              "id": "studio_batch_bd07f413b59749d3/track_04_pond_beneath_falling_leaves/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794320515.7676759,
+              "audio": {
+                "format": "flac",
+                "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_04_pond_beneath_falling_leaves/track_04_pond_beneath_falling_leaves_02.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_04_pond_beneath_falling_leaves/track_04_pond_beneath_falling_leaves_02.flac"
+                }
+              ],
+              "filename": "track_04_pond_beneath_falling_leaves_02"
+            },
+            {
+              "id": "studio_batch_bd07f413b59749d3/track_04_pond_beneath_falling_leaves/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794320515.7676759,
+              "audio": {
+                "format": "flac",
+                "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_04_pond_beneath_falling_leaves/track_04_pond_beneath_falling_leaves_03.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_04_pond_beneath_falling_leaves/track_04_pond_beneath_falling_leaves_03.flac"
+                }
+              ],
+              "filename": "track_04_pond_beneath_falling_leaves_03"
+            },
+            {
+              "id": "studio_batch_36a12ce2505b4f46/track_04_pond_beneath_falling_leaves/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794326998.111903,
+              "audio": {
+                "format": "flac",
+                "url": "20261110_170958_last_week_of_autumn_ginkgo_garden/track_04_pond_beneath_falling_leaves/track_04_pond_beneath_falling_leaves_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "20261110_170958_last_week_of_autumn_ginkgo_garden/track_04_pond_beneath_falling_leaves/track_04_pond_beneath_falling_leaves_01.flac"
+                }
+              ],
+              "filename": "track_04_pond_beneath_falling_leaves_01"
+            }
+          ]
+        },
+        {
+          "id": "last_week_of_autumn_ginkgo_garden/track_05_the_bridge_at_dusk/c1594f8f2242d668",
+          "title": "Track 05 The Bridge At Dusk",
+          "order": 5,
+          "prompt": "Tender instrumental East Asian chamber music, 64 BPM, erhu as the main instrument with subtle piano accompaniment. Lyrical descending melody, measured pulse, warm minor-to-major harmonies, intimate melancholic feeling, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_bd07f413b59749d3/track_05_the_bridge_at_dusk/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794320515.7676759,
+              "audio": {
+                "format": "flac",
+                "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_05_the_bridge_at_dusk/track_05_the_bridge_at_dusk_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_05_the_bridge_at_dusk/track_05_the_bridge_at_dusk_01.flac"
+                }
+              ],
+              "filename": "track_05_the_bridge_at_dusk_01"
+            },
+            {
+              "id": "studio_batch_bd07f413b59749d3/track_05_the_bridge_at_dusk/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794320515.7676759,
+              "audio": {
+                "format": "flac",
+                "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_05_the_bridge_at_dusk/track_05_the_bridge_at_dusk_02.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_05_the_bridge_at_dusk/track_05_the_bridge_at_dusk_02.flac"
+                }
+              ],
+              "filename": "track_05_the_bridge_at_dusk_02"
+            },
+            {
+              "id": "studio_batch_bd07f413b59749d3/track_05_the_bridge_at_dusk/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794320515.7676759,
+              "audio": {
+                "format": "flac",
+                "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_05_the_bridge_at_dusk/track_05_the_bridge_at_dusk_03.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_05_the_bridge_at_dusk/track_05_the_bridge_at_dusk_03.flac"
+                }
+              ],
+              "filename": "track_05_the_bridge_at_dusk_03"
+            },
+            {
+              "id": "studio_batch_36a12ce2505b4f46/track_05_the_bridge_at_dusk/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794326998.111903,
+              "audio": {
+                "format": "flac",
+                "url": "20261110_170958_last_week_of_autumn_ginkgo_garden/track_05_the_bridge_at_dusk/track_05_the_bridge_at_dusk_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "20261110_170958_last_week_of_autumn_ginkgo_garden/track_05_the_bridge_at_dusk/track_05_the_bridge_at_dusk_01.flac"
+                }
+              ],
+              "filename": "track_05_the_bridge_at_dusk_01"
+            }
+          ]
+        },
+        {
+          "id": "last_week_of_autumn_ginkgo_garden/track_06_wind_through_bamboo_fence/6e78bebbdfde6999",
+          "title": "Track 06 Wind Through Bamboo Fence",
+          "order": 6,
+          "prompt": "Light instrumental traditional-inspired music, 72 BPM, dizi flute as the main instrument with soft bass support. Gentle continuous rhythm, airy melodic phrases, simple ornamentation, clear bright tone, restrained dynamics, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_bd07f413b59749d3/track_06_wind_through_bamboo_fence/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794320515.7676759,
+              "audio": {
+                "format": "flac",
+                "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_06_wind_through_bamboo_fence/track_06_wind_through_bamboo_fence_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_06_wind_through_bamboo_fence/track_06_wind_through_bamboo_fence_01.flac"
+                }
+              ],
+              "filename": "track_06_wind_through_bamboo_fence_01"
+            },
+            {
+              "id": "studio_batch_bd07f413b59749d3/track_06_wind_through_bamboo_fence/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794320515.7676759,
+              "audio": {
+                "format": "flac",
+                "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_06_wind_through_bamboo_fence/track_06_wind_through_bamboo_fence_02.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_06_wind_through_bamboo_fence/track_06_wind_through_bamboo_fence_02.flac"
+                }
+              ],
+              "filename": "track_06_wind_through_bamboo_fence_02"
+            },
+            {
+              "id": "studio_batch_bd07f413b59749d3/track_06_wind_through_bamboo_fence/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794320515.7676759,
+              "audio": {
+                "format": "flac",
+                "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_06_wind_through_bamboo_fence/track_06_wind_through_bamboo_fence_03.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_06_wind_through_bamboo_fence/track_06_wind_through_bamboo_fence_03.flac"
+                }
+              ],
+              "filename": "track_06_wind_through_bamboo_fence_03"
+            },
+            {
+              "id": "studio_batch_36a12ce2505b4f46/track_06_wind_through_bamboo_fence/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794326998.111903,
+              "audio": {
+                "format": "flac",
+                "url": "20261110_170958_last_week_of_autumn_ginkgo_garden/track_06_wind_through_bamboo_fence/track_06_wind_through_bamboo_fence_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "20261110_170958_last_week_of_autumn_ginkgo_garden/track_06_wind_through_bamboo_fence/track_06_wind_through_bamboo_fence_01.flac"
+                }
+              ],
+              "filename": "track_06_wind_through_bamboo_fence_01"
+            }
+          ]
+        },
+        {
+          "id": "last_week_of_autumn_ginkgo_garden/track_07_yellow_leaves_on_moss/40dcc63f04866ce8",
+          "title": "Track 07 Yellow Leaves On Moss",
+          "order": 7,
+          "prompt": "Graceful instrumental East Asian plucked-string music, 68 BPM, guzheng as the main instrument with soft sustained accompaniment. Calm repeating figures, slow even pulse, spacious harmonies, serene end-of-autumn atmosphere, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_bd07f413b59749d3/track_07_yellow_leaves_on_moss/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794320515.7676759,
+              "audio": {
+                "format": "flac",
+                "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_07_yellow_leaves_on_moss/track_07_yellow_leaves_on_moss_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_07_yellow_leaves_on_moss/track_07_yellow_leaves_on_moss_01.flac"
+                }
+              ],
+              "filename": "track_07_yellow_leaves_on_moss_01"
+            },
+            {
+              "id": "studio_batch_bd07f413b59749d3/track_07_yellow_leaves_on_moss/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794320515.7676759,
+              "audio": {
+                "format": "flac",
+                "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_07_yellow_leaves_on_moss/track_07_yellow_leaves_on_moss_02.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_07_yellow_leaves_on_moss/track_07_yellow_leaves_on_moss_02.flac"
+                }
+              ],
+              "filename": "track_07_yellow_leaves_on_moss_02"
+            },
+            {
+              "id": "studio_batch_bd07f413b59749d3/track_07_yellow_leaves_on_moss/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794320515.7676759,
+              "audio": {
+                "format": "flac",
+                "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_07_yellow_leaves_on_moss/track_07_yellow_leaves_on_moss_03.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_07_yellow_leaves_on_moss/track_07_yellow_leaves_on_moss_03.flac"
+                }
+              ],
+              "filename": "track_07_yellow_leaves_on_moss_03"
+            },
+            {
+              "id": "studio_batch_36a12ce2505b4f46/track_07_yellow_leaves_on_moss/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794326998.111903,
+              "audio": {
+                "format": "flac",
+                "url": "20261110_170958_last_week_of_autumn_ginkgo_garden/track_07_yellow_leaves_on_moss/track_07_yellow_leaves_on_moss_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "20261110_170958_last_week_of_autumn_ginkgo_garden/track_07_yellow_leaves_on_moss/track_07_yellow_leaves_on_moss_01.flac"
+                }
+              ],
+              "filename": "track_07_yellow_leaves_on_moss_01"
+            }
+          ]
+        },
+        {
+          "id": "last_week_of_autumn_ginkgo_garden/track_08_the_last_week_of_autumn/f002e7ad71398ec2",
+          "title": "Track 08 The Last Week Of Autumn",
+          "order": 8,
+          "prompt": "Reflective instrumental Japanese-inspired chamber music, 60 BPM, shamisen as the main instrument with subtle low strings. Sparse steady rhythm, clear plucked melodic phrases, restrained tension and release, quiet dignified closing atmosphere, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_bd07f413b59749d3/track_08_the_last_week_of_autumn/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794320515.7676759,
+              "audio": {
+                "format": "flac",
+                "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_08_the_last_week_of_autumn/track_08_the_last_week_of_autumn_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_08_the_last_week_of_autumn/track_08_the_last_week_of_autumn_01.flac"
+                }
+              ],
+              "filename": "track_08_the_last_week_of_autumn_01"
+            },
+            {
+              "id": "studio_batch_bd07f413b59749d3/track_08_the_last_week_of_autumn/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794320515.7676759,
+              "audio": {
+                "format": "flac",
+                "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_08_the_last_week_of_autumn/track_08_the_last_week_of_autumn_02.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_08_the_last_week_of_autumn/track_08_the_last_week_of_autumn_02.flac"
+                }
+              ],
+              "filename": "track_08_the_last_week_of_autumn_02"
+            },
+            {
+              "id": "studio_batch_bd07f413b59749d3/track_08_the_last_week_of_autumn/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794320515.7676759,
+              "audio": {
+                "format": "flac",
+                "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_08_the_last_week_of_autumn/track_08_the_last_week_of_autumn_03.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "20261110_152155_last_week_of_autumn_ginkgo_garden/track_08_the_last_week_of_autumn/track_08_the_last_week_of_autumn_03.flac"
+                }
+              ],
+              "filename": "track_08_the_last_week_of_autumn_03"
+            },
+            {
+              "id": "studio_batch_36a12ce2505b4f46/track_08_the_last_week_of_autumn/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794326998.111903,
+              "audio": {
+                "format": "flac",
+                "url": "20261110_170958_last_week_of_autumn_ginkgo_garden/track_08_the_last_week_of_autumn/track_08_the_last_week_of_autumn_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "20261110_170958_last_week_of_autumn_ginkgo_garden/track_08_the_last_week_of_autumn/track_08_the_last_week_of_autumn_01.flac"
+                }
+              ],
+              "filename": "track_08_the_last_week_of_autumn_01"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
