@@ -1,0 +1,63 @@
+{
+  "route": "turbo",
+  "batch_name": "studio_batch_d5405eacef38414e",
+  "batch_theme": "the_gentleman_and_the_cafe_cat",
+  "generation_started_at": 1794296073.538862,
+  "archive_label": "20261110_083433_the_gentleman_and_the_cafe_cat",
+  "prompts": [
+    {
+      "output_name": "track_01_november_behind_the_windows",
+      "prompt": "Melancholic instrumental cool jazz, 66 BPM, breathy tenor saxophone, warm upright bass and delicate brushed drums. Slow continuous swing, descending minor-key melody, rich seventh harmonies, intimate vintage café acoustics, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_02_the_silver_haired_gentleman",
+      "prompt": "Elegant instrumental chamber jazz, 74 BPM, lyrical tenor saxophone, soft acoustic piano and upright bass. Graceful measured melody, relaxed swing, sophisticated major seventh harmonies, warm restrained dynamics, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_03_oat_milk_cappuccino_and_cheesecake",
+      "prompt": "Cozy instrumental bossa nova jazz, 82 BPM, warm nylon-string guitar, mellow electric piano, rounded bass and light percussion. Gentle syncopated groove, sweet flowing melody, soft major harmonies, intimate café atmosphere, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_04_the_cat_is_secretly_waiting",
+      "prompt": "Playful instrumental cool jazz, 76 BPM, mellow alto saxophone, upright bass and soft brushed drums. Short questioning melodic phrases, small syncopated pauses, warm major seventh harmonies, steady relaxed swing, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_05_the_first_awkward_cuddle",
+      "prompt": "Whimsical instrumental chamber jazz, 84 BPM, expressive clarinet, pizzicato double bass and light piano. Hesitant ascending motifs, playful rhythmic accents, gentle call-and-response phrases, warm harmonies, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_06_the_cat_teaches_him",
+      "prompt": "Tender instrumental soul jazz, 70 BPM, warm tenor saxophone, soft electric piano, rounded bass and delicate brushed percussion. Patient repeating melody, gentle musical dialogue, relaxed continuous groove, rich major seventh harmonies, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_07_not_like_that_sir",
+      "prompt": "Playful instrumental swing jazz, 94 BPM, bright alto saxophone, walking upright bass and crisp brushed drums. Cheeky staccato motifs, quick melodic turns, light blues harmonies, lively but controlled rhythmic pulse, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_08_the_cat_decides_to_stay",
+      "prompt": "Intimate instrumental romantic chamber music, 64 BPM, expressive solo cello, warm piano and soft sustained violins. Flowing legato melody, gentle minor-to-major harmonic movement, steady measured pulse, delicate emotional warmth, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_09_a_little_warmth_before_winter",
+      "prompt": "Tender instrumental downtempo jazz, 65 BPM, mellow tenor saxophone, intimate electric piano, deep warm bass and soft brushed percussion. Slow hypnotic groove, affectionate lyrical melody, rich major seventh harmonies, gradual peaceful resolution, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "output_name": "track_01_november_behind_the_windows",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_dd47c51c11804011/track_01_november_behind_the_windows/81910720-8e66-a789-ac6a-099186a23c80.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_02_the_silver_haired_gentleman",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_dd47c51c11804011/track_02_the_silver_haired_gentleman/998bfc97-22be-d568-a86f-2f9394ddda6e.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_03_oat_milk_cappuccino_and_cheesecake",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_dd47c51c11804011/track_03_oat_milk_cappuccino_and_cheesecake/3fcff58f-a39e-b5a4-6081-63583b5610f4.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_04_the_cat_is_secretly_waiting",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_dd47c51c11804011/track_04_the_cat_is_secretly_waiting/3cec586b-18cb-fb97-a091-be717038fe7c.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_05_the_first_awkward_cuddle",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_dd47c51c11804011/track_05_the_first_awkward_cuddle/be7790c1-0056-ef6d-e074-16087efeab18.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_06_the_cat_teaches_him",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_dd47c51c11804011/track_06_the_cat_teaches_him/54797e31-778f-2794-5de3-5dc5877d6fc8.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_07_not_like_that_sir",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_dd47c51c11804011/track_07_not_like_that_sir/52177a5c-773c-e714-1a2a-d0f02f9b1395.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_08_the_cat_decides_to_stay",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_dd47c51c11804011/track_08_the_cat_decides_to_stay/98c76735-7710-e469-aa7c-2bb4a03c19df.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_09_a_little_warmth_before_winter",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_dd47c51c11804011/track_09_a_little_warmth_before_winter/c75f64a0-5480-daaf-fe0e-a58b36372d58.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  }
+]

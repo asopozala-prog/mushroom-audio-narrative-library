@@ -1,0 +1,488 @@
+{
+  "schema_version": 1,
+  "batch_id": "studio_batch_d5405eacef38414e",
+  "archive_label": "20261110_083433_the_gentleman_and_the_cafe_cat",
+  "batch_theme": "the_gentleman_and_the_cafe_cat",
+  "generation_started_at": 1794296073.538862,
+  "model": {
+    "family": "ACE-Step",
+    "checkpoint_name": "acestep-v15-turbo",
+    "checkpoint_revision": null,
+    "route": "turbo"
+  },
+  "generation": {
+    "prompts": [
+      {
+        "output_name": "track_01_november_behind_the_windows",
+        "prompt": "Melancholic instrumental cool jazz, 66 BPM, breathy tenor saxophone, warm upright bass and delicate brushed drums. Slow continuous swing, descending minor-key melody, rich seventh harmonies, intimate vintage café acoustics, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_02_the_silver_haired_gentleman",
+        "prompt": "Elegant instrumental chamber jazz, 74 BPM, lyrical tenor saxophone, soft acoustic piano and upright bass. Graceful measured melody, relaxed swing, sophisticated major seventh harmonies, warm restrained dynamics, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_03_oat_milk_cappuccino_and_cheesecake",
+        "prompt": "Cozy instrumental bossa nova jazz, 82 BPM, warm nylon-string guitar, mellow electric piano, rounded bass and light percussion. Gentle syncopated groove, sweet flowing melody, soft major harmonies, intimate café atmosphere, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_04_the_cat_is_secretly_waiting",
+        "prompt": "Playful instrumental cool jazz, 76 BPM, mellow alto saxophone, upright bass and soft brushed drums. Short questioning melodic phrases, small syncopated pauses, warm major seventh harmonies, steady relaxed swing, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_05_the_first_awkward_cuddle",
+        "prompt": "Whimsical instrumental chamber jazz, 84 BPM, expressive clarinet, pizzicato double bass and light piano. Hesitant ascending motifs, playful rhythmic accents, gentle call-and-response phrases, warm harmonies, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_06_the_cat_teaches_him",
+        "prompt": "Tender instrumental soul jazz, 70 BPM, warm tenor saxophone, soft electric piano, rounded bass and delicate brushed percussion. Patient repeating melody, gentle musical dialogue, relaxed continuous groove, rich major seventh harmonies, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_07_not_like_that_sir",
+        "prompt": "Playful instrumental swing jazz, 94 BPM, bright alto saxophone, walking upright bass and crisp brushed drums. Cheeky staccato motifs, quick melodic turns, light blues harmonies, lively but controlled rhythmic pulse, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_08_the_cat_decides_to_stay",
+        "prompt": "Intimate instrumental romantic chamber music, 64 BPM, expressive solo cello, warm piano and soft sustained violins. Flowing legato melody, gentle minor-to-major harmonic movement, steady measured pulse, delicate emotional warmth, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_09_a_little_warmth_before_winter",
+        "prompt": "Tender instrumental downtempo jazz, 65 BPM, mellow tenor saxophone, intimate electric piano, deep warm bass and soft brushed percussion. Slow hypnotic groove, affectionate lyrical melody, rich major seventh harmonies, gradual peaceful resolution, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      }
+    ],
+    "requested_audio_format": "flac"
+  },
+  "kaggle_manifest": [
+    {
+      "output_name": "track_01_november_behind_the_windows",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_01_november_behind_the_windows/c8871e6f-164c-1bc4-7a78-f5836e04b840.flac",
+        "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_01_november_behind_the_windows/bec0df43-7933-28ba-9e5b-274953c779f5.flac",
+        "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_01_november_behind_the_windows/71dd1c08-ae56-3d35-2d67-a980a5546afe.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_02_the_silver_haired_gentleman",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_02_the_silver_haired_gentleman/efc47c06-85d6-5186-1dfd-0f9064fa03b6.flac",
+        "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_02_the_silver_haired_gentleman/ee8ac777-761a-43c9-3086-4177ede16102.flac",
+        "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_02_the_silver_haired_gentleman/7fab1560-87fd-2a9f-9039-19bd9ae0a4c8.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_03_oat_milk_cappuccino_and_cheesecake",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_03_oat_milk_cappuccino_and_cheesecake/e8734bf7-95e5-d807-286a-39bb5cc17370.flac",
+        "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_03_oat_milk_cappuccino_and_cheesecake/53f9f410-bbf6-c455-5755-132c01e3eb9f.flac",
+        "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_03_oat_milk_cappuccino_and_cheesecake/9ee7c00a-c60a-a688-6d4f-a22bb558560f.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_04_the_cat_is_secretly_waiting",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_04_the_cat_is_secretly_waiting/0bf9569b-f251-8520-59a3-b384cb1cca4a.flac",
+        "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_04_the_cat_is_secretly_waiting/189f904d-d613-86ee-4b46-f44518fcd3eb.flac",
+        "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_04_the_cat_is_secretly_waiting/d3464f4d-f1cf-f7b5-ad0e-c5d026c0a804.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_05_the_first_awkward_cuddle",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_05_the_first_awkward_cuddle/174bd1ab-c7fb-8a25-081d-5dcc1b39469f.flac",
+        "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_05_the_first_awkward_cuddle/b7382b8a-067f-a7a2-39ca-e6a42f641838.flac",
+        "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_05_the_first_awkward_cuddle/b6710615-84ef-0e2c-f2cb-b13907eaf1c6.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_06_the_cat_teaches_him",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_06_the_cat_teaches_him/fd994aa1-f877-e225-db74-4ba1846fadcf.flac",
+        "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_06_the_cat_teaches_him/bcaa0189-06a5-d5a1-31e2-be81d0ec921e.flac",
+        "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_06_the_cat_teaches_him/5ef3ff57-4509-aad4-a32c-b1de547f3dee.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_07_not_like_that_sir",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_07_not_like_that_sir/9b135251-5468-b5e6-75fe-c3b4352527a7.flac",
+        "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_07_not_like_that_sir/6c7f0d3c-c682-d455-9497-694965c0bf1b.flac",
+        "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_07_not_like_that_sir/70ad5855-7604-f7fe-f97d-5a8cb6f7ed43.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_08_the_cat_decides_to_stay",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_08_the_cat_decides_to_stay/2fc33430-f731-24d5-4017-37744b224f42.flac",
+        "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_08_the_cat_decides_to_stay/66a4fbea-03d6-1281-9519-2793a0a287ce.flac",
+        "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_08_the_cat_decides_to_stay/42d4f162-cc94-d083-6e6b-98bf909f8c66.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_09_a_little_warmth_before_winter",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_09_a_little_warmth_before_winter/2ec3dcff-0817-73f1-792f-0e03b3e42cba.flac",
+        "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_09_a_little_warmth_before_winter/48fa2c55-77a8-b24c-47d4-3cfdc53bc22d.flac",
+        "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_09_a_little_warmth_before_winter/4b7e90de-5092-9ec0-72f1-1ff78e8723a6.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    }
+  ],
+  "outputs": [
+    {
+      "composition": "track_01_november_behind_the_windows",
+      "variation": 1,
+      "filename": "track_01_november_behind_the_windows_01.flac",
+      "relative_path": "track_01_november_behind_the_windows/track_01_november_behind_the_windows_01.flac",
+      "size_bytes": 7551590,
+      "sha256": "66854dc518af366bc0d5849fe31e20766065d9fc3be33ab79981c890965aa875",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_01_november_behind_the_windows",
+      "variation": 2,
+      "filename": "track_01_november_behind_the_windows_02.flac",
+      "relative_path": "track_01_november_behind_the_windows/track_01_november_behind_the_windows_02.flac",
+      "size_bytes": 7010170,
+      "sha256": "3af7b0ec9b8a9abe027a365fcb19c76718235edc914eb75b39758b7f8ebcaf07",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_01_november_behind_the_windows",
+      "variation": 3,
+      "filename": "track_01_november_behind_the_windows_03.flac",
+      "relative_path": "track_01_november_behind_the_windows/track_01_november_behind_the_windows_03.flac",
+      "size_bytes": 7797458,
+      "sha256": "4aef1c8d4268932a8ed87eb9f4f027a33bb1ae5c0ed93831149e708d2e34a876",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_the_silver_haired_gentleman",
+      "variation": 1,
+      "filename": "track_02_the_silver_haired_gentleman_01.flac",
+      "relative_path": "track_02_the_silver_haired_gentleman/track_02_the_silver_haired_gentleman_01.flac",
+      "size_bytes": 7379826,
+      "sha256": "9caef09a8638b985969d0013971ff6aa80cf1b15d07e0c42a9df579c3375efb5",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_the_silver_haired_gentleman",
+      "variation": 2,
+      "filename": "track_02_the_silver_haired_gentleman_02.flac",
+      "relative_path": "track_02_the_silver_haired_gentleman/track_02_the_silver_haired_gentleman_02.flac",
+      "size_bytes": 6605504,
+      "sha256": "92f7678f533dd4660ede49e3b625f5e9342964b49e78281d6320b2f5d29303bd",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_the_silver_haired_gentleman",
+      "variation": 3,
+      "filename": "track_02_the_silver_haired_gentleman_03.flac",
+      "relative_path": "track_02_the_silver_haired_gentleman/track_02_the_silver_haired_gentleman_03.flac",
+      "size_bytes": 6930853,
+      "sha256": "fbc3f5cdc94fd8fc2e3b83f22298bd10af1b72a37db1e216b33c48cfe8892f9d",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_oat_milk_cappuccino_and_cheesecake",
+      "variation": 1,
+      "filename": "track_03_oat_milk_cappuccino_and_cheesecake_01.flac",
+      "relative_path": "track_03_oat_milk_cappuccino_and_cheesecake/track_03_oat_milk_cappuccino_and_cheesecake_01.flac",
+      "size_bytes": 7489722,
+      "sha256": "8efd6b26be1244e43ad60318fb9dc4adc6a14848e1d5f312c817b9ff774a7229",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_oat_milk_cappuccino_and_cheesecake",
+      "variation": 2,
+      "filename": "track_03_oat_milk_cappuccino_and_cheesecake_02.flac",
+      "relative_path": "track_03_oat_milk_cappuccino_and_cheesecake/track_03_oat_milk_cappuccino_and_cheesecake_02.flac",
+      "size_bytes": 7816432,
+      "sha256": "672c1af0765481c07ab81c39c3ab994e12ab20fe42f349d69381b5b4dbdd0091",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_oat_milk_cappuccino_and_cheesecake",
+      "variation": 3,
+      "filename": "track_03_oat_milk_cappuccino_and_cheesecake_03.flac",
+      "relative_path": "track_03_oat_milk_cappuccino_and_cheesecake/track_03_oat_milk_cappuccino_and_cheesecake_03.flac",
+      "size_bytes": 7649695,
+      "sha256": "9c0a17f623c23e67f9835a8959c41163c186e6573b3194a74d3f960d55161901",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_the_cat_is_secretly_waiting",
+      "variation": 1,
+      "filename": "track_04_the_cat_is_secretly_waiting_01.flac",
+      "relative_path": "track_04_the_cat_is_secretly_waiting/track_04_the_cat_is_secretly_waiting_01.flac",
+      "size_bytes": 7678053,
+      "sha256": "e68e4b2e671615c5d12bf211cc4917a048be22c3b0fbbca9e543f6393d2963d1",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_the_cat_is_secretly_waiting",
+      "variation": 2,
+      "filename": "track_04_the_cat_is_secretly_waiting_02.flac",
+      "relative_path": "track_04_the_cat_is_secretly_waiting/track_04_the_cat_is_secretly_waiting_02.flac",
+      "size_bytes": 7760475,
+      "sha256": "755b501edf9e776203c87d5e5572ea6f4261bb89af6e153876fca9dcf7322358",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_the_cat_is_secretly_waiting",
+      "variation": 3,
+      "filename": "track_04_the_cat_is_secretly_waiting_03.flac",
+      "relative_path": "track_04_the_cat_is_secretly_waiting/track_04_the_cat_is_secretly_waiting_03.flac",
+      "size_bytes": 7499622,
+      "sha256": "4a2c40081ac59463d2fb09c411ca0b6f0d48f6cf3af330afce814e9203a33780",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_first_awkward_cuddle",
+      "variation": 1,
+      "filename": "track_05_the_first_awkward_cuddle_01.flac",
+      "relative_path": "track_05_the_first_awkward_cuddle/track_05_the_first_awkward_cuddle_01.flac",
+      "size_bytes": 6927089,
+      "sha256": "17ed656b83a0e5e530f209313518c836ee899aab8d794e6ecd35425117e8635b",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_first_awkward_cuddle",
+      "variation": 2,
+      "filename": "track_05_the_first_awkward_cuddle_02.flac",
+      "relative_path": "track_05_the_first_awkward_cuddle/track_05_the_first_awkward_cuddle_02.flac",
+      "size_bytes": 7466002,
+      "sha256": "007e9d7890994b80f71aeabb0915abacd82109e43a7ecb74e70644d961849a0f",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_first_awkward_cuddle",
+      "variation": 3,
+      "filename": "track_05_the_first_awkward_cuddle_03.flac",
+      "relative_path": "track_05_the_first_awkward_cuddle/track_05_the_first_awkward_cuddle_03.flac",
+      "size_bytes": 7508979,
+      "sha256": "61669237c2fb8f7d0e84cd4613144f9caf4b6d85e6c58973eded07d6d1685ab3",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_the_cat_teaches_him",
+      "variation": 1,
+      "filename": "track_06_the_cat_teaches_him_01.flac",
+      "relative_path": "track_06_the_cat_teaches_him/track_06_the_cat_teaches_him_01.flac",
+      "size_bytes": 7513679,
+      "sha256": "b0b8899477538a238680330dad4307c04e95ebe481731411324790fc46836ee9",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_the_cat_teaches_him",
+      "variation": 2,
+      "filename": "track_06_the_cat_teaches_him_02.flac",
+      "relative_path": "track_06_the_cat_teaches_him/track_06_the_cat_teaches_him_02.flac",
+      "size_bytes": 7271596,
+      "sha256": "9128a6fb5f3a677b705c9804be42be63a91a1962c95780ed62b4b435f3b2f29f",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_the_cat_teaches_him",
+      "variation": 3,
+      "filename": "track_06_the_cat_teaches_him_03.flac",
+      "relative_path": "track_06_the_cat_teaches_him/track_06_the_cat_teaches_him_03.flac",
+      "size_bytes": 7265357,
+      "sha256": "7062255041c08d5fbf8db4e4f2f6912c93e8a890c7fb8d27c48b5f375251070b",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_not_like_that_sir",
+      "variation": 1,
+      "filename": "track_07_not_like_that_sir_01.flac",
+      "relative_path": "track_07_not_like_that_sir/track_07_not_like_that_sir_01.flac",
+      "size_bytes": 7908287,
+      "sha256": "e775a71ff8cb530c50057755fa4668de23fbfcb079e176078f4d82ec172421d9",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_not_like_that_sir",
+      "variation": 2,
+      "filename": "track_07_not_like_that_sir_02.flac",
+      "relative_path": "track_07_not_like_that_sir/track_07_not_like_that_sir_02.flac",
+      "size_bytes": 8385266,
+      "sha256": "0569d5fcec56ff2af1589683ace0bb6dafec207fb59ef737927e7a8506ddddb7",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_not_like_that_sir",
+      "variation": 3,
+      "filename": "track_07_not_like_that_sir_03.flac",
+      "relative_path": "track_07_not_like_that_sir/track_07_not_like_that_sir_03.flac",
+      "size_bytes": 8739503,
+      "sha256": "f6800b85bd4b587deea074ac3c14a2f13e72dbe8c080b235b90f039decceddf4",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_the_cat_decides_to_stay",
+      "variation": 1,
+      "filename": "track_08_the_cat_decides_to_stay_01.flac",
+      "relative_path": "track_08_the_cat_decides_to_stay/track_08_the_cat_decides_to_stay_01.flac",
+      "size_bytes": 7166421,
+      "sha256": "6faaae538e536da3957edf13493cc972a4367afd2594d10dc1c3bc5012fd5939",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_the_cat_decides_to_stay",
+      "variation": 2,
+      "filename": "track_08_the_cat_decides_to_stay_02.flac",
+      "relative_path": "track_08_the_cat_decides_to_stay/track_08_the_cat_decides_to_stay_02.flac",
+      "size_bytes": 7071408,
+      "sha256": "04a99587c7a9c31faa44b71367d8e8998e028335de5e09c937b07f3ad5187b23",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_the_cat_decides_to_stay",
+      "variation": 3,
+      "filename": "track_08_the_cat_decides_to_stay_03.flac",
+      "relative_path": "track_08_the_cat_decides_to_stay/track_08_the_cat_decides_to_stay_03.flac",
+      "size_bytes": 6727001,
+      "sha256": "3cbdc41f802a727b3ddf9fb0067def6134f06521e948e4ea0aaca9a08d91b4bb",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_09_a_little_warmth_before_winter",
+      "variation": 1,
+      "filename": "track_09_a_little_warmth_before_winter_01.flac",
+      "relative_path": "track_09_a_little_warmth_before_winter/track_09_a_little_warmth_before_winter_01.flac",
+      "size_bytes": 7163148,
+      "sha256": "f39dbd584796079839d1ed3214cb9decf44b09a7ab999eb592a864256915ea85",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_09_a_little_warmth_before_winter",
+      "variation": 2,
+      "filename": "track_09_a_little_warmth_before_winter_02.flac",
+      "relative_path": "track_09_a_little_warmth_before_winter/track_09_a_little_warmth_before_winter_02.flac",
+      "size_bytes": 6535593,
+      "sha256": "efdc9be5e1cf2cc7cc14f343f6ffe8a9d5c64d2ccc891b2ffe5d87e14256c077",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_09_a_little_warmth_before_winter",
+      "variation": 3,
+      "filename": "track_09_a_little_warmth_before_winter_03.flac",
+      "relative_path": "track_09_a_little_warmth_before_winter/track_09_a_little_warmth_before_winter_03.flac",
+      "size_bytes": 6634499,
+      "sha256": "ee30dd4346a83e372e45471dffd241315e96a14eefacd66abb7589e700daf2a1",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    }
+  ],
+  "completed_compositions": 9,
+  "partial_compositions": 0,
+  "failed_compositions": 0,
+  "requested_variations": 27,
+  "generated_variations": 27,
+  "missing_variations": 0,
+  "archive_completed_at_utc": "2026-11-10T07:45:38.844743+00:00"
+}

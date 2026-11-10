@@ -1,0 +1,110 @@
+[
+  {
+    "output_name": "track_01_november_behind_the_windows",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_01_november_behind_the_windows/c8871e6f-164c-1bc4-7a78-f5836e04b840.flac",
+      "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_01_november_behind_the_windows/bec0df43-7933-28ba-9e5b-274953c779f5.flac",
+      "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_01_november_behind_the_windows/71dd1c08-ae56-3d35-2d67-a980a5546afe.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_02_the_silver_haired_gentleman",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_02_the_silver_haired_gentleman/efc47c06-85d6-5186-1dfd-0f9064fa03b6.flac",
+      "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_02_the_silver_haired_gentleman/ee8ac777-761a-43c9-3086-4177ede16102.flac",
+      "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_02_the_silver_haired_gentleman/7fab1560-87fd-2a9f-9039-19bd9ae0a4c8.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_03_oat_milk_cappuccino_and_cheesecake",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_03_oat_milk_cappuccino_and_cheesecake/e8734bf7-95e5-d807-286a-39bb5cc17370.flac",
+      "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_03_oat_milk_cappuccino_and_cheesecake/53f9f410-bbf6-c455-5755-132c01e3eb9f.flac",
+      "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_03_oat_milk_cappuccino_and_cheesecake/9ee7c00a-c60a-a688-6d4f-a22bb558560f.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_04_the_cat_is_secretly_waiting",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_04_the_cat_is_secretly_waiting/0bf9569b-f251-8520-59a3-b384cb1cca4a.flac",
+      "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_04_the_cat_is_secretly_waiting/189f904d-d613-86ee-4b46-f44518fcd3eb.flac",
+      "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_04_the_cat_is_secretly_waiting/d3464f4d-f1cf-f7b5-ad0e-c5d026c0a804.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_05_the_first_awkward_cuddle",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_05_the_first_awkward_cuddle/174bd1ab-c7fb-8a25-081d-5dcc1b39469f.flac",
+      "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_05_the_first_awkward_cuddle/b7382b8a-067f-a7a2-39ca-e6a42f641838.flac",
+      "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_05_the_first_awkward_cuddle/b6710615-84ef-0e2c-f2cb-b13907eaf1c6.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_06_the_cat_teaches_him",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_06_the_cat_teaches_him/fd994aa1-f877-e225-db74-4ba1846fadcf.flac",
+      "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_06_the_cat_teaches_him/bcaa0189-06a5-d5a1-31e2-be81d0ec921e.flac",
+      "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_06_the_cat_teaches_him/5ef3ff57-4509-aad4-a32c-b1de547f3dee.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_07_not_like_that_sir",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_07_not_like_that_sir/9b135251-5468-b5e6-75fe-c3b4352527a7.flac",
+      "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_07_not_like_that_sir/6c7f0d3c-c682-d455-9497-694965c0bf1b.flac",
+      "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_07_not_like_that_sir/70ad5855-7604-f7fe-f97d-5a8cb6f7ed43.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_08_the_cat_decides_to_stay",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_08_the_cat_decides_to_stay/2fc33430-f731-24d5-4017-37744b224f42.flac",
+      "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_08_the_cat_decides_to_stay/66a4fbea-03d6-1281-9519-2793a0a287ce.flac",
+      "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_08_the_cat_decides_to_stay/42d4f162-cc94-d083-6e6b-98bf909f8c66.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_09_a_little_warmth_before_winter",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_09_a_little_warmth_before_winter/2ec3dcff-0817-73f1-792f-0e03b3e42cba.flac",
+      "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_09_a_little_warmth_before_winter/48fa2c55-77a8-b24c-47d4-3cfdc53bc22d.flac",
+      "/kaggle/working/music_output/studio_batch_d5405eacef38414e/track_09_a_little_warmth_before_winter/4b7e90de-5092-9ec0-72f1-1ff78e8723a6.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  }
+]
