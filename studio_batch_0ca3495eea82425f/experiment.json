@@ -1,0 +1,539 @@
+{
+  "schema_version": 1,
+  "batch_id": "studio_batch_0ca3495eea82425f",
+  "archive_label": "20261111_063741_the_dark_november_morning_before_departure",
+  "batch_theme": "the_dark_november_morning_before_departure",
+  "generation_started_at": 1794375461.473311,
+  "model": {
+    "family": "ACE-Step",
+    "checkpoint_name": "acestep-v15-turbo",
+    "checkpoint_revision": null,
+    "route": "turbo"
+  },
+  "generation": {
+    "prompts": [
+      {
+        "output_name": "track_01_batch_story",
+        "prompt": "On a very dark November morning, two lovers wake beside each other in bed, their hands still holding together. One has already spent two hours awake, unable to return to sleep because thoughts of work keep troubling the mind; the other has just emerged from an unusually vivid dream about a childhood friend. Outside, the morning remains cold and almost lightless, while the warmth of their shared bed slowly gives way to the ordinary necessities of departure. One prepares tea in the kitchen, listening to the familiar sound of the other taking a shower in the bathroom. They know that life will keep them apart for a long while, and neither can make the morning last. Their tenderness remains in small gestures, familiar sounds, and the quiet knowledge of having been together.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_02_two_hands_in_the_dark",
+        "prompt": "Intimate instrumental cool jazz, 62 BPM, breathy tenor saxophone, warm upright bass and delicate brushed drums. Slow continuous pulse, tender descending melody, rich minor seventh harmonies, restrained dynamics, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_03_two_hours_without_sleep",
+        "prompt": "Melancholic instrumental downtempo jazz, 65 BPM, warm electric piano, deep rounded bass and soft brushed percussion. Steady hypnotic groove, repeating minor-key piano motif, subtle unresolved harmonies, intimate dark atmosphere, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_04_the_childhood_friend_in_a_dream",
+        "prompt": "Dreamlike instrumental chamber music, 60 BPM, lyrical solo violin, warm cello and gentle piano. Flowing legato melody, nostalgic major-minor harmonies, soft measured pulse, delicate dynamics, natural chamber acoustics, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_05_the_warmth_between_two_pillows",
+        "prompt": "Tender instrumental soul jazz, 68 BPM, mellow tenor saxophone, soft electric piano, rounded bass and gentle brushed drums. Relaxed steady groove, affectionate lyrical phrases, rich major seventh harmonies, intimate warm production, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_06_november_has_not_woken",
+        "prompt": "Atmospheric instrumental Japanese-inspired chamber music, 58 BPM, expressive shakuhachi flute and soft sustained cello. Spacious pentatonic melody, gentle measured pulse, restrained dynamics, dark misty morning atmosphere, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_07_the_kettle_and_the_shower",
+        "prompt": "Gentle instrumental bossa nova jazz, 74 BPM, warm nylon-string guitar, mellow electric piano, soft bass and delicate brushed percussion. Quiet syncopated groove, simple repeating melody, intimate domestic warmth, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_08_tea_for_the_departure",
+        "prompt": "Reflective instrumental chamber jazz, 66 BPM, lyrical clarinet, warm acoustic piano and upright bass. Slow relaxed swing, delicate descending phrases, rich minor-to-major harmonies, restrained bittersweet expression, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_09_the_days_we_will_not_share",
+        "prompt": "Melancholic instrumental romantic chamber music, 64 BPM, expressive solo cello, lyrical violins and warm piano. Broad sustained melody, gentle rhythmic movement, rich minor harmonies, gradual emotional crescendo followed by soft resolution, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_10_the_morning_keeps_our_warmth",
+        "prompt": "Tender instrumental downtempo jazz, 65 BPM, mellow tenor saxophone, intimate electric piano, deep warm bass and soft brushed percussion. Slow continuous groove, affectionate returning melody, rich major seventh harmonies, gentle unresolved final cadence, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      }
+    ],
+    "requested_audio_format": "flac"
+  },
+  "kaggle_manifest": [
+    {
+      "output_name": "track_01_batch_story",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_01_batch_story/a99db2c9-ecef-5ea4-4c94-7fc3a86ed310.flac",
+        "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_01_batch_story/d46e4b6f-c82e-eb07-5f92-f39a86f5d765.flac",
+        "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_01_batch_story/af24f661-60dc-2960-a285-24ff1e0d9f98.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_02_two_hands_in_the_dark",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_02_two_hands_in_the_dark/d8c0e3d5-f028-3062-4158-11052dff6fc3.flac",
+        "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_02_two_hands_in_the_dark/5fd16946-07e0-c2bc-ffc9-a548c4ea6232.flac",
+        "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_02_two_hands_in_the_dark/fe59dc5b-e202-a7d6-42bd-e8adbb566a70.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_03_two_hours_without_sleep",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_03_two_hours_without_sleep/08cd6bf4-1cd3-c9c4-9b6a-a61d27f5bd89.flac",
+        "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_03_two_hours_without_sleep/dc649439-7e27-9d53-6f22-cd85ee36ef7b.flac",
+        "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_03_two_hours_without_sleep/cbc3f56d-d927-eb75-400e-85cc230aa222.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_04_the_childhood_friend_in_a_dream",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_04_the_childhood_friend_in_a_dream/6df2ca39-11d6-1d50-ea0f-92bd7b5b312f.flac",
+        "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_04_the_childhood_friend_in_a_dream/fdee827b-f97f-2766-057d-c6eb8922e39c.flac",
+        "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_04_the_childhood_friend_in_a_dream/4ce6a352-87b9-6910-af8c-650fd2e7ea58.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_05_the_warmth_between_two_pillows",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_05_the_warmth_between_two_pillows/36ea9bda-13df-1c64-7068-87f9516cf66a.flac",
+        "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_05_the_warmth_between_two_pillows/67d855d4-1433-1896-c02d-b7543d15f684.flac",
+        "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_05_the_warmth_between_two_pillows/bb63daa7-09aa-261b-92e7-a548cf032dff.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_06_november_has_not_woken",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_06_november_has_not_woken/545c485b-28a0-5421-ce5a-1336bb9ac350.flac",
+        "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_06_november_has_not_woken/d6a310a9-746d-760a-444e-89fa36af6c3e.flac",
+        "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_06_november_has_not_woken/166e465b-e712-1ab1-4086-f98809c3baad.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_07_the_kettle_and_the_shower",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_07_the_kettle_and_the_shower/4acc2fac-33dc-2a1a-81ba-37d86d23507f.flac",
+        "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_07_the_kettle_and_the_shower/3295d413-e295-fba1-edd0-0739ba4edc3e.flac",
+        "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_07_the_kettle_and_the_shower/fd514167-ddac-cf44-96d0-7ec172cd927a.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_08_tea_for_the_departure",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_08_tea_for_the_departure/06bcef19-1dca-e7ef-1c22-8b4b92576e76.flac",
+        "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_08_tea_for_the_departure/16cd7dee-11ab-525f-0cfb-4ef8c2732f08.flac",
+        "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_08_tea_for_the_departure/51dc4777-5bdb-e0fa-dfc6-0ff456315df2.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_09_the_days_we_will_not_share",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_09_the_days_we_will_not_share/5d895b29-c60c-218a-0b02-d8b9eb57150a.flac",
+        "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_09_the_days_we_will_not_share/b847299d-6ae0-4d8c-e35d-ac929b22282b.flac",
+        "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_09_the_days_we_will_not_share/891c218d-9d5e-d911-ac7d-573f730108c1.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_10_the_morning_keeps_our_warmth",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_10_the_morning_keeps_our_warmth/65df5574-3b01-2573-e5e1-28e8757e2cb1.flac",
+        "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_10_the_morning_keeps_our_warmth/fda206fa-eb2d-815c-4a63-552b710b2ec3.flac",
+        "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_10_the_morning_keeps_our_warmth/136ed9dc-1c54-f210-3cc9-c56a7fb4ca19.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    }
+  ],
+  "outputs": [
+    {
+      "composition": "track_01_batch_story",
+      "variation": 1,
+      "filename": "track_01_batch_story_01.flac",
+      "relative_path": "track_01_batch_story/track_01_batch_story_01.flac",
+      "size_bytes": 6942376,
+      "sha256": "647e5f36022f47d29d28745ba43b0b4ac3675a780b2964c4d5f07cf274977ed0",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_01_batch_story",
+      "variation": 2,
+      "filename": "track_01_batch_story_02.flac",
+      "relative_path": "track_01_batch_story/track_01_batch_story_02.flac",
+      "size_bytes": 6852470,
+      "sha256": "9fec18bb4bb53b2ed8a6f0b25ad96bd5522744f89988e61f98dde87f6b9aace2",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_01_batch_story",
+      "variation": 3,
+      "filename": "track_01_batch_story_03.flac",
+      "relative_path": "track_01_batch_story/track_01_batch_story_03.flac",
+      "size_bytes": 7062863,
+      "sha256": "38006c5510a7ed9504e12c201f960025810a180f710f26b3f068a3c157744d39",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_two_hands_in_the_dark",
+      "variation": 1,
+      "filename": "track_02_two_hands_in_the_dark_01.flac",
+      "relative_path": "track_02_two_hands_in_the_dark/track_02_two_hands_in_the_dark_01.flac",
+      "size_bytes": 7164988,
+      "sha256": "8a9511c33c3529dbe2e40eea4f5aefa5745b5babee51be06aed97352d312afcd",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_two_hands_in_the_dark",
+      "variation": 2,
+      "filename": "track_02_two_hands_in_the_dark_02.flac",
+      "relative_path": "track_02_two_hands_in_the_dark/track_02_two_hands_in_the_dark_02.flac",
+      "size_bytes": 6919211,
+      "sha256": "bbda75ead2758b6c80a8fcdcae1e706b369619693b872000732f23f053c4efe8",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_two_hands_in_the_dark",
+      "variation": 3,
+      "filename": "track_02_two_hands_in_the_dark_03.flac",
+      "relative_path": "track_02_two_hands_in_the_dark/track_02_two_hands_in_the_dark_03.flac",
+      "size_bytes": 7010175,
+      "sha256": "06a8e31459df056cb331612d1c5fc91ab26cb0182e7c077dcfffbefc2363aedb",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_two_hours_without_sleep",
+      "variation": 1,
+      "filename": "track_03_two_hours_without_sleep_01.flac",
+      "relative_path": "track_03_two_hours_without_sleep/track_03_two_hours_without_sleep_01.flac",
+      "size_bytes": 7100971,
+      "sha256": "78d3ad86a95a4e7ba21176f5a1626ab6c590df93c06ae1c8c3b20249cde3e989",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_two_hours_without_sleep",
+      "variation": 2,
+      "filename": "track_03_two_hours_without_sleep_02.flac",
+      "relative_path": "track_03_two_hours_without_sleep/track_03_two_hours_without_sleep_02.flac",
+      "size_bytes": 6851230,
+      "sha256": "1f614c6e013909339bf21a05a3cba4d0aee00702e570174323194a69a69f6c40",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_two_hours_without_sleep",
+      "variation": 3,
+      "filename": "track_03_two_hours_without_sleep_03.flac",
+      "relative_path": "track_03_two_hours_without_sleep/track_03_two_hours_without_sleep_03.flac",
+      "size_bytes": 7407780,
+      "sha256": "929f3f52c96ecd1b4623c7ce813c0af7ba6aacf13c998460f08bc7a5b244072a",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_the_childhood_friend_in_a_dream",
+      "variation": 1,
+      "filename": "track_04_the_childhood_friend_in_a_dream_01.flac",
+      "relative_path": "track_04_the_childhood_friend_in_a_dream/track_04_the_childhood_friend_in_a_dream_01.flac",
+      "size_bytes": 6710563,
+      "sha256": "266bd9015b1a1236d4cae43daa09c0d667b264dcd8464002498b5df2c0f717c6",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_the_childhood_friend_in_a_dream",
+      "variation": 2,
+      "filename": "track_04_the_childhood_friend_in_a_dream_02.flac",
+      "relative_path": "track_04_the_childhood_friend_in_a_dream/track_04_the_childhood_friend_in_a_dream_02.flac",
+      "size_bytes": 6561089,
+      "sha256": "14598a8e06ce3adefa01aaed4f69872ce1124601b3e22260c9b76321d7e10458",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_the_childhood_friend_in_a_dream",
+      "variation": 3,
+      "filename": "track_04_the_childhood_friend_in_a_dream_03.flac",
+      "relative_path": "track_04_the_childhood_friend_in_a_dream/track_04_the_childhood_friend_in_a_dream_03.flac",
+      "size_bytes": 6901109,
+      "sha256": "1561d527521df66dbbcde3e8e43404c1abe6cfde9e706d4446370a0b7eae450b",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_warmth_between_two_pillows",
+      "variation": 1,
+      "filename": "track_05_the_warmth_between_two_pillows_01.flac",
+      "relative_path": "track_05_the_warmth_between_two_pillows/track_05_the_warmth_between_two_pillows_01.flac",
+      "size_bytes": 6666374,
+      "sha256": "ad08243512d1e0377f58ce7e21c1dc7e0c58e7a3cb5c5f640c39f42b1170e1c0",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_warmth_between_two_pillows",
+      "variation": 2,
+      "filename": "track_05_the_warmth_between_two_pillows_02.flac",
+      "relative_path": "track_05_the_warmth_between_two_pillows/track_05_the_warmth_between_two_pillows_02.flac",
+      "size_bytes": 7412000,
+      "sha256": "59a2aff5c7593558f8a09cc2ffbc24e7a3d71e11f2a1e9832c2db366dece8f35",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_warmth_between_two_pillows",
+      "variation": 3,
+      "filename": "track_05_the_warmth_between_two_pillows_03.flac",
+      "relative_path": "track_05_the_warmth_between_two_pillows/track_05_the_warmth_between_two_pillows_03.flac",
+      "size_bytes": 7317719,
+      "sha256": "e1d1dd091888549b64b8a73db3142db2beb4be119c8b2913140215936923849a",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_november_has_not_woken",
+      "variation": 1,
+      "filename": "track_06_november_has_not_woken_01.flac",
+      "relative_path": "track_06_november_has_not_woken/track_06_november_has_not_woken_01.flac",
+      "size_bytes": 7174458,
+      "sha256": "50455b9f68eabfce5aefcc3b77685273ed819ae9297dfdb5727170e8cb8a14e8",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_november_has_not_woken",
+      "variation": 2,
+      "filename": "track_06_november_has_not_woken_02.flac",
+      "relative_path": "track_06_november_has_not_woken/track_06_november_has_not_woken_02.flac",
+      "size_bytes": 7021982,
+      "sha256": "c89caf6c130a72791177d2f1cb73853e28865a18372de3dc7f239659e8fc496e",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_november_has_not_woken",
+      "variation": 3,
+      "filename": "track_06_november_has_not_woken_03.flac",
+      "relative_path": "track_06_november_has_not_woken/track_06_november_has_not_woken_03.flac",
+      "size_bytes": 7091041,
+      "sha256": "f5aea6e173a97280a6d971fcf224d029bf2e6e22dd8d1981255ddb70758774d6",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_the_kettle_and_the_shower",
+      "variation": 1,
+      "filename": "track_07_the_kettle_and_the_shower_01.flac",
+      "relative_path": "track_07_the_kettle_and_the_shower/track_07_the_kettle_and_the_shower_01.flac",
+      "size_bytes": 7714136,
+      "sha256": "47eb9e5a99113fe2068523950309f2fc9ccf626e6bb724c8b157e4989467646e",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_the_kettle_and_the_shower",
+      "variation": 2,
+      "filename": "track_07_the_kettle_and_the_shower_02.flac",
+      "relative_path": "track_07_the_kettle_and_the_shower/track_07_the_kettle_and_the_shower_02.flac",
+      "size_bytes": 7345558,
+      "sha256": "d843ea18e888a8dacfe3c984fcf2970beb2723836b1db27a7048ced745e6b4d7",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_the_kettle_and_the_shower",
+      "variation": 3,
+      "filename": "track_07_the_kettle_and_the_shower_03.flac",
+      "relative_path": "track_07_the_kettle_and_the_shower/track_07_the_kettle_and_the_shower_03.flac",
+      "size_bytes": 8103787,
+      "sha256": "d62d0f96f5fa9d7b94d1129871f25633883c8fcb5f8d90217d612d8df84f5aad",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_tea_for_the_departure",
+      "variation": 1,
+      "filename": "track_08_tea_for_the_departure_01.flac",
+      "relative_path": "track_08_tea_for_the_departure/track_08_tea_for_the_departure_01.flac",
+      "size_bytes": 7339815,
+      "sha256": "ab18aa3f095b405334fffaa7b7e9f0a50b35603a35878922032fb8a18f73a95c",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_tea_for_the_departure",
+      "variation": 2,
+      "filename": "track_08_tea_for_the_departure_02.flac",
+      "relative_path": "track_08_tea_for_the_departure/track_08_tea_for_the_departure_02.flac",
+      "size_bytes": 6942712,
+      "sha256": "7de9f0456b44dc275f0c54f67a5091fb9caca955a6106b9650c447fdf379f169",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_tea_for_the_departure",
+      "variation": 3,
+      "filename": "track_08_tea_for_the_departure_03.flac",
+      "relative_path": "track_08_tea_for_the_departure/track_08_tea_for_the_departure_03.flac",
+      "size_bytes": 6244692,
+      "sha256": "8df7eecdab54085cf2ab9f84e5074671a7d93b1aa6e2b5d705c49a7e51a31e35",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_09_the_days_we_will_not_share",
+      "variation": 1,
+      "filename": "track_09_the_days_we_will_not_share_01.flac",
+      "relative_path": "track_09_the_days_we_will_not_share/track_09_the_days_we_will_not_share_01.flac",
+      "size_bytes": 7315298,
+      "sha256": "08884b3ab344f1ff0b8f35d77fe5406790077224fade323f1661e8265e95a6f5",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_09_the_days_we_will_not_share",
+      "variation": 2,
+      "filename": "track_09_the_days_we_will_not_share_02.flac",
+      "relative_path": "track_09_the_days_we_will_not_share/track_09_the_days_we_will_not_share_02.flac",
+      "size_bytes": 6969574,
+      "sha256": "692fdcab49d1fe6ef5e87fe2c736d9b155de6e33b96094cca20df657757361fc",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_09_the_days_we_will_not_share",
+      "variation": 3,
+      "filename": "track_09_the_days_we_will_not_share_03.flac",
+      "relative_path": "track_09_the_days_we_will_not_share/track_09_the_days_we_will_not_share_03.flac",
+      "size_bytes": 7057659,
+      "sha256": "6269fd532fe654ee43a148147b07c739fee345931c9cabd0728ec2c9bda4d309",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_10_the_morning_keeps_our_warmth",
+      "variation": 1,
+      "filename": "track_10_the_morning_keeps_our_warmth_01.flac",
+      "relative_path": "track_10_the_morning_keeps_our_warmth/track_10_the_morning_keeps_our_warmth_01.flac",
+      "size_bytes": 7271159,
+      "sha256": "725b9298f45193918f6b242a5e0a83660a8c7ead79ceac8ccca60bcc94fd9010",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_10_the_morning_keeps_our_warmth",
+      "variation": 2,
+      "filename": "track_10_the_morning_keeps_our_warmth_02.flac",
+      "relative_path": "track_10_the_morning_keeps_our_warmth/track_10_the_morning_keeps_our_warmth_02.flac",
+      "size_bytes": 7203193,
+      "sha256": "d5d55bcabac02423d759686fb7deccdaf656d91aec01e85be9f1bd77922ce12d",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_10_the_morning_keeps_our_warmth",
+      "variation": 3,
+      "filename": "track_10_the_morning_keeps_our_warmth_03.flac",
+      "relative_path": "track_10_the_morning_keeps_our_warmth/track_10_the_morning_keeps_our_warmth_03.flac",
+      "size_bytes": 7296161,
+      "sha256": "2fd0d9481636827551357563ab9b3502172c27bbb0547a0459cbf9c7366ead10",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    }
+  ],
+  "completed_compositions": 10,
+  "partial_compositions": 0,
+  "failed_compositions": 0,
+  "requested_variations": 30,
+  "generated_variations": 30,
+  "missing_variations": 0,
+  "archive_completed_at_utc": "2026-11-11T05:46:42.710890+00:00"
+}

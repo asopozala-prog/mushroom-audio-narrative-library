@@ -1,0 +1,122 @@
+[
+  {
+    "output_name": "track_01_batch_story",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_01_batch_story/a99db2c9-ecef-5ea4-4c94-7fc3a86ed310.flac",
+      "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_01_batch_story/d46e4b6f-c82e-eb07-5f92-f39a86f5d765.flac",
+      "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_01_batch_story/af24f661-60dc-2960-a285-24ff1e0d9f98.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_02_two_hands_in_the_dark",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_02_two_hands_in_the_dark/d8c0e3d5-f028-3062-4158-11052dff6fc3.flac",
+      "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_02_two_hands_in_the_dark/5fd16946-07e0-c2bc-ffc9-a548c4ea6232.flac",
+      "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_02_two_hands_in_the_dark/fe59dc5b-e202-a7d6-42bd-e8adbb566a70.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_03_two_hours_without_sleep",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_03_two_hours_without_sleep/08cd6bf4-1cd3-c9c4-9b6a-a61d27f5bd89.flac",
+      "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_03_two_hours_without_sleep/dc649439-7e27-9d53-6f22-cd85ee36ef7b.flac",
+      "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_03_two_hours_without_sleep/cbc3f56d-d927-eb75-400e-85cc230aa222.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_04_the_childhood_friend_in_a_dream",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_04_the_childhood_friend_in_a_dream/6df2ca39-11d6-1d50-ea0f-92bd7b5b312f.flac",
+      "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_04_the_childhood_friend_in_a_dream/fdee827b-f97f-2766-057d-c6eb8922e39c.flac",
+      "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_04_the_childhood_friend_in_a_dream/4ce6a352-87b9-6910-af8c-650fd2e7ea58.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_05_the_warmth_between_two_pillows",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_05_the_warmth_between_two_pillows/36ea9bda-13df-1c64-7068-87f9516cf66a.flac",
+      "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_05_the_warmth_between_two_pillows/67d855d4-1433-1896-c02d-b7543d15f684.flac",
+      "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_05_the_warmth_between_two_pillows/bb63daa7-09aa-261b-92e7-a548cf032dff.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_06_november_has_not_woken",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_06_november_has_not_woken/545c485b-28a0-5421-ce5a-1336bb9ac350.flac",
+      "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_06_november_has_not_woken/d6a310a9-746d-760a-444e-89fa36af6c3e.flac",
+      "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_06_november_has_not_woken/166e465b-e712-1ab1-4086-f98809c3baad.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_07_the_kettle_and_the_shower",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_07_the_kettle_and_the_shower/4acc2fac-33dc-2a1a-81ba-37d86d23507f.flac",
+      "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_07_the_kettle_and_the_shower/3295d413-e295-fba1-edd0-0739ba4edc3e.flac",
+      "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_07_the_kettle_and_the_shower/fd514167-ddac-cf44-96d0-7ec172cd927a.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_08_tea_for_the_departure",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_08_tea_for_the_departure/06bcef19-1dca-e7ef-1c22-8b4b92576e76.flac",
+      "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_08_tea_for_the_departure/16cd7dee-11ab-525f-0cfb-4ef8c2732f08.flac",
+      "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_08_tea_for_the_departure/51dc4777-5bdb-e0fa-dfc6-0ff456315df2.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_09_the_days_we_will_not_share",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_09_the_days_we_will_not_share/5d895b29-c60c-218a-0b02-d8b9eb57150a.flac",
+      "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_09_the_days_we_will_not_share/b847299d-6ae0-4d8c-e35d-ac929b22282b.flac",
+      "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_09_the_days_we_will_not_share/891c218d-9d5e-d911-ac7d-573f730108c1.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_10_the_morning_keeps_our_warmth",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_10_the_morning_keeps_our_warmth/65df5574-3b01-2573-e5e1-28e8757e2cb1.flac",
+      "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_10_the_morning_keeps_our_warmth/fda206fa-eb2d-815c-4a63-552b710b2ec3.flac",
+      "/kaggle/working/music_output/studio_batch_0ca3495eea82425f/track_10_the_morning_keeps_our_warmth/136ed9dc-1c54-f210-3cc9-c56a7fb4ca19.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  }
+]

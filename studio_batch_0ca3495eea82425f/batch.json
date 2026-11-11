@@ -1,0 +1,69 @@
+{
+  "route": "turbo",
+  "batch_name": "studio_batch_0ca3495eea82425f",
+  "batch_theme": "the_dark_november_morning_before_departure",
+  "generation_started_at": 1794375461.473311,
+  "archive_label": "20261111_063741_the_dark_november_morning_before_departure",
+  "prompts": [
+    {
+      "output_name": "track_01_batch_story",
+      "prompt": "On a very dark November morning, two lovers wake beside each other in bed, their hands still holding together. One has already spent two hours awake, unable to return to sleep because thoughts of work keep troubling the mind; the other has just emerged from an unusually vivid dream about a childhood friend. Outside, the morning remains cold and almost lightless, while the warmth of their shared bed slowly gives way to the ordinary necessities of departure. One prepares tea in the kitchen, listening to the familiar sound of the other taking a shower in the bathroom. They know that life will keep them apart for a long while, and neither can make the morning last. Their tenderness remains in small gestures, familiar sounds, and the quiet knowledge of having been together.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_02_two_hands_in_the_dark",
+      "prompt": "Intimate instrumental cool jazz, 62 BPM, breathy tenor saxophone, warm upright bass and delicate brushed drums. Slow continuous pulse, tender descending melody, rich minor seventh harmonies, restrained dynamics, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_03_two_hours_without_sleep",
+      "prompt": "Melancholic instrumental downtempo jazz, 65 BPM, warm electric piano, deep rounded bass and soft brushed percussion. Steady hypnotic groove, repeating minor-key piano motif, subtle unresolved harmonies, intimate dark atmosphere, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_04_the_childhood_friend_in_a_dream",
+      "prompt": "Dreamlike instrumental chamber music, 60 BPM, lyrical solo violin, warm cello and gentle piano. Flowing legato melody, nostalgic major-minor harmonies, soft measured pulse, delicate dynamics, natural chamber acoustics, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_05_the_warmth_between_two_pillows",
+      "prompt": "Tender instrumental soul jazz, 68 BPM, mellow tenor saxophone, soft electric piano, rounded bass and gentle brushed drums. Relaxed steady groove, affectionate lyrical phrases, rich major seventh harmonies, intimate warm production, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_06_november_has_not_woken",
+      "prompt": "Atmospheric instrumental Japanese-inspired chamber music, 58 BPM, expressive shakuhachi flute and soft sustained cello. Spacious pentatonic melody, gentle measured pulse, restrained dynamics, dark misty morning atmosphere, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_07_the_kettle_and_the_shower",
+      "prompt": "Gentle instrumental bossa nova jazz, 74 BPM, warm nylon-string guitar, mellow electric piano, soft bass and delicate brushed percussion. Quiet syncopated groove, simple repeating melody, intimate domestic warmth, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_08_tea_for_the_departure",
+      "prompt": "Reflective instrumental chamber jazz, 66 BPM, lyrical clarinet, warm acoustic piano and upright bass. Slow relaxed swing, delicate descending phrases, rich minor-to-major harmonies, restrained bittersweet expression, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_09_the_days_we_will_not_share",
+      "prompt": "Melancholic instrumental romantic chamber music, 64 BPM, expressive solo cello, lyrical violins and warm piano. Broad sustained melody, gentle rhythmic movement, rich minor harmonies, gradual emotional crescendo followed by soft resolution, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_10_the_morning_keeps_our_warmth",
+      "prompt": "Tender instrumental downtempo jazz, 65 BPM, mellow tenor saxophone, intimate electric piano, deep warm bass and soft brushed percussion. Slow continuous groove, affectionate returning melody, rich major seventh harmonies, gentle unresolved final cadence, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    }
+  ]
+}
