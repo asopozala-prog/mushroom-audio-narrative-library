@@ -1,0 +1,57 @@
+{
+  "route": "turbo",
+  "batch_name": "studio_batch_1224ecbcb37b4869",
+  "batch_theme": "the_wind_clears_the_branches_for_winter",
+  "generation_started_at": 1794600525.1692958,
+  "archive_label": "20261113_210845_the_wind_clears_the_branches_for_winter",
+  "prompts": [
+    {
+      "output_name": "track_01_batch_story",
+      "prompt": "On a wild November day, the wind moves through the forest, shaking the branches and tearing away the last leaves of autumn. The leaves seem to scream as they are lifted into the air, their countless small voices joining into something immense, like ocean tides calling toward the moon. The trees bend and tremble, but the wind is not merely destroying their autumn beauty; it is clearing their branches, making space for winter. Golden leaves whirl through the cold air, gathering and separating like waves before falling to the earth. Beneath the violence of the weather, the forest is undergoing a quiet transformation, surrendering one season to receive another.",
+      "duration_seconds": 60,
+      "variations": 3
+    },
+    {
+      "output_name": "track_02_the_first_wind_through_the_branches",
+      "prompt": "Expressive instrumental classical string quartet, 76 BPM, solo violin leading with viola and cello accompaniment. Flowing legato melody, gently rising arpeggios, minor-key harmonies, gradual dynamic swells, natural acoustic strings, no percussion, no vocals.",
+      "duration_seconds": 60,
+      "variations": 3
+    },
+    {
+      "output_name": "track_03_the_leaves_begin_to_scream",
+      "prompt": "Dramatic instrumental romantic string orchestra, 112 BPM, powerful first violins dominating with urgent tremolo passages, supporting second violins, violas and cellos. Rapid ascending runs, intense minor harmonies, strong rhythmic accents, sweeping crescendos, strings only, no vocals.",
+      "duration_seconds": 60,
+      "variations": 3
+    },
+    {
+      "output_name": "track_04_a_thousand_small_voices",
+      "prompt": "Lyrical instrumental string ensemble, 92 BPM, layered violins playing interwoven melodic lines over warm sustained violas and cellos. Repeating sixteenth-note figures, flowing counterpoint, shifting minor harmonies, expressive rising dynamics, strings only, no vocals.",
+      "duration_seconds": 60,
+      "variations": 3
+    },
+    {
+      "output_name": "track_05_the_tide_calling_to_the_moon",
+      "prompt": "Passionate instrumental romantic violin concerto, 68 BPM, expressive solo violin over deep sustained cellos and rich orchestral strings. Broad wave-like melody, long rising crescendos and falling phrases, dramatic minor harmonies, expansive emotional intensity, strings only, no vocals.",
+      "duration_seconds": 60,
+      "variations": 3
+    },
+    {
+      "output_name": "track_06_the_wind_cleans_the_trees",
+      "prompt": "Energetic instrumental baroque-inspired string music, 120 BPM, brilliant violins, rhythmic violas, cellos and double basses. Fast repeating bow patterns, driving steady pulse, lively sequential melodies, clear minor-key harmony, precise energetic articulation, strings only, no vocals.",
+      "duration_seconds": 60,
+      "variations": 3
+    },
+    {
+      "output_name": "track_07_the_last_golden_leaves",
+      "prompt": "Melancholic instrumental classical chamber music, 64 BPM, lyrical solo violin accompanied by warm cello and soft viola. Slow descending melody, sustained expressive bowing, gentle minor-to-major harmonic movement, delicate restrained dynamics, intimate acoustic recording, strings only, no vocals.",
+      "duration_seconds": 60,
+      "variations": 3
+    },
+    {
+      "output_name": "track_08_the_branches_are_ready_for_winter",
+      "prompt": "Solemn instrumental romantic string orchestra, 60 BPM, expressive solo violin supported by warm violas, deep cellos and sustained double basses. Slow measured pulse, spacious descending phrases, rich minor harmonies gradually resolving into quiet consonance, long gentle decrescendo, strings only, no vocals.",
+      "duration_seconds": 60,
+      "variations": 3
+    }
+  ]
+}

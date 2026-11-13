@@ -1,0 +1,437 @@
+{
+  "schema_version": 1,
+  "batch_id": "studio_batch_1224ecbcb37b4869",
+  "archive_label": "20261113_210845_the_wind_clears_the_branches_for_winter",
+  "batch_theme": "the_wind_clears_the_branches_for_winter",
+  "generation_started_at": 1794600525.1692958,
+  "model": {
+    "family": "ACE-Step",
+    "checkpoint_name": "acestep-v15-turbo",
+    "checkpoint_revision": null,
+    "route": "turbo"
+  },
+  "generation": {
+    "prompts": [
+      {
+        "output_name": "track_01_batch_story",
+        "prompt": "On a wild November day, the wind moves through the forest, shaking the branches and tearing away the last leaves of autumn. The leaves seem to scream as they are lifted into the air, their countless small voices joining into something immense, like ocean tides calling toward the moon. The trees bend and tremble, but the wind is not merely destroying their autumn beauty; it is clearing their branches, making space for winter. Golden leaves whirl through the cold air, gathering and separating like waves before falling to the earth. Beneath the violence of the weather, the forest is undergoing a quiet transformation, surrendering one season to receive another.",
+        "duration_seconds": 60,
+        "variations": 3
+      },
+      {
+        "output_name": "track_02_the_first_wind_through_the_branches",
+        "prompt": "Expressive instrumental classical string quartet, 76 BPM, solo violin leading with viola and cello accompaniment. Flowing legato melody, gently rising arpeggios, minor-key harmonies, gradual dynamic swells, natural acoustic strings, no percussion, no vocals.",
+        "duration_seconds": 60,
+        "variations": 3
+      },
+      {
+        "output_name": "track_03_the_leaves_begin_to_scream",
+        "prompt": "Dramatic instrumental romantic string orchestra, 112 BPM, powerful first violins dominating with urgent tremolo passages, supporting second violins, violas and cellos. Rapid ascending runs, intense minor harmonies, strong rhythmic accents, sweeping crescendos, strings only, no vocals.",
+        "duration_seconds": 60,
+        "variations": 3
+      },
+      {
+        "output_name": "track_04_a_thousand_small_voices",
+        "prompt": "Lyrical instrumental string ensemble, 92 BPM, layered violins playing interwoven melodic lines over warm sustained violas and cellos. Repeating sixteenth-note figures, flowing counterpoint, shifting minor harmonies, expressive rising dynamics, strings only, no vocals.",
+        "duration_seconds": 60,
+        "variations": 3
+      },
+      {
+        "output_name": "track_05_the_tide_calling_to_the_moon",
+        "prompt": "Passionate instrumental romantic violin concerto, 68 BPM, expressive solo violin over deep sustained cellos and rich orchestral strings. Broad wave-like melody, long rising crescendos and falling phrases, dramatic minor harmonies, expansive emotional intensity, strings only, no vocals.",
+        "duration_seconds": 60,
+        "variations": 3
+      },
+      {
+        "output_name": "track_06_the_wind_cleans_the_trees",
+        "prompt": "Energetic instrumental baroque-inspired string music, 120 BPM, brilliant violins, rhythmic violas, cellos and double basses. Fast repeating bow patterns, driving steady pulse, lively sequential melodies, clear minor-key harmony, precise energetic articulation, strings only, no vocals.",
+        "duration_seconds": 60,
+        "variations": 3
+      },
+      {
+        "output_name": "track_07_the_last_golden_leaves",
+        "prompt": "Melancholic instrumental classical chamber music, 64 BPM, lyrical solo violin accompanied by warm cello and soft viola. Slow descending melody, sustained expressive bowing, gentle minor-to-major harmonic movement, delicate restrained dynamics, intimate acoustic recording, strings only, no vocals.",
+        "duration_seconds": 60,
+        "variations": 3
+      },
+      {
+        "output_name": "track_08_the_branches_are_ready_for_winter",
+        "prompt": "Solemn instrumental romantic string orchestra, 60 BPM, expressive solo violin supported by warm violas, deep cellos and sustained double basses. Slow measured pulse, spacious descending phrases, rich minor harmonies gradually resolving into quiet consonance, long gentle decrescendo, strings only, no vocals.",
+        "duration_seconds": 60,
+        "variations": 3
+      }
+    ],
+    "requested_audio_format": "flac"
+  },
+  "kaggle_manifest": [
+    {
+      "output_name": "track_01_batch_story",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_01_batch_story/be59f313-3619-8c5c-79f6-97fc964c65e7.flac",
+        "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_01_batch_story/961efaa7-d1b2-3c3f-39e3-d14ff802d30b.flac",
+        "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_01_batch_story/b37a6f3c-26b4-265a-8d08-0645d5ea6adf.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_02_the_first_wind_through_the_branches",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_02_the_first_wind_through_the_branches/a8f864d5-2ac0-1562-1f87-efa4cfdc221a.flac",
+        "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_02_the_first_wind_through_the_branches/b86f0e8a-1f1a-9c7d-23a3-a28308cbf8b6.flac",
+        "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_02_the_first_wind_through_the_branches/5ea09154-bd8b-15d6-e5fd-a65880aa9548.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_03_the_leaves_begin_to_scream",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_03_the_leaves_begin_to_scream/ec750501-d8f7-14e3-06e3-074f5443fa49.flac",
+        "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_03_the_leaves_begin_to_scream/f7211d6c-08eb-7d82-203b-ab94c670b1e9.flac",
+        "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_03_the_leaves_begin_to_scream/d70ca2dd-6b9d-d940-7674-efc88186771b.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_04_a_thousand_small_voices",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_04_a_thousand_small_voices/2f092854-4943-aa23-3ae9-d98e4773ef46.flac",
+        "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_04_a_thousand_small_voices/faced790-a37b-1ad4-0ee6-e356ddb38fd7.flac",
+        "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_04_a_thousand_small_voices/45ae246c-f55b-735f-877d-c88de831037a.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_05_the_tide_calling_to_the_moon",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_05_the_tide_calling_to_the_moon/96843ae8-c45f-930e-d58d-414bf72cbce7.flac",
+        "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_05_the_tide_calling_to_the_moon/abefd22e-fe2d-6035-fddd-c49d56ed2f2b.flac",
+        "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_05_the_tide_calling_to_the_moon/d7aa7d6e-fdad-1f8a-42bf-18862c94d6a8.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_06_the_wind_cleans_the_trees",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_06_the_wind_cleans_the_trees/ea2a9f62-9403-5b5d-4596-fd94a8e390b0.flac",
+        "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_06_the_wind_cleans_the_trees/96c5b3dc-ec47-953d-db64-fba29d853bb3.flac",
+        "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_06_the_wind_cleans_the_trees/dec2925e-83e7-3363-e95c-a1bd52c49462.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_07_the_last_golden_leaves",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_07_the_last_golden_leaves/874ded90-7bfa-a79f-3c3a-39db11169bb9.flac",
+        "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_07_the_last_golden_leaves/9a9841c6-213d-deba-2101-81222e79db34.flac",
+        "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_07_the_last_golden_leaves/23add4e1-8982-f811-ee47-ca48e7987725.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_08_the_branches_are_ready_for_winter",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_08_the_branches_are_ready_for_winter/2732fc16-4e51-64fe-76c6-e9bab64aba0a.flac",
+        "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_08_the_branches_are_ready_for_winter/c0c77c97-7378-8bb3-5d87-19333a6354d3.flac",
+        "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_08_the_branches_are_ready_for_winter/c7691b74-2a04-bfe5-d86b-5e9b767f6722.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    }
+  ],
+  "outputs": [
+    {
+      "composition": "track_01_batch_story",
+      "variation": 1,
+      "filename": "track_01_batch_story_01.flac",
+      "relative_path": "track_01_batch_story/track_01_batch_story_01.flac",
+      "size_bytes": 10592187,
+      "sha256": "343e6599ae8d8d1486412d8071a1e9a1255fbb4d5db849c1d8ecf0a5d1a9220e",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_01_batch_story",
+      "variation": 2,
+      "filename": "track_01_batch_story_02.flac",
+      "relative_path": "track_01_batch_story/track_01_batch_story_02.flac",
+      "size_bytes": 9361476,
+      "sha256": "1ac0e3fe95ea9fe2454646a12cc0040b95978a25ffa59256d483aef2c7e40cd5",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_01_batch_story",
+      "variation": 3,
+      "filename": "track_01_batch_story_03.flac",
+      "relative_path": "track_01_batch_story/track_01_batch_story_03.flac",
+      "size_bytes": 10043834,
+      "sha256": "5b9e46b92013635fd8eacc31aa9d08badc737950febb2cab8e9e140b7a4cab8e",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_the_first_wind_through_the_branches",
+      "variation": 1,
+      "filename": "track_02_the_first_wind_through_the_branches_01.flac",
+      "relative_path": "track_02_the_first_wind_through_the_branches/track_02_the_first_wind_through_the_branches_01.flac",
+      "size_bytes": 10322529,
+      "sha256": "96309404025e0d79a0417b29046eb483b3d3c0146ad7d01a2d18fe674ed49004",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_the_first_wind_through_the_branches",
+      "variation": 2,
+      "filename": "track_02_the_first_wind_through_the_branches_02.flac",
+      "relative_path": "track_02_the_first_wind_through_the_branches/track_02_the_first_wind_through_the_branches_02.flac",
+      "size_bytes": 10226312,
+      "sha256": "1ad551c87690fde80c9dd304c78e6ae2a1d6b38ca206cf88675c44556c9fc8bc",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_the_first_wind_through_the_branches",
+      "variation": 3,
+      "filename": "track_02_the_first_wind_through_the_branches_03.flac",
+      "relative_path": "track_02_the_first_wind_through_the_branches/track_02_the_first_wind_through_the_branches_03.flac",
+      "size_bytes": 10610043,
+      "sha256": "2db14747af9ef69638e4a73c6c0ce80226e2255de674a21ed72d7bbb225484f9",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_the_leaves_begin_to_scream",
+      "variation": 1,
+      "filename": "track_03_the_leaves_begin_to_scream_01.flac",
+      "relative_path": "track_03_the_leaves_begin_to_scream/track_03_the_leaves_begin_to_scream_01.flac",
+      "size_bytes": 10827257,
+      "sha256": "5da7aeee10ca2cec9aa224b2851801d42d3057ab28140a1fee0b750071ee489a",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_the_leaves_begin_to_scream",
+      "variation": 2,
+      "filename": "track_03_the_leaves_begin_to_scream_02.flac",
+      "relative_path": "track_03_the_leaves_begin_to_scream/track_03_the_leaves_begin_to_scream_02.flac",
+      "size_bytes": 11289644,
+      "sha256": "69eb75ad1f89a097427bd8c1a131b293d869e5801ff18b25be198be7b563152e",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_the_leaves_begin_to_scream",
+      "variation": 3,
+      "filename": "track_03_the_leaves_begin_to_scream_03.flac",
+      "relative_path": "track_03_the_leaves_begin_to_scream/track_03_the_leaves_begin_to_scream_03.flac",
+      "size_bytes": 11085975,
+      "sha256": "32b6735b50c274ebe6db69791e631146c51e0237046245d002fac0a162d1f298",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_a_thousand_small_voices",
+      "variation": 1,
+      "filename": "track_04_a_thousand_small_voices_01.flac",
+      "relative_path": "track_04_a_thousand_small_voices/track_04_a_thousand_small_voices_01.flac",
+      "size_bytes": 10304630,
+      "sha256": "e3b1f0a7aa3c22579ceb0231a00c6811da35d18fbfb4eeb5e8f337de960bc4c2",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_a_thousand_small_voices",
+      "variation": 2,
+      "filename": "track_04_a_thousand_small_voices_02.flac",
+      "relative_path": "track_04_a_thousand_small_voices/track_04_a_thousand_small_voices_02.flac",
+      "size_bytes": 10287610,
+      "sha256": "4eb271532977cd639149607a9f2f13292d8b745831ca5c4c91f9fb78835df82d",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_a_thousand_small_voices",
+      "variation": 3,
+      "filename": "track_04_a_thousand_small_voices_03.flac",
+      "relative_path": "track_04_a_thousand_small_voices/track_04_a_thousand_small_voices_03.flac",
+      "size_bytes": 10543343,
+      "sha256": "c0fc9969fafc0d7dc5c08c361ae6b85d875c04d203578bf604b4e8773ff729cb",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_tide_calling_to_the_moon",
+      "variation": 1,
+      "filename": "track_05_the_tide_calling_to_the_moon_01.flac",
+      "relative_path": "track_05_the_tide_calling_to_the_moon/track_05_the_tide_calling_to_the_moon_01.flac",
+      "size_bytes": 10637115,
+      "sha256": "fdf590ee665db25d10ad9b29b9198ba688552176b25391da8d6ee6f480532716",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_tide_calling_to_the_moon",
+      "variation": 2,
+      "filename": "track_05_the_tide_calling_to_the_moon_02.flac",
+      "relative_path": "track_05_the_tide_calling_to_the_moon/track_05_the_tide_calling_to_the_moon_02.flac",
+      "size_bytes": 10511643,
+      "sha256": "7a85f304b1d244ca5ad8cb6aa03f7254e5be21fcf722df3037a76b4261425cf4",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_tide_calling_to_the_moon",
+      "variation": 3,
+      "filename": "track_05_the_tide_calling_to_the_moon_03.flac",
+      "relative_path": "track_05_the_tide_calling_to_the_moon/track_05_the_tide_calling_to_the_moon_03.flac",
+      "size_bytes": 9965631,
+      "sha256": "3c9b5c91f314e18fbd852d10d00327ba0b2bd0324080018ee817c0e5398ca264",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_the_wind_cleans_the_trees",
+      "variation": 1,
+      "filename": "track_06_the_wind_cleans_the_trees_01.flac",
+      "relative_path": "track_06_the_wind_cleans_the_trees/track_06_the_wind_cleans_the_trees_01.flac",
+      "size_bytes": 11478057,
+      "sha256": "3a0e1e4489ecb0bbcb13faff0a7512436bf64dc2b17381872a2fe0559114a177",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_the_wind_cleans_the_trees",
+      "variation": 2,
+      "filename": "track_06_the_wind_cleans_the_trees_02.flac",
+      "relative_path": "track_06_the_wind_cleans_the_trees/track_06_the_wind_cleans_the_trees_02.flac",
+      "size_bytes": 11628327,
+      "sha256": "fe81426a761cf905f6799d37fe05969631acad9965ce494ad38fdffa67791284",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_the_wind_cleans_the_trees",
+      "variation": 3,
+      "filename": "track_06_the_wind_cleans_the_trees_03.flac",
+      "relative_path": "track_06_the_wind_cleans_the_trees/track_06_the_wind_cleans_the_trees_03.flac",
+      "size_bytes": 11424057,
+      "sha256": "411f27544bbccec73815f4544df2c0ad35272c0c9eb401f2845939829704f7ef",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_the_last_golden_leaves",
+      "variation": 1,
+      "filename": "track_07_the_last_golden_leaves_01.flac",
+      "relative_path": "track_07_the_last_golden_leaves/track_07_the_last_golden_leaves_01.flac",
+      "size_bytes": 10056245,
+      "sha256": "e7632313afe506587443895f76a1809e4f80e835bcd71255b70321158d59e6fe",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_the_last_golden_leaves",
+      "variation": 2,
+      "filename": "track_07_the_last_golden_leaves_02.flac",
+      "relative_path": "track_07_the_last_golden_leaves/track_07_the_last_golden_leaves_02.flac",
+      "size_bytes": 10037184,
+      "sha256": "b7fd45572819da361aa5026373e774fa83b49aaaa5980b976c26c807485f7b69",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_the_last_golden_leaves",
+      "variation": 3,
+      "filename": "track_07_the_last_golden_leaves_03.flac",
+      "relative_path": "track_07_the_last_golden_leaves/track_07_the_last_golden_leaves_03.flac",
+      "size_bytes": 9977135,
+      "sha256": "0452e3b7ae9490278343c57cae4ab6b68a98a58c422b89efb7ec7771bf771277",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_the_branches_are_ready_for_winter",
+      "variation": 1,
+      "filename": "track_08_the_branches_are_ready_for_winter_01.flac",
+      "relative_path": "track_08_the_branches_are_ready_for_winter/track_08_the_branches_are_ready_for_winter_01.flac",
+      "size_bytes": 9695704,
+      "sha256": "e32f0f5d9de57346ef0855031cc1b527484b0556944b9438023d89a81911126f",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_the_branches_are_ready_for_winter",
+      "variation": 2,
+      "filename": "track_08_the_branches_are_ready_for_winter_02.flac",
+      "relative_path": "track_08_the_branches_are_ready_for_winter/track_08_the_branches_are_ready_for_winter_02.flac",
+      "size_bytes": 9541908,
+      "sha256": "9e118f131fc15e58eb469c96b42cc8d92602bf882004a193fd4b903e69e2b501",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_the_branches_are_ready_for_winter",
+      "variation": 3,
+      "filename": "track_08_the_branches_are_ready_for_winter_03.flac",
+      "relative_path": "track_08_the_branches_are_ready_for_winter/track_08_the_branches_are_ready_for_winter_03.flac",
+      "size_bytes": 9947881,
+      "sha256": "ada9aeee505a404fb68991911f166d083dc56f5297fb95ea4ffdd534b23c42f7",
+      "duration_seconds_actual": 60.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    }
+  ],
+  "completed_compositions": 8,
+  "partial_compositions": 0,
+  "failed_compositions": 0,
+  "requested_variations": 24,
+  "generated_variations": 24,
+  "missing_variations": 0,
+  "archive_completed_at_utc": "2026-11-13T20:18:49.126249+00:00"
+}

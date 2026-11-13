@@ -1,0 +1,98 @@
+[
+  {
+    "output_name": "track_01_batch_story",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_01_batch_story/be59f313-3619-8c5c-79f6-97fc964c65e7.flac",
+      "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_01_batch_story/961efaa7-d1b2-3c3f-39e3-d14ff802d30b.flac",
+      "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_01_batch_story/b37a6f3c-26b4-265a-8d08-0645d5ea6adf.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_02_the_first_wind_through_the_branches",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_02_the_first_wind_through_the_branches/a8f864d5-2ac0-1562-1f87-efa4cfdc221a.flac",
+      "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_02_the_first_wind_through_the_branches/b86f0e8a-1f1a-9c7d-23a3-a28308cbf8b6.flac",
+      "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_02_the_first_wind_through_the_branches/5ea09154-bd8b-15d6-e5fd-a65880aa9548.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_03_the_leaves_begin_to_scream",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_03_the_leaves_begin_to_scream/ec750501-d8f7-14e3-06e3-074f5443fa49.flac",
+      "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_03_the_leaves_begin_to_scream/f7211d6c-08eb-7d82-203b-ab94c670b1e9.flac",
+      "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_03_the_leaves_begin_to_scream/d70ca2dd-6b9d-d940-7674-efc88186771b.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_04_a_thousand_small_voices",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_04_a_thousand_small_voices/2f092854-4943-aa23-3ae9-d98e4773ef46.flac",
+      "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_04_a_thousand_small_voices/faced790-a37b-1ad4-0ee6-e356ddb38fd7.flac",
+      "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_04_a_thousand_small_voices/45ae246c-f55b-735f-877d-c88de831037a.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_05_the_tide_calling_to_the_moon",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_05_the_tide_calling_to_the_moon/96843ae8-c45f-930e-d58d-414bf72cbce7.flac",
+      "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_05_the_tide_calling_to_the_moon/abefd22e-fe2d-6035-fddd-c49d56ed2f2b.flac",
+      "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_05_the_tide_calling_to_the_moon/d7aa7d6e-fdad-1f8a-42bf-18862c94d6a8.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_06_the_wind_cleans_the_trees",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_06_the_wind_cleans_the_trees/ea2a9f62-9403-5b5d-4596-fd94a8e390b0.flac",
+      "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_06_the_wind_cleans_the_trees/96c5b3dc-ec47-953d-db64-fba29d853bb3.flac",
+      "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_06_the_wind_cleans_the_trees/dec2925e-83e7-3363-e95c-a1bd52c49462.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_07_the_last_golden_leaves",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_07_the_last_golden_leaves/874ded90-7bfa-a79f-3c3a-39db11169bb9.flac",
+      "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_07_the_last_golden_leaves/9a9841c6-213d-deba-2101-81222e79db34.flac",
+      "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_07_the_last_golden_leaves/23add4e1-8982-f811-ee47-ca48e7987725.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_08_the_branches_are_ready_for_winter",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_08_the_branches_are_ready_for_winter/2732fc16-4e51-64fe-76c6-e9bab64aba0a.flac",
+      "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_08_the_branches_are_ready_for_winter/c0c77c97-7378-8bb3-5d87-19333a6354d3.flac",
+      "/kaggle/working/music_output/studio_batch_1224ecbcb37b4869/track_08_the_branches_are_ready_for_winter/c7691b74-2a04-bfe5-d86b-5e9b767f6722.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  }
+]
