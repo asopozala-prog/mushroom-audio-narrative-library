@@ -2,53 +2,41 @@
 
 ## Purpose
 
-Git-backed archive of ACE-Step FLAC recordings and their narrative metadata. The canonical recording archive remains on Kugel; this repository is a published copy, not the source of truth.
+The canonical ACE-Step recording archive on Kugel is also the single local Git repository for the Audio Narrative Library. Git publication preserves its recordings and narrative metadata in the remote archive. The Audio Evaluation Player is a separate publication system.
 
-## Locations
+## Verified locations
 
-| Component | Path |
+| Component | Location |
 | --- | --- |
-| Canonical archive | `/Users/kugel/media_library/audio/kaggle_ACE/` |
-| Local Git checkout | `/Users/kugel/Sites/mushroom-audio-narrative-library/` |
-| Synchronization script | `/Users/kugel/🍄MushroomHouseMusicLab/kaggle_ACE_step/audio_archive_git_sync.py` |
-| Download/archive runner | `/Users/kugel/🍄MushroomHouseMusicLab/kaggle_ACE_step/kaggle_runner.py` |
-| Git remote | `git@github.com:asopozala-prog/mushroom-audio-narrative-library.git` |
+| Canonical recordings and Git repository | `/Users/kugel/media_library/audio/kaggle_ACE/` |
+| Central Git backup registry | `/Users/kugel/Kugel-Automation/backups/git/repositories.json` |
+| Universal AUTO event dispatcher | `/Users/kugel/Kugel-Automation/backups/git/watcher.py` |
+| Shared publication dispatcher | `/Users/kugel/Kugel-Automation/backups/git/backup.py` |
+| Archive publication policy | `/Users/kugel/Kugel-Automation/backups/git/archive.py` |
+| ACE-Step output archive runner | `/Users/kugel/🍄MushroomHouseMusicLab/kaggle_ACE_step/kaggle_runner.py` |
+| SSH remote | `git@github.com:asopozala-prog/mushroom-audio-narrative-library.git` |
 | Branch | `main` |
 
 ## Contents
 
-- `studio_batch_*/`: copied batch directories containing FLAC recordings and experiment metadata.
-- `audio_narrative_catalog.json`: narrative stories, scenes, recording references, and descriptions.
-- `audio_story_registry.json`: story registry metadata.
-
-The two JSON inventories are copied from the canonical archive; this synchronization script does not generate or enrich them.
+- ACE-Step batch directories containing FLAC recordings and source metadata.
+- `audio_story_registry.json`: story descriptions drawn from recorded batch narratives.
+- `audio_narrative_catalog.json`: generated story, scene, and recording index.
+- `build_audio_catalog.py`: catalog builder and validator.
 
 ## Publication workflow
 
-After `kaggle_runner.py` archives a downloaded batch, it invokes `audio_archive_git_sync.py`.
+After successful recording archival, `kaggle_runner.py` launches the shared Git AUTO dispatcher using the canonical archive path. The dispatcher identifies the registered source and routes the request through `backup.publish_repository`. Archive policy handles in-place Git additions, revisions, safety checks, locking, resumable publication, and remote verification. Scheduled planned publication uses the same Archive policy through Nightjet.
 
-The synchronization script:
+The former separate checkout under `/Users/kugel/Sites/mushroom-audio-narrative-library/` is not the Git repository. The former `audio_archive_git_sync.py` workflow is no longer called by the runner; retirement of legacy files is a separate dependency-checked task.
 
-1. Checks the canonical archive, clean Git checkout, `main` branch, and expected SSH remote.
-2. Fetches `origin/main` and requires local `HEAD` to match it.
-3. Validates catalog schema and verifies referenced FLAC files exist in the canonical archive.
-4. Copies previously unpublished physical batch directories containing `experiment.json` and FLAC files, preserving symlinks.
-5. Checks individual FLAC sizes against the GitHub 100 MB file limit and verifies copied FLAC sizes.
-6. Copies changed canonical inventory JSON files.
-7. Stages only selected batch directories and inventory files, commits if changed, pushes, and verifies the remote commit.
+## Verified state and remaining checks
 
-Existing published batch directories are skipped rather than replaced or deleted.
+- Git history and the configured SSH remote were preserved when `.git` moved into the canonical archive.
+- The central registry points `source_path` and `local_repository` to that archive.
+- Universal AUTO routing and Archive integration tests passed (44 tests, 13 November 2026).
+- The canonical catalog was rebuilt with 14 stories and 552 recordings, preserving all 472 previously cataloged recordings.
+- At the time of this update, the first AUTO Git push and remote verification have **not** yet been completed.
+- The Audio Evaluation Player's MP3 inventory and website require their own update and verification.
 
-## Verified state
-
-The initial publication completed successfully. Local and GitHub `main` both reached commit `2ffa86277acd00370612c494d2a4f69a5b5b084a`, including two additional batches with 36 FLAC recordings and updated inventory metadata.
-
-## Known limitations
-
-- The runner currently invokes synchronization synchronously with `check=True`. A slow or failed push can delay completion or report an error after audio archival succeeded.
-- A failed push that leaves a local commit ahead of `origin/main` is not automatically retried: the current script rejects unequal local and remote heads.
-- Concurrent synchronization is not coordinated.
-- Automatic creation or updating of canonical narrative metadata for future batches has not been verified.
-- A complete new-batch, automatic-publish end-to-end test remains outstanding.
-
-The Audio Evaluation Player is a separate system. Its MP3 copies, `inventory.json`, and website publication are managed by `audio_evaluation_sync.py` in the ACE-Step project, not by this repository's Git synchronization.
+An AUTO event requests publication but does not itself prove that GitHub was updated. A successful Archive remote-verification result is required before reporting publication complete.

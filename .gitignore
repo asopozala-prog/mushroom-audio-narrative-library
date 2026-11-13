@@ -1,0 +1,13 @@
+# macOS Finder metadata
+.DS_Store
+
+# Legacy synchronization runtime files
+.audio_archive_git_sync.lock
+audio_archive_git_sync.log
+
+# Shared AUTO publisher runtime output
+git_auto_publish.log
+
+# Generated Python bytecode
+__pycache__/
+*.pyc
