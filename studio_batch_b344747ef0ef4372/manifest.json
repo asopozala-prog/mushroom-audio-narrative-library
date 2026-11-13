@@ -1,0 +1,102 @@
+[
+  {
+    "output_name": "track_01_batch_story",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b344747ef0ef4372/track_01_batch_story/36e91338-197d-ef4b-f458-534791f8ceba.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_02_roses_against_the_dead_trunk",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b344747ef0ef4372/track_02_roses_against_the_dead_trunk/d4b3a920-277b-1cbb-f03d-978eded3b0ea.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_03_where_blooming_has_ended",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b344747ef0ef4372/track_03_where_blooming_has_ended/d3b129a1-36f1-8f5f-9b4b-24757599bc53.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_04_humans_leave_them_here",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b344747ef0ef4372/track_04_humans_leave_them_here/544d6302-f738-e789-f50c-bf87534762ee.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_05_the_message_for_winter",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b344747ef0ef4372/track_05_the_message_for_winter/e9123a12-0fb8-32ed-4385-7a90b1338cda.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_06_petals_on_the_concrete_terrace",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b344747ef0ef4372/track_06_petals_on_the_concrete_terrace/b4187230-4784-9116-a7ef-1f9692de9096.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_07_river_under_grey_sky",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b344747ef0ef4372/track_07_river_under_grey_sky/b956be5c-367e-3c51-673b-75740d48656b.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_08_red_against_the_cold",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b344747ef0ef4372/track_08_red_against_the_cold/e04130bb-7f8b-40e0-f105-3de81daf5790.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_09_spending_the_winter_where_winter_lives",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b344747ef0ef4372/track_09_spending_the_winter_where_winter_lives/80775bb9-a76c-8db9-a107-7ad6ec3b7d84.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  },
+  {
+    "output_name": "track_10_after_the_last_rose",
+    "status": "partial",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b344747ef0ef4372/track_10_after_the_last_rose/7ff0910d-9b54-0475-2eaa-7b00cf7a05b6.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 1,
+    "missing_variations": 2
+  }
+]

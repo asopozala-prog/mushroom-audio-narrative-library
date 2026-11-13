@@ -1,0 +1,69 @@
+{
+  "route": "sft_lm",
+  "batch_name": "studio_batch_b344747ef0ef4372",
+  "batch_theme": "roses_where_winter_lives",
+  "generation_started_at": 1794560850.698443,
+  "archive_label": "20261113_100730_roses_where_winter_lives",
+  "prompts": [
+    {
+      "output_name": "track_01_batch_story",
+      "prompt": "Humans leave roses in places where blooming has already ended: against a dead trunk in the forest, or scattered across a cold concrete terrace facing the river. The flowers do not belong to spring there; they are left where winter already lives, as if carrying a message into a season that cannot answer back. Their color becomes more intense because everything around them is turning quiet, bare, and grey. This batch follows that gesture through different small scenes of farewell, stillness, and endurance. The music should remain intimate and clear, allowing the image of the roses to stay at the center.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_02_roses_against_the_dead_trunk",
+      "prompt": "Reflective instrumental chamber jazz, 66 BPM, mellow tenor saxophone, warm upright bass and delicate brushed drums. Slow steady pulse, descending lyrical melody, rich minor seventh harmonies, intimate restrained atmosphere, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_03_where_blooming_has_ended",
+      "prompt": "Tender instrumental romantic chamber music, 62 BPM, expressive solo cello and soft piano accompaniment. Measured pulse, sustained minor-key melody, gentle harmonic movement, solemn autumn feeling, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_04_humans_leave_them_here",
+      "prompt": "Atmospheric instrumental downtempo jazz, 65 BPM, warm electric piano, deep rounded bass and soft brushed percussion. Slow hypnotic groove, repeating melancholic motif, subtle tension and release, intimate dark production, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_05_the_message_for_winter",
+      "prompt": "Gentle instrumental cool jazz, 68 BPM, breathy tenor saxophone, mellow electric piano and soft bass. Continuous relaxed groove, flowing melodic phrases, warm major-minor harmonies, thoughtful spacious mood, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_06_petals_on_the_concrete_terrace",
+      "prompt": "Quiet instrumental modern chamber music, 64 BPM, lyrical violin, soft cello and restrained piano. Clear measured rhythm, delicate descending phrases, cool harmonies, open winter air, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_07_river_under_grey_sky",
+      "prompt": "Melancholic instrumental smooth jazz, 70 BPM, expressive tenor saxophone, warm electric piano, deep bass and delicate brushed drums. Steady gentle groove, long flowing melody, rich seventh chords, calm reflective atmosphere, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_08_red_against_the_cold",
+      "prompt": "Dark instrumental modal jazz, 72 BPM, low tenor saxophone, upright bass and crisp brushed percussion. Steady pulse, simple insistent motif, restrained chromatic color, controlled intensity, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_09_spending_the_winter_where_winter_lives",
+      "prompt": "Intimate instrumental downtempo, 63 BPM, warm electric piano, deep soft bass and subtle brushed percussion. Slow continuous groove, sparse repeating melody, unresolved minor harmonies, bodily stillness, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    },
+    {
+      "output_name": "track_10_after_the_last_rose",
+      "prompt": "Tender instrumental chamber jazz, 67 BPM, mellow tenor saxophone, soft upright bass and delicate brushed drums. Gentle steady swing, returning lyrical melody, minor-to-major harmonic softening, peaceful fading resolution, no vocals.",
+      "duration_seconds": 45,
+      "variations": 3
+    }
+  ]
+}

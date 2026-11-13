@@ -1,0 +1,299 @@
+{
+  "schema_version": 1,
+  "batch_id": "studio_batch_b344747ef0ef4372",
+  "archive_label": "20261113_100730_roses_where_winter_lives",
+  "batch_theme": "roses_where_winter_lives",
+  "generation_started_at": 1794560850.698443,
+  "model": {
+    "family": "ACE-Step",
+    "checkpoint_name": "acestep-v15-sft",
+    "checkpoint_revision": null,
+    "route": "sft_lm"
+  },
+  "generation": {
+    "prompts": [
+      {
+        "output_name": "track_01_batch_story",
+        "prompt": "Humans leave roses in places where blooming has already ended: against a dead trunk in the forest, or scattered across a cold concrete terrace facing the river. The flowers do not belong to spring there; they are left where winter already lives, as if carrying a message into a season that cannot answer back. Their color becomes more intense because everything around them is turning quiet, bare, and grey. This batch follows that gesture through different small scenes of farewell, stillness, and endurance. The music should remain intimate and clear, allowing the image of the roses to stay at the center.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_02_roses_against_the_dead_trunk",
+        "prompt": "Reflective instrumental chamber jazz, 66 BPM, mellow tenor saxophone, warm upright bass and delicate brushed drums. Slow steady pulse, descending lyrical melody, rich minor seventh harmonies, intimate restrained atmosphere, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_03_where_blooming_has_ended",
+        "prompt": "Tender instrumental romantic chamber music, 62 BPM, expressive solo cello and soft piano accompaniment. Measured pulse, sustained minor-key melody, gentle harmonic movement, solemn autumn feeling, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_04_humans_leave_them_here",
+        "prompt": "Atmospheric instrumental downtempo jazz, 65 BPM, warm electric piano, deep rounded bass and soft brushed percussion. Slow hypnotic groove, repeating melancholic motif, subtle tension and release, intimate dark production, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_05_the_message_for_winter",
+        "prompt": "Gentle instrumental cool jazz, 68 BPM, breathy tenor saxophone, mellow electric piano and soft bass. Continuous relaxed groove, flowing melodic phrases, warm major-minor harmonies, thoughtful spacious mood, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_06_petals_on_the_concrete_terrace",
+        "prompt": "Quiet instrumental modern chamber music, 64 BPM, lyrical violin, soft cello and restrained piano. Clear measured rhythm, delicate descending phrases, cool harmonies, open winter air, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_07_river_under_grey_sky",
+        "prompt": "Melancholic instrumental smooth jazz, 70 BPM, expressive tenor saxophone, warm electric piano, deep bass and delicate brushed drums. Steady gentle groove, long flowing melody, rich seventh chords, calm reflective atmosphere, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_08_red_against_the_cold",
+        "prompt": "Dark instrumental modal jazz, 72 BPM, low tenor saxophone, upright bass and crisp brushed percussion. Steady pulse, simple insistent motif, restrained chromatic color, controlled intensity, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_09_spending_the_winter_where_winter_lives",
+        "prompt": "Intimate instrumental downtempo, 63 BPM, warm electric piano, deep soft bass and subtle brushed percussion. Slow continuous groove, sparse repeating melody, unresolved minor harmonies, bodily stillness, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_10_after_the_last_rose",
+        "prompt": "Tender instrumental chamber jazz, 67 BPM, mellow tenor saxophone, soft upright bass and delicate brushed drums. Gentle steady swing, returning lyrical melody, minor-to-major harmonic softening, peaceful fading resolution, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      }
+    ],
+    "requested_audio_format": "flac"
+  },
+  "kaggle_manifest": [
+    {
+      "output_name": "track_01_batch_story",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b344747ef0ef4372/track_01_batch_story/36e91338-197d-ef4b-f458-534791f8ceba.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_02_roses_against_the_dead_trunk",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b344747ef0ef4372/track_02_roses_against_the_dead_trunk/d4b3a920-277b-1cbb-f03d-978eded3b0ea.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_03_where_blooming_has_ended",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b344747ef0ef4372/track_03_where_blooming_has_ended/d3b129a1-36f1-8f5f-9b4b-24757599bc53.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_04_humans_leave_them_here",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b344747ef0ef4372/track_04_humans_leave_them_here/544d6302-f738-e789-f50c-bf87534762ee.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_05_the_message_for_winter",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b344747ef0ef4372/track_05_the_message_for_winter/e9123a12-0fb8-32ed-4385-7a90b1338cda.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_06_petals_on_the_concrete_terrace",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b344747ef0ef4372/track_06_petals_on_the_concrete_terrace/b4187230-4784-9116-a7ef-1f9692de9096.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_07_river_under_grey_sky",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b344747ef0ef4372/track_07_river_under_grey_sky/b956be5c-367e-3c51-673b-75740d48656b.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_08_red_against_the_cold",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b344747ef0ef4372/track_08_red_against_the_cold/e04130bb-7f8b-40e0-f105-3de81daf5790.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_09_spending_the_winter_where_winter_lives",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b344747ef0ef4372/track_09_spending_the_winter_where_winter_lives/80775bb9-a76c-8db9-a107-7ad6ec3b7d84.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    },
+    {
+      "output_name": "track_10_after_the_last_rose",
+      "status": "partial",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b344747ef0ef4372/track_10_after_the_last_rose/7ff0910d-9b54-0475-2eaa-7b00cf7a05b6.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 1,
+      "missing_variations": 2
+    }
+  ],
+  "outputs": [
+    {
+      "composition": "track_01_batch_story",
+      "variation": 1,
+      "filename": "track_01_batch_story_01.flac",
+      "relative_path": "track_01_batch_story/track_01_batch_story_01.flac",
+      "size_bytes": 8409703,
+      "sha256": "8469e8004c65ab7c0b44e874ea19f3db716722986de4195740f9c9a8dbfaf989",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_roses_against_the_dead_trunk",
+      "variation": 1,
+      "filename": "track_02_roses_against_the_dead_trunk_01.flac",
+      "relative_path": "track_02_roses_against_the_dead_trunk/track_02_roses_against_the_dead_trunk_01.flac",
+      "size_bytes": 7568692,
+      "sha256": "066f1f2964e2b44e863b983658bc3a9ce8f76b7b8bfae2c47b7bfe677685c8ff",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_where_blooming_has_ended",
+      "variation": 1,
+      "filename": "track_03_where_blooming_has_ended_01.flac",
+      "relative_path": "track_03_where_blooming_has_ended/track_03_where_blooming_has_ended_01.flac",
+      "size_bytes": 8116539,
+      "sha256": "80f5b329117f4330df31f36ece08488b46f8f1bdd18caa708ec0e71525544b02",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_humans_leave_them_here",
+      "variation": 1,
+      "filename": "track_04_humans_leave_them_here_01.flac",
+      "relative_path": "track_04_humans_leave_them_here/track_04_humans_leave_them_here_01.flac",
+      "size_bytes": 8201795,
+      "sha256": "805a830ba96958581bd40146c1bf12451dfc076a073536fb8f5f696df16fe2aa",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_message_for_winter",
+      "variation": 1,
+      "filename": "track_05_the_message_for_winter_01.flac",
+      "relative_path": "track_05_the_message_for_winter/track_05_the_message_for_winter_01.flac",
+      "size_bytes": 8353661,
+      "sha256": "b5f4a3f10917cbb6f7f45813851d7e93d1f927589bb6f44877693b7bf450597e",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_petals_on_the_concrete_terrace",
+      "variation": 1,
+      "filename": "track_06_petals_on_the_concrete_terrace_01.flac",
+      "relative_path": "track_06_petals_on_the_concrete_terrace/track_06_petals_on_the_concrete_terrace_01.flac",
+      "size_bytes": 8253138,
+      "sha256": "80845a1ba9c503a61fbb4122602c90a8daf275d2d5e6410ec9898fe8d2b16a56",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_river_under_grey_sky",
+      "variation": 1,
+      "filename": "track_07_river_under_grey_sky_01.flac",
+      "relative_path": "track_07_river_under_grey_sky/track_07_river_under_grey_sky_01.flac",
+      "size_bytes": 7825544,
+      "sha256": "300cd0aa13d573869b099199b167d33182766dad2e995b90b31f157197f0cd32",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_red_against_the_cold",
+      "variation": 1,
+      "filename": "track_08_red_against_the_cold_01.flac",
+      "relative_path": "track_08_red_against_the_cold/track_08_red_against_the_cold_01.flac",
+      "size_bytes": 9727719,
+      "sha256": "4765fb25967c27db73ae303d7c4c146e2c9cd13879dfe9b63c08555389eba83d",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_09_spending_the_winter_where_winter_lives",
+      "variation": 1,
+      "filename": "track_09_spending_the_winter_where_winter_lives_01.flac",
+      "relative_path": "track_09_spending_the_winter_where_winter_lives/track_09_spending_the_winter_where_winter_lives_01.flac",
+      "size_bytes": 8036493,
+      "sha256": "6bdcaafc57a11ac5837bf172ad514ac6da8a949b7b16772c4463bbd265141522",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_10_after_the_last_rose",
+      "variation": 1,
+      "filename": "track_10_after_the_last_rose_01.flac",
+      "relative_path": "track_10_after_the_last_rose/track_10_after_the_last_rose_01.flac",
+      "size_bytes": 8318877,
+      "sha256": "448a3760d03f11bbf63f740208153f27714ac7049e290612c2dff42e8e05e39f",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    }
+  ],
+  "completed_compositions": 0,
+  "partial_compositions": 10,
+  "failed_compositions": 0,
+  "requested_variations": 30,
+  "generated_variations": 10,
+  "missing_variations": 20,
+  "archive_completed_at_utc": "2026-11-13T09:23:30.151227+00:00"
+}
