@@ -36,7 +36,10 @@ The former separate checkout under `/Users/kugel/Sites/mushroom-audio-narrative-
 - The central registry points `source_path` and `local_repository` to that archive.
 - Universal AUTO routing and Archive integration tests passed (44 tests, 13 November 2026).
 - The canonical catalog was rebuilt with 14 stories and 552 recordings, preserving all 472 previously cataloged recordings.
-- At the time of this update, the first AUTO Git push and remote verification have **not** yet been completed.
-- The Audio Evaluation Player's MP3 inventory and website require their own update and verification.
+- The first central AUTO publication is **REMOTE_VERIFIED**: local `main` and GitHub `main` both equal `e2cefd1e2927a424068016abc19398a20c4acfd0`; the working tree was clean.
+- Eight previously unpublished audio batches were included. The canonical catalog contains 14 stories and 552 recordings.
+- The separate public Audio Player retains 38 additional legacy recordings: 18 stories and 590 recordings, published through `vspace_publisher.py --update`.
+- The publisher reported **LIVE VERIFIED** at `https://vspace-agent.github.io/mushroom-audio-player/`.
+- This FLAC-backed public player is separate from the older MP3 Audio Evaluation inventory.
 
 An AUTO event requests publication but does not itself prove that GitHub was updated. A successful Archive remote-verification result is required before reporting publication complete.
