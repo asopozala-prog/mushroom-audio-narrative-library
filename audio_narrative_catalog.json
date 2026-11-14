@@ -10083,6 +10083,1209 @@
           ]
         }
       ]
+    },
+    {
+      "id": "the_wind_clears_the_branches_for_winter",
+      "title": "The Wind Clears The Branches For Winter",
+      "description": "On a wild November day, the wind moves through the forest, shaking the branches and tearing away the last leaves of autumn. The leaves seem to scream as they are lifted into the air, their countless small voices joining into something immense, like ocean tides calling toward the moon. The trees bend and tremble, but the wind is not merely destroying their autumn beauty; it is clearing their branches, making space for winter. Golden leaves whirl through the cold air, gathering and separating like waves before falling to the earth. Beneath the violence of the weather, the forest is undergoing a quiet transformation, surrendering one season to receive another.",
+      "scenes": [
+        {
+          "id": "the_wind_clears_the_branches_for_winter/track_01_batch_story/80d807510df4f32c",
+          "title": "Track 01 Batch Story",
+          "order": 1,
+          "prompt": "On a wild November day, the wind moves through the forest, shaking the branches and tearing away the last leaves of autumn. The leaves seem to scream as they are lifted into the air, their countless small voices joining into something immense, like ocean tides calling toward the moon. The trees bend and tremble, but the wind is not merely destroying their autumn beauty; it is clearing their branches, making space for winter. Golden leaves whirl through the cold air, gathering and separating like waves before falling to the earth. Beneath the violence of the weather, the forest is undergoing a quiet transformation, surrendering one season to receive another.",
+          "recordings": [
+            {
+              "id": "studio_batch_1224ecbcb37b4869/track_01_batch_story/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794600525.1692958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_1224ecbcb37b4869/track_01_batch_story/track_01_batch_story_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_1224ecbcb37b4869/track_01_batch_story/track_01_batch_story_01.flac"
+                }
+              ],
+              "filename": "track_01_batch_story_01"
+            },
+            {
+              "id": "studio_batch_1224ecbcb37b4869/track_01_batch_story/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794600525.1692958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_1224ecbcb37b4869/track_01_batch_story/track_01_batch_story_02.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_1224ecbcb37b4869/track_01_batch_story/track_01_batch_story_02.flac"
+                }
+              ],
+              "filename": "track_01_batch_story_02"
+            },
+            {
+              "id": "studio_batch_1224ecbcb37b4869/track_01_batch_story/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794600525.1692958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_1224ecbcb37b4869/track_01_batch_story/track_01_batch_story_03.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_1224ecbcb37b4869/track_01_batch_story/track_01_batch_story_03.flac"
+                }
+              ],
+              "filename": "track_01_batch_story_03"
+            }
+          ]
+        },
+        {
+          "id": "the_wind_clears_the_branches_for_winter/track_02_the_first_wind_through_the_branches/77a048f0952b2152",
+          "title": "Track 02 The First Wind Through The Branches",
+          "order": 2,
+          "prompt": "Expressive instrumental classical string quartet, 76 BPM, solo violin leading with viola and cello accompaniment. Flowing legato melody, gently rising arpeggios, minor-key harmonies, gradual dynamic swells, natural acoustic strings, no percussion, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_1224ecbcb37b4869/track_02_the_first_wind_through_the_branches/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794600525.1692958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_1224ecbcb37b4869/track_02_the_first_wind_through_the_branches/track_02_the_first_wind_through_the_branches_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_1224ecbcb37b4869/track_02_the_first_wind_through_the_branches/track_02_the_first_wind_through_the_branches_01.flac"
+                }
+              ],
+              "filename": "track_02_the_first_wind_through_the_branches_01"
+            },
+            {
+              "id": "studio_batch_1224ecbcb37b4869/track_02_the_first_wind_through_the_branches/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794600525.1692958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_1224ecbcb37b4869/track_02_the_first_wind_through_the_branches/track_02_the_first_wind_through_the_branches_02.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_1224ecbcb37b4869/track_02_the_first_wind_through_the_branches/track_02_the_first_wind_through_the_branches_02.flac"
+                }
+              ],
+              "filename": "track_02_the_first_wind_through_the_branches_02"
+            },
+            {
+              "id": "studio_batch_1224ecbcb37b4869/track_02_the_first_wind_through_the_branches/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794600525.1692958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_1224ecbcb37b4869/track_02_the_first_wind_through_the_branches/track_02_the_first_wind_through_the_branches_03.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_1224ecbcb37b4869/track_02_the_first_wind_through_the_branches/track_02_the_first_wind_through_the_branches_03.flac"
+                }
+              ],
+              "filename": "track_02_the_first_wind_through_the_branches_03"
+            }
+          ]
+        },
+        {
+          "id": "the_wind_clears_the_branches_for_winter/track_03_the_leaves_begin_to_scream/a9bf517b2d83ff65",
+          "title": "Track 03 The Leaves Begin To Scream",
+          "order": 3,
+          "prompt": "Dramatic instrumental romantic string orchestra, 112 BPM, powerful first violins dominating with urgent tremolo passages, supporting second violins, violas and cellos. Rapid ascending runs, intense minor harmonies, strong rhythmic accents, sweeping crescendos, strings only, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_1224ecbcb37b4869/track_03_the_leaves_begin_to_scream/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794600525.1692958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_1224ecbcb37b4869/track_03_the_leaves_begin_to_scream/track_03_the_leaves_begin_to_scream_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_1224ecbcb37b4869/track_03_the_leaves_begin_to_scream/track_03_the_leaves_begin_to_scream_01.flac"
+                }
+              ],
+              "filename": "track_03_the_leaves_begin_to_scream_01"
+            },
+            {
+              "id": "studio_batch_1224ecbcb37b4869/track_03_the_leaves_begin_to_scream/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794600525.1692958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_1224ecbcb37b4869/track_03_the_leaves_begin_to_scream/track_03_the_leaves_begin_to_scream_02.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_1224ecbcb37b4869/track_03_the_leaves_begin_to_scream/track_03_the_leaves_begin_to_scream_02.flac"
+                }
+              ],
+              "filename": "track_03_the_leaves_begin_to_scream_02"
+            },
+            {
+              "id": "studio_batch_1224ecbcb37b4869/track_03_the_leaves_begin_to_scream/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794600525.1692958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_1224ecbcb37b4869/track_03_the_leaves_begin_to_scream/track_03_the_leaves_begin_to_scream_03.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_1224ecbcb37b4869/track_03_the_leaves_begin_to_scream/track_03_the_leaves_begin_to_scream_03.flac"
+                }
+              ],
+              "filename": "track_03_the_leaves_begin_to_scream_03"
+            }
+          ]
+        },
+        {
+          "id": "the_wind_clears_the_branches_for_winter/track_04_a_thousand_small_voices/5e95dbc0f25e2f5e",
+          "title": "Track 04 A Thousand Small Voices",
+          "order": 4,
+          "prompt": "Lyrical instrumental string ensemble, 92 BPM, layered violins playing interwoven melodic lines over warm sustained violas and cellos. Repeating sixteenth-note figures, flowing counterpoint, shifting minor harmonies, expressive rising dynamics, strings only, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_1224ecbcb37b4869/track_04_a_thousand_small_voices/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794600525.1692958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_1224ecbcb37b4869/track_04_a_thousand_small_voices/track_04_a_thousand_small_voices_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_1224ecbcb37b4869/track_04_a_thousand_small_voices/track_04_a_thousand_small_voices_01.flac"
+                }
+              ],
+              "filename": "track_04_a_thousand_small_voices_01"
+            },
+            {
+              "id": "studio_batch_1224ecbcb37b4869/track_04_a_thousand_small_voices/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794600525.1692958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_1224ecbcb37b4869/track_04_a_thousand_small_voices/track_04_a_thousand_small_voices_02.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_1224ecbcb37b4869/track_04_a_thousand_small_voices/track_04_a_thousand_small_voices_02.flac"
+                }
+              ],
+              "filename": "track_04_a_thousand_small_voices_02"
+            },
+            {
+              "id": "studio_batch_1224ecbcb37b4869/track_04_a_thousand_small_voices/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794600525.1692958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_1224ecbcb37b4869/track_04_a_thousand_small_voices/track_04_a_thousand_small_voices_03.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_1224ecbcb37b4869/track_04_a_thousand_small_voices/track_04_a_thousand_small_voices_03.flac"
+                }
+              ],
+              "filename": "track_04_a_thousand_small_voices_03"
+            }
+          ]
+        },
+        {
+          "id": "the_wind_clears_the_branches_for_winter/track_05_the_tide_calling_to_the_moon/1b3583c8b9c312a1",
+          "title": "Track 05 The Tide Calling To The Moon",
+          "order": 5,
+          "prompt": "Passionate instrumental romantic violin concerto, 68 BPM, expressive solo violin over deep sustained cellos and rich orchestral strings. Broad wave-like melody, long rising crescendos and falling phrases, dramatic minor harmonies, expansive emotional intensity, strings only, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_1224ecbcb37b4869/track_05_the_tide_calling_to_the_moon/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794600525.1692958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_1224ecbcb37b4869/track_05_the_tide_calling_to_the_moon/track_05_the_tide_calling_to_the_moon_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_1224ecbcb37b4869/track_05_the_tide_calling_to_the_moon/track_05_the_tide_calling_to_the_moon_01.flac"
+                }
+              ],
+              "filename": "track_05_the_tide_calling_to_the_moon_01"
+            },
+            {
+              "id": "studio_batch_1224ecbcb37b4869/track_05_the_tide_calling_to_the_moon/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794600525.1692958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_1224ecbcb37b4869/track_05_the_tide_calling_to_the_moon/track_05_the_tide_calling_to_the_moon_02.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_1224ecbcb37b4869/track_05_the_tide_calling_to_the_moon/track_05_the_tide_calling_to_the_moon_02.flac"
+                }
+              ],
+              "filename": "track_05_the_tide_calling_to_the_moon_02"
+            },
+            {
+              "id": "studio_batch_1224ecbcb37b4869/track_05_the_tide_calling_to_the_moon/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794600525.1692958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_1224ecbcb37b4869/track_05_the_tide_calling_to_the_moon/track_05_the_tide_calling_to_the_moon_03.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_1224ecbcb37b4869/track_05_the_tide_calling_to_the_moon/track_05_the_tide_calling_to_the_moon_03.flac"
+                }
+              ],
+              "filename": "track_05_the_tide_calling_to_the_moon_03"
+            }
+          ]
+        },
+        {
+          "id": "the_wind_clears_the_branches_for_winter/track_06_the_wind_cleans_the_trees/588f8b2009aa7a6c",
+          "title": "Track 06 The Wind Cleans The Trees",
+          "order": 6,
+          "prompt": "Energetic instrumental baroque-inspired string music, 120 BPM, brilliant violins, rhythmic violas, cellos and double basses. Fast repeating bow patterns, driving steady pulse, lively sequential melodies, clear minor-key harmony, precise energetic articulation, strings only, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_1224ecbcb37b4869/track_06_the_wind_cleans_the_trees/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794600525.1692958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_1224ecbcb37b4869/track_06_the_wind_cleans_the_trees/track_06_the_wind_cleans_the_trees_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_1224ecbcb37b4869/track_06_the_wind_cleans_the_trees/track_06_the_wind_cleans_the_trees_01.flac"
+                }
+              ],
+              "filename": "track_06_the_wind_cleans_the_trees_01"
+            },
+            {
+              "id": "studio_batch_1224ecbcb37b4869/track_06_the_wind_cleans_the_trees/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794600525.1692958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_1224ecbcb37b4869/track_06_the_wind_cleans_the_trees/track_06_the_wind_cleans_the_trees_02.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_1224ecbcb37b4869/track_06_the_wind_cleans_the_trees/track_06_the_wind_cleans_the_trees_02.flac"
+                }
+              ],
+              "filename": "track_06_the_wind_cleans_the_trees_02"
+            },
+            {
+              "id": "studio_batch_1224ecbcb37b4869/track_06_the_wind_cleans_the_trees/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794600525.1692958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_1224ecbcb37b4869/track_06_the_wind_cleans_the_trees/track_06_the_wind_cleans_the_trees_03.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_1224ecbcb37b4869/track_06_the_wind_cleans_the_trees/track_06_the_wind_cleans_the_trees_03.flac"
+                }
+              ],
+              "filename": "track_06_the_wind_cleans_the_trees_03"
+            }
+          ]
+        },
+        {
+          "id": "the_wind_clears_the_branches_for_winter/track_07_the_last_golden_leaves/ca31a66cabca8cb3",
+          "title": "Track 07 The Last Golden Leaves",
+          "order": 7,
+          "prompt": "Melancholic instrumental classical chamber music, 64 BPM, lyrical solo violin accompanied by warm cello and soft viola. Slow descending melody, sustained expressive bowing, gentle minor-to-major harmonic movement, delicate restrained dynamics, intimate acoustic recording, strings only, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_1224ecbcb37b4869/track_07_the_last_golden_leaves/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794600525.1692958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_1224ecbcb37b4869/track_07_the_last_golden_leaves/track_07_the_last_golden_leaves_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_1224ecbcb37b4869/track_07_the_last_golden_leaves/track_07_the_last_golden_leaves_01.flac"
+                }
+              ],
+              "filename": "track_07_the_last_golden_leaves_01"
+            },
+            {
+              "id": "studio_batch_1224ecbcb37b4869/track_07_the_last_golden_leaves/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794600525.1692958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_1224ecbcb37b4869/track_07_the_last_golden_leaves/track_07_the_last_golden_leaves_02.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_1224ecbcb37b4869/track_07_the_last_golden_leaves/track_07_the_last_golden_leaves_02.flac"
+                }
+              ],
+              "filename": "track_07_the_last_golden_leaves_02"
+            },
+            {
+              "id": "studio_batch_1224ecbcb37b4869/track_07_the_last_golden_leaves/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794600525.1692958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_1224ecbcb37b4869/track_07_the_last_golden_leaves/track_07_the_last_golden_leaves_03.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_1224ecbcb37b4869/track_07_the_last_golden_leaves/track_07_the_last_golden_leaves_03.flac"
+                }
+              ],
+              "filename": "track_07_the_last_golden_leaves_03"
+            }
+          ]
+        },
+        {
+          "id": "the_wind_clears_the_branches_for_winter/track_08_the_branches_are_ready_for_winter/efb84aac73cad170",
+          "title": "Track 08 The Branches Are Ready For Winter",
+          "order": 8,
+          "prompt": "Solemn instrumental romantic string orchestra, 60 BPM, expressive solo violin supported by warm violas, deep cellos and sustained double basses. Slow measured pulse, spacious descending phrases, rich minor harmonies gradually resolving into quiet consonance, long gentle decrescendo, strings only, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_1224ecbcb37b4869/track_08_the_branches_are_ready_for_winter/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794600525.1692958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_1224ecbcb37b4869/track_08_the_branches_are_ready_for_winter/track_08_the_branches_are_ready_for_winter_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_1224ecbcb37b4869/track_08_the_branches_are_ready_for_winter/track_08_the_branches_are_ready_for_winter_01.flac"
+                }
+              ],
+              "filename": "track_08_the_branches_are_ready_for_winter_01"
+            },
+            {
+              "id": "studio_batch_1224ecbcb37b4869/track_08_the_branches_are_ready_for_winter/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794600525.1692958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_1224ecbcb37b4869/track_08_the_branches_are_ready_for_winter/track_08_the_branches_are_ready_for_winter_02.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_1224ecbcb37b4869/track_08_the_branches_are_ready_for_winter/track_08_the_branches_are_ready_for_winter_02.flac"
+                }
+              ],
+              "filename": "track_08_the_branches_are_ready_for_winter_02"
+            },
+            {
+              "id": "studio_batch_1224ecbcb37b4869/track_08_the_branches_are_ready_for_winter/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794600525.1692958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_1224ecbcb37b4869/track_08_the_branches_are_ready_for_winter/track_08_the_branches_are_ready_for_winter_03.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_1224ecbcb37b4869/track_08_the_branches_are_ready_for_winter/track_08_the_branches_are_ready_for_winter_03.flac"
+                }
+              ],
+              "filename": "track_08_the_branches_are_ready_for_winter_03"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "batch_experiment_01",
+      "title": "Batch Experiment 01",
+      "description": "",
+      "scenes": [
+        {
+          "id": "batch_experiment_01/quiet_lake/d85d665f6c4fe81d",
+          "title": "Quiet Lake",
+          "order": 1,
+          "prompt": "Minimal instrumental ambient music, gentle piano, soft sustained strings, quiet lake at dawn, spacious and delicate, no vocals.",
+          "recordings": [
+            {
+              "id": "batch_experiment_01/quiet_lake/quiet_lake_01",
+              "model": "turbo",
+              "timestamp": 1793294554.3777695,
+              "filename": "quiet_lake_01",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_01/quiet_lake/quiet_lake_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_01/quiet_lake/quiet_lake_01.flac"
+                }
+              ]
+            },
+            {
+              "id": "batch_experiment_01/quiet_lake/quiet_lake_02",
+              "model": "turbo",
+              "timestamp": 1793294554.3777695,
+              "filename": "quiet_lake_02",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_01/quiet_lake/quiet_lake_02.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_01/quiet_lake/quiet_lake_02.flac"
+                }
+              ]
+            },
+            {
+              "id": "batch_experiment_01/quiet_lake/quiet_lake_03",
+              "model": "turbo",
+              "timestamp": 1793294554.3777695,
+              "filename": "quiet_lake_03",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_01/quiet_lake/quiet_lake_03.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_01/quiet_lake/quiet_lake_03.flac"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "batch_experiment_01/forest_rhythm/f618d6faf3605486",
+          "title": "Forest Rhythm",
+          "order": 2,
+          "prompt": "Playful acoustic instrumental music, light wooden percussion, pizzicato strings, small forest creatures moving through autumn leaves, no vocals.",
+          "recordings": [
+            {
+              "id": "batch_experiment_01/forest_rhythm/forest_rhythm_01",
+              "model": "turbo",
+              "timestamp": 1793294554.3777695,
+              "filename": "forest_rhythm_01",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_01/forest_rhythm/forest_rhythm_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_01/forest_rhythm/forest_rhythm_01.flac"
+                }
+              ]
+            },
+            {
+              "id": "batch_experiment_01/forest_rhythm/forest_rhythm_02",
+              "model": "turbo",
+              "timestamp": 1793294554.3777695,
+              "filename": "forest_rhythm_02",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_01/forest_rhythm/forest_rhythm_02.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_01/forest_rhythm/forest_rhythm_02.flac"
+                }
+              ]
+            },
+            {
+              "id": "batch_experiment_01/forest_rhythm/forest_rhythm_03",
+              "model": "turbo",
+              "timestamp": 1793294554.3777695,
+              "filename": "forest_rhythm_03",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_01/forest_rhythm/forest_rhythm_03.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_01/forest_rhythm/forest_rhythm_03.flac"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "batch_experiment_02",
+      "title": "Batch Experiment 02",
+      "description": "",
+      "scenes": [
+        {
+          "id": "batch_experiment_02/misty_lake/a4039cd6b65b1430",
+          "title": "Misty Lake",
+          "order": 1,
+          "prompt": "Delicate instrumental ambient music, gentle piano, airy strings, quiet lake covered in morning mist, slow evolving harmonies, intimate and spacious, no vocals.",
+          "recordings": [
+            {
+              "id": "batch_experiment_02/misty_lake/misty_lake_01",
+              "model": "turbo",
+              "timestamp": 1793298183.0982366,
+              "filename": "misty_lake_01",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_02/misty_lake/misty_lake_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_02/misty_lake/misty_lake_01.flac"
+                }
+              ]
+            },
+            {
+              "id": "batch_experiment_02/misty_lake/misty_lake_02",
+              "model": "turbo",
+              "timestamp": 1793298183.0982366,
+              "filename": "misty_lake_02",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_02/misty_lake/misty_lake_02.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_02/misty_lake/misty_lake_02.flac"
+                }
+              ]
+            },
+            {
+              "id": "batch_experiment_02/misty_lake/misty_lake_03",
+              "model": "turbo",
+              "timestamp": 1793298183.0982366,
+              "filename": "misty_lake_03",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_02/misty_lake/misty_lake_03.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_02/misty_lake/misty_lake_03.flac"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "batch_experiment_02/winter_chamber/89cbc02cc87eebdf",
+          "title": "Winter Chamber",
+          "order": 2,
+          "prompt": "Intimate classical chamber music for cello, viola and piano, restrained emotional expression, warm acoustic resonance, elegant melodic dialogue, no vocals.",
+          "recordings": [
+            {
+              "id": "batch_experiment_02/winter_chamber/winter_chamber_01",
+              "model": "turbo",
+              "timestamp": 1793298183.0982366,
+              "filename": "winter_chamber_01",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_02/winter_chamber/winter_chamber_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_02/winter_chamber/winter_chamber_01.flac"
+                }
+              ]
+            },
+            {
+              "id": "batch_experiment_02/winter_chamber/winter_chamber_02",
+              "model": "turbo",
+              "timestamp": 1793298183.0982366,
+              "filename": "winter_chamber_02",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_02/winter_chamber/winter_chamber_02.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_02/winter_chamber/winter_chamber_02.flac"
+                }
+              ]
+            },
+            {
+              "id": "batch_experiment_02/winter_chamber/winter_chamber_03",
+              "model": "turbo",
+              "timestamp": 1793298183.0982366,
+              "filename": "winter_chamber_03",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_02/winter_chamber/winter_chamber_03.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_02/winter_chamber/winter_chamber_03.flac"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "batch_experiment_02/forest_folk/d10969cb7d9b2c0a",
+          "title": "Forest Folk",
+          "order": 3,
+          "prompt": "Gentle acoustic folk instrumental, fingerpicked guitar, wooden flute and soft hand percussion, wandering through an autumn forest, organic and melodic, no vocals.",
+          "recordings": [
+            {
+              "id": "batch_experiment_02/forest_folk/forest_folk_01",
+              "model": "turbo",
+              "timestamp": 1793298183.0982366,
+              "filename": "forest_folk_01",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_02/forest_folk/forest_folk_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_02/forest_folk/forest_folk_01.flac"
+                }
+              ]
+            },
+            {
+              "id": "batch_experiment_02/forest_folk/forest_folk_02",
+              "model": "turbo",
+              "timestamp": 1793298183.0982366,
+              "filename": "forest_folk_02",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_02/forest_folk/forest_folk_02.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_02/forest_folk/forest_folk_02.flac"
+                }
+              ]
+            },
+            {
+              "id": "batch_experiment_02/forest_folk/forest_folk_03",
+              "model": "turbo",
+              "timestamp": 1793298183.0982366,
+              "filename": "forest_folk_03",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_02/forest_folk/forest_folk_03.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_02/forest_folk/forest_folk_03.flac"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "batch_experiment_02/mushroom_dance/90ff76bc2bde6bae",
+          "title": "Mushroom Dance",
+          "order": 4,
+          "prompt": "Playful instrumental miniature, pizzicato strings, marimba, light wooden percussion, curious tiny creatures dancing together, whimsical rhythms and clear melodic motifs, no vocals.",
+          "recordings": [
+            {
+              "id": "batch_experiment_02/mushroom_dance/mushroom_dance_01",
+              "model": "turbo",
+              "timestamp": 1793298183.0982366,
+              "filename": "mushroom_dance_01",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_02/mushroom_dance/mushroom_dance_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_02/mushroom_dance/mushroom_dance_01.flac"
+                }
+              ]
+            },
+            {
+              "id": "batch_experiment_02/mushroom_dance/mushroom_dance_02",
+              "model": "turbo",
+              "timestamp": 1793298183.0982366,
+              "filename": "mushroom_dance_02",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_02/mushroom_dance/mushroom_dance_02.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_02/mushroom_dance/mushroom_dance_02.flac"
+                }
+              ]
+            },
+            {
+              "id": "batch_experiment_02/mushroom_dance/mushroom_dance_03",
+              "model": "turbo",
+              "timestamp": 1793298183.0982366,
+              "filename": "mushroom_dance_03",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_02/mushroom_dance/mushroom_dance_03.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_02/mushroom_dance/mushroom_dance_03.flac"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "batch_experiment_02/night_signals/065ac6a2cc254715",
+          "title": "Night Signals",
+          "order": 5,
+          "prompt": "Minimalist electronic instrumental, soft analog synthesizers, delicate repeating patterns, subtle bass pulses, distant nighttime signals, atmospheric and contemplative, no vocals.",
+          "recordings": [
+            {
+              "id": "batch_experiment_02/night_signals/night_signals_01",
+              "model": "turbo",
+              "timestamp": 1793298183.0982366,
+              "filename": "night_signals_01",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_02/night_signals/night_signals_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_02/night_signals/night_signals_01.flac"
+                }
+              ]
+            },
+            {
+              "id": "batch_experiment_02/night_signals/night_signals_02",
+              "model": "turbo",
+              "timestamp": 1793298183.0982366,
+              "filename": "night_signals_02",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_02/night_signals/night_signals_02.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_02/night_signals/night_signals_02.flac"
+                }
+              ]
+            },
+            {
+              "id": "batch_experiment_02/night_signals/night_signals_03",
+              "model": "turbo",
+              "timestamp": 1793298183.0982366,
+              "filename": "night_signals_03",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_02/night_signals/night_signals_03.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_02/night_signals/night_signals_03.flac"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "batch_experiment_03",
+      "title": "Batch Experiment 03",
+      "description": "",
+      "scenes": [
+        {
+          "id": "batch_experiment_03/misty_lake/393e92bb9391d04c",
+          "title": "Misty Lake",
+          "order": 1,
+          "prompt": "Ambient piano and soft strings, 70 BPM, steady 4/4. Calm and slightly mysterious.",
+          "recordings": [
+            {
+              "id": "batch_experiment_03/misty_lake/misty_lake_01",
+              "model": "turbo",
+              "timestamp": 1793302337.1090398,
+              "filename": "misty_lake_01",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_03/misty_lake/misty_lake_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_03/misty_lake/misty_lake_01.flac"
+                }
+              ]
+            },
+            {
+              "id": "batch_experiment_03/misty_lake/misty_lake_02",
+              "model": "turbo",
+              "timestamp": 1793302337.1090398,
+              "filename": "misty_lake_02",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_03/misty_lake/misty_lake_02.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_03/misty_lake/misty_lake_02.flac"
+                }
+              ]
+            },
+            {
+              "id": "batch_experiment_03/misty_lake/misty_lake_03",
+              "model": "turbo",
+              "timestamp": 1793302337.1090398,
+              "filename": "misty_lake_03",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_03/misty_lake/misty_lake_03.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_03/misty_lake/misty_lake_03.flac"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "batch_experiment_03/winter_chamber/087507f865d44a28",
+          "title": "Winter Chamber",
+          "order": 2,
+          "prompt": "Cello, viola and piano, 65 BPM, steady 3/4. Warm, intimate and melancholic.",
+          "recordings": [
+            {
+              "id": "batch_experiment_03/winter_chamber/winter_chamber_01",
+              "model": "turbo",
+              "timestamp": 1793302337.1090398,
+              "filename": "winter_chamber_01",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_03/winter_chamber/winter_chamber_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_03/winter_chamber/winter_chamber_01.flac"
+                }
+              ]
+            },
+            {
+              "id": "batch_experiment_03/winter_chamber/winter_chamber_02",
+              "model": "turbo",
+              "timestamp": 1793302337.1090398,
+              "filename": "winter_chamber_02",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_03/winter_chamber/winter_chamber_02.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_03/winter_chamber/winter_chamber_02.flac"
+                }
+              ]
+            },
+            {
+              "id": "batch_experiment_03/winter_chamber/winter_chamber_03",
+              "model": "turbo",
+              "timestamp": 1793302337.1090398,
+              "filename": "winter_chamber_03",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_03/winter_chamber/winter_chamber_03.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_03/winter_chamber/winter_chamber_03.flac"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "batch_experiment_03/forest_folk/501f114e59fe76ec",
+          "title": "Forest Folk",
+          "order": 3,
+          "prompt": "Acoustic guitar and wooden flute, 90 BPM, steady 4/4. Gentle and quietly adventurous.",
+          "recordings": [
+            {
+              "id": "batch_experiment_03/forest_folk/forest_folk_01",
+              "model": "turbo",
+              "timestamp": 1793302337.1090398,
+              "filename": "forest_folk_01",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_03/forest_folk/forest_folk_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_03/forest_folk/forest_folk_01.flac"
+                }
+              ]
+            },
+            {
+              "id": "batch_experiment_03/forest_folk/forest_folk_02",
+              "model": "turbo",
+              "timestamp": 1793302337.1090398,
+              "filename": "forest_folk_02",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_03/forest_folk/forest_folk_02.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_03/forest_folk/forest_folk_02.flac"
+                }
+              ]
+            },
+            {
+              "id": "batch_experiment_03/forest_folk/forest_folk_03",
+              "model": "turbo",
+              "timestamp": 1793302337.1090398,
+              "filename": "forest_folk_03",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_03/forest_folk/forest_folk_03.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_03/forest_folk/forest_folk_03.flac"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "batch_experiment_03/mushroom_dance/b04a0f315ed9ebb3",
+          "title": "Mushroom Dance",
+          "order": 4,
+          "prompt": "Pizzicato strings and marimba, 110 BPM, steady 4/4. Playful, curious and cheerful.",
+          "recordings": [
+            {
+              "id": "batch_experiment_03/mushroom_dance/mushroom_dance_01",
+              "model": "turbo",
+              "timestamp": 1793302337.1090398,
+              "filename": "mushroom_dance_01",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_03/mushroom_dance/mushroom_dance_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_03/mushroom_dance/mushroom_dance_01.flac"
+                }
+              ]
+            },
+            {
+              "id": "batch_experiment_03/mushroom_dance/mushroom_dance_02",
+              "model": "turbo",
+              "timestamp": 1793302337.1090398,
+              "filename": "mushroom_dance_02",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_03/mushroom_dance/mushroom_dance_02.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_03/mushroom_dance/mushroom_dance_02.flac"
+                }
+              ]
+            },
+            {
+              "id": "batch_experiment_03/mushroom_dance/mushroom_dance_03",
+              "model": "turbo",
+              "timestamp": 1793302337.1090398,
+              "filename": "mushroom_dance_03",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_03/mushroom_dance/mushroom_dance_03.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_03/mushroom_dance/mushroom_dance_03.flac"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "batch_experiment_03/night_signals/200cf0164e0ee279",
+          "title": "Night Signals",
+          "order": 5,
+          "prompt": "Analog synthesizers and soft bass, 80 BPM, steady 4/4. Dreamy and a little lonely.",
+          "recordings": [
+            {
+              "id": "batch_experiment_03/night_signals/night_signals_01",
+              "model": "turbo",
+              "timestamp": 1793302337.1090398,
+              "filename": "night_signals_01",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_03/night_signals/night_signals_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_03/night_signals/night_signals_01.flac"
+                }
+              ]
+            },
+            {
+              "id": "batch_experiment_03/night_signals/night_signals_02",
+              "model": "turbo",
+              "timestamp": 1793302337.1090398,
+              "filename": "night_signals_02",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_03/night_signals/night_signals_02.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_03/night_signals/night_signals_02.flac"
+                }
+              ]
+            },
+            {
+              "id": "batch_experiment_03/night_signals/night_signals_03",
+              "model": "turbo",
+              "timestamp": 1793302337.1090398,
+              "filename": "night_signals_03",
+              "audio": {
+                "format": "flac",
+                "url": "batch_experiment_03/night_signals/night_signals_03.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "batch_experiment_03/night_signals/night_signals_03.flac"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "studio_batch_da4c7d3c109447f8",
+      "title": "Studio Batch Da4C7D3C109447F8",
+      "description": "",
+      "scenes": [
+        {
+          "id": "studio_batch_da4c7d3c109447f8/track_01_misty_lake/b320a16d85c38658",
+          "title": "Track 01 Misty Lake",
+          "order": 1,
+          "prompt": "Quiet instrumental ambient music, gentle piano, soft sustained strings, spacious atmosphere, slow and peaceful, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_da4c7d3c109447f8/track_01_misty_lake/track_01_misty_lake_01",
+              "model": "turbo",
+              "timestamp": 1793344468.8298423,
+              "filename": "track_01_misty_lake_01",
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_da4c7d3c109447f8/track_01_misty_lake/track_01_misty_lake_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_da4c7d3c109447f8/track_01_misty_lake/track_01_misty_lake_01.flac"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "studio_batch_da4c7d3c109447f8/track_02_mushroom_morning/b53443bc3e8565ad",
+          "title": "Track 02 Mushroom Morning",
+          "order": 2,
+          "prompt": "Warm acoustic instrumental miniature, delicate plucked strings, soft wooden percussion, playful but calm, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_da4c7d3c109447f8/track_02_mushroom_morning/track_02_mushroom_morning_01",
+              "model": "turbo",
+              "timestamp": 1793344468.8298423,
+              "filename": "track_02_mushroom_morning_01",
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_da4c7d3c109447f8/track_02_mushroom_morning/track_02_mushroom_morning_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_da4c7d3c109447f8/track_02_mushroom_morning/track_02_mushroom_morning_01.flac"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
