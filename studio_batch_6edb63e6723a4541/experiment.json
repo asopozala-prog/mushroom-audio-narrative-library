@@ -1,0 +1,380 @@
+{
+  "schema_version": 1,
+  "batch_id": "studio_batch_6edb63e6723a4541",
+  "archive_label": "20261115_082530_the_depths_where_life_meets_death",
+  "batch_theme": "the_depths_where_life_meets_death",
+  "generation_started_at": 1794727530.55854,
+  "model": {
+    "family": "ACE-Step",
+    "checkpoint_name": "acestep-v15-sft",
+    "checkpoint_revision": null,
+    "route": "sft_lm"
+  },
+  "generation": {
+    "prompts": [
+      {
+        "output_name": "track_01_batch_story",
+        "prompt": "One November evening, a licensed diver introduces a friend to the mysterious world beneath the water, showing his diving equipment and explaining the extraordinary concentration, discipline, and precision required to explore the depths. He tells stories of remarkable divers who spent years training their bodies and minds, challenging records and reaching places few humans have ever experienced. Some never returned, and their deaths reveal how narrow the boundary between human achievement and mortality can become. Yet what is most moving is that all their preparation, calculations, training, and courage were devoted not to dying, but to remaining alive while experiencing something extraordinary. Beneath the surface lies a world of unfamiliar sensations, immense beauty, physical limits, and profound silence. This is a story about the human desire to experience life so intensely that people learn to approach the edge of death with extraordinary care.",
+        "duration_seconds": 45,
+        "variations": 1
+      },
+      {
+        "output_name": "track_02_the_first_lesson_about_depth",
+        "prompt": "Instrumental contemporary classical chamber music, 72 BPM, expressive solo cello, warm piano and restrained violins. Measured rhythmic pulse, clear descending melody, rich minor harmonies, thoughtful gradual development, intimate natural acoustics, no vocals.",
+        "duration_seconds": 45,
+        "variations": 1
+      },
+      {
+        "output_name": "track_03_the_equipment_that_keeps_you_alive",
+        "prompt": "Instrumental minimalist classical music, 84 BPM, precise pizzicato violins, rhythmic cellos and repeating piano figures. Interlocking patterns, steady measured pulse, disciplined articulation, subtle harmonic changes, controlled dynamics, no vocals.",
+        "duration_seconds": 45,
+        "variations": 1
+      },
+      {
+        "output_name": "track_04_every_detail_matters",
+        "prompt": "Instrumental neoclassical chamber music, 96 BPM, solo violin, piano and cello. Precise repeating sixteenth-note patterns, clear rhythmic structure, interwoven melodic phrases, gradually increasing tension, restrained minor harmonies, no vocals.",
+        "duration_seconds": 45,
+        "variations": 1
+      },
+      {
+        "output_name": "track_05_the_body_enters_another_world",
+        "prompt": "Atmospheric instrumental ambient electronic music, 60 BPM, deep analog synthesizer, soft pulsing bass and slowly evolving electronic textures. Continuous gentle pulse, suspended minor harmonies, spacious resonant atmosphere, gradual tonal movement, no vocals.",
+        "duration_seconds": 45,
+        "variations": 1
+      },
+      {
+        "output_name": "track_06_beneath_the_surface_of_light",
+        "prompt": "Instrumental contemporary classical music, 66 BPM, lyrical solo violin over sustained cellos and warm string ensemble. Long descending melodic phrases, slow wave-like crescendos, luminous shifting harmonies, delicate emotional intensity, strings only, no vocals.",
+        "duration_seconds": 45,
+        "variations": 1
+      },
+      {
+        "output_name": "track_07_the_beauty_no_one_can_bring_home",
+        "prompt": "Instrumental romantic orchestral music, 70 BPM, expressive solo cello, lyrical violins and warm French horns. Broad ascending melody, rich harmonic movement, gradual orchestral expansion, majestic restrained dynamics, no percussion, no vocals.",
+        "duration_seconds": 45,
+        "variations": 1
+      },
+      {
+        "output_name": "track_08_the_depth_of_concentration",
+        "prompt": "Instrumental minimalist electronic music, 76 BPM, deep rounded synthesizer bass, precise repeating arpeggios and restrained electronic percussion. Stable rhythmic pulse, narrow melodic motifs, subtle evolving harmonies, focused controlled intensity, no vocals.",
+        "duration_seconds": 45,
+        "variations": 1
+      },
+      {
+        "output_name": "track_09_those_who_went_further",
+        "prompt": "Instrumental dramatic string orchestra, 108 BPM, powerful first violins, rhythmic violas, deep cellos and double basses. Driving ostinato, urgent ascending melodic phrases, strong minor-key harmonies, controlled orchestral crescendos, strings only, no vocals.",
+        "duration_seconds": 45,
+        "variations": 1
+      },
+      {
+        "output_name": "track_10_the_silence_after_a_record",
+        "prompt": "Solemn instrumental contemporary chamber music, 58 BPM, expressive solo cello, soft piano and sustained viola. Slow measured rhythm, descending minor melody, restrained dissonance resolving into quiet consonance, intimate acoustic recording, no vocals.",
+        "duration_seconds": 45,
+        "variations": 1
+      },
+      {
+        "output_name": "track_11_not_for_death_but_for_life",
+        "prompt": "Passionate instrumental romantic violin concerto, 88 BPM, expressive solo violin supported by full string orchestra. Strong ascending melody, energetic rhythmic movement, rich minor-to-major harmonic development, powerful controlled crescendo, strings only, no vocals.",
+        "duration_seconds": 45,
+        "variations": 1
+      },
+      {
+        "output_name": "track_12_the_courage_of_remaining_alive",
+        "prompt": "Instrumental contemporary orchestral music, 92 BPM, noble French horns, lyrical violins, deep cellos and warm orchestral strings. Firm measured pulse, expansive melodic phrases, rich major-minor harmonies, gradual luminous crescendo, dignified emotional strength, no vocals.",
+        "duration_seconds": 45,
+        "variations": 1
+      },
+      {
+        "output_name": "track_13_returning_to_the_world_of_air",
+        "prompt": "Tender instrumental neoclassical chamber music, 68 BPM, warm solo cello, expressive violin and gentle piano. Steady relaxed pulse, simple ascending melody, soft major harmonies with lingering minor colors, gradual peaceful resolution, intimate natural acoustics, no vocals.",
+        "duration_seconds": 45,
+        "variations": 1
+      }
+    ],
+    "requested_audio_format": "flac"
+  },
+  "kaggle_manifest": [
+    {
+      "output_name": "track_01_batch_story",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_6edb63e6723a4541/track_01_batch_story/b78303f9-6aab-0323-1468-bcae0cbab8d8.flac"
+      ],
+      "requested_variations": 1,
+      "generated_variations": 1,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_02_the_first_lesson_about_depth",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_6edb63e6723a4541/track_02_the_first_lesson_about_depth/a342c3dd-2a95-91a8-c43b-ca3254435aa8.flac"
+      ],
+      "requested_variations": 1,
+      "generated_variations": 1,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_03_the_equipment_that_keeps_you_alive",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_6edb63e6723a4541/track_03_the_equipment_that_keeps_you_alive/de7a61e0-8772-46c1-6ffd-4574c23e1088.flac"
+      ],
+      "requested_variations": 1,
+      "generated_variations": 1,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_04_every_detail_matters",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_6edb63e6723a4541/track_04_every_detail_matters/055dcacc-c8df-ddde-c54f-f5e9045084e2.flac"
+      ],
+      "requested_variations": 1,
+      "generated_variations": 1,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_05_the_body_enters_another_world",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_6edb63e6723a4541/track_05_the_body_enters_another_world/b3d3e833-b114-7f99-a7d2-56b26a604ec0.flac"
+      ],
+      "requested_variations": 1,
+      "generated_variations": 1,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_06_beneath_the_surface_of_light",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_6edb63e6723a4541/track_06_beneath_the_surface_of_light/f3233dea-5901-a449-f70d-c21e4e7bb8da.flac"
+      ],
+      "requested_variations": 1,
+      "generated_variations": 1,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_07_the_beauty_no_one_can_bring_home",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_6edb63e6723a4541/track_07_the_beauty_no_one_can_bring_home/00ab0340-b49a-30b9-68a8-51d5c7c21858.flac"
+      ],
+      "requested_variations": 1,
+      "generated_variations": 1,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_08_the_depth_of_concentration",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_6edb63e6723a4541/track_08_the_depth_of_concentration/425d9560-6570-2764-1dad-b3b314b186c3.flac"
+      ],
+      "requested_variations": 1,
+      "generated_variations": 1,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_09_those_who_went_further",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_6edb63e6723a4541/track_09_those_who_went_further/c88b1aca-ccf9-18b6-6d5e-6bbd33e4897a.flac"
+      ],
+      "requested_variations": 1,
+      "generated_variations": 1,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_10_the_silence_after_a_record",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_6edb63e6723a4541/track_10_the_silence_after_a_record/43a83eb9-819a-7c16-6b79-cd6aa9ef6034.flac"
+      ],
+      "requested_variations": 1,
+      "generated_variations": 1,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_11_not_for_death_but_for_life",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_6edb63e6723a4541/track_11_not_for_death_but_for_life/0a417ad5-51f2-f28d-bb12-dd11a20c7bdf.flac"
+      ],
+      "requested_variations": 1,
+      "generated_variations": 1,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_12_the_courage_of_remaining_alive",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_6edb63e6723a4541/track_12_the_courage_of_remaining_alive/22a8b61a-6e8a-eab6-3adb-87003c0e7de5.flac"
+      ],
+      "requested_variations": 1,
+      "generated_variations": 1,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_13_returning_to_the_world_of_air",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_6edb63e6723a4541/track_13_returning_to_the_world_of_air/691f969e-91b4-6e42-0e53-114e7304c25f.flac"
+      ],
+      "requested_variations": 1,
+      "generated_variations": 1,
+      "missing_variations": 0
+    }
+  ],
+  "outputs": [
+    {
+      "composition": "track_01_batch_story",
+      "variation": 1,
+      "filename": "track_01_batch_story_01.flac",
+      "relative_path": "track_01_batch_story/track_01_batch_story_01.flac",
+      "size_bytes": 9543332,
+      "sha256": "73d15fc351c97974bb21b335bd681d24a6aff1aa177609085ce329b40d60b8b8",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_the_first_lesson_about_depth",
+      "variation": 1,
+      "filename": "track_02_the_first_lesson_about_depth_01.flac",
+      "relative_path": "track_02_the_first_lesson_about_depth/track_02_the_first_lesson_about_depth_01.flac",
+      "size_bytes": 7894732,
+      "sha256": "83b740faeb795a9321ef4c699f1aeec7dc95bbee0f696d0e62425880342a6008",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_the_equipment_that_keeps_you_alive",
+      "variation": 1,
+      "filename": "track_03_the_equipment_that_keeps_you_alive_01.flac",
+      "relative_path": "track_03_the_equipment_that_keeps_you_alive/track_03_the_equipment_that_keeps_you_alive_01.flac",
+      "size_bytes": 8684519,
+      "sha256": "7b7613f789661f096c63d77c0c42f8e961c5fa47439b2b4710728c64ab094f1b",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_every_detail_matters",
+      "variation": 1,
+      "filename": "track_04_every_detail_matters_01.flac",
+      "relative_path": "track_04_every_detail_matters/track_04_every_detail_matters_01.flac",
+      "size_bytes": 8060965,
+      "sha256": "ae088a49d917c6b5be0d10622726689b83b2194220e17869edc8e182f02c247f",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_body_enters_another_world",
+      "variation": 1,
+      "filename": "track_05_the_body_enters_another_world_01.flac",
+      "relative_path": "track_05_the_body_enters_another_world/track_05_the_body_enters_another_world_01.flac",
+      "size_bytes": 8730933,
+      "sha256": "cef5a2b482e2ded14ce2c9e7f881e236210be9648b2c6e59a36185f2c04726da",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_beneath_the_surface_of_light",
+      "variation": 1,
+      "filename": "track_06_beneath_the_surface_of_light_01.flac",
+      "relative_path": "track_06_beneath_the_surface_of_light/track_06_beneath_the_surface_of_light_01.flac",
+      "size_bytes": 8232191,
+      "sha256": "53298bb9ccd35070dc53058ddaa1c39b03d6ed0125a44467b217ce8ca3878743",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_the_beauty_no_one_can_bring_home",
+      "variation": 1,
+      "filename": "track_07_the_beauty_no_one_can_bring_home_01.flac",
+      "relative_path": "track_07_the_beauty_no_one_can_bring_home/track_07_the_beauty_no_one_can_bring_home_01.flac",
+      "size_bytes": 8091768,
+      "sha256": "09f2d15e04f63ba817e16679eb65cd2f09155fd99ed4c564fb41733b48dcd03a",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_the_depth_of_concentration",
+      "variation": 1,
+      "filename": "track_08_the_depth_of_concentration_01.flac",
+      "relative_path": "track_08_the_depth_of_concentration/track_08_the_depth_of_concentration_01.flac",
+      "size_bytes": 8848932,
+      "sha256": "4289e18b851e14224ac91bf0b17cfbf1bcddf03bddb70c812b43ff1c13d76d57",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_09_those_who_went_further",
+      "variation": 1,
+      "filename": "track_09_those_who_went_further_01.flac",
+      "relative_path": "track_09_those_who_went_further/track_09_those_who_went_further_01.flac",
+      "size_bytes": 9107989,
+      "sha256": "cf1874040be33c582718f4e6feef5292f0c19a6d3d9dee838132d0747cc71b02",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_10_the_silence_after_a_record",
+      "variation": 1,
+      "filename": "track_10_the_silence_after_a_record_01.flac",
+      "relative_path": "track_10_the_silence_after_a_record/track_10_the_silence_after_a_record_01.flac",
+      "size_bytes": 7760215,
+      "sha256": "2d54143c4647840342826a2c48c2b2a7f8cba643a0aa1ff7ebb094e2e6aead97",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_11_not_for_death_but_for_life",
+      "variation": 1,
+      "filename": "track_11_not_for_death_but_for_life_01.flac",
+      "relative_path": "track_11_not_for_death_but_for_life/track_11_not_for_death_but_for_life_01.flac",
+      "size_bytes": 8654299,
+      "sha256": "a4458d5acf9708255715a19e58a60c7b5454d3ee3bff7c4025616682095828c0",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_12_the_courage_of_remaining_alive",
+      "variation": 1,
+      "filename": "track_12_the_courage_of_remaining_alive_01.flac",
+      "relative_path": "track_12_the_courage_of_remaining_alive/track_12_the_courage_of_remaining_alive_01.flac",
+      "size_bytes": 8550567,
+      "sha256": "925d34a22f752bd163a2b9bfaf501c5781d5ac4dc5979dc951e02a32d9f7715b",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_13_returning_to_the_world_of_air",
+      "variation": 1,
+      "filename": "track_13_returning_to_the_world_of_air_01.flac",
+      "relative_path": "track_13_returning_to_the_world_of_air/track_13_returning_to_the_world_of_air_01.flac",
+      "size_bytes": 7992895,
+      "sha256": "9fe1f52923a468758a5481b6f6038891c4cccb71c00dc80b3ff79f86ef65055a",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    }
+  ],
+  "completed_compositions": 13,
+  "partial_compositions": 0,
+  "failed_compositions": 0,
+  "requested_variations": 13,
+  "generated_variations": 13,
+  "missing_variations": 0,
+  "archive_completed_at_utc": "2026-11-15T07:40:36.763094+00:00"
+}

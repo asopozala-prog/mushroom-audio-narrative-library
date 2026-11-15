@@ -11286,6 +11286,325 @@
           ]
         }
       ]
+    },
+    {
+      "id": "the_depths_where_life_meets_death",
+      "title": "The Depths Where Life Meets Death",
+      "description": "One November evening, a licensed diver introduces a friend to the mysterious world beneath the water, showing his diving equipment and explaining the extraordinary concentration, discipline, and precision required to explore the depths. He tells stories of remarkable divers who spent years training their bodies and minds, challenging records and reaching places few humans have ever experienced. Some never returned, and their deaths reveal how narrow the boundary between human achievement and mortality can become. Yet what is most moving is that all their preparation, calculations, training, and courage were devoted not to dying, but to remaining alive while experiencing something extraordinary. Beneath the surface lies a world of unfamiliar sensations, immense beauty, physical limits, and profound silence. This is a story about the human desire to experience life so intensely that people learn to approach the edge of death with extraordinary care.",
+      "scenes": [
+        {
+          "id": "the_depths_where_life_meets_death/track_01_batch_story/aeb7e0c6aaad0370",
+          "title": "Track 01 Batch Story",
+          "order": 1,
+          "prompt": "One November evening, a licensed diver introduces a friend to the mysterious world beneath the water, showing his diving equipment and explaining the extraordinary concentration, discipline, and precision required to explore the depths. He tells stories of remarkable divers who spent years training their bodies and minds, challenging records and reaching places few humans have ever experienced. Some never returned, and their deaths reveal how narrow the boundary between human achievement and mortality can become. Yet what is most moving is that all their preparation, calculations, training, and courage were devoted not to dying, but to remaining alive while experiencing something extraordinary. Beneath the surface lies a world of unfamiliar sensations, immense beauty, physical limits, and profound silence. This is a story about the human desire to experience life so intensely that people learn to approach the edge of death with extraordinary care.",
+          "recordings": [
+            {
+              "id": "studio_batch_6edb63e6723a4541/track_01_batch_story/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794727530.55854,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_6edb63e6723a4541/track_01_batch_story/track_01_batch_story_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_6edb63e6723a4541/track_01_batch_story/track_01_batch_story_01.flac"
+                }
+              ],
+              "filename": "track_01_batch_story_01"
+            }
+          ]
+        },
+        {
+          "id": "the_depths_where_life_meets_death/track_02_the_first_lesson_about_depth/be1763832070c772",
+          "title": "Track 02 The First Lesson About Depth",
+          "order": 2,
+          "prompt": "Instrumental contemporary classical chamber music, 72 BPM, expressive solo cello, warm piano and restrained violins. Measured rhythmic pulse, clear descending melody, rich minor harmonies, thoughtful gradual development, intimate natural acoustics, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_6edb63e6723a4541/track_02_the_first_lesson_about_depth/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794727530.55854,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_6edb63e6723a4541/track_02_the_first_lesson_about_depth/track_02_the_first_lesson_about_depth_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_6edb63e6723a4541/track_02_the_first_lesson_about_depth/track_02_the_first_lesson_about_depth_01.flac"
+                }
+              ],
+              "filename": "track_02_the_first_lesson_about_depth_01"
+            }
+          ]
+        },
+        {
+          "id": "the_depths_where_life_meets_death/track_03_the_equipment_that_keeps_you_alive/b4c447be427fd285",
+          "title": "Track 03 The Equipment That Keeps You Alive",
+          "order": 3,
+          "prompt": "Instrumental minimalist classical music, 84 BPM, precise pizzicato violins, rhythmic cellos and repeating piano figures. Interlocking patterns, steady measured pulse, disciplined articulation, subtle harmonic changes, controlled dynamics, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_6edb63e6723a4541/track_03_the_equipment_that_keeps_you_alive/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794727530.55854,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_6edb63e6723a4541/track_03_the_equipment_that_keeps_you_alive/track_03_the_equipment_that_keeps_you_alive_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_6edb63e6723a4541/track_03_the_equipment_that_keeps_you_alive/track_03_the_equipment_that_keeps_you_alive_01.flac"
+                }
+              ],
+              "filename": "track_03_the_equipment_that_keeps_you_alive_01"
+            }
+          ]
+        },
+        {
+          "id": "the_depths_where_life_meets_death/track_04_every_detail_matters/b97d792701afaeed",
+          "title": "Track 04 Every Detail Matters",
+          "order": 4,
+          "prompt": "Instrumental neoclassical chamber music, 96 BPM, solo violin, piano and cello. Precise repeating sixteenth-note patterns, clear rhythmic structure, interwoven melodic phrases, gradually increasing tension, restrained minor harmonies, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_6edb63e6723a4541/track_04_every_detail_matters/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794727530.55854,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_6edb63e6723a4541/track_04_every_detail_matters/track_04_every_detail_matters_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_6edb63e6723a4541/track_04_every_detail_matters/track_04_every_detail_matters_01.flac"
+                }
+              ],
+              "filename": "track_04_every_detail_matters_01"
+            }
+          ]
+        },
+        {
+          "id": "the_depths_where_life_meets_death/track_05_the_body_enters_another_world/7f386ff795959289",
+          "title": "Track 05 The Body Enters Another World",
+          "order": 5,
+          "prompt": "Atmospheric instrumental ambient electronic music, 60 BPM, deep analog synthesizer, soft pulsing bass and slowly evolving electronic textures. Continuous gentle pulse, suspended minor harmonies, spacious resonant atmosphere, gradual tonal movement, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_6edb63e6723a4541/track_05_the_body_enters_another_world/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794727530.55854,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_6edb63e6723a4541/track_05_the_body_enters_another_world/track_05_the_body_enters_another_world_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_6edb63e6723a4541/track_05_the_body_enters_another_world/track_05_the_body_enters_another_world_01.flac"
+                }
+              ],
+              "filename": "track_05_the_body_enters_another_world_01"
+            }
+          ]
+        },
+        {
+          "id": "the_depths_where_life_meets_death/track_06_beneath_the_surface_of_light/0ad0aaafc6b70f70",
+          "title": "Track 06 Beneath The Surface Of Light",
+          "order": 6,
+          "prompt": "Instrumental contemporary classical music, 66 BPM, lyrical solo violin over sustained cellos and warm string ensemble. Long descending melodic phrases, slow wave-like crescendos, luminous shifting harmonies, delicate emotional intensity, strings only, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_6edb63e6723a4541/track_06_beneath_the_surface_of_light/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794727530.55854,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_6edb63e6723a4541/track_06_beneath_the_surface_of_light/track_06_beneath_the_surface_of_light_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_6edb63e6723a4541/track_06_beneath_the_surface_of_light/track_06_beneath_the_surface_of_light_01.flac"
+                }
+              ],
+              "filename": "track_06_beneath_the_surface_of_light_01"
+            }
+          ]
+        },
+        {
+          "id": "the_depths_where_life_meets_death/track_07_the_beauty_no_one_can_bring_home/eb70c0dbbd7927cc",
+          "title": "Track 07 The Beauty No One Can Bring Home",
+          "order": 7,
+          "prompt": "Instrumental romantic orchestral music, 70 BPM, expressive solo cello, lyrical violins and warm French horns. Broad ascending melody, rich harmonic movement, gradual orchestral expansion, majestic restrained dynamics, no percussion, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_6edb63e6723a4541/track_07_the_beauty_no_one_can_bring_home/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794727530.55854,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_6edb63e6723a4541/track_07_the_beauty_no_one_can_bring_home/track_07_the_beauty_no_one_can_bring_home_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_6edb63e6723a4541/track_07_the_beauty_no_one_can_bring_home/track_07_the_beauty_no_one_can_bring_home_01.flac"
+                }
+              ],
+              "filename": "track_07_the_beauty_no_one_can_bring_home_01"
+            }
+          ]
+        },
+        {
+          "id": "the_depths_where_life_meets_death/track_08_the_depth_of_concentration/80d653f01f93996a",
+          "title": "Track 08 The Depth Of Concentration",
+          "order": 8,
+          "prompt": "Instrumental minimalist electronic music, 76 BPM, deep rounded synthesizer bass, precise repeating arpeggios and restrained electronic percussion. Stable rhythmic pulse, narrow melodic motifs, subtle evolving harmonies, focused controlled intensity, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_6edb63e6723a4541/track_08_the_depth_of_concentration/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794727530.55854,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_6edb63e6723a4541/track_08_the_depth_of_concentration/track_08_the_depth_of_concentration_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_6edb63e6723a4541/track_08_the_depth_of_concentration/track_08_the_depth_of_concentration_01.flac"
+                }
+              ],
+              "filename": "track_08_the_depth_of_concentration_01"
+            }
+          ]
+        },
+        {
+          "id": "the_depths_where_life_meets_death/track_09_those_who_went_further/398d784dc6b514a3",
+          "title": "Track 09 Those Who Went Further",
+          "order": 9,
+          "prompt": "Instrumental dramatic string orchestra, 108 BPM, powerful first violins, rhythmic violas, deep cellos and double basses. Driving ostinato, urgent ascending melodic phrases, strong minor-key harmonies, controlled orchestral crescendos, strings only, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_6edb63e6723a4541/track_09_those_who_went_further/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794727530.55854,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_6edb63e6723a4541/track_09_those_who_went_further/track_09_those_who_went_further_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_6edb63e6723a4541/track_09_those_who_went_further/track_09_those_who_went_further_01.flac"
+                }
+              ],
+              "filename": "track_09_those_who_went_further_01"
+            }
+          ]
+        },
+        {
+          "id": "the_depths_where_life_meets_death/track_10_the_silence_after_a_record/e95d37541f48bd3e",
+          "title": "Track 10 The Silence After A Record",
+          "order": 10,
+          "prompt": "Solemn instrumental contemporary chamber music, 58 BPM, expressive solo cello, soft piano and sustained viola. Slow measured rhythm, descending minor melody, restrained dissonance resolving into quiet consonance, intimate acoustic recording, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_6edb63e6723a4541/track_10_the_silence_after_a_record/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794727530.55854,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_6edb63e6723a4541/track_10_the_silence_after_a_record/track_10_the_silence_after_a_record_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_6edb63e6723a4541/track_10_the_silence_after_a_record/track_10_the_silence_after_a_record_01.flac"
+                }
+              ],
+              "filename": "track_10_the_silence_after_a_record_01"
+            }
+          ]
+        },
+        {
+          "id": "the_depths_where_life_meets_death/track_11_not_for_death_but_for_life/2fd4428cf944134c",
+          "title": "Track 11 Not For Death But For Life",
+          "order": 11,
+          "prompt": "Passionate instrumental romantic violin concerto, 88 BPM, expressive solo violin supported by full string orchestra. Strong ascending melody, energetic rhythmic movement, rich minor-to-major harmonic development, powerful controlled crescendo, strings only, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_6edb63e6723a4541/track_11_not_for_death_but_for_life/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794727530.55854,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_6edb63e6723a4541/track_11_not_for_death_but_for_life/track_11_not_for_death_but_for_life_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_6edb63e6723a4541/track_11_not_for_death_but_for_life/track_11_not_for_death_but_for_life_01.flac"
+                }
+              ],
+              "filename": "track_11_not_for_death_but_for_life_01"
+            }
+          ]
+        },
+        {
+          "id": "the_depths_where_life_meets_death/track_12_the_courage_of_remaining_alive/008ecf5f36d8e081",
+          "title": "Track 12 The Courage Of Remaining Alive",
+          "order": 12,
+          "prompt": "Instrumental contemporary orchestral music, 92 BPM, noble French horns, lyrical violins, deep cellos and warm orchestral strings. Firm measured pulse, expansive melodic phrases, rich major-minor harmonies, gradual luminous crescendo, dignified emotional strength, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_6edb63e6723a4541/track_12_the_courage_of_remaining_alive/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794727530.55854,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_6edb63e6723a4541/track_12_the_courage_of_remaining_alive/track_12_the_courage_of_remaining_alive_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_6edb63e6723a4541/track_12_the_courage_of_remaining_alive/track_12_the_courage_of_remaining_alive_01.flac"
+                }
+              ],
+              "filename": "track_12_the_courage_of_remaining_alive_01"
+            }
+          ]
+        },
+        {
+          "id": "the_depths_where_life_meets_death/track_13_returning_to_the_world_of_air/9f1813b0eda8fdcc",
+          "title": "Track 13 Returning To The World Of Air",
+          "order": 13,
+          "prompt": "Tender instrumental neoclassical chamber music, 68 BPM, warm solo cello, expressive violin and gentle piano. Steady relaxed pulse, simple ascending melody, soft major harmonies with lingering minor colors, gradual peaceful resolution, intimate natural acoustics, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_6edb63e6723a4541/track_13_returning_to_the_world_of_air/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794727530.55854,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_6edb63e6723a4541/track_13_returning_to_the_world_of_air/track_13_returning_to_the_world_of_air_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_6edb63e6723a4541/track_13_returning_to_the_world_of_air/track_13_returning_to_the_world_of_air_01.flac"
+                }
+              ],
+              "filename": "track_13_returning_to_the_world_of_air_01"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
