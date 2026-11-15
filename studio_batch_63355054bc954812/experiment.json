@@ -1,0 +1,380 @@
+{
+  "schema_version": 1,
+  "batch_id": "studio_batch_63355054bc954812",
+  "archive_label": "20261115_131632_beyond_the_human_depth_record",
+  "batch_theme": "beyond_the_human_depth_record",
+  "generation_started_at": 1794744992.0972958,
+  "model": {
+    "family": "ACE-Step",
+    "checkpoint_name": "acestep-v15-sft",
+    "checkpoint_revision": null,
+    "route": "sft_lm"
+  },
+  "generation": {
+    "prompts": [
+      {
+        "output_name": "track_01_batch_story",
+        "prompt": "Some divers devote years of their lives to reaching depths no human has ever reached before. They train their bodies, refine their techniques, study the limits of pressure and breath, and repeat countless small procedures until precision becomes instinct. Every record represents an encounter between extraordinary human preparation and an environment that cannot forgive certain mistakes. Beneath the surface, the familiar world disappears, and the diver continues downward into darkness, pressure, silence, and the unknown. Some record-breaking attempts end in triumph, while others end in the deaths of exceptionally skilled people who understood the risks and nevertheless pursued the limits of human experience. Their ambition is not to die, but to experience life beyond what once seemed possible, and to return alive from the edge of that possibility.",
+        "duration_seconds": 45,
+        "variations": 1
+      },
+      {
+        "output_name": "track_02_the_human_desire_to_go_deeper",
+        "prompt": "Powerful instrumental contemporary classical music, 82 BPM, expressive solo violin, deep cellos and full string orchestra. Broad ascending melody, determined rhythmic pulse, rich minor harmonies, gradual orchestral crescendo, noble restless energy, no vocals.",
+        "duration_seconds": 45,
+        "variations": 1
+      },
+      {
+        "output_name": "track_03_years_of_preparation",
+        "prompt": "Instrumental minimalist classical music, 96 BPM, precise piano ostinato, rhythmic pizzicato violins and warm cellos. Repeating sixteenth-note patterns, disciplined steady pulse, gradually evolving harmonies, controlled dynamics, no vocals.",
+        "duration_seconds": 45,
+        "variations": 1
+      },
+      {
+        "output_name": "track_04_the_record_to_be_broken",
+        "prompt": "Dramatic instrumental orchestral music, 108 BPM, powerful low strings, urgent violins and resonant French horns. Driving rhythmic ostinato, bold ascending phrases, tense minor harmonies, strong controlled crescendos, no vocals.",
+        "duration_seconds": 45,
+        "variations": 1
+      },
+      {
+        "output_name": "track_05_the_last_breath_of_air",
+        "prompt": "Intimate instrumental contemporary chamber music, 60 BPM, expressive solo cello, delicate piano and sustained viola. Slow measured pulse, descending minor-key melody, suspended harmonies, restrained tension, natural acoustic sound, no vocals.",
+        "duration_seconds": 45,
+        "variations": 1
+      },
+      {
+        "output_name": "track_06_the_descent_begins",
+        "prompt": "Dark instrumental cinematic electronic music, 76 BPM, deep analog synthesizer bass, precise pulsing arpeggios and restrained electronic percussion. Steady descending harmonic progression, gradually darkening textures, controlled intensity, no vocals.",
+        "duration_seconds": 45,
+        "variations": 1
+      },
+      {
+        "output_name": "track_07_pressure_against_the_body",
+        "prompt": "Intense instrumental modern string orchestra, 88 BPM, low cellos and double basses, tightly layered violins and violas. Repeated rhythmic figures, close dissonant harmonies, increasing dynamic pressure, relentless steady pulse, strings only, no vocals.",
+        "duration_seconds": 45,
+        "variations": 1
+      },
+      {
+        "output_name": "track_08_where_the_light_disappears",
+        "prompt": "Atmospheric instrumental ambient electronic music, 58 BPM, deep sustained synthesizer tones, slowly evolving harmonic layers and soft sub-bass pulses. Sparse descending melody, vast spatial reverb, restrained dark texture, no vocals.",
+        "duration_seconds": 45,
+        "variations": 1
+      },
+      {
+        "output_name": "track_09_the_depth_no_one_has_reached",
+        "prompt": "Majestic instrumental contemporary orchestral music, 72 BPM, expressive solo violin, deep cellos, rich French horns and sustained strings. Wide melodic intervals, slowly rising harmonic tension, powerful restrained crescendo, profound sense of scale, no vocals.",
+        "duration_seconds": 45,
+        "variations": 1
+      },
+      {
+        "output_name": "track_10_one_more_meter",
+        "prompt": "Tense instrumental minimalist classical music, 104 BPM, insistent piano ostinato, urgent violin repetitions and deep rhythmic cellos. Precise steady pulse, ascending chromatic patterns, accumulating harmonic tension, controlled relentless momentum, no vocals.",
+        "duration_seconds": 45,
+        "variations": 1
+      },
+      {
+        "output_name": "track_11_the_point_of_no_return",
+        "prompt": "Dark instrumental contemporary string music, 64 BPM, expressive solo cello, sustained low strings and trembling high violins. Slow measured pulse, unresolved minor harmonies, dissonant suspensions, long restrained crescendo, strings only, no vocals.",
+        "duration_seconds": 45,
+        "variations": 1
+      },
+      {
+        "output_name": "track_12_some_never_returned",
+        "prompt": "Solemn instrumental romantic chamber music, 56 BPM, mournful solo violin, deep cello and soft piano. Long descending melodic phrases, rich minor harmonies, measured rhythmic movement, delicate restrained dynamics, unresolved final cadence, no vocals.",
+        "duration_seconds": 45,
+        "variations": 1
+      },
+      {
+        "output_name": "track_13_the_will_to_return_alive",
+        "prompt": "Powerful instrumental romantic string orchestra, 92 BPM, soaring solo violin, vigorous cellos, warm violas and deep double basses. Strong ascending melody, determined steady pulse, dramatic minor-to-major harmonic development, expansive triumphant crescendo, strings only, no vocals.",
+        "duration_seconds": 45,
+        "variations": 1
+      }
+    ],
+    "requested_audio_format": "flac"
+  },
+  "kaggle_manifest": [
+    {
+      "output_name": "track_01_batch_story",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_63355054bc954812/track_01_batch_story/e47dd6d2-6af2-cb44-9f81-2c851a29318a.flac"
+      ],
+      "requested_variations": 1,
+      "generated_variations": 1,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_02_the_human_desire_to_go_deeper",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_63355054bc954812/track_02_the_human_desire_to_go_deeper/2d57c4e9-ef5a-c4a7-8297-cedefbcc842f.flac"
+      ],
+      "requested_variations": 1,
+      "generated_variations": 1,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_03_years_of_preparation",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_63355054bc954812/track_03_years_of_preparation/3fe5c750-0366-9cee-87fe-9c32dbb69b64.flac"
+      ],
+      "requested_variations": 1,
+      "generated_variations": 1,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_04_the_record_to_be_broken",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_63355054bc954812/track_04_the_record_to_be_broken/d92eb497-a68c-aacf-2339-961af8e0b238.flac"
+      ],
+      "requested_variations": 1,
+      "generated_variations": 1,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_05_the_last_breath_of_air",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_63355054bc954812/track_05_the_last_breath_of_air/ffa60982-78d5-a29a-a591-c7a59891f089.flac"
+      ],
+      "requested_variations": 1,
+      "generated_variations": 1,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_06_the_descent_begins",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_63355054bc954812/track_06_the_descent_begins/a96af289-55fb-6784-d969-79abb88bd257.flac"
+      ],
+      "requested_variations": 1,
+      "generated_variations": 1,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_07_pressure_against_the_body",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_63355054bc954812/track_07_pressure_against_the_body/20bd1fbe-b172-f369-1f85-aba8ded4df7d.flac"
+      ],
+      "requested_variations": 1,
+      "generated_variations": 1,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_08_where_the_light_disappears",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_63355054bc954812/track_08_where_the_light_disappears/b31a9e99-1f75-a149-3170-ebf301fffb56.flac"
+      ],
+      "requested_variations": 1,
+      "generated_variations": 1,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_09_the_depth_no_one_has_reached",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_63355054bc954812/track_09_the_depth_no_one_has_reached/76cd264a-4b56-db5d-76b2-1b5397f9c59f.flac"
+      ],
+      "requested_variations": 1,
+      "generated_variations": 1,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_10_one_more_meter",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_63355054bc954812/track_10_one_more_meter/06e4f391-5f4d-6d20-79e2-6c7868f48001.flac"
+      ],
+      "requested_variations": 1,
+      "generated_variations": 1,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_11_the_point_of_no_return",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_63355054bc954812/track_11_the_point_of_no_return/b91c97e3-d91c-192e-f450-d8ea1d410566.flac"
+      ],
+      "requested_variations": 1,
+      "generated_variations": 1,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_12_some_never_returned",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_63355054bc954812/track_12_some_never_returned/5ce7379c-6f5b-b883-219e-7fc05b47fa9c.flac"
+      ],
+      "requested_variations": 1,
+      "generated_variations": 1,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_13_the_will_to_return_alive",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_63355054bc954812/track_13_the_will_to_return_alive/d6696d3f-7a6f-fc22-b06a-79ddab3bb244.flac"
+      ],
+      "requested_variations": 1,
+      "generated_variations": 1,
+      "missing_variations": 0
+    }
+  ],
+  "outputs": [
+    {
+      "composition": "track_01_batch_story",
+      "variation": 1,
+      "filename": "track_01_batch_story_01.flac",
+      "relative_path": "track_01_batch_story/track_01_batch_story_01.flac",
+      "size_bytes": 8908974,
+      "sha256": "80fa0b117c3fb3a9d4cf401a41405dc4ae3285f995fd476cd258a5d80002be35",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_the_human_desire_to_go_deeper",
+      "variation": 1,
+      "filename": "track_02_the_human_desire_to_go_deeper_01.flac",
+      "relative_path": "track_02_the_human_desire_to_go_deeper/track_02_the_human_desire_to_go_deeper_01.flac",
+      "size_bytes": 8734546,
+      "sha256": "794a60c9062f71cf75779d467c9e73912542a08d52523b4251997c3d353fa38f",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_years_of_preparation",
+      "variation": 1,
+      "filename": "track_03_years_of_preparation_01.flac",
+      "relative_path": "track_03_years_of_preparation/track_03_years_of_preparation_01.flac",
+      "size_bytes": 7841218,
+      "sha256": "a45d47f8d1e12043c714c4bfe751cf176fd0625b21186afa4523e5217757cccd",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_the_record_to_be_broken",
+      "variation": 1,
+      "filename": "track_04_the_record_to_be_broken_01.flac",
+      "relative_path": "track_04_the_record_to_be_broken/track_04_the_record_to_be_broken_01.flac",
+      "size_bytes": 8705128,
+      "sha256": "adbcc664d90cfbda5f61a41e5cbcedf0bfc3b12102eac820bfe2f9dfe254ecc4",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_last_breath_of_air",
+      "variation": 1,
+      "filename": "track_05_the_last_breath_of_air_01.flac",
+      "relative_path": "track_05_the_last_breath_of_air/track_05_the_last_breath_of_air_01.flac",
+      "size_bytes": 8026224,
+      "sha256": "8ed99d5f597a7736cbaddeaeb11ecb17c9400f9e3804dc087a91a9138b54fb14",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_the_descent_begins",
+      "variation": 1,
+      "filename": "track_06_the_descent_begins_01.flac",
+      "relative_path": "track_06_the_descent_begins/track_06_the_descent_begins_01.flac",
+      "size_bytes": 8413226,
+      "sha256": "0bf1674f9237b71a7cbec87976f966b6705c21e80613c067b49766d13753cac7",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_pressure_against_the_body",
+      "variation": 1,
+      "filename": "track_07_pressure_against_the_body_01.flac",
+      "relative_path": "track_07_pressure_against_the_body/track_07_pressure_against_the_body_01.flac",
+      "size_bytes": 8970624,
+      "sha256": "3f37db213d0ba9826a82c0e5d35e9d9aef37c91fe8991bf39ca2cbf3d74485f6",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_where_the_light_disappears",
+      "variation": 1,
+      "filename": "track_08_where_the_light_disappears_01.flac",
+      "relative_path": "track_08_where_the_light_disappears/track_08_where_the_light_disappears_01.flac",
+      "size_bytes": 8090156,
+      "sha256": "7f11fb45451f715cdf32566cd463bb4c1f79ce27891dd663632894d3486111b8",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_09_the_depth_no_one_has_reached",
+      "variation": 1,
+      "filename": "track_09_the_depth_no_one_has_reached_01.flac",
+      "relative_path": "track_09_the_depth_no_one_has_reached/track_09_the_depth_no_one_has_reached_01.flac",
+      "size_bytes": 8355491,
+      "sha256": "6f2f45c0e603aafc12f8c525c87a102c7414d6e005386cc8d7d0e6a074e9445e",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_10_one_more_meter",
+      "variation": 1,
+      "filename": "track_10_one_more_meter_01.flac",
+      "relative_path": "track_10_one_more_meter/track_10_one_more_meter_01.flac",
+      "size_bytes": 8809977,
+      "sha256": "fcf2722cfca005dba39600fd4e0ba668c1c67d2ee74e97304dc49368bafebe6a",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_11_the_point_of_no_return",
+      "variation": 1,
+      "filename": "track_11_the_point_of_no_return_01.flac",
+      "relative_path": "track_11_the_point_of_no_return/track_11_the_point_of_no_return_01.flac",
+      "size_bytes": 8698603,
+      "sha256": "7c2265abd49aa039259d980d0cef6fd5255ae61dd630b3aabf652f4f038abf9a",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_12_some_never_returned",
+      "variation": 1,
+      "filename": "track_12_some_never_returned_01.flac",
+      "relative_path": "track_12_some_never_returned/track_12_some_never_returned_01.flac",
+      "size_bytes": 8385957,
+      "sha256": "79e40440fa01bebb61d1d4023227b9cb8ee05fe13807fb0a52467f6e23637d2e",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_13_the_will_to_return_alive",
+      "variation": 1,
+      "filename": "track_13_the_will_to_return_alive_01.flac",
+      "relative_path": "track_13_the_will_to_return_alive/track_13_the_will_to_return_alive_01.flac",
+      "size_bytes": 8773485,
+      "sha256": "469dd68ae76475c360d53dbb543f26fe2d2669a4a0ccf3ceeeaff6e73457dc45",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    }
+  ],
+  "completed_compositions": 13,
+  "partial_compositions": 0,
+  "failed_compositions": 0,
+  "requested_variations": 13,
+  "generated_variations": 13,
+  "missing_variations": 0,
+  "archive_completed_at_utc": "2026-11-15T17:48:22.517421+00:00"
+}

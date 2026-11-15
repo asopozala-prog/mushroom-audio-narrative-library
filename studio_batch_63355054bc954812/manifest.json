@@ -1,0 +1,132 @@
+[
+  {
+    "output_name": "track_01_batch_story",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_63355054bc954812/track_01_batch_story/e47dd6d2-6af2-cb44-9f81-2c851a29318a.flac"
+    ],
+    "requested_variations": 1,
+    "generated_variations": 1,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_02_the_human_desire_to_go_deeper",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_63355054bc954812/track_02_the_human_desire_to_go_deeper/2d57c4e9-ef5a-c4a7-8297-cedefbcc842f.flac"
+    ],
+    "requested_variations": 1,
+    "generated_variations": 1,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_03_years_of_preparation",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_63355054bc954812/track_03_years_of_preparation/3fe5c750-0366-9cee-87fe-9c32dbb69b64.flac"
+    ],
+    "requested_variations": 1,
+    "generated_variations": 1,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_04_the_record_to_be_broken",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_63355054bc954812/track_04_the_record_to_be_broken/d92eb497-a68c-aacf-2339-961af8e0b238.flac"
+    ],
+    "requested_variations": 1,
+    "generated_variations": 1,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_05_the_last_breath_of_air",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_63355054bc954812/track_05_the_last_breath_of_air/ffa60982-78d5-a29a-a591-c7a59891f089.flac"
+    ],
+    "requested_variations": 1,
+    "generated_variations": 1,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_06_the_descent_begins",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_63355054bc954812/track_06_the_descent_begins/a96af289-55fb-6784-d969-79abb88bd257.flac"
+    ],
+    "requested_variations": 1,
+    "generated_variations": 1,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_07_pressure_against_the_body",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_63355054bc954812/track_07_pressure_against_the_body/20bd1fbe-b172-f369-1f85-aba8ded4df7d.flac"
+    ],
+    "requested_variations": 1,
+    "generated_variations": 1,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_08_where_the_light_disappears",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_63355054bc954812/track_08_where_the_light_disappears/b31a9e99-1f75-a149-3170-ebf301fffb56.flac"
+    ],
+    "requested_variations": 1,
+    "generated_variations": 1,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_09_the_depth_no_one_has_reached",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_63355054bc954812/track_09_the_depth_no_one_has_reached/76cd264a-4b56-db5d-76b2-1b5397f9c59f.flac"
+    ],
+    "requested_variations": 1,
+    "generated_variations": 1,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_10_one_more_meter",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_63355054bc954812/track_10_one_more_meter/06e4f391-5f4d-6d20-79e2-6c7868f48001.flac"
+    ],
+    "requested_variations": 1,
+    "generated_variations": 1,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_11_the_point_of_no_return",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_63355054bc954812/track_11_the_point_of_no_return/b91c97e3-d91c-192e-f450-d8ea1d410566.flac"
+    ],
+    "requested_variations": 1,
+    "generated_variations": 1,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_12_some_never_returned",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_63355054bc954812/track_12_some_never_returned/5ce7379c-6f5b-b883-219e-7fc05b47fa9c.flac"
+    ],
+    "requested_variations": 1,
+    "generated_variations": 1,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_13_the_will_to_return_alive",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_63355054bc954812/track_13_the_will_to_return_alive/d6696d3f-7a6f-fc22-b06a-79ddab3bb244.flac"
+    ],
+    "requested_variations": 1,
+    "generated_variations": 1,
+    "missing_variations": 0
+  }
+]

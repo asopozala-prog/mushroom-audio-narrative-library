@@ -1,0 +1,87 @@
+{
+  "route": "sft_lm",
+  "batch_name": "studio_batch_63355054bc954812",
+  "batch_theme": "beyond_the_human_depth_record",
+  "generation_started_at": 1794744992.0972958,
+  "archive_label": "20261115_131632_beyond_the_human_depth_record",
+  "prompts": [
+    {
+      "output_name": "track_01_batch_story",
+      "prompt": "Some divers devote years of their lives to reaching depths no human has ever reached before. They train their bodies, refine their techniques, study the limits of pressure and breath, and repeat countless small procedures until precision becomes instinct. Every record represents an encounter between extraordinary human preparation and an environment that cannot forgive certain mistakes. Beneath the surface, the familiar world disappears, and the diver continues downward into darkness, pressure, silence, and the unknown. Some record-breaking attempts end in triumph, while others end in the deaths of exceptionally skilled people who understood the risks and nevertheless pursued the limits of human experience. Their ambition is not to die, but to experience life beyond what once seemed possible, and to return alive from the edge of that possibility.",
+      "duration_seconds": 45,
+      "variations": 1
+    },
+    {
+      "output_name": "track_02_the_human_desire_to_go_deeper",
+      "prompt": "Powerful instrumental contemporary classical music, 82 BPM, expressive solo violin, deep cellos and full string orchestra. Broad ascending melody, determined rhythmic pulse, rich minor harmonies, gradual orchestral crescendo, noble restless energy, no vocals.",
+      "duration_seconds": 45,
+      "variations": 1
+    },
+    {
+      "output_name": "track_03_years_of_preparation",
+      "prompt": "Instrumental minimalist classical music, 96 BPM, precise piano ostinato, rhythmic pizzicato violins and warm cellos. Repeating sixteenth-note patterns, disciplined steady pulse, gradually evolving harmonies, controlled dynamics, no vocals.",
+      "duration_seconds": 45,
+      "variations": 1
+    },
+    {
+      "output_name": "track_04_the_record_to_be_broken",
+      "prompt": "Dramatic instrumental orchestral music, 108 BPM, powerful low strings, urgent violins and resonant French horns. Driving rhythmic ostinato, bold ascending phrases, tense minor harmonies, strong controlled crescendos, no vocals.",
+      "duration_seconds": 45,
+      "variations": 1
+    },
+    {
+      "output_name": "track_05_the_last_breath_of_air",
+      "prompt": "Intimate instrumental contemporary chamber music, 60 BPM, expressive solo cello, delicate piano and sustained viola. Slow measured pulse, descending minor-key melody, suspended harmonies, restrained tension, natural acoustic sound, no vocals.",
+      "duration_seconds": 45,
+      "variations": 1
+    },
+    {
+      "output_name": "track_06_the_descent_begins",
+      "prompt": "Dark instrumental cinematic electronic music, 76 BPM, deep analog synthesizer bass, precise pulsing arpeggios and restrained electronic percussion. Steady descending harmonic progression, gradually darkening textures, controlled intensity, no vocals.",
+      "duration_seconds": 45,
+      "variations": 1
+    },
+    {
+      "output_name": "track_07_pressure_against_the_body",
+      "prompt": "Intense instrumental modern string orchestra, 88 BPM, low cellos and double basses, tightly layered violins and violas. Repeated rhythmic figures, close dissonant harmonies, increasing dynamic pressure, relentless steady pulse, strings only, no vocals.",
+      "duration_seconds": 45,
+      "variations": 1
+    },
+    {
+      "output_name": "track_08_where_the_light_disappears",
+      "prompt": "Atmospheric instrumental ambient electronic music, 58 BPM, deep sustained synthesizer tones, slowly evolving harmonic layers and soft sub-bass pulses. Sparse descending melody, vast spatial reverb, restrained dark texture, no vocals.",
+      "duration_seconds": 45,
+      "variations": 1
+    },
+    {
+      "output_name": "track_09_the_depth_no_one_has_reached",
+      "prompt": "Majestic instrumental contemporary orchestral music, 72 BPM, expressive solo violin, deep cellos, rich French horns and sustained strings. Wide melodic intervals, slowly rising harmonic tension, powerful restrained crescendo, profound sense of scale, no vocals.",
+      "duration_seconds": 45,
+      "variations": 1
+    },
+    {
+      "output_name": "track_10_one_more_meter",
+      "prompt": "Tense instrumental minimalist classical music, 104 BPM, insistent piano ostinato, urgent violin repetitions and deep rhythmic cellos. Precise steady pulse, ascending chromatic patterns, accumulating harmonic tension, controlled relentless momentum, no vocals.",
+      "duration_seconds": 45,
+      "variations": 1
+    },
+    {
+      "output_name": "track_11_the_point_of_no_return",
+      "prompt": "Dark instrumental contemporary string music, 64 BPM, expressive solo cello, sustained low strings and trembling high violins. Slow measured pulse, unresolved minor harmonies, dissonant suspensions, long restrained crescendo, strings only, no vocals.",
+      "duration_seconds": 45,
+      "variations": 1
+    },
+    {
+      "output_name": "track_12_some_never_returned",
+      "prompt": "Solemn instrumental romantic chamber music, 56 BPM, mournful solo violin, deep cello and soft piano. Long descending melodic phrases, rich minor harmonies, measured rhythmic movement, delicate restrained dynamics, unresolved final cadence, no vocals.",
+      "duration_seconds": 45,
+      "variations": 1
+    },
+    {
+      "output_name": "track_13_the_will_to_return_alive",
+      "prompt": "Powerful instrumental romantic string orchestra, 92 BPM, soaring solo violin, vigorous cellos, warm violas and deep double basses. Strong ascending melody, determined steady pulse, dramatic minor-to-major harmonic development, expansive triumphant crescendo, strings only, no vocals.",
+      "duration_seconds": 45,
+      "variations": 1
+    }
+  ]
+}

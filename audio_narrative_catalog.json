@@ -12229,6 +12229,325 @@
           ]
         }
       ]
+    },
+    {
+      "id": "beyond_the_human_depth_record",
+      "title": "Beyond The Human Depth Record",
+      "description": "Some divers devote years of their lives to reaching depths no human has ever reached before. They train their bodies, refine their techniques, study the limits of pressure and breath, and repeat countless small procedures until precision becomes instinct. Every record represents an encounter between extraordinary human preparation and an environment that cannot forgive certain mistakes. Beneath the surface, the familiar world disappears, and the diver continues downward into darkness, pressure, silence, and the unknown. Some record-breaking attempts end in triumph, while others end in the deaths of exceptionally skilled people who understood the risks and nevertheless pursued the limits of human experience. Their ambition is not to die, but to experience life beyond what once seemed possible, and to return alive from the edge of that possibility.",
+      "scenes": [
+        {
+          "id": "beyond_the_human_depth_record/track_01_batch_story/15579910c5cef6fa",
+          "title": "Track 01 Batch Story",
+          "order": 1,
+          "prompt": "Some divers devote years of their lives to reaching depths no human has ever reached before. They train their bodies, refine their techniques, study the limits of pressure and breath, and repeat countless small procedures until precision becomes instinct. Every record represents an encounter between extraordinary human preparation and an environment that cannot forgive certain mistakes. Beneath the surface, the familiar world disappears, and the diver continues downward into darkness, pressure, silence, and the unknown. Some record-breaking attempts end in triumph, while others end in the deaths of exceptionally skilled people who understood the risks and nevertheless pursued the limits of human experience. Their ambition is not to die, but to experience life beyond what once seemed possible, and to return alive from the edge of that possibility.",
+          "recordings": [
+            {
+              "id": "studio_batch_63355054bc954812/track_01_batch_story/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794744992.0972958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_63355054bc954812/track_01_batch_story/track_01_batch_story_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_63355054bc954812/track_01_batch_story/track_01_batch_story_01.flac"
+                }
+              ],
+              "filename": "track_01_batch_story_01"
+            }
+          ]
+        },
+        {
+          "id": "beyond_the_human_depth_record/track_02_the_human_desire_to_go_deeper/f2976b044c24030d",
+          "title": "Track 02 The Human Desire To Go Deeper",
+          "order": 2,
+          "prompt": "Powerful instrumental contemporary classical music, 82 BPM, expressive solo violin, deep cellos and full string orchestra. Broad ascending melody, determined rhythmic pulse, rich minor harmonies, gradual orchestral crescendo, noble restless energy, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_63355054bc954812/track_02_the_human_desire_to_go_deeper/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794744992.0972958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_63355054bc954812/track_02_the_human_desire_to_go_deeper/track_02_the_human_desire_to_go_deeper_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_63355054bc954812/track_02_the_human_desire_to_go_deeper/track_02_the_human_desire_to_go_deeper_01.flac"
+                }
+              ],
+              "filename": "track_02_the_human_desire_to_go_deeper_01"
+            }
+          ]
+        },
+        {
+          "id": "beyond_the_human_depth_record/track_03_years_of_preparation/ac2f77fb00ae32ac",
+          "title": "Track 03 Years Of Preparation",
+          "order": 3,
+          "prompt": "Instrumental minimalist classical music, 96 BPM, precise piano ostinato, rhythmic pizzicato violins and warm cellos. Repeating sixteenth-note patterns, disciplined steady pulse, gradually evolving harmonies, controlled dynamics, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_63355054bc954812/track_03_years_of_preparation/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794744992.0972958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_63355054bc954812/track_03_years_of_preparation/track_03_years_of_preparation_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_63355054bc954812/track_03_years_of_preparation/track_03_years_of_preparation_01.flac"
+                }
+              ],
+              "filename": "track_03_years_of_preparation_01"
+            }
+          ]
+        },
+        {
+          "id": "beyond_the_human_depth_record/track_04_the_record_to_be_broken/30ac88f686551ff1",
+          "title": "Track 04 The Record To Be Broken",
+          "order": 4,
+          "prompt": "Dramatic instrumental orchestral music, 108 BPM, powerful low strings, urgent violins and resonant French horns. Driving rhythmic ostinato, bold ascending phrases, tense minor harmonies, strong controlled crescendos, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_63355054bc954812/track_04_the_record_to_be_broken/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794744992.0972958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_63355054bc954812/track_04_the_record_to_be_broken/track_04_the_record_to_be_broken_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_63355054bc954812/track_04_the_record_to_be_broken/track_04_the_record_to_be_broken_01.flac"
+                }
+              ],
+              "filename": "track_04_the_record_to_be_broken_01"
+            }
+          ]
+        },
+        {
+          "id": "beyond_the_human_depth_record/track_05_the_last_breath_of_air/2f5e983470b56d0b",
+          "title": "Track 05 The Last Breath Of Air",
+          "order": 5,
+          "prompt": "Intimate instrumental contemporary chamber music, 60 BPM, expressive solo cello, delicate piano and sustained viola. Slow measured pulse, descending minor-key melody, suspended harmonies, restrained tension, natural acoustic sound, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_63355054bc954812/track_05_the_last_breath_of_air/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794744992.0972958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_63355054bc954812/track_05_the_last_breath_of_air/track_05_the_last_breath_of_air_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_63355054bc954812/track_05_the_last_breath_of_air/track_05_the_last_breath_of_air_01.flac"
+                }
+              ],
+              "filename": "track_05_the_last_breath_of_air_01"
+            }
+          ]
+        },
+        {
+          "id": "beyond_the_human_depth_record/track_06_the_descent_begins/af5244b2d5026c27",
+          "title": "Track 06 The Descent Begins",
+          "order": 6,
+          "prompt": "Dark instrumental cinematic electronic music, 76 BPM, deep analog synthesizer bass, precise pulsing arpeggios and restrained electronic percussion. Steady descending harmonic progression, gradually darkening textures, controlled intensity, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_63355054bc954812/track_06_the_descent_begins/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794744992.0972958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_63355054bc954812/track_06_the_descent_begins/track_06_the_descent_begins_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_63355054bc954812/track_06_the_descent_begins/track_06_the_descent_begins_01.flac"
+                }
+              ],
+              "filename": "track_06_the_descent_begins_01"
+            }
+          ]
+        },
+        {
+          "id": "beyond_the_human_depth_record/track_07_pressure_against_the_body/c847b4b8ef2dace7",
+          "title": "Track 07 Pressure Against The Body",
+          "order": 7,
+          "prompt": "Intense instrumental modern string orchestra, 88 BPM, low cellos and double basses, tightly layered violins and violas. Repeated rhythmic figures, close dissonant harmonies, increasing dynamic pressure, relentless steady pulse, strings only, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_63355054bc954812/track_07_pressure_against_the_body/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794744992.0972958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_63355054bc954812/track_07_pressure_against_the_body/track_07_pressure_against_the_body_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_63355054bc954812/track_07_pressure_against_the_body/track_07_pressure_against_the_body_01.flac"
+                }
+              ],
+              "filename": "track_07_pressure_against_the_body_01"
+            }
+          ]
+        },
+        {
+          "id": "beyond_the_human_depth_record/track_08_where_the_light_disappears/c832f480a36fdcea",
+          "title": "Track 08 Where The Light Disappears",
+          "order": 8,
+          "prompt": "Atmospheric instrumental ambient electronic music, 58 BPM, deep sustained synthesizer tones, slowly evolving harmonic layers and soft sub-bass pulses. Sparse descending melody, vast spatial reverb, restrained dark texture, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_63355054bc954812/track_08_where_the_light_disappears/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794744992.0972958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_63355054bc954812/track_08_where_the_light_disappears/track_08_where_the_light_disappears_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_63355054bc954812/track_08_where_the_light_disappears/track_08_where_the_light_disappears_01.flac"
+                }
+              ],
+              "filename": "track_08_where_the_light_disappears_01"
+            }
+          ]
+        },
+        {
+          "id": "beyond_the_human_depth_record/track_09_the_depth_no_one_has_reached/09882595fb97baac",
+          "title": "Track 09 The Depth No One Has Reached",
+          "order": 9,
+          "prompt": "Majestic instrumental contemporary orchestral music, 72 BPM, expressive solo violin, deep cellos, rich French horns and sustained strings. Wide melodic intervals, slowly rising harmonic tension, powerful restrained crescendo, profound sense of scale, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_63355054bc954812/track_09_the_depth_no_one_has_reached/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794744992.0972958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_63355054bc954812/track_09_the_depth_no_one_has_reached/track_09_the_depth_no_one_has_reached_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_63355054bc954812/track_09_the_depth_no_one_has_reached/track_09_the_depth_no_one_has_reached_01.flac"
+                }
+              ],
+              "filename": "track_09_the_depth_no_one_has_reached_01"
+            }
+          ]
+        },
+        {
+          "id": "beyond_the_human_depth_record/track_10_one_more_meter/32179b9bcdca7e4c",
+          "title": "Track 10 One More Meter",
+          "order": 10,
+          "prompt": "Tense instrumental minimalist classical music, 104 BPM, insistent piano ostinato, urgent violin repetitions and deep rhythmic cellos. Precise steady pulse, ascending chromatic patterns, accumulating harmonic tension, controlled relentless momentum, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_63355054bc954812/track_10_one_more_meter/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794744992.0972958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_63355054bc954812/track_10_one_more_meter/track_10_one_more_meter_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_63355054bc954812/track_10_one_more_meter/track_10_one_more_meter_01.flac"
+                }
+              ],
+              "filename": "track_10_one_more_meter_01"
+            }
+          ]
+        },
+        {
+          "id": "beyond_the_human_depth_record/track_11_the_point_of_no_return/f7c981c199e0d379",
+          "title": "Track 11 The Point Of No Return",
+          "order": 11,
+          "prompt": "Dark instrumental contemporary string music, 64 BPM, expressive solo cello, sustained low strings and trembling high violins. Slow measured pulse, unresolved minor harmonies, dissonant suspensions, long restrained crescendo, strings only, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_63355054bc954812/track_11_the_point_of_no_return/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794744992.0972958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_63355054bc954812/track_11_the_point_of_no_return/track_11_the_point_of_no_return_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_63355054bc954812/track_11_the_point_of_no_return/track_11_the_point_of_no_return_01.flac"
+                }
+              ],
+              "filename": "track_11_the_point_of_no_return_01"
+            }
+          ]
+        },
+        {
+          "id": "beyond_the_human_depth_record/track_12_some_never_returned/cd9d0890a90eb62c",
+          "title": "Track 12 Some Never Returned",
+          "order": 12,
+          "prompt": "Solemn instrumental romantic chamber music, 56 BPM, mournful solo violin, deep cello and soft piano. Long descending melodic phrases, rich minor harmonies, measured rhythmic movement, delicate restrained dynamics, unresolved final cadence, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_63355054bc954812/track_12_some_never_returned/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794744992.0972958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_63355054bc954812/track_12_some_never_returned/track_12_some_never_returned_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_63355054bc954812/track_12_some_never_returned/track_12_some_never_returned_01.flac"
+                }
+              ],
+              "filename": "track_12_some_never_returned_01"
+            }
+          ]
+        },
+        {
+          "id": "beyond_the_human_depth_record/track_13_the_will_to_return_alive/280f6610fc5d3807",
+          "title": "Track 13 The Will To Return Alive",
+          "order": 13,
+          "prompt": "Powerful instrumental romantic string orchestra, 92 BPM, soaring solo violin, vigorous cellos, warm violas and deep double basses. Strong ascending melody, determined steady pulse, dramatic minor-to-major harmonic development, expansive triumphant crescendo, strings only, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_63355054bc954812/track_13_the_will_to_return_alive/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794744992.0972958,
+              "audio": {
+                "format": "flac",
+                "url": "studio_batch_63355054bc954812/track_13_the_will_to_return_alive/track_13_the_will_to_return_alive_01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "studio_batch_63355054bc954812/track_13_the_will_to_return_alive/track_13_the_will_to_return_alive_01.flac"
+                }
+              ],
+              "filename": "track_13_the_will_to_return_alive_01"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
