@@ -1,0 +1,158 @@
+[
+  {
+    "output_name": "track_01_batch_story",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_01_batch_story/83c37e5e-f9bf-37b9-f198-a7a17552e236.flac",
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_01_batch_story/bbc47b1d-c77c-bebd-26c4-66ed1f8ffa11.flac",
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_01_batch_story/1d9c8dd9-e8d2-eacf-2008-db10b4513ab0.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_02_the_first_lesson_about_depth",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_02_the_first_lesson_about_depth/ef0b1970-0ac6-f4e4-c115-25c88952fd1f.flac",
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_02_the_first_lesson_about_depth/7ad23f4a-6b0a-7cdd-a993-65f0ea646c90.flac",
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_02_the_first_lesson_about_depth/58705649-4cf2-0fb2-06d1-383304192063.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_03_the_equipment_that_keeps_you_alive",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_03_the_equipment_that_keeps_you_alive/ca3372b8-9016-058f-0294-b07e8b756ffa.flac",
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_03_the_equipment_that_keeps_you_alive/0d131f99-f2c3-99fe-d923-931670803e64.flac",
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_03_the_equipment_that_keeps_you_alive/5ae38c76-bc0b-118f-5e63-c0f707a5b1d1.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_04_every_detail_matters",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_04_every_detail_matters/8b6e638d-a071-7b50-2f94-94cb40788f12.flac",
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_04_every_detail_matters/92340fa6-501d-b797-d42e-8fe9673a682c.flac",
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_04_every_detail_matters/c8d566d5-c9ea-6a36-dafe-0643b74b34b7.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_05_the_body_enters_another_world",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_05_the_body_enters_another_world/1a33c3fb-2f31-ef35-956d-330b290223e4.flac",
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_05_the_body_enters_another_world/e4232540-f503-786f-00c3-a3239f97ced3.flac",
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_05_the_body_enters_another_world/11178f0d-ae66-a6b0-57fe-92978eb6e8ff.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_06_beneath_the_surface_of_light",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_06_beneath_the_surface_of_light/9b2f78b3-15e6-c84f-dff9-be5aa7638d2a.flac",
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_06_beneath_the_surface_of_light/5664b029-75d0-b1ef-047e-45c833bc34ee.flac",
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_06_beneath_the_surface_of_light/b036ae72-fa1f-c2e2-7101-2e4f4d166e47.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_07_the_beauty_no_one_can_bring_home",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_07_the_beauty_no_one_can_bring_home/4abc0f4f-9280-ed88-6749-2aa641ea9e40.flac",
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_07_the_beauty_no_one_can_bring_home/df1aa33d-dfc7-03dc-ab06-63b777608072.flac",
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_07_the_beauty_no_one_can_bring_home/531eab48-1849-ec97-4c34-dd00822a4f83.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_08_the_depth_of_concentration",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_08_the_depth_of_concentration/38ea994a-3693-98fd-7bd1-221e4ed22fc5.flac",
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_08_the_depth_of_concentration/d6dbc7be-9443-1763-45b6-fa03c3d9781b.flac",
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_08_the_depth_of_concentration/556b3d8c-0cc7-367c-9989-fd08111cd8fe.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_09_those_who_went_further",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_09_those_who_went_further/a0ee47f9-1e43-909d-3206-ce69692b459e.flac",
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_09_those_who_went_further/fb36096d-b8c8-eeb7-ddbf-f0ac8de6a4ca.flac",
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_09_those_who_went_further/b8fc77a1-e7d9-5706-6146-e0bb58092ed7.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_10_the_silence_after_a_record",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_10_the_silence_after_a_record/5c60afec-490c-75ac-7ee2-9f81f4309628.flac",
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_10_the_silence_after_a_record/f2d845b1-4f59-4036-4b1b-6bc61cdd29b0.flac",
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_10_the_silence_after_a_record/fab84752-4386-b29e-f4d5-e47b6c08b6b7.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_11_not_for_death_but_for_life",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_11_not_for_death_but_for_life/0ecf5fa5-6be6-52d5-358b-da0e215e2837.flac",
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_11_not_for_death_but_for_life/c4f6b11b-9d80-faa3-584b-4b35a9f06a58.flac",
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_11_not_for_death_but_for_life/968c3d15-63e3-4134-40af-e3c44f6bec53.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_12_the_courage_of_remaining_alive",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_12_the_courage_of_remaining_alive/74005c0b-80b6-e724-dacf-dd7058c720ad.flac",
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_12_the_courage_of_remaining_alive/d5a8d4c8-35da-ad3a-e83a-dcd9545079e8.flac",
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_12_the_courage_of_remaining_alive/23d50b67-93cb-a39f-50e3-4927e55c5061.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  },
+  {
+    "output_name": "track_13_returning_to_the_world_of_air",
+    "status": "completed",
+    "files": [
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_13_returning_to_the_world_of_air/244f2b49-6167-94bc-290c-830ab0ff49f4.flac",
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_13_returning_to_the_world_of_air/bbdb5f52-b67c-26ae-28bb-3ff036025534.flac",
+      "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_13_returning_to_the_world_of_air/ed005bb1-1377-3675-35fc-2342d2e57f0c.flac"
+    ],
+    "requested_variations": 3,
+    "generated_variations": 3,
+    "missing_variations": 0
+  }
+]

@@ -1,0 +1,692 @@
+{
+  "schema_version": 1,
+  "batch_id": "studio_batch_b4c5af607ad345ad",
+  "archive_label": "20261115_091537_the_depths_where_life_meets_death",
+  "batch_theme": "the_depths_where_life_meets_death",
+  "generation_started_at": 1794730537.909811,
+  "model": {
+    "family": "ACE-Step",
+    "checkpoint_name": "acestep-v15-turbo",
+    "checkpoint_revision": null,
+    "route": "turbo"
+  },
+  "generation": {
+    "prompts": [
+      {
+        "output_name": "track_01_batch_story",
+        "prompt": "One November evening, a licensed diver introduces a friend to the mysterious world beneath the water, showing his diving equipment and explaining the extraordinary concentration, discipline, and precision required to explore the depths. He tells stories of remarkable divers who spent years training their bodies and minds, challenging records and reaching places few humans have ever experienced. Some never returned, and their deaths reveal how narrow the boundary between human achievement and mortality can become. Yet what is most moving is that all their preparation, calculations, training, and courage were devoted not to dying, but to remaining alive while experiencing something extraordinary. Beneath the surface lies a world of unfamiliar sensations, immense beauty, physical limits, and profound silence. This is a story about the human desire to experience life so intensely that people learn to approach the edge of death with extraordinary care.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_02_the_first_lesson_about_depth",
+        "prompt": "Instrumental contemporary classical chamber music, 72 BPM, expressive solo cello, warm piano and restrained violins. Measured rhythmic pulse, clear descending melody, rich minor harmonies, thoughtful gradual development, intimate natural acoustics, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_03_the_equipment_that_keeps_you_alive",
+        "prompt": "Instrumental minimalist classical music, 84 BPM, precise pizzicato violins, rhythmic cellos and repeating piano figures. Interlocking patterns, steady measured pulse, disciplined articulation, subtle harmonic changes, controlled dynamics, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_04_every_detail_matters",
+        "prompt": "Instrumental neoclassical chamber music, 96 BPM, solo violin, piano and cello. Precise repeating sixteenth-note patterns, clear rhythmic structure, interwoven melodic phrases, gradually increasing tension, restrained minor harmonies, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_05_the_body_enters_another_world",
+        "prompt": "Atmospheric instrumental ambient electronic music, 60 BPM, deep analog synthesizer, soft pulsing bass and slowly evolving electronic textures. Continuous gentle pulse, suspended minor harmonies, spacious resonant atmosphere, gradual tonal movement, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_06_beneath_the_surface_of_light",
+        "prompt": "Instrumental contemporary classical music, 66 BPM, lyrical solo violin over sustained cellos and warm string ensemble. Long descending melodic phrases, slow wave-like crescendos, luminous shifting harmonies, delicate emotional intensity, strings only, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_07_the_beauty_no_one_can_bring_home",
+        "prompt": "Instrumental romantic orchestral music, 70 BPM, expressive solo cello, lyrical violins and warm French horns. Broad ascending melody, rich harmonic movement, gradual orchestral expansion, majestic restrained dynamics, no percussion, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_08_the_depth_of_concentration",
+        "prompt": "Instrumental minimalist electronic music, 76 BPM, deep rounded synthesizer bass, precise repeating arpeggios and restrained electronic percussion. Stable rhythmic pulse, narrow melodic motifs, subtle evolving harmonies, focused controlled intensity, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_09_those_who_went_further",
+        "prompt": "Instrumental dramatic string orchestra, 108 BPM, powerful first violins, rhythmic violas, deep cellos and double basses. Driving ostinato, urgent ascending melodic phrases, strong minor-key harmonies, controlled orchestral crescendos, strings only, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_10_the_silence_after_a_record",
+        "prompt": "Solemn instrumental contemporary chamber music, 58 BPM, expressive solo cello, soft piano and sustained viola. Slow measured rhythm, descending minor melody, restrained dissonance resolving into quiet consonance, intimate acoustic recording, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_11_not_for_death_but_for_life",
+        "prompt": "Passionate instrumental romantic violin concerto, 88 BPM, expressive solo violin supported by full string orchestra. Strong ascending melody, energetic rhythmic movement, rich minor-to-major harmonic development, powerful controlled crescendo, strings only, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_12_the_courage_of_remaining_alive",
+        "prompt": "Instrumental contemporary orchestral music, 92 BPM, noble French horns, lyrical violins, deep cellos and warm orchestral strings. Firm measured pulse, expansive melodic phrases, rich major-minor harmonies, gradual luminous crescendo, dignified emotional strength, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      },
+      {
+        "output_name": "track_13_returning_to_the_world_of_air",
+        "prompt": "Tender instrumental neoclassical chamber music, 68 BPM, warm solo cello, expressive violin and gentle piano. Steady relaxed pulse, simple ascending melody, soft major harmonies with lingering minor colors, gradual peaceful resolution, intimate natural acoustics, no vocals.",
+        "duration_seconds": 45,
+        "variations": 3
+      }
+    ],
+    "requested_audio_format": "flac"
+  },
+  "kaggle_manifest": [
+    {
+      "output_name": "track_01_batch_story",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_01_batch_story/83c37e5e-f9bf-37b9-f198-a7a17552e236.flac",
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_01_batch_story/bbc47b1d-c77c-bebd-26c4-66ed1f8ffa11.flac",
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_01_batch_story/1d9c8dd9-e8d2-eacf-2008-db10b4513ab0.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_02_the_first_lesson_about_depth",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_02_the_first_lesson_about_depth/ef0b1970-0ac6-f4e4-c115-25c88952fd1f.flac",
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_02_the_first_lesson_about_depth/7ad23f4a-6b0a-7cdd-a993-65f0ea646c90.flac",
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_02_the_first_lesson_about_depth/58705649-4cf2-0fb2-06d1-383304192063.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_03_the_equipment_that_keeps_you_alive",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_03_the_equipment_that_keeps_you_alive/ca3372b8-9016-058f-0294-b07e8b756ffa.flac",
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_03_the_equipment_that_keeps_you_alive/0d131f99-f2c3-99fe-d923-931670803e64.flac",
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_03_the_equipment_that_keeps_you_alive/5ae38c76-bc0b-118f-5e63-c0f707a5b1d1.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_04_every_detail_matters",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_04_every_detail_matters/8b6e638d-a071-7b50-2f94-94cb40788f12.flac",
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_04_every_detail_matters/92340fa6-501d-b797-d42e-8fe9673a682c.flac",
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_04_every_detail_matters/c8d566d5-c9ea-6a36-dafe-0643b74b34b7.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_05_the_body_enters_another_world",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_05_the_body_enters_another_world/1a33c3fb-2f31-ef35-956d-330b290223e4.flac",
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_05_the_body_enters_another_world/e4232540-f503-786f-00c3-a3239f97ced3.flac",
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_05_the_body_enters_another_world/11178f0d-ae66-a6b0-57fe-92978eb6e8ff.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_06_beneath_the_surface_of_light",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_06_beneath_the_surface_of_light/9b2f78b3-15e6-c84f-dff9-be5aa7638d2a.flac",
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_06_beneath_the_surface_of_light/5664b029-75d0-b1ef-047e-45c833bc34ee.flac",
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_06_beneath_the_surface_of_light/b036ae72-fa1f-c2e2-7101-2e4f4d166e47.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_07_the_beauty_no_one_can_bring_home",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_07_the_beauty_no_one_can_bring_home/4abc0f4f-9280-ed88-6749-2aa641ea9e40.flac",
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_07_the_beauty_no_one_can_bring_home/df1aa33d-dfc7-03dc-ab06-63b777608072.flac",
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_07_the_beauty_no_one_can_bring_home/531eab48-1849-ec97-4c34-dd00822a4f83.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_08_the_depth_of_concentration",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_08_the_depth_of_concentration/38ea994a-3693-98fd-7bd1-221e4ed22fc5.flac",
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_08_the_depth_of_concentration/d6dbc7be-9443-1763-45b6-fa03c3d9781b.flac",
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_08_the_depth_of_concentration/556b3d8c-0cc7-367c-9989-fd08111cd8fe.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_09_those_who_went_further",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_09_those_who_went_further/a0ee47f9-1e43-909d-3206-ce69692b459e.flac",
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_09_those_who_went_further/fb36096d-b8c8-eeb7-ddbf-f0ac8de6a4ca.flac",
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_09_those_who_went_further/b8fc77a1-e7d9-5706-6146-e0bb58092ed7.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_10_the_silence_after_a_record",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_10_the_silence_after_a_record/5c60afec-490c-75ac-7ee2-9f81f4309628.flac",
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_10_the_silence_after_a_record/f2d845b1-4f59-4036-4b1b-6bc61cdd29b0.flac",
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_10_the_silence_after_a_record/fab84752-4386-b29e-f4d5-e47b6c08b6b7.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_11_not_for_death_but_for_life",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_11_not_for_death_but_for_life/0ecf5fa5-6be6-52d5-358b-da0e215e2837.flac",
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_11_not_for_death_but_for_life/c4f6b11b-9d80-faa3-584b-4b35a9f06a58.flac",
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_11_not_for_death_but_for_life/968c3d15-63e3-4134-40af-e3c44f6bec53.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_12_the_courage_of_remaining_alive",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_12_the_courage_of_remaining_alive/74005c0b-80b6-e724-dacf-dd7058c720ad.flac",
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_12_the_courage_of_remaining_alive/d5a8d4c8-35da-ad3a-e83a-dcd9545079e8.flac",
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_12_the_courage_of_remaining_alive/23d50b67-93cb-a39f-50e3-4927e55c5061.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    },
+    {
+      "output_name": "track_13_returning_to_the_world_of_air",
+      "status": "completed",
+      "files": [
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_13_returning_to_the_world_of_air/244f2b49-6167-94bc-290c-830ab0ff49f4.flac",
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_13_returning_to_the_world_of_air/bbdb5f52-b67c-26ae-28bb-3ff036025534.flac",
+        "/kaggle/working/music_output/studio_batch_b4c5af607ad345ad/track_13_returning_to_the_world_of_air/ed005bb1-1377-3675-35fc-2342d2e57f0c.flac"
+      ],
+      "requested_variations": 3,
+      "generated_variations": 3,
+      "missing_variations": 0
+    }
+  ],
+  "outputs": [
+    {
+      "composition": "track_01_batch_story",
+      "variation": 1,
+      "filename": "track_01_batch_story_01.flac",
+      "relative_path": "track_01_batch_story/track_01_batch_story_01.flac",
+      "size_bytes": 8345291,
+      "sha256": "cfa4bfd707b1ab5da6bc766996a8a206b1f4793d98ae02e175614541ee703ddb",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_01_batch_story",
+      "variation": 2,
+      "filename": "track_01_batch_story_02.flac",
+      "relative_path": "track_01_batch_story/track_01_batch_story_02.flac",
+      "size_bytes": 7064465,
+      "sha256": "aa97786365841babc16eeff92a524d00fccddb607a07102e4c41b82ed5227bcb",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_01_batch_story",
+      "variation": 3,
+      "filename": "track_01_batch_story_03.flac",
+      "relative_path": "track_01_batch_story/track_01_batch_story_03.flac",
+      "size_bytes": 7742732,
+      "sha256": "3617be03250354429aa0c1e5a8506652ded3f394cedc01f0a0c0e078e3202e3a",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_the_first_lesson_about_depth",
+      "variation": 1,
+      "filename": "track_02_the_first_lesson_about_depth_01.flac",
+      "relative_path": "track_02_the_first_lesson_about_depth/track_02_the_first_lesson_about_depth_01.flac",
+      "size_bytes": 7154007,
+      "sha256": "ee357c46b3ca8cd15fd010e7e08318a26214dab21b161ca2bfee853214e19f59",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_the_first_lesson_about_depth",
+      "variation": 2,
+      "filename": "track_02_the_first_lesson_about_depth_02.flac",
+      "relative_path": "track_02_the_first_lesson_about_depth/track_02_the_first_lesson_about_depth_02.flac",
+      "size_bytes": 7313094,
+      "sha256": "16237c3ff793a9259dea2c7daa590c3f9c4c7d994822c5c4cac3f166cdff2916",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_02_the_first_lesson_about_depth",
+      "variation": 3,
+      "filename": "track_02_the_first_lesson_about_depth_03.flac",
+      "relative_path": "track_02_the_first_lesson_about_depth/track_02_the_first_lesson_about_depth_03.flac",
+      "size_bytes": 7487143,
+      "sha256": "f57bc7b9be37d09281f8fe957c062b17628b6fb883586cc79269092fc597f860",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_the_equipment_that_keeps_you_alive",
+      "variation": 1,
+      "filename": "track_03_the_equipment_that_keeps_you_alive_01.flac",
+      "relative_path": "track_03_the_equipment_that_keeps_you_alive/track_03_the_equipment_that_keeps_you_alive_01.flac",
+      "size_bytes": 7515635,
+      "sha256": "a4b5cfdabf3d1e8d34dd5a9ef64f68f00f8ac545ae6d7c04fde965d5d83393dc",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_the_equipment_that_keeps_you_alive",
+      "variation": 2,
+      "filename": "track_03_the_equipment_that_keeps_you_alive_02.flac",
+      "relative_path": "track_03_the_equipment_that_keeps_you_alive/track_03_the_equipment_that_keeps_you_alive_02.flac",
+      "size_bytes": 7555329,
+      "sha256": "6f4904e022c6ecc297fb5f74c396755a1aae994a8469bd726d6895de8f8ba99e",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_03_the_equipment_that_keeps_you_alive",
+      "variation": 3,
+      "filename": "track_03_the_equipment_that_keeps_you_alive_03.flac",
+      "relative_path": "track_03_the_equipment_that_keeps_you_alive/track_03_the_equipment_that_keeps_you_alive_03.flac",
+      "size_bytes": 6987608,
+      "sha256": "1e0480aa9b54daf9c5e9d2a7a535b464996307211be72d54373e81f211ccba35",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_every_detail_matters",
+      "variation": 1,
+      "filename": "track_04_every_detail_matters_01.flac",
+      "relative_path": "track_04_every_detail_matters/track_04_every_detail_matters_01.flac",
+      "size_bytes": 7415396,
+      "sha256": "46992bbd1ba27f654a7ee58e9e56e92f7c00a8976cb1760e4aaa7f2e29e26042",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_every_detail_matters",
+      "variation": 2,
+      "filename": "track_04_every_detail_matters_02.flac",
+      "relative_path": "track_04_every_detail_matters/track_04_every_detail_matters_02.flac",
+      "size_bytes": 7987729,
+      "sha256": "89d17645b9a4a463692ed4d3329643e13041e3c9fd92c34eeb93890a328b36c0",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_04_every_detail_matters",
+      "variation": 3,
+      "filename": "track_04_every_detail_matters_03.flac",
+      "relative_path": "track_04_every_detail_matters/track_04_every_detail_matters_03.flac",
+      "size_bytes": 7438213,
+      "sha256": "1d3a0d91f5fef53e6be439738653a59b2a7f7341ce2f7cdcd436f61e1ec7475e",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_body_enters_another_world",
+      "variation": 1,
+      "filename": "track_05_the_body_enters_another_world_01.flac",
+      "relative_path": "track_05_the_body_enters_another_world/track_05_the_body_enters_another_world_01.flac",
+      "size_bytes": 7345796,
+      "sha256": "cb4136ab21fd90f92583b25260931d6eb60acfa807ea0cf514e29d56663681ec",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_body_enters_another_world",
+      "variation": 2,
+      "filename": "track_05_the_body_enters_another_world_02.flac",
+      "relative_path": "track_05_the_body_enters_another_world/track_05_the_body_enters_another_world_02.flac",
+      "size_bytes": 7127282,
+      "sha256": "96f3a04115808b6b76475491160cca2e1e3f62761480cbcf41be67432caf0812",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_05_the_body_enters_another_world",
+      "variation": 3,
+      "filename": "track_05_the_body_enters_another_world_03.flac",
+      "relative_path": "track_05_the_body_enters_another_world/track_05_the_body_enters_another_world_03.flac",
+      "size_bytes": 6986896,
+      "sha256": "e01fed8a4bf014d755981eb526e055904143053441c8dd7176df2edc623ff5c8",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_beneath_the_surface_of_light",
+      "variation": 1,
+      "filename": "track_06_beneath_the_surface_of_light_01.flac",
+      "relative_path": "track_06_beneath_the_surface_of_light/track_06_beneath_the_surface_of_light_01.flac",
+      "size_bytes": 7492270,
+      "sha256": "5e361e267dedb5146d6518123a51f76a2484735f8b70a8155f563f2612d2a234",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_beneath_the_surface_of_light",
+      "variation": 2,
+      "filename": "track_06_beneath_the_surface_of_light_02.flac",
+      "relative_path": "track_06_beneath_the_surface_of_light/track_06_beneath_the_surface_of_light_02.flac",
+      "size_bytes": 7478155,
+      "sha256": "b2e210457fdf9d131c87efcfb1e209368456fade03858a8afc43424d16bd2a3b",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_06_beneath_the_surface_of_light",
+      "variation": 3,
+      "filename": "track_06_beneath_the_surface_of_light_03.flac",
+      "relative_path": "track_06_beneath_the_surface_of_light/track_06_beneath_the_surface_of_light_03.flac",
+      "size_bytes": 7585905,
+      "sha256": "f7a2f172b7f8c37e78f9a3eff6d6e83d8da8d398daae6c96229795137e52c0b4",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_the_beauty_no_one_can_bring_home",
+      "variation": 1,
+      "filename": "track_07_the_beauty_no_one_can_bring_home_01.flac",
+      "relative_path": "track_07_the_beauty_no_one_can_bring_home/track_07_the_beauty_no_one_can_bring_home_01.flac",
+      "size_bytes": 7705204,
+      "sha256": "229f88787ec70ea500a3816e2a7e32b6945fc8a403ead9d201101d06211e83bc",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_the_beauty_no_one_can_bring_home",
+      "variation": 2,
+      "filename": "track_07_the_beauty_no_one_can_bring_home_02.flac",
+      "relative_path": "track_07_the_beauty_no_one_can_bring_home/track_07_the_beauty_no_one_can_bring_home_02.flac",
+      "size_bytes": 7793764,
+      "sha256": "2a38955123728ac2d3e9310a55b6935c5cc06c896238efcb7a62815c0ef62001",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_07_the_beauty_no_one_can_bring_home",
+      "variation": 3,
+      "filename": "track_07_the_beauty_no_one_can_bring_home_03.flac",
+      "relative_path": "track_07_the_beauty_no_one_can_bring_home/track_07_the_beauty_no_one_can_bring_home_03.flac",
+      "size_bytes": 7690987,
+      "sha256": "cc555b1291f2a24a54b13df6b73b1e8330dbbc7d87a18d00b1de2e7e32d648b6",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_the_depth_of_concentration",
+      "variation": 1,
+      "filename": "track_08_the_depth_of_concentration_01.flac",
+      "relative_path": "track_08_the_depth_of_concentration/track_08_the_depth_of_concentration_01.flac",
+      "size_bytes": 6950231,
+      "sha256": "5a1102dc52d3532cc5f0d2f3b24eefad6ab2546a0ff6813fe5d3be8f94f7e1c4",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_the_depth_of_concentration",
+      "variation": 2,
+      "filename": "track_08_the_depth_of_concentration_02.flac",
+      "relative_path": "track_08_the_depth_of_concentration/track_08_the_depth_of_concentration_02.flac",
+      "size_bytes": 7803798,
+      "sha256": "458845aa8a2f8d6b49a56aba27928e22f2f54689ec3979682c62c8db88cd12f8",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_08_the_depth_of_concentration",
+      "variation": 3,
+      "filename": "track_08_the_depth_of_concentration_03.flac",
+      "relative_path": "track_08_the_depth_of_concentration/track_08_the_depth_of_concentration_03.flac",
+      "size_bytes": 7658148,
+      "sha256": "6dd633649e852822bf0a5b4ef263597f4efd7eda86c624c0fb46f9acfaaf2365",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_09_those_who_went_further",
+      "variation": 1,
+      "filename": "track_09_those_who_went_further_01.flac",
+      "relative_path": "track_09_those_who_went_further/track_09_those_who_went_further_01.flac",
+      "size_bytes": 8543422,
+      "sha256": "17f9cc31e80640cb72714763b7f7e7c81b265f547b1b5ba7b8ccaae925b8d10d",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_09_those_who_went_further",
+      "variation": 2,
+      "filename": "track_09_those_who_went_further_02.flac",
+      "relative_path": "track_09_those_who_went_further/track_09_those_who_went_further_02.flac",
+      "size_bytes": 8459710,
+      "sha256": "8e239d11fbc8a3dd40ba41de792bda8dac0270eaa6832c7cf68080cf00e679bc",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_09_those_who_went_further",
+      "variation": 3,
+      "filename": "track_09_those_who_went_further_03.flac",
+      "relative_path": "track_09_those_who_went_further/track_09_those_who_went_further_03.flac",
+      "size_bytes": 8885570,
+      "sha256": "df2b27f0e503ac936122d1aa512f7fbef34a65c68e6b7147b27b8bb5eec4f132",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_10_the_silence_after_a_record",
+      "variation": 1,
+      "filename": "track_10_the_silence_after_a_record_01.flac",
+      "relative_path": "track_10_the_silence_after_a_record/track_10_the_silence_after_a_record_01.flac",
+      "size_bytes": 6679612,
+      "sha256": "987a96c71432694040df52fa7ce2333bce30949c7e3da92e0fd5052e0e13102f",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_10_the_silence_after_a_record",
+      "variation": 2,
+      "filename": "track_10_the_silence_after_a_record_02.flac",
+      "relative_path": "track_10_the_silence_after_a_record/track_10_the_silence_after_a_record_02.flac",
+      "size_bytes": 6945888,
+      "sha256": "c0e0ab66d319a3e25f0383b26441670a63321c58d7a33ae46263cdd1c9c9b715",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_10_the_silence_after_a_record",
+      "variation": 3,
+      "filename": "track_10_the_silence_after_a_record_03.flac",
+      "relative_path": "track_10_the_silence_after_a_record/track_10_the_silence_after_a_record_03.flac",
+      "size_bytes": 6912296,
+      "sha256": "c187807913500c0fda0d42edbaf4b4a8f261dca0a081389e6b018bc336cf842c",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_11_not_for_death_but_for_life",
+      "variation": 1,
+      "filename": "track_11_not_for_death_but_for_life_01.flac",
+      "relative_path": "track_11_not_for_death_but_for_life/track_11_not_for_death_but_for_life_01.flac",
+      "size_bytes": 8410472,
+      "sha256": "f319085c81d7f9752cc96e66a48041358b8f33a0201654075ffd832daeaeb269",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_11_not_for_death_but_for_life",
+      "variation": 2,
+      "filename": "track_11_not_for_death_but_for_life_02.flac",
+      "relative_path": "track_11_not_for_death_but_for_life/track_11_not_for_death_but_for_life_02.flac",
+      "size_bytes": 8146331,
+      "sha256": "f53b7f8cfa76a5346c8ae629f0f933c15d3ee5df0264209012b5a1b5b6b1cc0c",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_11_not_for_death_but_for_life",
+      "variation": 3,
+      "filename": "track_11_not_for_death_but_for_life_03.flac",
+      "relative_path": "track_11_not_for_death_but_for_life/track_11_not_for_death_but_for_life_03.flac",
+      "size_bytes": 8576021,
+      "sha256": "262688660e67861803e6fdcbac74abe97395fce828c99dcc378830c5da4aa385",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_12_the_courage_of_remaining_alive",
+      "variation": 1,
+      "filename": "track_12_the_courage_of_remaining_alive_01.flac",
+      "relative_path": "track_12_the_courage_of_remaining_alive/track_12_the_courage_of_remaining_alive_01.flac",
+      "size_bytes": 8135550,
+      "sha256": "a5be95d3a453c5fdf93bcf276afcf345cca2fe3880a56fa45ba0df3f2497663e",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_12_the_courage_of_remaining_alive",
+      "variation": 2,
+      "filename": "track_12_the_courage_of_remaining_alive_02.flac",
+      "relative_path": "track_12_the_courage_of_remaining_alive/track_12_the_courage_of_remaining_alive_02.flac",
+      "size_bytes": 7397767,
+      "sha256": "bcd34ff9818ed8d5949ff44e45c06e27aca8c264811b2ea8f7e11f98846f6ab6",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_12_the_courage_of_remaining_alive",
+      "variation": 3,
+      "filename": "track_12_the_courage_of_remaining_alive_03.flac",
+      "relative_path": "track_12_the_courage_of_remaining_alive/track_12_the_courage_of_remaining_alive_03.flac",
+      "size_bytes": 8022935,
+      "sha256": "6789f5116ad01c50ccf25f6bbcfa880d1afc64564aed4f0b7eaae468e651ba11",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_13_returning_to_the_world_of_air",
+      "variation": 1,
+      "filename": "track_13_returning_to_the_world_of_air_01.flac",
+      "relative_path": "track_13_returning_to_the_world_of_air/track_13_returning_to_the_world_of_air_01.flac",
+      "size_bytes": 7236102,
+      "sha256": "e3266aa0c22c5f5abb2ec535d7f47a25d70b42bd249f127bf86b129269af02ec",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_13_returning_to_the_world_of_air",
+      "variation": 2,
+      "filename": "track_13_returning_to_the_world_of_air_02.flac",
+      "relative_path": "track_13_returning_to_the_world_of_air/track_13_returning_to_the_world_of_air_02.flac",
+      "size_bytes": 6940671,
+      "sha256": "121dfef10b82082fb626edf1d1ac73bbb87c93ec96b71cf5fe4a6fe32a1eff18",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    },
+    {
+      "composition": "track_13_returning_to_the_world_of_air",
+      "variation": 3,
+      "filename": "track_13_returning_to_the_world_of_air_03.flac",
+      "relative_path": "track_13_returning_to_the_world_of_air/track_13_returning_to_the_world_of_air_03.flac",
+      "size_bytes": 7063387,
+      "sha256": "731ff92b0c4c377a33b18b0c32625a37b451c8cefc2ba94ed1b635e424b1aedf",
+      "duration_seconds_actual": 45.0,
+      "sample_rate_hz": 48000,
+      "channels": 2
+    }
+  ],
+  "completed_compositions": 13,
+  "partial_compositions": 0,
+  "failed_compositions": 0,
+  "requested_variations": 39,
+  "generated_variations": 39,
+  "missing_variations": 0,
+  "archive_completed_at_utc": "2026-11-15T08:44:42.336451+00:00"
+}
